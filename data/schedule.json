@@ -1,7 +1,7 @@
 {
   "league": "MLB",
   "timezone": "America/New_York",
-  "lastUpdated": "2026-08-22T17:49:50.886248+00:00",
+  "lastUpdated": "2026-08-22T19:02:50.628158+00:00",
   "games": [
     {
       "gamePk": 824893,
@@ -9645,7 +9645,7 @@
         "name": "New York Yankees",
         "abbreviation": "NYY"
       },
-      "awayScore": 1,
+      "awayScore": 2,
       "homeScore": 0,
       "venue": "Yankee Stadium",
       "awayPitcher": "Dylan Cease",
@@ -9656,9 +9656,9 @@
       "date": "2026-08-22",
       "gameDate": "2026-08-22T18:10:00Z",
       "localGameTime": "2026-08-22T14:10:00-04:00",
-      "status": "Warmup",
+      "status": "In Progress",
       "abstractGameState": "Live",
-      "codedGameState": "P",
+      "codedGameState": "I",
       "awayTeam": {
         "id": 144,
         "name": "Atlanta Braves",
@@ -9669,7 +9669,7 @@
         "name": "Milwaukee Brewers",
         "abbreviation": "MIL"
       },
-      "awayScore": 0,
+      "awayScore": 1,
       "homeScore": 0,
       "venue": "American Family Field",
       "awayPitcher": "Mart\u00edn P\u00e9rez",
@@ -9704,9 +9704,9 @@
       "date": "2026-08-22",
       "gameDate": "2026-08-22T22:05:00Z",
       "localGameTime": "2026-08-22T18:05:00-04:00",
-      "status": "Scheduled",
+      "status": "Pre-Game",
       "abstractGameState": "Preview",
-      "codedGameState": "S",
+      "codedGameState": "P",
       "awayTeam": {
         "id": 138,
         "name": "St. Louis Cardinals",
@@ -9752,9 +9752,9 @@
       "date": "2026-08-22",
       "gameDate": "2026-08-22T23:05:00Z",
       "localGameTime": "2026-08-22T19:05:00-04:00",
-      "status": "Scheduled",
+      "status": "Pre-Game",
       "abstractGameState": "Preview",
-      "codedGameState": "S",
+      "codedGameState": "P",
       "awayTeam": {
         "id": 108,
         "name": "Los Angeles Angels",
@@ -9824,9 +9824,9 @@
       "date": "2026-08-22",
       "gameDate": "2026-08-22T23:15:00Z",
       "localGameTime": "2026-08-22T19:15:00-04:00",
-      "status": "Scheduled",
+      "status": "Pre-Game",
       "abstractGameState": "Preview",
-      "codedGameState": "S",
+      "codedGameState": "P",
       "awayTeam": {
         "id": 116,
         "name": "Detroit Tigers",
