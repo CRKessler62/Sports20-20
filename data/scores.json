@@ -1,6 +1,6 @@
 {
   "league": "MLB",
-  "lastUpdated": "2026-08-22T21:47:33.659712+00:00",
+  "lastUpdated": "2026-08-22T22:49:46.827144+00:00",
   "games": [
     {
       "gamePk": 823509,
@@ -142,10 +142,10 @@
       "homeScore": 4,
       "status": "In Progress",
       "gameDate": "2026-08-22T20:10:00Z",
-      "inning": 5,
-      "inningOrdinal": "5th",
-      "inningState": "Middle",
-      "outs": 3,
+      "inning": 9,
+      "inningOrdinal": "9th",
+      "inningState": "Top",
+      "outs": 1,
       "battingTeam": "Washington Nationals",
       "runners": {
         "first": false,
@@ -177,6 +177,26 @@
           "inning": 5,
           "awayRuns": 1,
           "homeRuns": 0
+        },
+        {
+          "inning": 6,
+          "awayRuns": 0,
+          "homeRuns": 0
+        },
+        {
+          "inning": 7,
+          "awayRuns": 0,
+          "homeRuns": 0
+        },
+        {
+          "inning": 8,
+          "awayRuns": 0,
+          "homeRuns": 0
+        },
+        {
+          "inning": 9,
+          "awayRuns": 0,
+          "homeRuns": 0
         }
       ]
     },
@@ -185,22 +205,32 @@
       "awayTeam": "St. Louis Cardinals",
       "homeTeam": "Philadelphia Phillies",
       "awayScore": 0,
-      "homeScore": 0,
-      "status": "Warmup",
+      "homeScore": 3,
+      "status": "In Progress",
       "gameDate": "2026-08-22T22:05:00Z",
-      "inning": 1,
-      "inningOrdinal": "1st",
+      "inning": 3,
+      "inningOrdinal": "3rd",
       "inningState": "Top",
-      "outs": 0,
+      "outs": 1,
       "battingTeam": "St. Louis Cardinals",
       "runners": {
-        "first": false,
+        "first": true,
         "second": false,
         "third": false
       },
       "inningScores": [
         {
           "inning": 1,
+          "awayRuns": 0,
+          "homeRuns": 3
+        },
+        {
+          "inning": 2,
+          "awayRuns": 0,
+          "homeRuns": 0
+        },
+        {
+          "inning": 3,
           "awayRuns": 0,
           "homeRuns": 0
         }
@@ -212,7 +242,7 @@
       "homeTeam": "Baltimore Orioles",
       "awayScore": 0,
       "homeScore": 0,
-      "status": "Pre-Game",
+      "status": "Warmup",
       "gameDate": "2026-08-22T23:05:00Z",
       "inning": 1,
       "inningOrdinal": "1st",
@@ -238,7 +268,7 @@
       "homeTeam": "Texas Rangers",
       "awayScore": 0,
       "homeScore": 0,
-      "status": "Pre-Game",
+      "status": "Warmup",
       "gameDate": "2026-08-22T23:05:00Z",
       "inning": 1,
       "inningOrdinal": "1st",
@@ -264,7 +294,7 @@
       "homeTeam": "Houston Astros",
       "awayScore": 0,
       "homeScore": 0,
-      "status": "Pre-Game",
+      "status": "Warmup",
       "gameDate": "2026-08-22T23:10:00Z",
       "inning": 1,
       "inningOrdinal": "1st",
@@ -290,7 +320,7 @@
       "homeTeam": "Chicago White Sox",
       "awayScore": 0,
       "homeScore": 0,
-      "status": "Pre-Game",
+      "status": "Warmup",
       "gameDate": "2026-08-22T23:10:00Z",
       "inning": 1,
       "inningOrdinal": "1st",
@@ -316,7 +346,7 @@
       "homeTeam": "Kansas City Royals",
       "awayScore": 0,
       "homeScore": 0,
-      "status": "Pre-Game",
+      "status": "Warmup",
       "gameDate": "2026-08-22T23:15:00Z",
       "inning": 1,
       "inningOrdinal": "1st",
@@ -474,17 +504,23 @@
       "homeScore": 0,
       "status": "Pre-Game",
       "gameDate": "2026-08-23T00:40:00Z",
-      "inning": null,
-      "inningOrdinal": null,
-      "inningState": null,
-      "outs": null,
-      "battingTeam": null,
+      "inning": 1,
+      "inningOrdinal": "1st",
+      "inningState": "Top",
+      "outs": 0,
+      "battingTeam": "Minnesota Twins",
       "runners": {
         "first": false,
         "second": false,
         "third": false
       },
-      "inningScores": []
+      "inningScores": [
+        {
+          "inning": 1,
+          "awayRuns": 0,
+          "homeRuns": 0
+        }
+      ]
     }
   ]
 }
