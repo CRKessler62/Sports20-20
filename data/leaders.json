@@ -1,6 +1,6 @@
 {
   "season": 2026,
-  "lastUpdated": "2026-08-22T21:55:01.456130+00:00",
+  "lastUpdated": "2026-08-22T22:56:53.799336+00:00",
   "leagues": {
     "AL": {
       "offense": {
@@ -834,7 +834,7 @@
             "player": "Luis Arraez",
             "team": "Philadelphia Phillies",
             "position": "2B",
-            "value": ".322"
+            "value": ".321"
           },
           {
             "rank": 2,
@@ -855,7 +855,7 @@
             "player": "Otto Lopez",
             "team": "Miami Marlins",
             "position": "SS",
-            "value": ".308"
+            "value": ".307"
           },
           {
             "rank": 5,
@@ -1007,9 +1007,9 @@
           },
           {
             "rank": 5,
-            "player": "JJ Wetherholt",
-            "team": "St. Louis Cardinals",
-            "position": "2B",
+            "player": "Trea Turner",
+            "team": "Philadelphia Phillies",
+            "position": "SS",
             "value": "85"
           }
         ],
@@ -1044,10 +1044,10 @@
           },
           {
             "rank": 5,
-            "player": "Bryce Harper",
-            "team": "Philadelphia Phillies",
-            "position": "1B",
-            "value": ".379"
+            "player": "Pete Crow-Armstrong",
+            "team": "Chicago Cubs",
+            "position": "CF",
+            "value": ".378"
           }
         ],
         "slg": [
@@ -1118,10 +1118,10 @@
           },
           {
             "rank": 5,
-            "player": "CJ Abrams",
-            "team": "Washington Nationals",
-            "position": "SS",
-            "value": ".884"
+            "player": "Kyle Schwarber",
+            "team": "Philadelphia Phillies",
+            "position": "DH",
+            "value": ".886"
           }
         ],
         "stolenBases": [
@@ -1505,7 +1505,7 @@
             "player": "Alec Burleson",
             "team": "St. Louis Cardinals",
             "position": "1B",
-            "value": "988"
+            "value": "990"
           },
           {
             "rank": 2,
@@ -1526,7 +1526,7 @@
             "player": "J.T. Realmuto",
             "team": "Philadelphia Phillies",
             "position": "C",
-            "value": "952"
+            "value": "956"
           },
           {
             "rank": 5,
@@ -1563,7 +1563,7 @@
             "player": "Xavier Edwards",
             "team": "Miami Marlins",
             "position": "2B",
-            "value": "307"
+            "value": "308"
           },
           {
             "rank": 5,
@@ -1616,7 +1616,7 @@
             "player": "Alec Burleson",
             "team": "St. Louis Cardinals",
             "position": "1B",
-            "value": "109"
+            "value": "110"
           },
           {
             "rank": 2,
