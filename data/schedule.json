@@ -1,7 +1,7 @@
 {
   "league": "MLB",
   "timezone": "America/New_York",
-  "lastUpdated": "2026-08-22T21:48:37.465845+00:00",
+  "lastUpdated": "2026-08-22T22:52:51.441070+00:00",
   "games": [
     {
       "gamePk": 824893,
@@ -9704,9 +9704,9 @@
       "date": "2026-08-22",
       "gameDate": "2026-08-22T22:05:00Z",
       "localGameTime": "2026-08-22T18:05:00-04:00",
-      "status": "Warmup",
+      "status": "In Progress",
       "abstractGameState": "Live",
-      "codedGameState": "P",
+      "codedGameState": "I",
       "awayTeam": {
         "id": 138,
         "name": "St. Louis Cardinals",
@@ -9718,7 +9718,7 @@
         "abbreviation": "PHI"
       },
       "awayScore": 0,
-      "homeScore": 0,
+      "homeScore": 3,
       "venue": "Citizens Bank Park",
       "awayPitcher": "Quinn Mathews",
       "homePitcher": "Andrew Painter"
@@ -9728,8 +9728,8 @@
       "date": "2026-08-22",
       "gameDate": "2026-08-22T23:05:00Z",
       "localGameTime": "2026-08-22T19:05:00-04:00",
-      "status": "Pre-Game",
-      "abstractGameState": "Preview",
+      "status": "Warmup",
+      "abstractGameState": "Live",
       "codedGameState": "P",
       "awayTeam": {
         "id": 139,
@@ -9752,8 +9752,8 @@
       "date": "2026-08-22",
       "gameDate": "2026-08-22T23:05:00Z",
       "localGameTime": "2026-08-22T19:05:00-04:00",
-      "status": "Pre-Game",
-      "abstractGameState": "Preview",
+      "status": "Warmup",
+      "abstractGameState": "Live",
       "codedGameState": "P",
       "awayTeam": {
         "id": 108,
@@ -9776,8 +9776,8 @@
       "date": "2026-08-22",
       "gameDate": "2026-08-22T23:10:00Z",
       "localGameTime": "2026-08-22T19:10:00-04:00",
-      "status": "Pre-Game",
-      "abstractGameState": "Preview",
+      "status": "Warmup",
+      "abstractGameState": "Live",
       "codedGameState": "P",
       "awayTeam": {
         "id": 133,
@@ -9800,8 +9800,8 @@
       "date": "2026-08-22",
       "gameDate": "2026-08-22T23:10:00Z",
       "localGameTime": "2026-08-22T19:10:00-04:00",
-      "status": "Pre-Game",
-      "abstractGameState": "Preview",
+      "status": "Warmup",
+      "abstractGameState": "Live",
       "codedGameState": "P",
       "awayTeam": {
         "id": 121,
@@ -9824,8 +9824,8 @@
       "date": "2026-08-22",
       "gameDate": "2026-08-22T23:15:00Z",
       "localGameTime": "2026-08-22T19:15:00-04:00",
-      "status": "Pre-Game",
-      "abstractGameState": "Preview",
+      "status": "Warmup",
+      "abstractGameState": "Live",
       "codedGameState": "P",
       "awayTeam": {
         "id": 116,
@@ -9848,8 +9848,8 @@
       "date": "2026-08-22",
       "gameDate": "2026-08-22T23:15:00Z",
       "localGameTime": "2026-08-22T19:15:00-04:00",
-      "status": "Pre-Game",
-      "abstractGameState": "Preview",
+      "status": "Warmup",
+      "abstractGameState": "Live",
       "codedGameState": "P",
       "awayTeam": {
         "id": 134,
@@ -9872,8 +9872,8 @@
       "date": "2026-08-22",
       "gameDate": "2026-08-22T23:15:00Z",
       "localGameTime": "2026-08-22T19:15:00-04:00",
-      "status": "Pre-Game",
-      "abstractGameState": "Preview",
+      "status": "Warmup",
+      "abstractGameState": "Live",
       "codedGameState": "P",
       "awayTeam": {
         "id": 112,
@@ -9981,8 +9981,8 @@
         "name": "San Diego Padres",
         "abbreviation": "SD"
       },
-      "awayScore": null,
-      "homeScore": null,
+      "awayScore": 0,
+      "homeScore": 0,
       "venue": "Petco Park",
       "awayPitcher": "Dean Kremer",
       "homePitcher": "Casey Mize"
@@ -10032,7 +10032,7 @@
       "awayScore": null,
       "homeScore": null,
       "venue": "Citizens Bank Park",
-      "awayPitcher": null,
+      "awayPitcher": "Kyle Leahy",
       "homePitcher": "Cristopher S\u00e1nchez"
     },
     {
@@ -11425,7 +11425,7 @@
       "homeScore": null,
       "venue": "Citi Field",
       "awayPitcher": null,
-      "homePitcher": null
+      "homePitcher": "Sean Manaea"
     },
     {
       "gamePk": 824879,
