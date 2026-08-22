@@ -1,6 +1,6 @@
 {
   "season": 2026,
-  "lastUpdated": "2026-08-22T19:52:11.842167+00:00",
+  "lastUpdated": "2026-08-22T20:58:45.511227+00:00",
   "leagues": {
     "AL": {
       "offense": {
@@ -35,9 +35,9 @@
           },
           {
             "rank": 5,
-            "player": "Chase DeLauter",
-            "team": "Cleveland Guardians",
-            "position": "RF",
+            "player": "Ernie Clement",
+            "team": "Toronto Blue Jays",
+            "position": "2B",
             "value": ".286"
           }
         ],
@@ -58,24 +58,24 @@
           },
           {
             "rank": 3,
+            "player": "Ernie Clement",
+            "team": "Toronto Blue Jays",
+            "position": "2B",
+            "value": "139"
+          },
+          {
+            "rank": 4,
             "player": "Ceddanne Rafaela",
             "team": "Boston Red Sox",
             "position": "CF",
             "value": "139"
           },
           {
-            "rank": 4,
+            "rank": 5,
             "player": "Chandler Simpson",
             "team": "Tampa Bay Rays",
             "position": "LF",
             "value": "139"
-          },
-          {
-            "rank": 5,
-            "player": "Ernie Clement",
-            "team": "Toronto Blue Jays",
-            "position": "2B",
-            "value": "138"
           }
         ],
         "homeRuns": [
@@ -354,16 +354,16 @@
           },
           {
             "rank": 3,
-            "player": "Yordan Alvarez",
-            "team": "Houston Astros",
-            "position": "DH",
-            "value": "28"
-          },
-          {
-            "rank": 4,
             "player": "Ernie Clement",
             "team": "Toronto Blue Jays",
             "position": "2B",
+            "value": "29"
+          },
+          {
+            "rank": 4,
+            "player": "Yordan Alvarez",
+            "team": "Houston Astros",
+            "position": "DH",
             "value": "28"
           },
           {
@@ -426,7 +426,7 @@
             "player": "Dylan Cease",
             "team": "Toronto Blue Jays",
             "position": "P",
-            "value": "2.32"
+            "value": "2.37"
           },
           {
             "rank": 3,
@@ -585,15 +585,15 @@
           },
           {
             "rank": 4,
-            "player": "Aroldis Chapman",
-            "team": "Boston Red Sox",
+            "player": "Louis Varland",
+            "team": "Toronto Blue Jays",
             "position": "P",
-            "value": "28"
+            "value": "29"
           },
           {
             "rank": 5,
-            "player": "Louis Varland",
-            "team": "Toronto Blue Jays",
+            "player": "Aroldis Chapman",
+            "team": "Boston Red Sox",
             "position": "P",
             "value": "28"
           }
@@ -845,17 +845,17 @@
           },
           {
             "rank": 3,
+            "player": "Otto Lopez",
+            "team": "Miami Marlins",
+            "position": "SS",
+            "value": ".309"
+          },
+          {
+            "rank": 4,
             "player": "Gabriel Moreno",
             "team": "Arizona Diamondbacks",
             "position": "C",
             "value": ".308"
-          },
-          {
-            "rank": 4,
-            "player": "Otto Lopez",
-            "team": "Miami Marlins",
-            "position": "SS",
-            "value": ".307"
           },
           {
             "rank": 5,
@@ -878,7 +878,7 @@
             "player": "Otto Lopez",
             "team": "Miami Marlins",
             "position": "SS",
-            "value": "154"
+            "value": "155"
           },
           {
             "rank": 3,
@@ -1040,7 +1040,7 @@
             "player": "Jake Bauers",
             "team": "Milwaukee Brewers",
             "position": "1B",
-            "value": ".385"
+            "value": ".384"
           },
           {
             "rank": 5,
@@ -1077,7 +1077,7 @@
             "player": "Matt Olson",
             "team": "Atlanta Braves",
             "position": "1B",
-            "value": ".539"
+            "value": ".537"
           },
           {
             "rank": 5,
@@ -1114,7 +1114,7 @@
             "player": "Jake Bauers",
             "team": "Milwaukee Brewers",
             "position": "1B",
-            "value": ".893"
+            "value": ".890"
           },
           {
             "rank": 5,
@@ -1512,7 +1512,7 @@
             "player": "William Contreras",
             "team": "Milwaukee Brewers",
             "position": "C",
-            "value": "977"
+            "value": "979"
           },
           {
             "rank": 3,
@@ -1533,7 +1533,7 @@
             "player": "Matt Olson",
             "team": "Atlanta Braves",
             "position": "1B",
-            "value": "930"
+            "value": "934"
           }
         ],
         "assists": [
@@ -1563,7 +1563,7 @@
             "player": "Xavier Edwards",
             "team": "Miami Marlins",
             "position": "2B",
-            "value": "304"
+            "value": "305"
           },
           {
             "rank": 5,
