@@ -1,6 +1,6 @@
 {
   "season": 2026,
-  "lastUpdated": "2026-08-22T20:58:45.511227+00:00",
+  "lastUpdated": "2026-08-22T21:55:01.456130+00:00",
   "leagues": {
     "AL": {
       "offense": {
@@ -845,16 +845,16 @@
           },
           {
             "rank": 3,
-            "player": "Otto Lopez",
-            "team": "Miami Marlins",
-            "position": "SS",
-            "value": ".309"
-          },
-          {
-            "rank": 4,
             "player": "Gabriel Moreno",
             "team": "Arizona Diamondbacks",
             "position": "C",
+            "value": ".308"
+          },
+          {
+            "rank": 4,
+            "player": "Otto Lopez",
+            "team": "Miami Marlins",
+            "position": "SS",
             "value": ".308"
           },
           {
@@ -1563,7 +1563,7 @@
             "player": "Xavier Edwards",
             "team": "Miami Marlins",
             "position": "2B",
-            "value": "305"
+            "value": "307"
           },
           {
             "rank": 5,
@@ -1583,15 +1583,15 @@
           },
           {
             "rank": 2,
-            "player": "Willy Adames",
-            "team": "San Francisco Giants",
+            "player": "Otto Lopez",
+            "team": "Miami Marlins",
             "position": "SS",
-            "value": "18"
+            "value": "19"
           },
           {
             "rank": 3,
-            "player": "Otto Lopez",
-            "team": "Miami Marlins",
+            "player": "Willy Adames",
+            "team": "San Francisco Giants",
             "position": "SS",
             "value": "18"
           },
