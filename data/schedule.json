@@ -1,7 +1,7 @@
 {
   "league": "MLB",
   "timezone": "America/New_York",
-  "lastUpdated": "2026-08-22T20:53:47.219565+00:00",
+  "lastUpdated": "2026-08-22T21:48:37.465845+00:00",
   "games": [
     {
       "gamePk": 824893,
@@ -9632,9 +9632,9 @@
       "date": "2026-08-22",
       "gameDate": "2026-08-22T17:35:00Z",
       "localGameTime": "2026-08-22T13:35:00-04:00",
-      "status": "In Progress",
-      "abstractGameState": "Live",
-      "codedGameState": "I",
+      "status": "Final",
+      "abstractGameState": "Final",
+      "codedGameState": "F",
       "awayTeam": {
         "id": 141,
         "name": "Toronto Blue Jays",
@@ -9656,9 +9656,9 @@
       "date": "2026-08-22",
       "gameDate": "2026-08-22T18:10:00Z",
       "localGameTime": "2026-08-22T14:10:00-04:00",
-      "status": "Game Over",
+      "status": "Final",
       "abstractGameState": "Final",
-      "codedGameState": "O",
+      "codedGameState": "F",
       "awayTeam": {
         "id": 144,
         "name": "Atlanta Braves",
@@ -9693,8 +9693,8 @@
         "name": "Miami Marlins",
         "abbreviation": "MIA"
       },
-      "awayScore": 0,
-      "homeScore": 3,
+      "awayScore": 2,
+      "homeScore": 4,
       "venue": "loanDepot park",
       "awayPitcher": "Jake Irvin",
       "homePitcher": "Eury P\u00e9rez"
@@ -9704,8 +9704,8 @@
       "date": "2026-08-22",
       "gameDate": "2026-08-22T22:05:00Z",
       "localGameTime": "2026-08-22T18:05:00-04:00",
-      "status": "Pre-Game",
-      "abstractGameState": "Preview",
+      "status": "Warmup",
+      "abstractGameState": "Live",
       "codedGameState": "P",
       "awayTeam": {
         "id": 138,
@@ -9765,8 +9765,8 @@
         "name": "Texas Rangers",
         "abbreviation": "TEX"
       },
-      "awayScore": null,
-      "homeScore": null,
+      "awayScore": 0,
+      "homeScore": 0,
       "venue": "Globe Life Field",
       "awayPitcher": "Ryan Johnson",
       "homePitcher": "Cody Bradford"
@@ -9933,8 +9933,8 @@
         "name": "Arizona Diamondbacks",
         "abbreviation": "AZ"
       },
-      "awayScore": null,
-      "homeScore": null,
+      "awayScore": 0,
+      "homeScore": 0,
       "venue": "Chase Field",
       "awayPitcher": "Rhett Lowder",
       "homePitcher": "Michael Soroka"
@@ -9957,8 +9957,8 @@
         "name": "Colorado Rockies",
         "abbreviation": "COL"
       },
-      "awayScore": null,
-      "homeScore": null,
+      "awayScore": 0,
+      "homeScore": 0,
       "venue": "Coors Field",
       "awayPitcher": "Tanner Bibee",
       "homePitcher": "Gabriel Hughes"
@@ -9968,9 +9968,9 @@
       "date": "2026-08-22",
       "gameDate": "2026-08-23T00:40:00Z",
       "localGameTime": "2026-08-22T20:40:00-04:00",
-      "status": "Scheduled",
+      "status": "Pre-Game",
       "abstractGameState": "Preview",
-      "codedGameState": "S",
+      "codedGameState": "P",
       "awayTeam": {
         "id": 142,
         "name": "Minnesota Twins",
@@ -10224,7 +10224,7 @@
       "awayScore": null,
       "homeScore": null,
       "venue": "Fenway Park",
-      "awayPitcher": null,
+      "awayPitcher": "Matt Wilkinson",
       "homePitcher": "Jake Bennett"
     },
     {
@@ -10752,7 +10752,7 @@
       "awayScore": null,
       "homeScore": null,
       "venue": "Truist Park",
-      "awayPitcher": null,
+      "awayPitcher": "Tyler Glasnow",
       "homePitcher": null
     },
     {
