@@ -1,7 +1,7 @@
 {
   "league": "MLB",
   "timezone": "America/New_York",
-  "lastUpdated": "2026-08-22T19:02:50.628158+00:00",
+  "lastUpdated": "2026-08-22T20:53:47.219565+00:00",
   "games": [
     {
       "gamePk": 824893,
@@ -9645,8 +9645,8 @@
         "name": "New York Yankees",
         "abbreviation": "NYY"
       },
-      "awayScore": 2,
-      "homeScore": 0,
+      "awayScore": 4,
+      "homeScore": 3,
       "venue": "Yankee Stadium",
       "awayPitcher": "Dylan Cease",
       "homePitcher": "Ryan Weathers"
@@ -9656,9 +9656,9 @@
       "date": "2026-08-22",
       "gameDate": "2026-08-22T18:10:00Z",
       "localGameTime": "2026-08-22T14:10:00-04:00",
-      "status": "In Progress",
-      "abstractGameState": "Live",
-      "codedGameState": "I",
+      "status": "Game Over",
+      "abstractGameState": "Final",
+      "codedGameState": "O",
       "awayTeam": {
         "id": 144,
         "name": "Atlanta Braves",
@@ -9670,7 +9670,7 @@
         "abbreviation": "MIL"
       },
       "awayScore": 1,
-      "homeScore": 0,
+      "homeScore": 4,
       "venue": "American Family Field",
       "awayPitcher": "Mart\u00edn P\u00e9rez",
       "homePitcher": "Logan Henderson"
@@ -9680,9 +9680,9 @@
       "date": "2026-08-22",
       "gameDate": "2026-08-22T20:10:00Z",
       "localGameTime": "2026-08-22T16:10:00-04:00",
-      "status": "Pre-Game",
-      "abstractGameState": "Preview",
-      "codedGameState": "P",
+      "status": "In Progress",
+      "abstractGameState": "Live",
+      "codedGameState": "I",
       "awayTeam": {
         "id": 120,
         "name": "Washington Nationals",
@@ -9694,7 +9694,7 @@
         "abbreviation": "MIA"
       },
       "awayScore": 0,
-      "homeScore": 0,
+      "homeScore": 3,
       "venue": "loanDepot park",
       "awayPitcher": "Jake Irvin",
       "homePitcher": "Eury P\u00e9rez"
@@ -9717,10 +9717,10 @@
         "name": "Philadelphia Phillies",
         "abbreviation": "PHI"
       },
-      "awayScore": null,
-      "homeScore": null,
+      "awayScore": 0,
+      "homeScore": 0,
       "venue": "Citizens Bank Park",
-      "awayPitcher": null,
+      "awayPitcher": "Quinn Mathews",
       "homePitcher": "Andrew Painter"
     },
     {
@@ -9728,9 +9728,9 @@
       "date": "2026-08-22",
       "gameDate": "2026-08-22T23:05:00Z",
       "localGameTime": "2026-08-22T19:05:00-04:00",
-      "status": "Scheduled",
+      "status": "Pre-Game",
       "abstractGameState": "Preview",
-      "codedGameState": "S",
+      "codedGameState": "P",
       "awayTeam": {
         "id": 139,
         "name": "Tampa Bay Rays",
@@ -9741,8 +9741,8 @@
         "name": "Baltimore Orioles",
         "abbreviation": "BAL"
       },
-      "awayScore": null,
-      "homeScore": null,
+      "awayScore": 0,
+      "homeScore": 0,
       "venue": "Oriole Park at Camden Yards",
       "awayPitcher": "Shane McClanahan",
       "homePitcher": "Brandon Young"
@@ -9776,9 +9776,9 @@
       "date": "2026-08-22",
       "gameDate": "2026-08-22T23:10:00Z",
       "localGameTime": "2026-08-22T19:10:00-04:00",
-      "status": "Scheduled",
+      "status": "Pre-Game",
       "abstractGameState": "Preview",
-      "codedGameState": "S",
+      "codedGameState": "P",
       "awayTeam": {
         "id": 133,
         "name": "Athletics",
@@ -9789,8 +9789,8 @@
         "name": "Houston Astros",
         "abbreviation": "HOU"
       },
-      "awayScore": null,
-      "homeScore": null,
+      "awayScore": 0,
+      "homeScore": 0,
       "venue": "Daikin Park",
       "awayPitcher": "Jacob Lopez",
       "homePitcher": "Hunter Brown"
@@ -9800,9 +9800,9 @@
       "date": "2026-08-22",
       "gameDate": "2026-08-22T23:10:00Z",
       "localGameTime": "2026-08-22T19:10:00-04:00",
-      "status": "Scheduled",
+      "status": "Pre-Game",
       "abstractGameState": "Preview",
-      "codedGameState": "S",
+      "codedGameState": "P",
       "awayTeam": {
         "id": 121,
         "name": "New York Mets",
@@ -9813,8 +9813,8 @@
         "name": "Chicago White Sox",
         "abbreviation": "CWS"
       },
-      "awayScore": null,
-      "homeScore": null,
+      "awayScore": 0,
+      "homeScore": 0,
       "venue": "Rate Field",
       "awayPitcher": "Christian Scott",
       "homePitcher": "Luis Castillo"
@@ -9837,8 +9837,8 @@
         "name": "Kansas City Royals",
         "abbreviation": "KC"
       },
-      "awayScore": null,
-      "homeScore": null,
+      "awayScore": 0,
+      "homeScore": 0,
       "venue": "Kauffman Stadium",
       "awayPitcher": "Drew Anderson",
       "homePitcher": "Michael Wacha"
@@ -9848,9 +9848,9 @@
       "date": "2026-08-22",
       "gameDate": "2026-08-22T23:15:00Z",
       "localGameTime": "2026-08-22T19:15:00-04:00",
-      "status": "Scheduled",
+      "status": "Pre-Game",
       "abstractGameState": "Preview",
-      "codedGameState": "S",
+      "codedGameState": "P",
       "awayTeam": {
         "id": 134,
         "name": "Pittsburgh Pirates",
@@ -9861,8 +9861,8 @@
         "name": "Los Angeles Dodgers",
         "abbreviation": "LAD"
       },
-      "awayScore": null,
-      "homeScore": null,
+      "awayScore": 0,
+      "homeScore": 0,
       "venue": "UNIQLO Field at Dodger Stadium",
       "awayPitcher": "Jared Jones",
       "homePitcher": "Tarik Skubal"
@@ -9872,9 +9872,9 @@
       "date": "2026-08-22",
       "gameDate": "2026-08-22T23:15:00Z",
       "localGameTime": "2026-08-22T19:15:00-04:00",
-      "status": "Scheduled",
+      "status": "Pre-Game",
       "abstractGameState": "Preview",
-      "codedGameState": "S",
+      "codedGameState": "P",
       "awayTeam": {
         "id": 112,
         "name": "Chicago Cubs",
@@ -9885,8 +9885,8 @@
         "name": "Seattle Mariners",
         "abbreviation": "SEA"
       },
-      "awayScore": null,
-      "homeScore": null,
+      "awayScore": 0,
+      "homeScore": 0,
       "venue": "T-Mobile Park",
       "awayPitcher": "David Peterson",
       "homePitcher": "Kade Anderson"
@@ -9896,9 +9896,9 @@
       "date": "2026-08-22",
       "gameDate": "2026-08-22T23:15:00Z",
       "localGameTime": "2026-08-22T19:15:00-04:00",
-      "status": "Scheduled",
+      "status": "Pre-Game",
       "abstractGameState": "Preview",
-      "codedGameState": "S",
+      "codedGameState": "P",
       "awayTeam": {
         "id": 137,
         "name": "San Francisco Giants",
@@ -9909,8 +9909,8 @@
         "name": "Boston Red Sox",
         "abbreviation": "BOS"
       },
-      "awayScore": null,
-      "homeScore": null,
+      "awayScore": 0,
+      "homeScore": 0,
       "venue": "Fenway Park",
       "awayPitcher": "Blade Tidwell",
       "homePitcher": "Patrick Sandoval"
@@ -9920,9 +9920,9 @@
       "date": "2026-08-22",
       "gameDate": "2026-08-23T00:10:00Z",
       "localGameTime": "2026-08-22T20:10:00-04:00",
-      "status": "Scheduled",
+      "status": "Pre-Game",
       "abstractGameState": "Preview",
-      "codedGameState": "S",
+      "codedGameState": "P",
       "awayTeam": {
         "id": 113,
         "name": "Cincinnati Reds",
@@ -9944,9 +9944,9 @@
       "date": "2026-08-22",
       "gameDate": "2026-08-23T00:10:00Z",
       "localGameTime": "2026-08-22T20:10:00-04:00",
-      "status": "Scheduled",
+      "status": "Pre-Game",
       "abstractGameState": "Preview",
-      "codedGameState": "S",
+      "codedGameState": "P",
       "awayTeam": {
         "id": 114,
         "name": "Cleveland Guardians",
