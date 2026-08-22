@@ -1,6 +1,6 @@
 {
   "season": 2026,
-  "lastUpdated": "2026-08-22T17:55:24.360351+00:00",
+  "lastUpdated": "2026-08-22T19:11:08.215329+00:00",
   "leagues": {
     "AL": {
       "offense": {
@@ -35,9 +35,9 @@
           },
           {
             "rank": 5,
-            "player": "Chase DeLauter",
-            "team": "Cleveland Guardians",
-            "position": "RF",
+            "player": "Ernie Clement",
+            "team": "Toronto Blue Jays",
+            "position": "2B",
             "value": ".286"
           }
         ],
@@ -75,7 +75,7 @@
             "player": "Ernie Clement",
             "team": "Toronto Blue Jays",
             "position": "2B",
-            "value": "137"
+            "value": "138"
           }
         ],
         "homeRuns": [
@@ -253,7 +253,7 @@
             "player": "Ben Rice",
             "team": "New York Yankees",
             "position": "DH",
-            "value": ".530"
+            "value": ".527"
           },
           {
             "rank": 5,
@@ -306,7 +306,7 @@
             "player": "Dylan Cease",
             "team": "Toronto Blue Jays",
             "position": "P",
-            "value": "24"
+            "value": "26"
           },
           {
             "rank": 2,
@@ -426,7 +426,7 @@
             "player": "Dylan Cease",
             "team": "Toronto Blue Jays",
             "position": "P",
-            "value": "2.42"
+            "value": "2.35"
           },
           {
             "rank": 3,
@@ -493,7 +493,7 @@
             "player": "Dylan Cease",
             "team": "Toronto Blue Jays",
             "position": "P",
-            "value": "201"
+            "value": "208"
           },
           {
             "rank": 2,
@@ -732,7 +732,7 @@
             "player": "Jazz Chisholm Jr.",
             "team": "New York Yankees",
             "position": "2B",
-            "value": "278"
+            "value": "280"
           },
           {
             "rank": 4,
@@ -1030,17 +1030,17 @@
           },
           {
             "rank": 3,
-            "player": "Gabriel Moreno",
-            "team": "Arizona Diamondbacks",
-            "position": "C",
+            "player": "Jake Bauers",
+            "team": "Milwaukee Brewers",
+            "position": "1B",
             "value": ".385"
           },
           {
             "rank": 4,
-            "player": "Jake Bauers",
-            "team": "Milwaukee Brewers",
-            "position": "1B",
-            "value": ".383"
+            "player": "Gabriel Moreno",
+            "team": "Arizona Diamondbacks",
+            "position": "C",
+            "value": ".385"
           },
           {
             "rank": 5,
@@ -1111,17 +1111,17 @@
           },
           {
             "rank": 4,
+            "player": "Jake Bauers",
+            "team": "Milwaukee Brewers",
+            "position": "1B",
+            "value": ".894"
+          },
+          {
+            "rank": 5,
             "player": "CJ Abrams",
             "team": "Washington Nationals",
             "position": "SS",
             "value": ".884"
-          },
-          {
-            "rank": 5,
-            "player": "Jake Bauers",
-            "team": "Milwaukee Brewers",
-            "position": "1B",
-            "value": ".883"
           }
         ],
         "stolenBases": [
@@ -1512,7 +1512,7 @@
             "player": "William Contreras",
             "team": "Milwaukee Brewers",
             "position": "C",
-            "value": "973"
+            "value": "975"
           },
           {
             "rank": 3,
@@ -1533,7 +1533,7 @@
             "player": "Matt Olson",
             "team": "Atlanta Braves",
             "position": "1B",
-            "value": "924"
+            "value": "928"
           }
         ],
         "assists": [
