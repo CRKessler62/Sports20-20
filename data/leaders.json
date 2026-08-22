@@ -1,6 +1,6 @@
 {
   "season": 2026,
-  "lastUpdated": "2026-08-22T19:11:08.215329+00:00",
+  "lastUpdated": "2026-08-22T19:52:11.842167+00:00",
   "leagues": {
     "AL": {
       "offense": {
@@ -35,9 +35,9 @@
           },
           {
             "rank": 5,
-            "player": "Ernie Clement",
-            "team": "Toronto Blue Jays",
-            "position": "2B",
+            "player": "Chase DeLauter",
+            "team": "Cleveland Guardians",
+            "position": "RF",
             "value": ".286"
           }
         ],
@@ -253,7 +253,7 @@
             "player": "Ben Rice",
             "team": "New York Yankees",
             "position": "DH",
-            "value": ".527"
+            "value": ".526"
           },
           {
             "rank": 5,
@@ -426,7 +426,7 @@
             "player": "Dylan Cease",
             "team": "Toronto Blue Jays",
             "position": "P",
-            "value": "2.35"
+            "value": "2.32"
           },
           {
             "rank": 3,
@@ -493,7 +493,7 @@
             "player": "Dylan Cease",
             "team": "Toronto Blue Jays",
             "position": "P",
-            "value": "208"
+            "value": "209"
           },
           {
             "rank": 2,
@@ -648,31 +648,31 @@
           },
           {
             "rank": 2,
+            "player": "Nathan Lukes",
+            "team": "Toronto Blue Jays",
+            "position": "RF",
+            "value": "1.000"
+          },
+          {
+            "rank": 3,
             "player": "Christian Walker",
             "team": "Houston Astros",
             "position": "1B",
             "value": ".999"
           },
           {
-            "rank": 3,
+            "rank": 4,
             "player": "Christian V\u00e1zquez",
             "team": "Houston Astros",
             "position": "C",
             "value": ".998"
           },
           {
-            "rank": 4,
+            "rank": 5,
             "player": "Spencer Torkelson",
             "team": "Detroit Tigers",
             "position": "1B",
             "value": ".998"
-          },
-          {
-            "rank": 5,
-            "player": "Pete Alonso",
-            "team": "Baltimore Orioles",
-            "position": "1B",
-            "value": ".997"
           }
         ],
         "putouts": [
@@ -1030,16 +1030,16 @@
           },
           {
             "rank": 3,
-            "player": "Jake Bauers",
-            "team": "Milwaukee Brewers",
-            "position": "1B",
+            "player": "Gabriel Moreno",
+            "team": "Arizona Diamondbacks",
+            "position": "C",
             "value": ".385"
           },
           {
             "rank": 4,
-            "player": "Gabriel Moreno",
-            "team": "Arizona Diamondbacks",
-            "position": "C",
+            "player": "Jake Bauers",
+            "team": "Milwaukee Brewers",
+            "position": "1B",
             "value": ".385"
           },
           {
@@ -1114,7 +1114,7 @@
             "player": "Jake Bauers",
             "team": "Milwaukee Brewers",
             "position": "1B",
-            "value": ".894"
+            "value": ".893"
           },
           {
             "rank": 5,
@@ -1512,7 +1512,7 @@
             "player": "William Contreras",
             "team": "Milwaukee Brewers",
             "position": "C",
-            "value": "975"
+            "value": "977"
           },
           {
             "rank": 3,
@@ -1533,7 +1533,7 @@
             "player": "Matt Olson",
             "team": "Atlanta Braves",
             "position": "1B",
-            "value": "928"
+            "value": "930"
           }
         ],
         "assists": [
