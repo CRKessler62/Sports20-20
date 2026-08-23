@@ -1,6 +1,6 @@
 {
   "season": 2026,
-  "lastUpdated": "2026-08-23T22:55:43.994560+00:00",
+  "lastUpdated": "2026-08-23T23:54:10.302134+00:00",
   "leagues": {
     "AL": {
       "offense": {
@@ -1040,7 +1040,7 @@
             "player": "Jake Bauers",
             "team": "Milwaukee Brewers",
             "position": "1B",
-            "value": ".384"
+            "value": ".383"
           },
           {
             "rank": 5,
@@ -1077,7 +1077,7 @@
             "player": "Matt Olson",
             "team": "Atlanta Braves",
             "position": "1B",
-            "value": ".537"
+            "value": ".536"
           },
           {
             "rank": 5,
@@ -1121,7 +1121,7 @@
             "player": "Jake Bauers",
             "team": "Milwaukee Brewers",
             "position": "1B",
-            "value": ".890"
+            "value": ".888"
           }
         ],
         "stolenBases": [
@@ -1512,14 +1512,14 @@
             "player": "William Contreras",
             "team": "Milwaukee Brewers",
             "position": "C",
-            "value": "979"
+            "value": "981"
           },
           {
             "rank": 3,
             "player": "Michael Busch",
             "team": "Chicago Cubs",
             "position": "1B",
-            "value": "971"
+            "value": "974"
           },
           {
             "rank": 4,
@@ -1533,7 +1533,7 @@
             "player": "Matt Olson",
             "team": "Atlanta Braves",
             "position": "1B",
-            "value": "934"
+            "value": "937"
           }
         ],
         "assists": [
