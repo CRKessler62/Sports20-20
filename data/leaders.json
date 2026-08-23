@@ -1,6 +1,6 @@
 {
   "season": 2026,
-  "lastUpdated": "2026-08-23T20:57:49.067388+00:00",
+  "lastUpdated": "2026-08-23T21:54:07.662285+00:00",
   "leagues": {
     "AL": {
       "offense": {
@@ -31,7 +31,7 @@
             "player": "Ceddanne Rafaela",
             "team": "Boston Red Sox",
             "position": "CF",
-            "value": ".290"
+            "value": ".289"
           },
           {
             "rank": 5,
@@ -195,7 +195,7 @@
             "player": "Yordan Alvarez",
             "team": "Houston Astros",
             "position": "DH",
-            "value": ".435"
+            "value": ".436"
           },
           {
             "rank": 2,
@@ -209,7 +209,7 @@
             "player": "Willson Contreras",
             "team": "Boston Red Sox",
             "position": "1B",
-            "value": ".393"
+            "value": ".392"
           },
           {
             "rank": 4,
@@ -223,7 +223,7 @@
             "player": "Mike Trout",
             "team": "Los Angeles Angels",
             "position": "CF",
-            "value": ".379"
+            "value": ".380"
           }
         ],
         "slg": [
@@ -239,7 +239,7 @@
             "player": "Willson Contreras",
             "team": "Boston Red Sox",
             "position": "1B",
-            "value": ".534"
+            "value": ".533"
           },
           {
             "rank": 3,
@@ -269,14 +269,14 @@
             "player": "Yordan Alvarez",
             "team": "Houston Astros",
             "position": "DH",
-            "value": "1.048"
+            "value": "1.049"
           },
           {
             "rank": 2,
             "player": "Willson Contreras",
             "team": "Boston Red Sox",
             "position": "1B",
-            "value": ".927"
+            "value": ".925"
           },
           {
             "rank": 3,
@@ -702,7 +702,7 @@
             "player": "Willson Contreras",
             "team": "Boston Red Sox",
             "position": "1B",
-            "value": "832"
+            "value": "835"
           },
           {
             "rank": 5,
@@ -806,7 +806,7 @@
             "player": "Christian Walker",
             "team": "Houston Astros",
             "position": "1B",
-            "value": "85"
+            "value": "86"
           },
           {
             "rank": 4,
@@ -820,7 +820,7 @@
             "player": "Willson Contreras",
             "team": "Boston Red Sox",
             "position": "1B",
-            "value": "76"
+            "value": "77"
           }
         ]
       },
@@ -841,7 +841,7 @@
             "player": "Nick Gonzales",
             "team": "Pittsburgh Pirates",
             "position": "3B",
-            "value": ".308"
+            "value": ".307"
           },
           {
             "rank": 3,
@@ -862,7 +862,7 @@
             "player": "Freddie Freeman",
             "team": "Los Angeles Dodgers",
             "position": "1B",
-            "value": ".302"
+            "value": ".303"
           }
         ],
         "hits": [
@@ -892,12 +892,12 @@
             "player": "Freddie Freeman",
             "team": "Los Angeles Dodgers",
             "position": "1B",
-            "value": "144"
+            "value": "145"
           },
           {
             "rank": 5,
-            "player": "Jordan Walker",
-            "team": "St. Louis Cardinals",
+            "player": "Fernando Tatis Jr.",
+            "team": "San Diego Padres",
             "position": "RF",
             "value": "144"
           }
@@ -1026,7 +1026,7 @@
             "player": "Shohei Ohtani",
             "team": "Los Angeles Dodgers",
             "position": "TWP",
-            "value": ".392"
+            "value": ".390"
           },
           {
             "rank": 3,
@@ -1040,7 +1040,7 @@
             "player": "Gabriel Moreno",
             "team": "Arizona Diamondbacks",
             "position": "C",
-            "value": ".382"
+            "value": ".384"
           },
           {
             "rank": 5,
@@ -1056,14 +1056,14 @@
             "player": "Pete Crow-Armstrong",
             "team": "Chicago Cubs",
             "position": "CF",
-            "value": ".552"
+            "value": ".551"
           },
           {
             "rank": 2,
             "player": "Shohei Ohtani",
             "team": "Los Angeles Dodgers",
             "position": "TWP",
-            "value": ".549"
+            "value": ".546"
           },
           {
             "rank": 3,
@@ -1093,14 +1093,14 @@
             "player": "Shohei Ohtani",
             "team": "Los Angeles Dodgers",
             "position": "TWP",
-            "value": ".941"
+            "value": ".936"
           },
           {
             "rank": 2,
             "player": "Pete Crow-Armstrong",
             "team": "Chicago Cubs",
             "position": "CF",
-            "value": ".929"
+            "value": ".928"
           },
           {
             "rank": 3,
@@ -1526,7 +1526,7 @@
             "player": "Michael Busch",
             "team": "Chicago Cubs",
             "position": "1B",
-            "value": "967"
+            "value": "968"
           },
           {
             "rank": 5,
@@ -1570,7 +1570,7 @@
             "player": "Geraldo Perdomo",
             "team": "Arizona Diamondbacks",
             "position": "SS",
-            "value": "304"
+            "value": "305"
           }
         ],
         "errors": [
