@@ -1,7 +1,7 @@
 {
   "league": "MLB",
   "timezone": "America/New_York",
-  "lastUpdated": "2026-08-23T16:57:42.237144+00:00",
+  "lastUpdated": "2026-08-23T17:50:17.226219+00:00",
   "games": [
     {
       "gamePk": 823759,
@@ -9872,9 +9872,9 @@
       "date": "2026-08-23",
       "gameDate": "2026-08-23T17:35:00Z",
       "localGameTime": "2026-08-23T13:35:00-04:00",
-      "status": "Pre-Game",
-      "abstractGameState": "Preview",
-      "codedGameState": "P",
+      "status": "In Progress",
+      "abstractGameState": "Live",
+      "codedGameState": "I",
       "awayTeam": {
         "id": 139,
         "name": "Tampa Bay Rays",
@@ -9896,9 +9896,9 @@
       "date": "2026-08-23",
       "gameDate": "2026-08-23T17:35:00Z",
       "localGameTime": "2026-08-23T13:35:00-04:00",
-      "status": "Pre-Game",
-      "abstractGameState": "Preview",
-      "codedGameState": "P",
+      "status": "In Progress",
+      "abstractGameState": "Live",
+      "codedGameState": "I",
       "awayTeam": {
         "id": 138,
         "name": "St. Louis Cardinals",
@@ -9909,7 +9909,7 @@
         "name": "Philadelphia Phillies",
         "abbreviation": "PHI"
       },
-      "awayScore": 0,
+      "awayScore": 1,
       "homeScore": 0,
       "venue": "Citizens Bank Park",
       "awayPitcher": "Kyle Leahy",
@@ -9920,9 +9920,9 @@
       "date": "2026-08-23",
       "gameDate": "2026-08-23T17:35:00Z",
       "localGameTime": "2026-08-23T13:35:00-04:00",
-      "status": "Pre-Game",
-      "abstractGameState": "Preview",
-      "codedGameState": "P",
+      "status": "In Progress",
+      "abstractGameState": "Live",
+      "codedGameState": "I",
       "awayTeam": {
         "id": 141,
         "name": "Toronto Blue Jays",
@@ -9944,9 +9944,9 @@
       "date": "2026-08-23",
       "gameDate": "2026-08-23T17:40:00Z",
       "localGameTime": "2026-08-23T13:40:00-04:00",
-      "status": "Pre-Game",
-      "abstractGameState": "Preview",
-      "codedGameState": "P",
+      "status": "In Progress",
+      "abstractGameState": "Live",
+      "codedGameState": "I",
       "awayTeam": {
         "id": 120,
         "name": "Washington Nationals",
@@ -9992,8 +9992,8 @@
       "date": "2026-08-23",
       "gameDate": "2026-08-23T18:10:00Z",
       "localGameTime": "2026-08-23T14:10:00-04:00",
-      "status": "Pre-Game",
-      "abstractGameState": "Preview",
+      "status": "Warmup",
+      "abstractGameState": "Live",
       "codedGameState": "P",
       "awayTeam": {
         "id": 133,
@@ -10016,8 +10016,8 @@
       "date": "2026-08-23",
       "gameDate": "2026-08-23T18:10:00Z",
       "localGameTime": "2026-08-23T14:10:00-04:00",
-      "status": "Pre-Game",
-      "abstractGameState": "Preview",
+      "status": "Warmup",
+      "abstractGameState": "Live",
       "codedGameState": "P",
       "awayTeam": {
         "id": 121,
@@ -10053,8 +10053,8 @@
         "name": "Texas Rangers",
         "abbreviation": "TEX"
       },
-      "awayScore": null,
-      "homeScore": null,
+      "awayScore": 0,
+      "homeScore": 0,
       "venue": "Globe Life Field",
       "awayPitcher": "Yusei Kikuchi",
       "homePitcher": "Cal Quantrill"
@@ -10077,8 +10077,8 @@
         "name": "Colorado Rockies",
         "abbreviation": "COL"
       },
-      "awayScore": null,
-      "homeScore": null,
+      "awayScore": 0,
+      "homeScore": 0,
       "venue": "Coors Field",
       "awayPitcher": "Foster Griffin",
       "homePitcher": "Tomoyuki Sugano"
@@ -10112,9 +10112,9 @@
       "date": "2026-08-23",
       "gameDate": "2026-08-23T20:10:00Z",
       "localGameTime": "2026-08-23T16:10:00-04:00",
-      "status": "Scheduled",
+      "status": "Pre-Game",
       "abstractGameState": "Preview",
-      "codedGameState": "S",
+      "codedGameState": "P",
       "awayTeam": {
         "id": 134,
         "name": "Pittsburgh Pirates",
@@ -10125,8 +10125,8 @@
         "name": "Los Angeles Dodgers",
         "abbreviation": "LAD"
       },
-      "awayScore": null,
-      "homeScore": null,
+      "awayScore": 0,
+      "homeScore": 0,
       "venue": "UNIQLO Field at Dodger Stadium",
       "awayPitcher": "Lake Bachar",
       "homePitcher": "Blake Snell"
@@ -10184,9 +10184,9 @@
       "date": "2026-08-23",
       "gameDate": "2026-08-23T20:15:00Z",
       "localGameTime": "2026-08-23T16:15:00-04:00",
-      "status": "Scheduled",
+      "status": "Pre-Game",
       "abstractGameState": "Preview",
-      "codedGameState": "S",
+      "codedGameState": "P",
       "awayTeam": {
         "id": 113,
         "name": "Cincinnati Reds",
@@ -10197,8 +10197,8 @@
         "name": "Arizona Diamondbacks",
         "abbreviation": "AZ"
       },
-      "awayScore": null,
-      "homeScore": null,
+      "awayScore": 0,
+      "homeScore": 0,
       "venue": "Chase Field",
       "awayPitcher": "Andrew Abbott",
       "homePitcher": "Mitch Bratt"
@@ -10249,7 +10249,7 @@
       "homeScore": null,
       "venue": "Comerica Park",
       "awayPitcher": "Drew Rasmussen",
-      "homePitcher": null
+      "homePitcher": "Framber Valdez"
     },
     {
       "gamePk": 823828,
@@ -10489,7 +10489,7 @@
       "homeScore": null,
       "venue": "Comerica Park",
       "awayPitcher": "Ian Seymour",
-      "homePitcher": null
+      "homePitcher": "Jackson Jobe"
     },
     {
       "gamePk": 823826,
@@ -10584,7 +10584,7 @@
       "awayScore": null,
       "homeScore": null,
       "venue": "Rogers Centre",
-      "awayPitcher": null,
+      "awayPitcher": "Seth Lugo",
       "homePitcher": null
     },
     {
@@ -10849,7 +10849,7 @@
       "homeScore": null,
       "venue": "Comerica Park",
       "awayPitcher": "Freddy Peralta",
-      "homePitcher": null
+      "homePitcher": "Troy Melton"
     },
     {
       "gamePk": 825039,
@@ -11064,7 +11064,7 @@
       "awayScore": null,
       "homeScore": null,
       "venue": "Rogers Centre",
-      "awayPitcher": null,
+      "awayPitcher": "Randy Dobnak",
       "homePitcher": null
     },
     {
@@ -11280,7 +11280,7 @@
       "awayScore": null,
       "homeScore": null,
       "venue": "Rogers Centre",
-      "awayPitcher": null,
+      "awayPitcher": "Noah Cameron",
       "homePitcher": null
     },
     {
