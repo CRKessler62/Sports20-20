@@ -1,7 +1,7 @@
 {
   "league": "MLB",
   "timezone": "America/New_York",
-  "lastUpdated": "2026-08-23T20:53:24.674159+00:00",
+  "lastUpdated": "2026-08-23T21:47:05.442980+00:00",
   "games": [
     {
       "gamePk": 823759,
@@ -9968,9 +9968,9 @@
       "date": "2026-08-23",
       "gameDate": "2026-08-23T18:10:00Z",
       "localGameTime": "2026-08-23T14:10:00-04:00",
-      "status": "In Progress",
-      "abstractGameState": "Live",
-      "codedGameState": "I",
+      "status": "Final",
+      "abstractGameState": "Final",
+      "codedGameState": "F",
       "awayTeam": {
         "id": 116,
         "name": "Detroit Tigers",
@@ -9992,9 +9992,9 @@
       "date": "2026-08-23",
       "gameDate": "2026-08-23T18:10:00Z",
       "localGameTime": "2026-08-23T14:10:00-04:00",
-      "status": "In Progress",
-      "abstractGameState": "Live",
-      "codedGameState": "I",
+      "status": "Final",
+      "abstractGameState": "Final",
+      "codedGameState": "F",
       "awayTeam": {
         "id": 133,
         "name": "Athletics",
@@ -10040,9 +10040,9 @@
       "date": "2026-08-23",
       "gameDate": "2026-08-23T18:35:00Z",
       "localGameTime": "2026-08-23T14:35:00-04:00",
-      "status": "In Progress",
-      "abstractGameState": "Live",
-      "codedGameState": "I",
+      "status": "Final",
+      "abstractGameState": "Final",
+      "codedGameState": "F",
       "awayTeam": {
         "id": 108,
         "name": "Los Angeles Angels",
@@ -10053,7 +10053,7 @@
         "name": "Texas Rangers",
         "abbreviation": "TEX"
       },
-      "awayScore": 1,
+      "awayScore": 3,
       "homeScore": 5,
       "venue": "Globe Life Field",
       "awayPitcher": "Yusei Kikuchi",
@@ -10101,7 +10101,7 @@
         "name": "Boston Red Sox",
         "abbreviation": "BOS"
       },
-      "awayScore": 3,
+      "awayScore": 4,
       "homeScore": 5,
       "venue": "Fenway Park",
       "awayPitcher": "Matt Wilkinson",
@@ -10126,7 +10126,7 @@
         "abbreviation": "LAD"
       },
       "awayScore": 0,
-      "homeScore": 1,
+      "homeScore": 4,
       "venue": "UNIQLO Field at Dodger Stadium",
       "awayPitcher": "Lake Bachar",
       "homePitcher": "Blake Snell"
@@ -10149,7 +10149,7 @@
         "name": "Seattle Mariners",
         "abbreviation": "SEA"
       },
-      "awayScore": 0,
+      "awayScore": 5,
       "homeScore": 2,
       "venue": "T-Mobile Park",
       "awayPitcher": "Shota Imanaga",
@@ -10173,7 +10173,7 @@
         "name": "San Diego Padres",
         "abbreviation": "SD"
       },
-      "awayScore": 0,
+      "awayScore": 1,
       "homeScore": 1,
       "venue": "Petco Park",
       "awayPitcher": "Bailey Ober",
@@ -10197,7 +10197,7 @@
         "name": "Arizona Diamondbacks",
         "abbreviation": "AZ"
       },
-      "awayScore": 1,
+      "awayScore": 3,
       "homeScore": 0,
       "venue": "Chase Field",
       "awayPitcher": "Andrew Abbott",
@@ -10585,7 +10585,7 @@
       "homeScore": null,
       "venue": "Rogers Centre",
       "awayPitcher": "Seth Lugo",
-      "homePitcher": null
+      "homePitcher": "Max Scherzer"
     },
     {
       "gamePk": 823585,
@@ -10608,7 +10608,7 @@
       "awayScore": null,
       "homeScore": null,
       "venue": "Citi Field",
-      "awayPitcher": null,
+      "awayPitcher": "Kyle Harrison",
       "homePitcher": "Zac Thornton"
     },
     {
@@ -11065,7 +11065,7 @@
       "homeScore": null,
       "venue": "Rogers Centre",
       "awayPitcher": "Randy Dobnak",
-      "homePitcher": null
+      "homePitcher": "Shane Bieber"
     },
     {
       "gamePk": 823584,
@@ -11088,7 +11088,7 @@
       "awayScore": null,
       "homeScore": null,
       "venue": "Citi Field",
-      "awayPitcher": null,
+      "awayPitcher": "Dustin May",
       "homePitcher": "Robert Stock"
     },
     {
@@ -11304,7 +11304,7 @@
       "awayScore": null,
       "homeScore": null,
       "venue": "Citi Field",
-      "awayPitcher": null,
+      "awayPitcher": "Jacob Misiorowski",
       "homePitcher": "Sean Manaea"
     },
     {
