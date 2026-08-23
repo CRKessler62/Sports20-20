@@ -1,7 +1,7 @@
 {
   "league": "MLB",
   "timezone": "America/New_York",
-  "lastUpdated": "2026-08-23T14:55:19.681016+00:00",
+  "lastUpdated": "2026-08-23T15:49:46.378969+00:00",
   "games": [
     {
       "gamePk": 823759,
@@ -9885,8 +9885,8 @@
         "name": "Baltimore Orioles",
         "abbreviation": "BAL"
       },
-      "awayScore": null,
-      "homeScore": null,
+      "awayScore": 0,
+      "homeScore": 0,
       "venue": "Oriole Park at Camden Yards",
       "awayPitcher": "Nick Martinez",
       "homePitcher": "Shane Baz"
@@ -9944,9 +9944,9 @@
       "date": "2026-08-23",
       "gameDate": "2026-08-23T17:40:00Z",
       "localGameTime": "2026-08-23T13:40:00-04:00",
-      "status": "Scheduled",
+      "status": "Pre-Game",
       "abstractGameState": "Preview",
-      "codedGameState": "S",
+      "codedGameState": "P",
       "awayTeam": {
         "id": 120,
         "name": "Washington Nationals",
@@ -9957,8 +9957,8 @@
         "name": "Miami Marlins",
         "abbreviation": "MIA"
       },
-      "awayScore": null,
-      "homeScore": null,
+      "awayScore": 0,
+      "homeScore": 0,
       "venue": "loanDepot park",
       "awayPitcher": "Jackson Kent",
       "homePitcher": "Janson Junk"
@@ -9981,10 +9981,10 @@
         "name": "Kansas City Royals",
         "abbreviation": "KC"
       },
-      "awayScore": null,
-      "homeScore": null,
+      "awayScore": 0,
+      "homeScore": 0,
       "venue": "Kauffman Stadium",
-      "awayPitcher": null,
+      "awayPitcher": "Jacob Waguespack",
       "homePitcher": "Daniel Lynch IV"
     },
     {
@@ -9992,9 +9992,9 @@
       "date": "2026-08-23",
       "gameDate": "2026-08-23T18:10:00Z",
       "localGameTime": "2026-08-23T14:10:00-04:00",
-      "status": "Scheduled",
+      "status": "Pre-Game",
       "abstractGameState": "Preview",
-      "codedGameState": "S",
+      "codedGameState": "P",
       "awayTeam": {
         "id": 133,
         "name": "Athletics",
@@ -10005,8 +10005,8 @@
         "name": "Houston Astros",
         "abbreviation": "HOU"
       },
-      "awayScore": null,
-      "homeScore": null,
+      "awayScore": 0,
+      "homeScore": 0,
       "venue": "Daikin Park",
       "awayPitcher": "Brady Basso",
       "homePitcher": "Cristian Javier"
@@ -10016,9 +10016,9 @@
       "date": "2026-08-23",
       "gameDate": "2026-08-23T18:10:00Z",
       "localGameTime": "2026-08-23T14:10:00-04:00",
-      "status": "Scheduled",
+      "status": "Pre-Game",
       "abstractGameState": "Preview",
-      "codedGameState": "S",
+      "codedGameState": "P",
       "awayTeam": {
         "id": 121,
         "name": "New York Mets",
@@ -10029,8 +10029,8 @@
         "name": "Chicago White Sox",
         "abbreviation": "CWS"
       },
-      "awayScore": null,
-      "homeScore": null,
+      "awayScore": 0,
+      "homeScore": 0,
       "venue": "Rate Field",
       "awayPitcher": "Nolan McLean",
       "homePitcher": "Sean Newcomb"
@@ -10088,9 +10088,9 @@
       "date": "2026-08-23",
       "gameDate": "2026-08-23T19:15:00Z",
       "localGameTime": "2026-08-23T15:15:00-04:00",
-      "status": "Scheduled",
+      "status": "Pre-Game",
       "abstractGameState": "Preview",
-      "codedGameState": "S",
+      "codedGameState": "P",
       "awayTeam": {
         "id": 137,
         "name": "San Francisco Giants",
@@ -10440,7 +10440,7 @@
       "awayScore": null,
       "homeScore": null,
       "venue": "T-Mobile Park",
-      "awayPitcher": null,
+      "awayPitcher": "Zack Wheeler",
       "homePitcher": null
     },
     {
@@ -10561,7 +10561,7 @@
       "homeScore": null,
       "venue": "Yankee Stadium",
       "awayPitcher": null,
-      "homePitcher": null
+      "homePitcher": "Will Warren"
     },
     {
       "gamePk": 822773,
@@ -10680,7 +10680,7 @@
       "awayScore": null,
       "homeScore": null,
       "venue": "Busch Stadium",
-      "awayPitcher": null,
+      "awayPitcher": "Chris Bassitt",
       "homePitcher": null
     },
     {
@@ -10800,7 +10800,7 @@
       "awayScore": null,
       "homeScore": null,
       "venue": "T-Mobile Park",
-      "awayPitcher": null,
+      "awayPitcher": "Aaron Nola",
       "homePitcher": null
     },
     {
@@ -10968,7 +10968,7 @@
       "awayScore": null,
       "homeScore": null,
       "venue": "T-Mobile Park",
-      "awayPitcher": null,
+      "awayPitcher": "Jes\u00fas Luzardo",
       "homePitcher": null
     },
     {
@@ -11160,7 +11160,7 @@
       "awayScore": null,
       "homeScore": null,
       "venue": "Busch Stadium",
-      "awayPitcher": null,
+      "awayPitcher": "Kyle Bradish",
       "homePitcher": null
     },
     {
@@ -11232,7 +11232,7 @@
       "awayScore": null,
       "homeScore": null,
       "venue": "Busch Stadium",
-      "awayPitcher": null,
+      "awayPitcher": "Trevor Rogers",
       "homePitcher": null
     },
     {
@@ -11257,7 +11257,7 @@
       "homeScore": null,
       "venue": "Yankee Stadium",
       "awayPitcher": null,
-      "homePitcher": null
+      "homePitcher": "Gerrit Cole"
     },
     {
       "gamePk": 822771,
