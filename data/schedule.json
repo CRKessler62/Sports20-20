@@ -1,7 +1,7 @@
 {
   "league": "MLB",
   "timezone": "America/New_York",
-  "lastUpdated": "2026-08-23T15:49:46.378969+00:00",
+  "lastUpdated": "2026-08-23T16:57:42.237144+00:00",
   "games": [
     {
       "gamePk": 823759,
@@ -10040,9 +10040,9 @@
       "date": "2026-08-23",
       "gameDate": "2026-08-23T18:35:00Z",
       "localGameTime": "2026-08-23T14:35:00-04:00",
-      "status": "Scheduled",
+      "status": "Pre-Game",
       "abstractGameState": "Preview",
-      "codedGameState": "S",
+      "codedGameState": "P",
       "awayTeam": {
         "id": 108,
         "name": "Los Angeles Angels",
@@ -10064,9 +10064,9 @@
       "date": "2026-08-23",
       "gameDate": "2026-08-23T19:10:00Z",
       "localGameTime": "2026-08-23T15:10:00-04:00",
-      "status": "Scheduled",
+      "status": "Pre-Game",
       "abstractGameState": "Preview",
-      "codedGameState": "S",
+      "codedGameState": "P",
       "awayTeam": {
         "id": 114,
         "name": "Cleveland Guardians",
@@ -10101,8 +10101,8 @@
         "name": "Boston Red Sox",
         "abbreviation": "BOS"
       },
-      "awayScore": null,
-      "homeScore": null,
+      "awayScore": 0,
+      "homeScore": 0,
       "venue": "Fenway Park",
       "awayPitcher": "Matt Wilkinson",
       "homePitcher": "Jake Bennett"
@@ -10136,9 +10136,9 @@
       "date": "2026-08-23",
       "gameDate": "2026-08-23T20:10:00Z",
       "localGameTime": "2026-08-23T16:10:00-04:00",
-      "status": "Scheduled",
+      "status": "Pre-Game",
       "abstractGameState": "Preview",
-      "codedGameState": "S",
+      "codedGameState": "P",
       "awayTeam": {
         "id": 112,
         "name": "Chicago Cubs",
@@ -10160,9 +10160,9 @@
       "date": "2026-08-23",
       "gameDate": "2026-08-23T20:10:00Z",
       "localGameTime": "2026-08-23T16:10:00-04:00",
-      "status": "Scheduled",
+      "status": "Pre-Game",
       "abstractGameState": "Preview",
-      "codedGameState": "S",
+      "codedGameState": "P",
       "awayTeam": {
         "id": 142,
         "name": "Minnesota Twins",
@@ -10173,8 +10173,8 @@
         "name": "San Diego Padres",
         "abbreviation": "SD"
       },
-      "awayScore": null,
-      "homeScore": null,
+      "awayScore": 0,
+      "homeScore": 0,
       "venue": "Petco Park",
       "awayPitcher": "Bailey Ober",
       "homePitcher": "Walker Buehler"
@@ -10248,7 +10248,7 @@
       "awayScore": null,
       "homeScore": null,
       "venue": "Comerica Park",
-      "awayPitcher": null,
+      "awayPitcher": "Drew Rasmussen",
       "homePitcher": null
     },
     {
@@ -10272,8 +10272,8 @@
       "awayScore": null,
       "homeScore": null,
       "venue": "loanDepot park",
-      "awayPitcher": null,
-      "homePitcher": null
+      "awayPitcher": "Ranger Suarez",
+      "homePitcher": "Sandy Alcantara"
     },
     {
       "gamePk": 822695,
@@ -10297,7 +10297,7 @@
       "homeScore": null,
       "venue": "Nationals Park",
       "awayPitcher": null,
-      "homePitcher": null
+      "homePitcher": "Cade Cavalli"
     },
     {
       "gamePk": 824557,
@@ -10345,7 +10345,7 @@
       "homeScore": null,
       "venue": "Angel Stadium",
       "awayPitcher": "Parker Messick",
-      "homePitcher": null
+      "homePitcher": "George Klassen"
     },
     {
       "gamePk": 825041,
@@ -10417,7 +10417,7 @@
       "homeScore": null,
       "venue": "Sutter Health Park",
       "awayPitcher": null,
-      "homePitcher": null
+      "homePitcher": "Jeffrey Springs"
     },
     {
       "gamePk": 823097,
@@ -10488,7 +10488,7 @@
       "awayScore": null,
       "homeScore": null,
       "venue": "Comerica Park",
-      "awayPitcher": null,
+      "awayPitcher": "Ian Seymour",
       "homePitcher": null
     },
     {
@@ -10512,7 +10512,7 @@
       "awayScore": null,
       "homeScore": null,
       "venue": "loanDepot park",
-      "awayPitcher": null,
+      "awayPitcher": "Payton Tolle",
       "homePitcher": null
     },
     {
@@ -10537,7 +10537,7 @@
       "homeScore": null,
       "venue": "Nationals Park",
       "awayPitcher": null,
-      "homePitcher": null
+      "homePitcher": "Andrew Alvarez"
     },
     {
       "gamePk": 823505,
@@ -10704,8 +10704,8 @@
       "awayScore": null,
       "homeScore": null,
       "venue": "Angel Stadium",
-      "awayPitcher": null,
-      "homePitcher": null
+      "awayPitcher": "Gavin Williams",
+      "homePitcher": "Walbert Ure\u00f1a"
     },
     {
       "gamePk": 825042,
@@ -10777,7 +10777,7 @@
       "homeScore": null,
       "venue": "Sutter Health Park",
       "awayPitcher": null,
-      "homePitcher": null
+      "homePitcher": "Gage Jump"
     },
     {
       "gamePk": 823098,
@@ -10848,7 +10848,7 @@
       "awayScore": null,
       "homeScore": null,
       "venue": "Comerica Park",
-      "awayPitcher": null,
+      "awayPitcher": "Freddy Peralta",
       "homePitcher": null
     },
     {
@@ -10920,8 +10920,8 @@
       "awayScore": null,
       "homeScore": null,
       "venue": "Angel Stadium",
-      "awayPitcher": null,
-      "homePitcher": null
+      "awayPitcher": "Joey Cantillo",
+      "homePitcher": "Grayson Rodriguez"
     },
     {
       "gamePk": 823255,
@@ -10992,8 +10992,8 @@
       "awayScore": null,
       "homeScore": null,
       "venue": "loanDepot park",
-      "awayPitcher": null,
-      "homePitcher": null
+      "awayPitcher": "Sonny Gray",
+      "homePitcher": "Ryan Gusto"
     },
     {
       "gamePk": 822692,
@@ -11185,7 +11185,7 @@
       "homeScore": null,
       "venue": "Sutter Health Park",
       "awayPitcher": null,
-      "homePitcher": null
+      "homePitcher": "J.T. Ginn"
     },
     {
       "gamePk": 822694,
@@ -11209,7 +11209,7 @@
       "homeScore": null,
       "venue": "Nationals Park",
       "awayPitcher": null,
-      "homePitcher": null
+      "homePitcher": "Jake Irvin"
     },
     {
       "gamePk": 823014,
