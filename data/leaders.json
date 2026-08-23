@@ -1,6 +1,6 @@
 {
   "season": 2026,
-  "lastUpdated": "2026-08-23T21:54:07.662285+00:00",
+  "lastUpdated": "2026-08-23T22:55:43.994560+00:00",
   "leagues": {
     "AL": {
       "offense": {
@@ -38,7 +38,7 @@
             "player": "Chase DeLauter",
             "team": "Cleveland Guardians",
             "position": "RF",
-            "value": ".289"
+            "value": ".288"
           }
         ],
         "hits": [
@@ -585,17 +585,17 @@
           },
           {
             "rank": 4,
-            "player": "Louis Varland",
-            "team": "Toronto Blue Jays",
+            "player": "Aroldis Chapman",
+            "team": "Boston Red Sox",
             "position": "P",
             "value": "29"
           },
           {
             "rank": 5,
-            "player": "Aroldis Chapman",
-            "team": "Boston Red Sox",
+            "player": "Louis Varland",
+            "team": "Toronto Blue Jays",
             "position": "P",
-            "value": "28"
+            "value": "29"
           }
         ],
         "innings": [
@@ -709,7 +709,7 @@
             "player": "Josh Naylor",
             "team": "Seattle Mariners",
             "position": "1B",
-            "value": "830"
+            "value": "833"
           }
         ],
         "assists": [
@@ -718,7 +718,7 @@
             "player": "Cole Young",
             "team": "Seattle Mariners",
             "position": "2B",
-            "value": "331"
+            "value": "334"
           },
           {
             "rank": 2,
@@ -789,17 +789,17 @@
         "doublePlays": [
           {
             "rank": 1,
-            "player": "Spencer Torkelson",
-            "team": "Detroit Tigers",
+            "player": "Josh Naylor",
+            "team": "Seattle Mariners",
             "position": "1B",
             "value": "90"
           },
           {
             "rank": 2,
-            "player": "Josh Naylor",
-            "team": "Seattle Mariners",
+            "player": "Spencer Torkelson",
+            "team": "Detroit Tigers",
             "position": "1B",
-            "value": "88"
+            "value": "90"
           },
           {
             "rank": 3,
@@ -862,7 +862,7 @@
             "player": "Freddie Freeman",
             "team": "Los Angeles Dodgers",
             "position": "1B",
-            "value": ".303"
+            "value": ".302"
           }
         ],
         "hits": [
@@ -882,24 +882,24 @@
           },
           {
             "rank": 3,
+            "player": "Fernando Tatis Jr.",
+            "team": "San Diego Padres",
+            "position": "RF",
+            "value": "146"
+          },
+          {
+            "rank": 4,
             "player": "Alec Burleson",
             "team": "St. Louis Cardinals",
             "position": "1B",
             "value": "145"
           },
           {
-            "rank": 4,
+            "rank": 5,
             "player": "Freddie Freeman",
             "team": "Los Angeles Dodgers",
             "position": "1B",
             "value": "145"
-          },
-          {
-            "rank": 5,
-            "player": "Fernando Tatis Jr.",
-            "team": "San Diego Padres",
-            "position": "RF",
-            "value": "144"
           }
         ],
         "homeRuns": [
@@ -929,7 +929,7 @@
             "player": "Pete Crow-Armstrong",
             "team": "Chicago Cubs",
             "position": "CF",
-            "value": "32"
+            "value": "33"
           },
           {
             "rank": 5,
@@ -973,7 +973,7 @@
             "player": "Pete Crow-Armstrong",
             "team": "Chicago Cubs",
             "position": "CF",
-            "value": "80"
+            "value": "83"
           }
         ],
         "runs": [
@@ -989,7 +989,7 @@
             "player": "Pete Crow-Armstrong",
             "team": "Chicago Cubs",
             "position": "CF",
-            "value": "91"
+            "value": "93"
           },
           {
             "rank": 3,
@@ -1026,20 +1026,20 @@
             "player": "Shohei Ohtani",
             "team": "Los Angeles Dodgers",
             "position": "TWP",
-            "value": ".390"
+            "value": ".389"
           },
           {
             "rank": 3,
-            "player": "Jake Bauers",
-            "team": "Milwaukee Brewers",
-            "position": "1B",
+            "player": "Gabriel Moreno",
+            "team": "Arizona Diamondbacks",
+            "position": "C",
             "value": ".384"
           },
           {
             "rank": 4,
-            "player": "Gabriel Moreno",
-            "team": "Arizona Diamondbacks",
-            "position": "C",
+            "player": "Jake Bauers",
+            "team": "Milwaukee Brewers",
+            "position": "1B",
             "value": ".384"
           },
           {
@@ -1056,14 +1056,14 @@
             "player": "Pete Crow-Armstrong",
             "team": "Chicago Cubs",
             "position": "CF",
-            "value": ".551"
+            "value": ".559"
           },
           {
             "rank": 2,
             "player": "Shohei Ohtani",
             "team": "Los Angeles Dodgers",
             "position": "TWP",
-            "value": ".546"
+            "value": ".545"
           },
           {
             "rank": 3,
@@ -1090,17 +1090,17 @@
         "ops": [
           {
             "rank": 1,
-            "player": "Shohei Ohtani",
-            "team": "Los Angeles Dodgers",
-            "position": "TWP",
-            "value": ".936"
-          },
-          {
-            "rank": 2,
             "player": "Pete Crow-Armstrong",
             "team": "Chicago Cubs",
             "position": "CF",
-            "value": ".928"
+            "value": ".938"
+          },
+          {
+            "rank": 2,
+            "player": "Shohei Ohtani",
+            "team": "Los Angeles Dodgers",
+            "position": "TWP",
+            "value": ".934"
           },
           {
             "rank": 3,
@@ -1204,7 +1204,7 @@
             "player": "Corbin Carroll",
             "team": "Arizona Diamondbacks",
             "position": "RF",
-            "value": "15"
+            "value": "16"
           },
           {
             "rank": 2,
@@ -1516,17 +1516,17 @@
           },
           {
             "rank": 3,
+            "player": "Michael Busch",
+            "team": "Chicago Cubs",
+            "position": "1B",
+            "value": "971"
+          },
+          {
+            "rank": 4,
             "player": "J.T. Realmuto",
             "team": "Philadelphia Phillies",
             "position": "C",
             "value": "970"
-          },
-          {
-            "rank": 4,
-            "player": "Michael Busch",
-            "team": "Chicago Cubs",
-            "position": "1B",
-            "value": "968"
           },
           {
             "rank": 5,
@@ -1570,7 +1570,7 @@
             "player": "Geraldo Perdomo",
             "team": "Arizona Diamondbacks",
             "position": "SS",
-            "value": "305"
+            "value": "306"
           }
         ],
         "errors": [
