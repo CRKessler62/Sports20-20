@@ -1,7 +1,7 @@
 {
   "league": "MLB",
   "timezone": "America/New_York",
-  "lastUpdated": "2026-08-23T22:52:25.200002+00:00",
+  "lastUpdated": "2026-08-23T23:47:25.100584+00:00",
   "games": [
     {
       "gamePk": 823759,
@@ -10112,9 +10112,9 @@
       "date": "2026-08-23",
       "gameDate": "2026-08-23T20:10:00Z",
       "localGameTime": "2026-08-23T16:10:00-04:00",
-      "status": "Game Over",
+      "status": "Final",
       "abstractGameState": "Final",
-      "codedGameState": "O",
+      "codedGameState": "F",
       "awayTeam": {
         "id": 134,
         "name": "Pittsburgh Pirates",
@@ -10136,9 +10136,9 @@
       "date": "2026-08-23",
       "gameDate": "2026-08-23T20:10:00Z",
       "localGameTime": "2026-08-23T16:10:00-04:00",
-      "status": "In Progress",
-      "abstractGameState": "Live",
-      "codedGameState": "I",
+      "status": "Final",
+      "abstractGameState": "Final",
+      "codedGameState": "F",
       "awayTeam": {
         "id": 112,
         "name": "Chicago Cubs",
@@ -10149,7 +10149,7 @@
         "name": "Seattle Mariners",
         "abbreviation": "SEA"
       },
-      "awayScore": 10,
+      "awayScore": 19,
       "homeScore": 2,
       "venue": "T-Mobile Park",
       "awayPitcher": "Shota Imanaga",
@@ -10160,9 +10160,9 @@
       "date": "2026-08-23",
       "gameDate": "2026-08-23T20:10:00Z",
       "localGameTime": "2026-08-23T16:10:00-04:00",
-      "status": "In Progress",
-      "abstractGameState": "Live",
-      "codedGameState": "I",
+      "status": "Final",
+      "abstractGameState": "Final",
+      "codedGameState": "F",
       "awayTeam": {
         "id": 142,
         "name": "Minnesota Twins",
@@ -10184,9 +10184,9 @@
       "date": "2026-08-23",
       "gameDate": "2026-08-23T20:15:00Z",
       "localGameTime": "2026-08-23T16:15:00-04:00",
-      "status": "In Progress",
-      "abstractGameState": "Live",
-      "codedGameState": "I",
+      "status": "Final",
+      "abstractGameState": "Final",
+      "codedGameState": "F",
       "awayTeam": {
         "id": 113,
         "name": "Cincinnati Reds",
@@ -10208,9 +10208,9 @@
       "date": "2026-08-23",
       "gameDate": "2026-08-23T23:10:00Z",
       "localGameTime": "2026-08-23T19:10:00-04:00",
-      "status": "Warmup",
+      "status": "In Progress",
       "abstractGameState": "Live",
-      "codedGameState": "P",
+      "codedGameState": "I",
       "awayTeam": {
         "id": 144,
         "name": "Atlanta Braves",
@@ -10221,7 +10221,7 @@
         "name": "Milwaukee Brewers",
         "abbreviation": "MIL"
       },
-      "awayScore": 0,
+      "awayScore": 1,
       "homeScore": 0,
       "venue": "Journey Bank Ballpark",
       "awayPitcher": "Tyler Mahle",
@@ -10560,7 +10560,7 @@
       "awayScore": null,
       "homeScore": null,
       "venue": "Yankee Stadium",
-      "awayPitcher": null,
+      "awayPitcher": "Ethan Pecko",
       "homePitcher": "Will Warren"
     },
     {
@@ -10633,7 +10633,7 @@
       "homeScore": null,
       "venue": "Truist Park",
       "awayPitcher": "Tyler Glasnow",
-      "homePitcher": null
+      "homePitcher": "Bryce Elder"
     },
     {
       "gamePk": 824556,
@@ -11040,7 +11040,7 @@
       "awayScore": null,
       "homeScore": null,
       "venue": "Yankee Stadium",
-      "awayPitcher": null,
+      "awayPitcher": "Peter Lambert",
       "homePitcher": null
     },
     {
@@ -11113,7 +11113,7 @@
       "homeScore": null,
       "venue": "Truist Park",
       "awayPitcher": "Roki Sasaki",
-      "homePitcher": null
+      "homePitcher": "AJ Smith-Shawver"
     },
     {
       "gamePk": 824555,
@@ -11256,7 +11256,7 @@
       "awayScore": null,
       "homeScore": null,
       "venue": "Yankee Stadium",
-      "awayPitcher": null,
+      "awayPitcher": "Hayden Wesneski",
       "homePitcher": "Gerrit Cole"
     },
     {
@@ -11329,7 +11329,7 @@
       "homeScore": null,
       "venue": "Truist Park",
       "awayPitcher": "Yoshinobu Yamamoto",
-      "homePitcher": null
+      "homePitcher": "Chris Sale"
     },
     {
       "gamePk": 823179,
