@@ -1,7 +1,7 @@
 {
   "league": "MLB",
   "timezone": "America/New_York",
-  "lastUpdated": "2026-08-23T03:30:49.636493+00:00",
+  "lastUpdated": "2026-08-23T05:16:07.142287+00:00",
   "games": [
     {
       "gamePk": 823759,
@@ -9848,9 +9848,9 @@
       "date": "2026-08-22",
       "gameDate": "2026-08-23T00:40:00Z",
       "localGameTime": "2026-08-22T20:40:00-04:00",
-      "status": "In Progress",
-      "abstractGameState": "Live",
-      "codedGameState": "I",
+      "status": "Final",
+      "abstractGameState": "Final",
+      "codedGameState": "F",
       "awayTeam": {
         "id": 142,
         "name": "Minnesota Twins",
@@ -10128,7 +10128,7 @@
       "awayScore": null,
       "homeScore": null,
       "venue": "UNIQLO Field at Dodger Stadium",
-      "awayPitcher": null,
+      "awayPitcher": "Lake Bachar",
       "homePitcher": "Blake Snell"
     },
     {
