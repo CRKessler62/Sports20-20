@@ -1,6 +1,6 @@
 {
   "league": "MLB",
-  "lastUpdated": "2026-08-23T13:44:49.133284+00:00",
+  "lastUpdated": "2026-08-23T14:52:02.867643+00:00",
   "games": [
     {
       "gamePk": 824799,
@@ -8,7 +8,7 @@
       "homeTeam": "Baltimore Orioles",
       "awayScore": 0,
       "homeScore": 0,
-      "status": "Scheduled",
+      "status": "Pre-Game",
       "gameDate": "2026-08-23T17:35:00Z",
       "inning": null,
       "inningOrdinal": null,
@@ -28,19 +28,25 @@
       "homeTeam": "Philadelphia Phillies",
       "awayScore": 0,
       "homeScore": 0,
-      "status": "Scheduled",
+      "status": "Pre-Game",
       "gameDate": "2026-08-23T17:35:00Z",
-      "inning": null,
-      "inningOrdinal": null,
-      "inningState": null,
-      "outs": null,
-      "battingTeam": null,
+      "inning": 1,
+      "inningOrdinal": "1st",
+      "inningState": "Top",
+      "outs": 0,
+      "battingTeam": "St. Louis Cardinals",
       "runners": {
         "first": false,
         "second": false,
         "third": false
       },
-      "inningScores": []
+      "inningScores": [
+        {
+          "inning": 1,
+          "awayRuns": 0,
+          "homeRuns": 0
+        }
+      ]
     },
     {
       "gamePk": 823507,
@@ -48,7 +54,7 @@
       "homeTeam": "New York Yankees",
       "awayScore": 0,
       "homeScore": 0,
-      "status": "Scheduled",
+      "status": "Pre-Game",
       "gameDate": "2026-08-23T17:35:00Z",
       "inning": null,
       "inningOrdinal": null,
@@ -88,7 +94,7 @@
       "homeTeam": "Kansas City Royals",
       "awayScore": 0,
       "homeScore": 0,
-      "status": "Scheduled",
+      "status": "Pre-Game",
       "gameDate": "2026-08-23T18:10:00Z",
       "inning": null,
       "inningOrdinal": null,
