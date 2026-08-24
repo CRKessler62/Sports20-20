@@ -1,6 +1,6 @@
 {
   "season": 2026,
-  "lastUpdated": "2026-08-23T23:54:10.302134+00:00",
+  "lastUpdated": "2026-08-24T03:36:51.400057+00:00",
   "leagues": {
     "AL": {
       "offense": {
@@ -1040,7 +1040,7 @@
             "player": "Jake Bauers",
             "team": "Milwaukee Brewers",
             "position": "1B",
-            "value": ".383"
+            "value": ".382"
           },
           {
             "rank": 5,
@@ -1074,17 +1074,17 @@
           },
           {
             "rank": 4,
-            "player": "Matt Olson",
-            "team": "Atlanta Braves",
-            "position": "1B",
-            "value": ".536"
-          },
-          {
-            "rank": 5,
             "player": "James Wood",
             "team": "Washington Nationals",
             "position": "RF",
             "value": ".535"
+          },
+          {
+            "rank": 5,
+            "player": "Kyle Schwarber",
+            "team": "Philadelphia Phillies",
+            "position": "DH",
+            "value": ".532"
           }
         ],
         "ops": [
@@ -1121,7 +1121,7 @@
             "player": "Jake Bauers",
             "team": "Milwaukee Brewers",
             "position": "1B",
-            "value": ".888"
+            "value": ".885"
           }
         ],
         "stolenBases": [
@@ -1412,7 +1412,7 @@
             "player": "Raisel Iglesias",
             "team": "Atlanta Braves",
             "position": "P",
-            "value": "26"
+            "value": "27"
           },
           {
             "rank": 5,
@@ -1512,7 +1512,7 @@
             "player": "William Contreras",
             "team": "Milwaukee Brewers",
             "position": "C",
-            "value": "981"
+            "value": "989"
           },
           {
             "rank": 3,
@@ -1533,7 +1533,7 @@
             "player": "Matt Olson",
             "team": "Atlanta Braves",
             "position": "1B",
-            "value": "937"
+            "value": "945"
           }
         ],
         "assists": [
@@ -1567,10 +1567,10 @@
           },
           {
             "rank": 5,
-            "player": "Geraldo Perdomo",
-            "team": "Arizona Diamondbacks",
-            "position": "SS",
-            "value": "306"
+            "player": "Ozzie Albies",
+            "team": "Atlanta Braves",
+            "position": "2B",
+            "value": "308"
           }
         ],
         "errors": [
@@ -1623,7 +1623,7 @@
             "player": "Matt Olson",
             "team": "Atlanta Braves",
             "position": "1B",
-            "value": "99"
+            "value": "102"
           },
           {
             "rank": 3,
