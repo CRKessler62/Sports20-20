@@ -1,7 +1,7 @@
 {
   "league": "MLB",
   "timezone": "America/New_York",
-  "lastUpdated": "2026-08-24T17:04:18.841806+00:00",
+  "lastUpdated": "2026-08-24T19:43:48.618544+00:00",
   "games": [
     {
       "gamePk": 824244,
@@ -9872,9 +9872,9 @@
       "date": "2026-08-24",
       "gameDate": "2026-08-24T22:40:00Z",
       "localGameTime": "2026-08-24T18:40:00-04:00",
-      "status": "Scheduled",
+      "status": "Pre-Game",
       "abstractGameState": "Preview",
-      "codedGameState": "S",
+      "codedGameState": "P",
       "awayTeam": {
         "id": 139,
         "name": "Tampa Bay Rays",
@@ -9896,9 +9896,9 @@
       "date": "2026-08-24",
       "gameDate": "2026-08-24T22:40:00Z",
       "localGameTime": "2026-08-24T18:40:00-04:00",
-      "status": "Scheduled",
+      "status": "Pre-Game",
       "abstractGameState": "Preview",
-      "codedGameState": "S",
+      "codedGameState": "P",
       "awayTeam": {
         "id": 111,
         "name": "Boston Red Sox",
@@ -9920,9 +9920,9 @@
       "date": "2026-08-24",
       "gameDate": "2026-08-24T22:45:00Z",
       "localGameTime": "2026-08-24T18:45:00-04:00",
-      "status": "Scheduled",
+      "status": "Pre-Game",
       "abstractGameState": "Preview",
-      "codedGameState": "S",
+      "codedGameState": "P",
       "awayTeam": {
         "id": 115,
         "name": "Colorado Rockies",
@@ -9933,8 +9933,8 @@
         "name": "Washington Nationals",
         "abbreviation": "WSH"
       },
-      "awayScore": null,
-      "homeScore": null,
+      "awayScore": 0,
+      "homeScore": 0,
       "venue": "Nationals Park",
       "awayPitcher": "Ryan Feltner",
       "homePitcher": "Cade Cavalli"
@@ -9944,9 +9944,9 @@
       "date": "2026-08-24",
       "gameDate": "2026-08-24T23:40:00Z",
       "localGameTime": "2026-08-24T19:40:00-04:00",
-      "status": "Scheduled",
+      "status": "Pre-Game",
       "abstractGameState": "Preview",
-      "codedGameState": "S",
+      "codedGameState": "P",
       "awayTeam": {
         "id": 140,
         "name": "Texas Rangers",
@@ -11016,7 +11016,7 @@
       "awayScore": null,
       "homeScore": null,
       "venue": "Wrigley Field",
-      "awayPitcher": null,
+      "awayPitcher": "Rhett Lowder",
       "homePitcher": null
     },
     {
