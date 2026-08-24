@@ -1,20 +1,20 @@
 {
   "league": "MLB",
-  "lastUpdated": "2026-08-24T23:00:10.287463+00:00",
+  "lastUpdated": "2026-08-24T23:53:16.020110+00:00",
   "games": [
     {
       "gamePk": 824235,
       "awayTeam": "Tampa Bay Rays",
       "homeTeam": "Detroit Tigers",
-      "awayScore": 2,
-      "homeScore": 0,
+      "awayScore": 3,
+      "homeScore": 1,
       "status": "In Progress",
       "gameDate": "2026-08-24T22:40:00Z",
-      "inning": 1,
-      "inningOrdinal": "1st",
-      "inningState": "Bottom",
-      "outs": 1,
-      "battingTeam": "Detroit Tigers",
+      "inning": 4,
+      "inningOrdinal": "4th",
+      "inningState": "End",
+      "outs": 3,
+      "battingTeam": "Tampa Bay Rays",
       "runners": {
         "first": false,
         "second": false,
@@ -25,6 +25,21 @@
           "inning": 1,
           "awayRuns": 2,
           "homeRuns": 0
+        },
+        {
+          "inning": 2,
+          "awayRuns": 0,
+          "homeRuns": 0
+        },
+        {
+          "inning": 3,
+          "awayRuns": 0,
+          "homeRuns": 0
+        },
+        {
+          "inning": 4,
+          "awayRuns": 1,
+          "homeRuns": 1
         }
       ]
     },
@@ -32,18 +47,64 @@
       "gamePk": 823828,
       "awayTeam": "Boston Red Sox",
       "homeTeam": "Miami Marlins",
-      "awayScore": 0,
-      "homeScore": 0,
+      "awayScore": 1,
+      "homeScore": 1,
       "status": "In Progress",
       "gameDate": "2026-08-24T22:40:00Z",
-      "inning": 2,
-      "inningOrdinal": "2nd",
-      "inningState": "Middle",
-      "outs": 3,
+      "inning": 5,
+      "inningOrdinal": "5th",
+      "inningState": "Top",
+      "outs": 1,
       "battingTeam": "Boston Red Sox",
       "runners": {
         "first": false,
-        "second": false,
+        "second": true,
+        "third": false
+      },
+      "inningScores": [
+        {
+          "inning": 1,
+          "awayRuns": 0,
+          "homeRuns": 0
+        },
+        {
+          "inning": 2,
+          "awayRuns": 0,
+          "homeRuns": 1
+        },
+        {
+          "inning": 3,
+          "awayRuns": 0,
+          "homeRuns": 0
+        },
+        {
+          "inning": 4,
+          "awayRuns": 0,
+          "homeRuns": 0
+        },
+        {
+          "inning": 5,
+          "awayRuns": 1,
+          "homeRuns": 0
+        }
+      ]
+    },
+    {
+      "gamePk": 822695,
+      "awayTeam": "Colorado Rockies",
+      "homeTeam": "Washington Nationals",
+      "awayScore": 1,
+      "homeScore": 0,
+      "status": "In Progress",
+      "gameDate": "2026-08-24T22:45:00Z",
+      "inning": 4,
+      "inningOrdinal": "4th",
+      "inningState": "Top",
+      "outs": 2,
+      "battingTeam": "Colorado Rockies",
+      "runners": {
+        "first": true,
+        "second": true,
         "third": false
       },
       "inningScores": [
@@ -56,31 +117,15 @@
           "inning": 2,
           "awayRuns": 0,
           "homeRuns": 0
-        }
-      ]
-    },
-    {
-      "gamePk": 822695,
-      "awayTeam": "Colorado Rockies",
-      "homeTeam": "Washington Nationals",
-      "awayScore": 0,
-      "homeScore": 0,
-      "status": "In Progress",
-      "gameDate": "2026-08-24T22:45:00Z",
-      "inning": 1,
-      "inningOrdinal": "1st",
-      "inningState": "Bottom",
-      "outs": 0,
-      "battingTeam": "Washington Nationals",
-      "runners": {
-        "first": false,
-        "second": false,
-        "third": false
-      },
-      "inningScores": [
+        },
         {
-          "inning": 1,
+          "inning": 3,
           "awayRuns": 0,
+          "homeRuns": 0
+        },
+        {
+          "inning": 4,
+          "awayRuns": 1,
           "homeRuns": 0
         }
       ]
@@ -89,24 +134,24 @@
       "gamePk": 824557,
       "awayTeam": "Texas Rangers",
       "homeTeam": "Chicago White Sox",
-      "awayScore": 0,
+      "awayScore": 1,
       "homeScore": 0,
-      "status": "Pre-Game",
+      "status": "In Progress",
       "gameDate": "2026-08-24T23:40:00Z",
       "inning": 1,
       "inningOrdinal": "1st",
       "inningState": "Top",
-      "outs": 0,
+      "outs": 2,
       "battingTeam": "Texas Rangers",
       "runners": {
-        "first": false,
+        "first": true,
         "second": false,
-        "third": false
+        "third": true
       },
       "inningScores": [
         {
           "inning": 1,
-          "awayRuns": 0,
+          "awayRuns": 1,
           "homeRuns": 0
         }
       ]
@@ -249,17 +294,23 @@
       "homeScore": 0,
       "status": "Pre-Game",
       "gameDate": "2026-08-25T01:45:00Z",
-      "inning": null,
-      "inningOrdinal": null,
-      "inningState": null,
-      "outs": null,
-      "battingTeam": null,
+      "inning": 1,
+      "inningOrdinal": "1st",
+      "inningState": "Top",
+      "outs": 0,
+      "battingTeam": "Cincinnati Reds",
       "runners": {
         "first": false,
         "second": false,
         "third": false
       },
-      "inningScores": []
+      "inningScores": [
+        {
+          "inning": 1,
+          "awayRuns": 0,
+          "homeRuns": 0
+        }
+      ]
     }
   ]
 }
