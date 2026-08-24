@@ -1,6 +1,6 @@
 {
   "season": 2026,
-  "lastUpdated": "2026-08-24T21:46:03.059995+00:00",
+  "lastUpdated": "2026-08-24T23:01:39.441305+00:00",
   "leagues": {
     "AL": {
       "offense": {
@@ -24,7 +24,7 @@
             "player": "Yandy D\u00edaz",
             "team": "Tampa Bay Rays",
             "position": "DH",
-            "value": ".306"
+            "value": ".307"
           },
           {
             "rank": 4,
@@ -47,7 +47,7 @@
             "player": "Yandy D\u00edaz",
             "team": "Tampa Bay Rays",
             "position": "DH",
-            "value": "151"
+            "value": "152"
           },
           {
             "rank": 2,
@@ -135,7 +135,7 @@
             "player": "Junior Caminero",
             "team": "Tampa Bay Rays",
             "position": "3B",
-            "value": "83"
+            "value": "84"
           },
           {
             "rank": 4,
@@ -209,7 +209,7 @@
             "player": "Willson Contreras",
             "team": "Boston Red Sox",
             "position": "1B",
-            "value": ".392"
+            "value": ".391"
           },
           {
             "rank": 4,
@@ -239,14 +239,14 @@
             "player": "Willson Contreras",
             "team": "Boston Red Sox",
             "position": "1B",
-            "value": ".533"
+            "value": ".532"
           },
           {
             "rank": 3,
             "player": "Junior Caminero",
             "team": "Tampa Bay Rays",
             "position": "3B",
-            "value": ".532"
+            "value": ".531"
           },
           {
             "rank": 4,
@@ -276,14 +276,14 @@
             "player": "Willson Contreras",
             "team": "Boston Red Sox",
             "position": "1B",
-            "value": ".925"
+            "value": ".923"
           },
           {
             "rank": 3,
             "player": "Junior Caminero",
             "team": "Tampa Bay Rays",
             "position": "3B",
-            "value": ".895"
+            "value": ".894"
           },
           {
             "rank": 4,
@@ -530,7 +530,7 @@
             "player": "Drew Rasmussen",
             "team": "Tampa Bay Rays",
             "position": "P",
-            "value": "0.95"
+            "value": "0.94"
           },
           {
             "rank": 2,
@@ -681,7 +681,7 @@
             "player": "Spencer Torkelson",
             "team": "Detroit Tigers",
             "position": "1B",
-            "value": "973"
+            "value": "974"
           },
           {
             "rank": 2,
@@ -695,14 +695,14 @@
             "player": "Jonathan Aranda",
             "team": "Tampa Bay Rays",
             "position": "1B",
-            "value": "870"
+            "value": "871"
           },
           {
             "rank": 4,
             "player": "Willson Contreras",
             "team": "Boston Red Sox",
             "position": "1B",
-            "value": "835"
+            "value": "836"
           },
           {
             "rank": 5,
@@ -855,7 +855,7 @@
             "player": "Otto Lopez",
             "team": "Miami Marlins",
             "position": "SS",
-            "value": ".306"
+            "value": ".305"
           },
           {
             "rank": 5,
@@ -1428,7 +1428,7 @@
             "player": "Sandy Alcantara",
             "team": "Miami Marlins",
             "position": "P",
-            "value": "176.2"
+            "value": "178.2"
           },
           {
             "rank": 2,
@@ -1563,7 +1563,7 @@
             "player": "Xavier Edwards",
             "team": "Miami Marlins",
             "position": "2B",
-            "value": "310"
+            "value": "311"
           },
           {
             "rank": 5,
