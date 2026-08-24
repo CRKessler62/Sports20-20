@@ -1,6 +1,6 @@
 {
   "season": 2026,
-  "lastUpdated": "2026-08-24T23:01:39.441305+00:00",
+  "lastUpdated": "2026-08-24T23:54:57.666312+00:00",
   "leagues": {
     "AL": {
       "offense": {
@@ -17,21 +17,21 @@
             "player": "Chandler Simpson",
             "team": "Tampa Bay Rays",
             "position": "LF",
-            "value": ".310"
+            "value": ".311"
           },
           {
             "rank": 3,
             "player": "Yandy D\u00edaz",
             "team": "Tampa Bay Rays",
             "position": "DH",
-            "value": ".307"
+            "value": ".306"
           },
           {
             "rank": 4,
             "player": "Ceddanne Rafaela",
             "team": "Boston Red Sox",
             "position": "CF",
-            "value": ".289"
+            "value": ".288"
           },
           {
             "rank": 5,
@@ -68,7 +68,7 @@
             "player": "Chandler Simpson",
             "team": "Tampa Bay Rays",
             "position": "LF",
-            "value": "142"
+            "value": "143"
           },
           {
             "rank": 5,
@@ -179,7 +179,7 @@
             "player": "Kevin McGonigle",
             "team": "Detroit Tigers",
             "position": "SS",
-            "value": "83"
+            "value": "84"
           },
           {
             "rank": 5,
@@ -209,7 +209,7 @@
             "player": "Willson Contreras",
             "team": "Boston Red Sox",
             "position": "1B",
-            "value": ".391"
+            "value": ".390"
           },
           {
             "rank": 4,
@@ -236,17 +236,17 @@
           },
           {
             "rank": 2,
-            "player": "Willson Contreras",
-            "team": "Boston Red Sox",
-            "position": "1B",
-            "value": ".532"
-          },
-          {
-            "rank": 3,
             "player": "Junior Caminero",
             "team": "Tampa Bay Rays",
             "position": "3B",
             "value": ".531"
+          },
+          {
+            "rank": 3,
+            "player": "Willson Contreras",
+            "team": "Boston Red Sox",
+            "position": "1B",
+            "value": ".530"
           },
           {
             "rank": 4,
@@ -276,14 +276,14 @@
             "player": "Willson Contreras",
             "team": "Boston Red Sox",
             "position": "1B",
-            "value": ".923"
+            "value": ".920"
           },
           {
             "rank": 3,
             "player": "Junior Caminero",
             "team": "Tampa Bay Rays",
             "position": "3B",
-            "value": ".894"
+            "value": ".895"
           },
           {
             "rank": 4,
@@ -681,7 +681,7 @@
             "player": "Spencer Torkelson",
             "team": "Detroit Tigers",
             "position": "1B",
-            "value": "974"
+            "value": "981"
           },
           {
             "rank": 2,
@@ -695,14 +695,14 @@
             "player": "Jonathan Aranda",
             "team": "Tampa Bay Rays",
             "position": "1B",
-            "value": "871"
+            "value": "873"
           },
           {
             "rank": 4,
             "player": "Willson Contreras",
             "team": "Boston Red Sox",
             "position": "1B",
-            "value": "836"
+            "value": "838"
           },
           {
             "rank": 5,
@@ -820,7 +820,7 @@
             "player": "Willson Contreras",
             "team": "Boston Red Sox",
             "position": "1B",
-            "value": "77"
+            "value": "78"
           }
         ]
       },
@@ -1428,7 +1428,7 @@
             "player": "Sandy Alcantara",
             "team": "Miami Marlins",
             "position": "P",
-            "value": "178.2"
+            "value": "181.2"
           },
           {
             "rank": 2,
@@ -1563,7 +1563,7 @@
             "player": "Xavier Edwards",
             "team": "Miami Marlins",
             "position": "2B",
-            "value": "311"
+            "value": "312"
           },
           {
             "rank": 5,
