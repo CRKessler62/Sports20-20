@@ -1,7 +1,7 @@
 {
   "league": "MLB",
   "timezone": "America/New_York",
-  "lastUpdated": "2026-08-24T14:26:36.487165+00:00",
+  "lastUpdated": "2026-08-24T17:04:18.841806+00:00",
   "games": [
     {
       "gamePk": 824244,
@@ -9961,7 +9961,7 @@
       "homeScore": null,
       "venue": "Rate Field",
       "awayPitcher": "Kumar Rocker",
-      "homePitcher": null
+      "homePitcher": "Jos\u00e9 Urquidy"
     },
     {
       "gamePk": 823992,
@@ -10105,7 +10105,7 @@
       "homeScore": null,
       "venue": "Oracle Park",
       "awayPitcher": "Chase Burns",
-      "homePitcher": null
+      "homePitcher": "Carson Whisenhunt"
     },
     {
       "gamePk": 824233,
@@ -10465,7 +10465,7 @@
       "homeScore": null,
       "venue": "Oracle Park",
       "awayPitcher": "Brady Singer",
-      "homePitcher": null
+      "homePitcher": "Adrian Houser"
     },
     {
       "gamePk": 824234,
@@ -10537,7 +10537,7 @@
       "homeScore": null,
       "venue": "Oracle Park",
       "awayPitcher": "Nick Lodolo",
-      "homePitcher": null
+      "homePitcher": "Landen Roupp"
     },
     {
       "gamePk": 823988,
