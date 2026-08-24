@@ -1,7 +1,7 @@
 {
   "league": "MLB",
   "timezone": "America/New_York",
-  "lastUpdated": "2026-08-24T22:58:36.542410+00:00",
+  "lastUpdated": "2026-08-24T23:52:09.530565+00:00",
   "games": [
     {
       "gamePk": 824244,
@@ -9885,8 +9885,8 @@
         "name": "Detroit Tigers",
         "abbreviation": "DET"
       },
-      "awayScore": 2,
-      "homeScore": 0,
+      "awayScore": 3,
+      "homeScore": 1,
       "venue": "Comerica Park",
       "awayPitcher": "Drew Rasmussen",
       "homePitcher": "Framber Valdez"
@@ -9910,7 +9910,7 @@
         "abbreviation": "MIA"
       },
       "awayScore": 0,
-      "homeScore": 0,
+      "homeScore": 1,
       "venue": "loanDepot park",
       "awayPitcher": "Ranger Suarez",
       "homePitcher": "Sandy Alcantara"
@@ -9933,7 +9933,7 @@
         "name": "Washington Nationals",
         "abbreviation": "WSH"
       },
-      "awayScore": 0,
+      "awayScore": 1,
       "homeScore": 0,
       "venue": "Nationals Park",
       "awayPitcher": "Ryan Feltner",
@@ -9944,9 +9944,9 @@
       "date": "2026-08-24",
       "gameDate": "2026-08-24T23:40:00Z",
       "localGameTime": "2026-08-24T19:40:00-04:00",
-      "status": "Pre-Game",
-      "abstractGameState": "Preview",
-      "codedGameState": "P",
+      "status": "In Progress",
+      "abstractGameState": "Live",
+      "codedGameState": "I",
       "awayTeam": {
         "id": 140,
         "name": "Texas Rangers",
@@ -10101,8 +10101,8 @@
         "name": "San Francisco Giants",
         "abbreviation": "SF"
       },
-      "awayScore": null,
-      "homeScore": null,
+      "awayScore": 0,
+      "homeScore": 0,
       "venue": "Oracle Park",
       "awayPitcher": "Chase Burns",
       "homePitcher": "Carson Whisenhunt"
