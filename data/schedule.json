@@ -1,7 +1,7 @@
 {
   "league": "MLB",
   "timezone": "America/New_York",
-  "lastUpdated": "2026-08-24T21:04:58.771803+00:00",
+  "lastUpdated": "2026-08-24T22:58:36.542410+00:00",
   "games": [
     {
       "gamePk": 824244,
@@ -9872,9 +9872,9 @@
       "date": "2026-08-24",
       "gameDate": "2026-08-24T22:40:00Z",
       "localGameTime": "2026-08-24T18:40:00-04:00",
-      "status": "Pre-Game",
-      "abstractGameState": "Preview",
-      "codedGameState": "P",
+      "status": "In Progress",
+      "abstractGameState": "Live",
+      "codedGameState": "I",
       "awayTeam": {
         "id": 139,
         "name": "Tampa Bay Rays",
@@ -9885,7 +9885,7 @@
         "name": "Detroit Tigers",
         "abbreviation": "DET"
       },
-      "awayScore": 0,
+      "awayScore": 2,
       "homeScore": 0,
       "venue": "Comerica Park",
       "awayPitcher": "Drew Rasmussen",
@@ -9896,9 +9896,9 @@
       "date": "2026-08-24",
       "gameDate": "2026-08-24T22:40:00Z",
       "localGameTime": "2026-08-24T18:40:00-04:00",
-      "status": "Pre-Game",
-      "abstractGameState": "Preview",
-      "codedGameState": "P",
+      "status": "In Progress",
+      "abstractGameState": "Live",
+      "codedGameState": "I",
       "awayTeam": {
         "id": 111,
         "name": "Boston Red Sox",
@@ -9920,9 +9920,9 @@
       "date": "2026-08-24",
       "gameDate": "2026-08-24T22:45:00Z",
       "localGameTime": "2026-08-24T18:45:00-04:00",
-      "status": "Pre-Game",
-      "abstractGameState": "Preview",
-      "codedGameState": "P",
+      "status": "In Progress",
+      "abstractGameState": "Live",
+      "codedGameState": "I",
       "awayTeam": {
         "id": 115,
         "name": "Colorado Rockies",
@@ -9968,9 +9968,9 @@
       "date": "2026-08-24",
       "gameDate": "2026-08-25T01:38:00Z",
       "localGameTime": "2026-08-24T21:38:00-04:00",
-      "status": "Scheduled",
+      "status": "Pre-Game",
       "abstractGameState": "Preview",
-      "codedGameState": "S",
+      "codedGameState": "P",
       "awayTeam": {
         "id": 114,
         "name": "Cleveland Guardians",
@@ -9981,8 +9981,8 @@
         "name": "Los Angeles Angels",
         "abbreviation": "LAA"
       },
-      "awayScore": null,
-      "homeScore": null,
+      "awayScore": 0,
+      "homeScore": 0,
       "venue": "Angel Stadium",
       "awayPitcher": "Parker Messick",
       "homePitcher": "George Klassen"
@@ -9992,9 +9992,9 @@
       "date": "2026-08-24",
       "gameDate": "2026-08-25T01:40:00Z",
       "localGameTime": "2026-08-24T21:40:00-04:00",
-      "status": "Scheduled",
+      "status": "Pre-Game",
       "abstractGameState": "Preview",
-      "codedGameState": "S",
+      "codedGameState": "P",
       "awayTeam": {
         "id": 112,
         "name": "Chicago Cubs",
@@ -10005,8 +10005,8 @@
         "name": "Arizona Diamondbacks",
         "abbreviation": "AZ"
       },
-      "awayScore": null,
-      "homeScore": null,
+      "awayScore": 0,
+      "homeScore": 0,
       "venue": "Chase Field",
       "awayPitcher": "Kevin Gausman",
       "homePitcher": "Merrill Kelly"
@@ -10016,9 +10016,9 @@
       "date": "2026-08-24",
       "gameDate": "2026-08-25T01:40:00Z",
       "localGameTime": "2026-08-24T21:40:00-04:00",
-      "status": "Scheduled",
+      "status": "Pre-Game",
       "abstractGameState": "Preview",
-      "codedGameState": "S",
+      "codedGameState": "P",
       "awayTeam": {
         "id": 134,
         "name": "Pittsburgh Pirates",
@@ -10029,8 +10029,8 @@
         "name": "San Diego Padres",
         "abbreviation": "SD"
       },
-      "awayScore": null,
-      "homeScore": null,
+      "awayScore": 0,
+      "homeScore": 0,
       "venue": "Petco Park",
       "awayPitcher": "Braxton Ashcraft",
       "homePitcher": "Robbie Ray"
@@ -10053,8 +10053,8 @@
         "name": "Athletics",
         "abbreviation": "ATH"
       },
-      "awayScore": null,
-      "homeScore": null,
+      "awayScore": 0,
+      "homeScore": 0,
       "venue": "Sutter Health Park",
       "awayPitcher": "Zebby Matthews",
       "homePitcher": "Jeffrey Springs"
@@ -10064,9 +10064,9 @@
       "date": "2026-08-24",
       "gameDate": "2026-08-25T01:40:00Z",
       "localGameTime": "2026-08-24T21:40:00-04:00",
-      "status": "Scheduled",
+      "status": "Pre-Game",
       "abstractGameState": "Preview",
-      "codedGameState": "S",
+      "codedGameState": "P",
       "awayTeam": {
         "id": 143,
         "name": "Philadelphia Phillies",
@@ -10077,8 +10077,8 @@
         "name": "Seattle Mariners",
         "abbreviation": "SEA"
       },
-      "awayScore": null,
-      "homeScore": null,
+      "awayScore": 0,
+      "homeScore": 0,
       "venue": "T-Mobile Park",
       "awayPitcher": "Zack Wheeler",
       "homePitcher": "Logan Gilbert"
@@ -10088,9 +10088,9 @@
       "date": "2026-08-24",
       "gameDate": "2026-08-25T01:45:00Z",
       "localGameTime": "2026-08-24T21:45:00-04:00",
-      "status": "Scheduled",
+      "status": "Pre-Game",
       "abstractGameState": "Preview",
-      "codedGameState": "S",
+      "codedGameState": "P",
       "awayTeam": {
         "id": 113,
         "name": "Cincinnati Reds",
@@ -11208,7 +11208,7 @@
       "awayScore": null,
       "homeScore": null,
       "venue": "Yankee Stadium",
-      "awayPitcher": null,
+      "awayPitcher": "Patrick Sandoval",
       "homePitcher": null
     },
     {
