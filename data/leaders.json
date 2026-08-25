@@ -1,6 +1,6 @@
 {
   "season": 2026,
-  "lastUpdated": "2026-08-25T16:11:12.267339+00:00",
+  "lastUpdated": "2026-08-25T17:48:47.719498+00:00",
   "leagues": {
     "AL": {
       "offense": {
@@ -17,7 +17,7 @@
             "player": "Chandler Simpson",
             "team": "Tampa Bay Rays",
             "position": "LF",
-            "value": ".312"
+            "value": ".310"
           },
           {
             "rank": 3,
@@ -68,7 +68,7 @@
             "player": "Chandler Simpson",
             "team": "Tampa Bay Rays",
             "position": "LF",
-            "value": "144"
+            "value": "143"
           },
           {
             "rank": 5,
