@@ -1,7 +1,7 @@
 {
   "league": "MLB",
   "timezone": "America/New_York",
-  "lastUpdated": "2026-08-25T15:28:12.806023+00:00",
+  "lastUpdated": "2026-08-25T17:45:11.769898+00:00",
   "games": [
     {
       "gamePk": 822950,
@@ -11136,7 +11136,7 @@
       "awayScore": null,
       "homeScore": null,
       "venue": "Wrigley Field",
-      "awayPitcher": null,
+      "awayPitcher": "Andrew Abbott",
       "homePitcher": null
     },
     {
