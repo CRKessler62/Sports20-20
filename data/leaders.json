@@ -1,6 +1,6 @@
 {
   "season": 2026,
-  "lastUpdated": "2026-08-25T21:59:34.562492+00:00",
+  "lastUpdated": "2026-08-25T23:04:40.354878+00:00",
   "leagues": {
     "AL": {
       "offense": {
@@ -35,10 +35,10 @@
           },
           {
             "rank": 5,
-            "player": "Ceddanne Rafaela",
-            "team": "Boston Red Sox",
-            "position": "CF",
-            "value": ".289"
+            "player": "Chase DeLauter",
+            "team": "Cleveland Guardians",
+            "position": "RF",
+            "value": ".288"
           }
         ],
         "hits": [
@@ -72,9 +72,9 @@
           },
           {
             "rank": 5,
-            "player": "Ernie Clement",
-            "team": "Toronto Blue Jays",
-            "position": "2B",
+            "player": "Junior Caminero",
+            "team": "Tampa Bay Rays",
+            "position": "3B",
             "value": "139"
           }
         ],
@@ -209,14 +209,14 @@
             "player": "Willson Contreras",
             "team": "Boston Red Sox",
             "position": "1B",
-            "value": ".390"
+            "value": ".389"
           },
           {
             "rank": 4,
             "player": "Kevin McGonigle",
             "team": "Detroit Tigers",
             "position": "SS",
-            "value": ".384"
+            "value": ".383"
           },
           {
             "rank": 5,
@@ -239,14 +239,14 @@
             "player": "Junior Caminero",
             "team": "Tampa Bay Rays",
             "position": "3B",
-            "value": ".531"
+            "value": ".532"
           },
           {
             "rank": 3,
             "player": "Willson Contreras",
             "team": "Boston Red Sox",
             "position": "1B",
-            "value": ".528"
+            "value": ".526"
           },
           {
             "rank": 4,
@@ -276,14 +276,14 @@
             "player": "Willson Contreras",
             "team": "Boston Red Sox",
             "position": "1B",
-            "value": ".918"
+            "value": ".915"
           },
           {
             "rank": 3,
             "player": "Junior Caminero",
             "team": "Tampa Bay Rays",
             "position": "3B",
-            "value": ".895"
+            "value": ".897"
           },
           {
             "rank": 4,
@@ -681,7 +681,7 @@
             "player": "Spencer Torkelson",
             "team": "Detroit Tigers",
             "position": "1B",
-            "value": "987"
+            "value": "989"
           },
           {
             "rank": 2,
@@ -695,14 +695,14 @@
             "player": "Jonathan Aranda",
             "team": "Tampa Bay Rays",
             "position": "1B",
-            "value": "875"
+            "value": "878"
           },
           {
             "rank": 4,
             "player": "Willson Contreras",
             "team": "Boston Red Sox",
             "position": "1B",
-            "value": "844"
+            "value": "846"
           },
           {
             "rank": 5,
@@ -1070,7 +1070,7 @@
             "player": "Hunter Goodman",
             "team": "Colorado Rockies",
             "position": "C",
-            "value": ".541"
+            "value": ".540"
           },
           {
             "rank": 4,
