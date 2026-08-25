@@ -1,6 +1,6 @@
 {
   "season": 2026,
-  "lastUpdated": "2026-08-25T14:07:12.845256+00:00",
+  "lastUpdated": "2026-08-25T16:11:12.267339+00:00",
   "leagues": {
     "AL": {
       "offense": {
@@ -28,17 +28,17 @@
           },
           {
             "rank": 4,
+            "player": "Bobby Witt Jr.",
+            "team": "Kansas City Royals",
+            "position": "SS",
+            "value": ".290"
+          },
+          {
+            "rank": 5,
             "player": "Ceddanne Rafaela",
             "team": "Boston Red Sox",
             "position": "CF",
             "value": ".289"
-          },
-          {
-            "rank": 5,
-            "player": "Chase DeLauter",
-            "team": "Cleveland Guardians",
-            "position": "RF",
-            "value": ".288"
           }
         ],
         "hits": [
