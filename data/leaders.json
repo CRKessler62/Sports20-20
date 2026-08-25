@@ -1,6 +1,6 @@
 {
   "season": 2026,
-  "lastUpdated": "2026-08-25T03:27:43.930997+00:00",
+  "lastUpdated": "2026-08-25T05:52:33.099337+00:00",
   "leagues": {
     "AL": {
       "offense": {
@@ -223,7 +223,7 @@
             "player": "Mike Trout",
             "team": "Los Angeles Angels",
             "position": "CF",
-            "value": ".382"
+            "value": ".381"
           }
         ],
         "slg": [
@@ -481,8 +481,8 @@
           },
           {
             "rank": 5,
-            "player": "Cam Schlittler",
-            "team": "New York Yankees",
+            "player": "Logan Gilbert",
+            "team": "Seattle Mariners",
             "position": "P",
             "value": "11"
           }
@@ -574,7 +574,7 @@
             "player": "Cade Smith",
             "team": "Cleveland Guardians",
             "position": "P",
-            "value": "33"
+            "value": "34"
           },
           {
             "rank": 3,
@@ -709,7 +709,7 @@
             "player": "Josh Naylor",
             "team": "Seattle Mariners",
             "position": "1B",
-            "value": "836"
+            "value": "841"
           }
         ],
         "assists": [
@@ -718,7 +718,7 @@
             "player": "Cole Young",
             "team": "Seattle Mariners",
             "position": "2B",
-            "value": "337"
+            "value": "338"
           },
           {
             "rank": 2,
@@ -746,7 +746,7 @@
             "player": "Zach Neto",
             "team": "Los Angeles Angels",
             "position": "SS",
-            "value": "261"
+            "value": "263"
           }
         ],
         "errors": [
@@ -834,28 +834,28 @@
             "player": "Luis Arraez",
             "team": "Philadelphia Phillies",
             "position": "2B",
-            "value": ".322"
+            "value": ".321"
           },
           {
             "rank": 2,
+            "player": "Nick Gonzales",
+            "team": "Pittsburgh Pirates",
+            "position": "3B",
+            "value": ".308"
+          },
+          {
+            "rank": 3,
             "player": "Otto Lopez",
             "team": "Miami Marlins",
             "position": "SS",
             "value": ".307"
           },
           {
-            "rank": 3,
-            "player": "Nick Gonzales",
-            "team": "Pittsburgh Pirates",
-            "position": "3B",
-            "value": ".305"
-          },
-          {
             "rank": 4,
             "player": "Gabriel Moreno",
             "team": "Arizona Diamondbacks",
             "position": "C",
-            "value": ".304"
+            "value": ".303"
           },
           {
             "rank": 5,
@@ -1037,17 +1037,17 @@
           },
           {
             "rank": 4,
-            "player": "Gabriel Moreno",
-            "team": "Arizona Diamondbacks",
-            "position": "C",
-            "value": ".382"
-          },
-          {
-            "rank": 5,
             "player": "Jake Bauers",
             "team": "Milwaukee Brewers",
             "position": "1B",
             "value": ".382"
+          },
+          {
+            "rank": 5,
+            "player": "Gabriel Moreno",
+            "team": "Arizona Diamondbacks",
+            "position": "C",
+            "value": ".381"
           }
         ],
         "slg": [
@@ -1056,7 +1056,7 @@
             "player": "Pete Crow-Armstrong",
             "team": "Chicago Cubs",
             "position": "CF",
-            "value": ".555"
+            "value": ".554"
           },
           {
             "rank": 2,
@@ -1100,7 +1100,7 @@
             "player": "Pete Crow-Armstrong",
             "team": "Chicago Cubs",
             "position": "CF",
-            "value": ".931"
+            "value": ".930"
           },
           {
             "rank": 3,
@@ -1114,7 +1114,7 @@
             "player": "Kyle Schwarber",
             "team": "Philadelphia Phillies",
             "position": "DH",
-            "value": ".891"
+            "value": ".890"
           },
           {
             "rank": 5,
@@ -1375,7 +1375,7 @@
             "player": "Braxton Ashcraft",
             "team": "Pittsburgh Pirates",
             "position": "P",
-            "value": "1.06"
+            "value": "1.07"
           },
           {
             "rank": 5,
@@ -1446,17 +1446,17 @@
           },
           {
             "rank": 4,
+            "player": "Braxton Ashcraft",
+            "team": "Pittsburgh Pirates",
+            "position": "P",
+            "value": "155.1"
+          },
+          {
+            "rank": 5,
             "player": "Eduardo Rodriguez",
             "team": "Arizona Diamondbacks",
             "position": "P",
             "value": "155.0"
-          },
-          {
-            "rank": 5,
-            "player": "Braxton Ashcraft",
-            "team": "Pittsburgh Pirates",
-            "position": "P",
-            "value": "154.2"
           }
         ],
         "qualityStarts": []
@@ -1516,17 +1516,17 @@
           },
           {
             "rank": 3,
-            "player": "Michael Busch",
-            "team": "Chicago Cubs",
-            "position": "1B",
-            "value": "977"
-          },
-          {
-            "rank": 4,
             "player": "J.T. Realmuto",
             "team": "Philadelphia Phillies",
             "position": "C",
-            "value": "975"
+            "value": "983"
+          },
+          {
+            "rank": 4,
+            "player": "Michael Busch",
+            "team": "Chicago Cubs",
+            "position": "1B",
+            "value": "982"
           },
           {
             "rank": 5,
