@@ -1,7 +1,7 @@
 {
   "league": "MLB",
   "timezone": "America/New_York",
-  "lastUpdated": "2026-08-25T03:15:54.060205+00:00",
+  "lastUpdated": "2026-08-25T05:49:38.167442+00:00",
   "games": [
     {
       "gamePk": 822950,
@@ -9608,9 +9608,9 @@
       "date": "2026-08-24",
       "gameDate": "2026-08-25T01:38:00Z",
       "localGameTime": "2026-08-24T21:38:00-04:00",
-      "status": "In Progress",
-      "abstractGameState": "Live",
-      "codedGameState": "I",
+      "status": "Final",
+      "abstractGameState": "Final",
+      "codedGameState": "F",
       "awayTeam": {
         "id": 114,
         "name": "Cleveland Guardians",
@@ -9622,7 +9622,7 @@
         "abbreviation": "LAA"
       },
       "awayScore": 4,
-      "homeScore": 1,
+      "homeScore": 2,
       "venue": "Angel Stadium",
       "awayPitcher": "Parker Messick",
       "homePitcher": "George Klassen"
@@ -9632,9 +9632,9 @@
       "date": "2026-08-24",
       "gameDate": "2026-08-25T01:40:00Z",
       "localGameTime": "2026-08-24T21:40:00-04:00",
-      "status": "In Progress",
-      "abstractGameState": "Live",
-      "codedGameState": "I",
+      "status": "Final",
+      "abstractGameState": "Final",
+      "codedGameState": "F",
       "awayTeam": {
         "id": 112,
         "name": "Chicago Cubs",
@@ -9645,7 +9645,7 @@
         "name": "Arizona Diamondbacks",
         "abbreviation": "AZ"
       },
-      "awayScore": 4,
+      "awayScore": 7,
       "homeScore": 0,
       "venue": "Chase Field",
       "awayPitcher": "Kevin Gausman",
@@ -9669,8 +9669,8 @@
         "name": "San Diego Padres",
         "abbreviation": "SD"
       },
-      "awayScore": 2,
-      "homeScore": 0,
+      "awayScore": 3,
+      "homeScore": 2,
       "venue": "Petco Park",
       "awayPitcher": "Braxton Ashcraft",
       "homePitcher": "Robbie Ray"
@@ -9680,9 +9680,9 @@
       "date": "2026-08-24",
       "gameDate": "2026-08-25T01:40:00Z",
       "localGameTime": "2026-08-24T21:40:00-04:00",
-      "status": "In Progress",
-      "abstractGameState": "Live",
-      "codedGameState": "I",
+      "status": "Final",
+      "abstractGameState": "Final",
+      "codedGameState": "F",
       "awayTeam": {
         "id": 142,
         "name": "Minnesota Twins",
@@ -9693,8 +9693,8 @@
         "name": "Athletics",
         "abbreviation": "ATH"
       },
-      "awayScore": 4,
-      "homeScore": 1,
+      "awayScore": 9,
+      "homeScore": 6,
       "venue": "Sutter Health Park",
       "awayPitcher": "Zebby Matthews",
       "homePitcher": "Jeffrey Springs"
@@ -9704,9 +9704,9 @@
       "date": "2026-08-24",
       "gameDate": "2026-08-25T01:40:00Z",
       "localGameTime": "2026-08-24T21:40:00-04:00",
-      "status": "In Progress",
-      "abstractGameState": "Live",
-      "codedGameState": "I",
+      "status": "Final",
+      "abstractGameState": "Final",
+      "codedGameState": "F",
       "awayTeam": {
         "id": 143,
         "name": "Philadelphia Phillies",
@@ -9718,7 +9718,7 @@
         "abbreviation": "SEA"
       },
       "awayScore": 2,
-      "homeScore": 6,
+      "homeScore": 9,
       "venue": "T-Mobile Park",
       "awayPitcher": "Zack Wheeler",
       "homePitcher": "Logan Gilbert"
@@ -9728,9 +9728,9 @@
       "date": "2026-08-24",
       "gameDate": "2026-08-25T01:45:00Z",
       "localGameTime": "2026-08-24T21:45:00-04:00",
-      "status": "In Progress",
-      "abstractGameState": "Live",
-      "codedGameState": "I",
+      "status": "Final",
+      "abstractGameState": "Final",
+      "codedGameState": "F",
       "awayTeam": {
         "id": 113,
         "name": "Cincinnati Reds",
