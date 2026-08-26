@@ -1,7 +1,7 @@
 {
   "league": "MLB",
   "timezone": "America/New_York",
-  "lastUpdated": "2026-08-26T12:01:31.426458+00:00",
+  "lastUpdated": "2026-08-26T16:36:50.050206+00:00",
   "games": [
     {
       "gamePk": 822868,
@@ -9752,9 +9752,9 @@
       "date": "2026-08-26",
       "gameDate": "2026-08-26T17:10:00Z",
       "localGameTime": "2026-08-26T13:10:00-04:00",
-      "status": "Scheduled",
+      "status": "Pre-Game",
       "abstractGameState": "Preview",
-      "codedGameState": "S",
+      "codedGameState": "P",
       "awayTeam": {
         "id": 139,
         "name": "Tampa Bay Rays",
@@ -9765,8 +9765,8 @@
         "name": "Detroit Tigers",
         "abbreviation": "DET"
       },
-      "awayScore": null,
-      "homeScore": null,
+      "awayScore": 0,
+      "homeScore": 0,
       "venue": "Comerica Park",
       "awayPitcher": "Freddy Peralta",
       "homePitcher": "Troy Melton"
@@ -9800,9 +9800,9 @@
       "date": "2026-08-26",
       "gameDate": "2026-08-26T19:45:00Z",
       "localGameTime": "2026-08-26T15:45:00-04:00",
-      "status": "Scheduled",
+      "status": "Pre-Game",
       "abstractGameState": "Preview",
-      "codedGameState": "S",
+      "codedGameState": "P",
       "awayTeam": {
         "id": 113,
         "name": "Cincinnati Reds",
@@ -9961,7 +9961,7 @@
       "homeScore": null,
       "venue": "Yankee Stadium",
       "awayPitcher": "Peter Lambert",
-      "homePitcher": null
+      "homePitcher": "Elmer Rodr\u00edguez"
     },
     {
       "gamePk": 822772,
@@ -10297,7 +10297,7 @@
       "homeScore": null,
       "venue": "Wrigley Field",
       "awayPitcher": "Rhett Lowder",
-      "homePitcher": null
+      "homePitcher": "David Peterson"
     },
     {
       "gamePk": 824231,
@@ -10321,7 +10321,7 @@
       "homeScore": null,
       "venue": "Comerica Park",
       "awayPitcher": null,
-      "homePitcher": null
+      "homePitcher": "Drew Anderson"
     },
     {
       "gamePk": 822691,
@@ -10417,7 +10417,7 @@
       "homeScore": null,
       "venue": "Tropicana Field",
       "awayPitcher": null,
-      "homePitcher": null
+      "homePitcher": "Shane McClanahan"
     },
     {
       "gamePk": 822769,
@@ -10777,7 +10777,7 @@
       "homeScore": null,
       "venue": "Wrigley Field",
       "awayPitcher": "Andrew Abbott",
-      "homePitcher": null
+      "homePitcher": "Kevin Gausman"
     },
     {
       "gamePk": 822770,
@@ -10945,7 +10945,7 @@
       "homeScore": null,
       "venue": "Tropicana Field",
       "awayPitcher": null,
-      "homePitcher": null
+      "homePitcher": "Nick Martinez"
     },
     {
       "gamePk": 824874,
@@ -11185,7 +11185,7 @@
       "homeScore": null,
       "venue": "Comerica Park",
       "awayPitcher": null,
-      "homePitcher": null
+      "homePitcher": "Framber Valdez"
     },
     {
       "gamePk": 822933,
@@ -11209,7 +11209,7 @@
       "homeScore": null,
       "venue": "Tropicana Field",
       "awayPitcher": null,
-      "homePitcher": null
+      "homePitcher": "Drew Rasmussen"
     },
     {
       "gamePk": 823662,
@@ -11376,8 +11376,8 @@
       "awayScore": null,
       "homeScore": null,
       "venue": "Wrigley Field",
-      "awayPitcher": null,
-      "homePitcher": null
+      "awayPitcher": "Chase Burns",
+      "homePitcher": "Shota Imanaga"
     },
     {
       "gamePk": 824911,
