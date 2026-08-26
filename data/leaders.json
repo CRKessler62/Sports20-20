@@ -1,6 +1,6 @@
 {
   "season": 2026,
-  "lastUpdated": "2026-08-26T03:37:43.278730+00:00",
+  "lastUpdated": "2026-08-26T05:55:36.554221+00:00",
   "leagues": {
     "AL": {
       "offense": {
@@ -28,16 +28,16 @@
           },
           {
             "rank": 4,
-            "player": "Chase DeLauter",
-            "team": "Cleveland Guardians",
-            "position": "RF",
+            "player": "Ceddanne Rafaela",
+            "team": "Boston Red Sox",
+            "position": "CF",
             "value": ".288"
           },
           {
             "rank": 5,
-            "player": "Ceddanne Rafaela",
-            "team": "Boston Red Sox",
-            "position": "CF",
+            "player": "Bobby Witt Jr.",
+            "team": "Kansas City Royals",
+            "position": "SS",
             "value": ".288"
           }
         ],
@@ -216,7 +216,7 @@
             "player": "Mike Trout",
             "team": "Los Angeles Angels",
             "position": "CF",
-            "value": ".385"
+            "value": ".383"
           },
           {
             "rank": 5,
@@ -521,7 +521,7 @@
             "player": "Taj Bradley",
             "team": "Minnesota Twins",
             "position": "P",
-            "value": "168"
+            "value": "169"
           }
         ],
         "whip": [
@@ -574,7 +574,7 @@
             "player": "Cade Smith",
             "team": "Cleveland Guardians",
             "position": "P",
-            "value": "34"
+            "value": "35"
           },
           {
             "rank": 3,
@@ -709,7 +709,7 @@
             "player": "Josh Naylor",
             "team": "Seattle Mariners",
             "position": "1B",
-            "value": "850"
+            "value": "851"
           }
         ],
         "assists": [
@@ -743,8 +743,8 @@
           },
           {
             "rank": 5,
-            "player": "Bobby Witt Jr.",
-            "team": "Kansas City Royals",
+            "player": "Zach Neto",
+            "team": "Los Angeles Angels",
             "position": "SS",
             "value": "264"
           }
@@ -841,7 +841,7 @@
             "player": "Nick Gonzales",
             "team": "Pittsburgh Pirates",
             "position": "3B",
-            "value": ".308"
+            "value": ".307"
           },
           {
             "rank": 3,
@@ -855,7 +855,7 @@
             "player": "Gabriel Moreno",
             "team": "Arizona Diamondbacks",
             "position": "C",
-            "value": ".301"
+            "value": ".303"
           },
           {
             "rank": 5,
@@ -945,7 +945,7 @@
             "player": "Sal Stewart",
             "team": "Cincinnati Reds",
             "position": "1B",
-            "value": "98"
+            "value": "99"
           },
           {
             "rank": 2,
@@ -1033,7 +1033,7 @@
             "player": "Bryce Harper",
             "team": "Philadelphia Phillies",
             "position": "1B",
-            "value": ".383"
+            "value": ".384"
           },
           {
             "rank": 4,
@@ -1047,7 +1047,7 @@
             "player": "Gabriel Moreno",
             "team": "Arizona Diamondbacks",
             "position": "C",
-            "value": ".380"
+            "value": ".382"
           }
         ],
         "slg": [
@@ -1111,15 +1111,15 @@
           },
           {
             "rank": 4,
-            "player": "Kyle Schwarber",
-            "team": "Philadelphia Phillies",
-            "position": "DH",
-            "value": ".884"
+            "player": "Jake Bauers",
+            "team": "Milwaukee Brewers",
+            "position": "1B",
+            "value": ".883"
           },
           {
             "rank": 5,
-            "player": "Jake Bauers",
-            "team": "Milwaukee Brewers",
+            "player": "Bryce Harper",
+            "team": "Philadelphia Phillies",
             "position": "1B",
             "value": ".883"
           }
@@ -1519,7 +1519,7 @@
             "player": "Michael Busch",
             "team": "Chicago Cubs",
             "position": "1B",
-            "value": "992"
+            "value": "993"
           },
           {
             "rank": 4,
