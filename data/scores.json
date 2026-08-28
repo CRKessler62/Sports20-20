@@ -1,6 +1,6 @@
 {
   "league": "MLB",
-  "lastUpdated": "2026-08-28T22:05:45.307178+00:00",
+  "lastUpdated": "2026-08-28T22:18:40.521819+00:00",
   "games": [
     {
       "gamePk": 824638,
@@ -74,7 +74,7 @@
       "homeTeam": "Detroit Tigers",
       "awayScore": 0,
       "homeScore": 0,
-      "status": "Pre-Game",
+      "status": "Warmup",
       "gameDate": "2026-08-28T22:40:00Z",
       "inning": 1,
       "inningOrdinal": "1st",
@@ -362,17 +362,23 @@
       "homeScore": 0,
       "status": "Pre-Game",
       "gameDate": "2026-08-29T01:38:00Z",
-      "inning": null,
-      "inningOrdinal": null,
-      "inningState": null,
-      "outs": null,
-      "battingTeam": null,
+      "inning": 1,
+      "inningOrdinal": "1st",
+      "inningState": "Top",
+      "outs": 0,
+      "battingTeam": "Philadelphia Phillies",
       "runners": {
         "first": false,
         "second": false,
         "third": false
       },
-      "inningScores": []
+      "inningScores": [
+        {
+          "inning": 1,
+          "awayRuns": 0,
+          "homeRuns": 0
+        }
+      ]
     },
     {
       "gamePk": 824960,
@@ -400,7 +406,7 @@
       "homeTeam": "San Francisco Giants",
       "awayScore": 0,
       "homeScore": 0,
-      "status": "Scheduled",
+      "status": "Pre-Game",
       "gameDate": "2026-08-29T02:15:00Z",
       "inning": null,
       "inningOrdinal": null,
