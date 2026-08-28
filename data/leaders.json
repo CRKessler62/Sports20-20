@@ -1,6 +1,6 @@
 {
   "season": 2026,
-  "lastUpdated": "2026-08-28T22:18:22.278263+00:00",
+  "lastUpdated": "2026-08-28T23:17:34.572141+00:00",
   "leagues": {
     "AL": {
       "offense": {
@@ -24,20 +24,20 @@
             "player": "Yandy D\u00edaz",
             "team": "Tampa Bay Rays",
             "position": "DH",
-            "value": ".301"
+            "value": ".300"
           },
           {
             "rank": 4,
-            "player": "Bobby Witt Jr.",
-            "team": "Kansas City Royals",
-            "position": "SS",
+            "player": "Chase DeLauter",
+            "team": "Cleveland Guardians",
+            "position": "RF",
             "value": ".289"
           },
           {
             "rank": 5,
-            "player": "Chase DeLauter",
-            "team": "Cleveland Guardians",
-            "position": "RF",
+            "player": "Bobby Witt Jr.",
+            "team": "Kansas City Royals",
+            "position": "SS",
             "value": ".289"
           }
         ],
@@ -220,10 +220,10 @@
           },
           {
             "rank": 5,
-            "player": "Kevin McGonigle",
-            "team": "Detroit Tigers",
-            "position": "SS",
-            "value": ".379"
+            "player": "Steven Kwan",
+            "team": "Cleveland Guardians",
+            "position": "LF",
+            "value": ".378"
           }
         ],
         "slg": [
@@ -232,7 +232,7 @@
             "player": "Yordan Alvarez",
             "team": "Houston Astros",
             "position": "DH",
-            "value": ".609"
+            "value": ".608"
           },
           {
             "rank": 2,
@@ -269,7 +269,7 @@
             "player": "Yordan Alvarez",
             "team": "Houston Astros",
             "position": "DH",
-            "value": "1.043"
+            "value": "1.042"
           },
           {
             "rank": 2,
@@ -541,24 +541,24 @@
           },
           {
             "rank": 3,
-            "player": "Keider Montero",
-            "team": "Detroit Tigers",
-            "position": "P",
-            "value": "1.00"
-          },
-          {
-            "rank": 4,
             "player": "Parker Messick",
             "team": "Cleveland Guardians",
             "position": "P",
             "value": "1.01"
           },
           {
-            "rank": 5,
+            "rank": 4,
             "player": "Logan Gilbert",
             "team": "Seattle Mariners",
             "position": "P",
             "value": "1.02"
+          },
+          {
+            "rank": 5,
+            "player": "Dylan Cease",
+            "team": "Toronto Blue Jays",
+            "position": "P",
+            "value": "1.06"
           }
         ],
         "saves": [
@@ -611,14 +611,14 @@
             "player": "Cam Schlittler",
             "team": "New York Yankees",
             "position": "P",
-            "value": "158.0"
+            "value": "158.1"
           },
           {
             "rank": 3,
             "player": "Tanner Bibee",
             "team": "Cleveland Guardians",
             "position": "P",
-            "value": "156.1"
+            "value": "157.0"
           },
           {
             "rank": 4,
@@ -648,31 +648,31 @@
           },
           {
             "rank": 2,
-            "player": "Nathan Lukes",
-            "team": "Toronto Blue Jays",
-            "position": "RF",
-            "value": "1.000"
-          },
-          {
-            "rank": 3,
             "player": "Christian V\u00e1zquez",
             "team": "Houston Astros",
             "position": "C",
             "value": ".998"
           },
           {
-            "rank": 4,
+            "rank": 3,
             "player": "Spencer Torkelson",
             "team": "Detroit Tigers",
             "position": "1B",
             "value": ".998"
           },
           {
-            "rank": 5,
+            "rank": 4,
             "player": "Christian Walker",
             "team": "Houston Astros",
             "position": "1B",
             "value": ".998"
+          },
+          {
+            "rank": 5,
+            "player": "Pete Alonso",
+            "team": "Baltimore Orioles",
+            "position": "1B",
+            "value": ".997"
           }
         ],
         "putouts": [
@@ -681,14 +681,14 @@
             "player": "Spencer Torkelson",
             "team": "Detroit Tigers",
             "position": "1B",
-            "value": "1009"
+            "value": "1012"
           },
           {
             "rank": 2,
             "player": "Jonathan Aranda",
             "team": "Tampa Bay Rays",
             "position": "1B",
-            "value": "892"
+            "value": "893"
           },
           {
             "rank": 3,
@@ -792,7 +792,7 @@
             "player": "Spencer Torkelson",
             "team": "Detroit Tigers",
             "position": "1B",
-            "value": "92"
+            "value": "93"
           },
           {
             "rank": 2,
@@ -841,7 +841,7 @@
             "player": "Otto Lopez",
             "team": "Miami Marlins",
             "position": "SS",
-            "value": ".308"
+            "value": ".307"
           },
           {
             "rank": 3,
@@ -1033,7 +1033,7 @@
             "player": "Shohei Ohtani",
             "team": "Los Angeles Dodgers",
             "position": "TWP",
-            "value": ".385"
+            "value": ".384"
           },
           {
             "rank": 4,
@@ -1070,7 +1070,7 @@
             "player": "Shohei Ohtani",
             "team": "Los Angeles Dodgers",
             "position": "TWP",
-            "value": ".542"
+            "value": ".539"
           },
           {
             "rank": 4,
@@ -1100,7 +1100,7 @@
             "player": "Shohei Ohtani",
             "team": "Los Angeles Dodgers",
             "position": "TWP",
-            "value": ".927"
+            "value": ".923"
           },
           {
             "rank": 3,
