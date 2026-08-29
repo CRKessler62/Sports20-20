@@ -1,7 +1,7 @@
 {
   "league": "MLB",
   "timezone": "America/New_York",
-  "lastUpdated": "2026-08-29T21:06:48.506531+00:00",
+  "lastUpdated": "2026-08-29T22:06:36.940108+00:00",
   "games": [
     {
       "gamePk": 822946,
@@ -9621,8 +9621,8 @@
         "name": "New York Yankees",
         "abbreviation": "NYY"
       },
-      "awayScore": null,
-      "homeScore": null,
+      "awayScore": 0,
+      "homeScore": 0,
       "venue": "Yankee Stadium",
       "awayPitcher": "Alec Gamboa",
       "homePitcher": "Max Fried"
@@ -9680,9 +9680,9 @@
       "date": "2026-08-29",
       "gameDate": "2026-08-29T18:15:00Z",
       "localGameTime": "2026-08-29T14:15:00-04:00",
-      "status": "Game Over",
+      "status": "Final",
       "abstractGameState": "Final",
-      "codedGameState": "O",
+      "codedGameState": "F",
       "awayTeam": {
         "id": 134,
         "name": "Pittsburgh Pirates",
@@ -9704,9 +9704,9 @@
       "date": "2026-08-29",
       "gameDate": "2026-08-29T18:20:00Z",
       "localGameTime": "2026-08-29T14:20:00-04:00",
-      "status": "In Progress",
-      "abstractGameState": "Live",
-      "codedGameState": "I",
+      "status": "Final",
+      "abstractGameState": "Final",
+      "codedGameState": "F",
       "awayTeam": {
         "id": 113,
         "name": "Cincinnati Reds",
@@ -9742,7 +9742,7 @@
         "abbreviation": "TOR"
       },
       "awayScore": 3,
-      "homeScore": 0,
+      "homeScore": 4,
       "venue": "Rogers Centre",
       "awayPitcher": "Kade Anderson",
       "homePitcher": "Jos\u00e9 Soriano"
@@ -9765,7 +9765,7 @@
         "name": "San Francisco Giants",
         "abbreviation": "SF"
       },
-      "awayScore": 0,
+      "awayScore": 4,
       "homeScore": 0,
       "venue": "Oracle Park",
       "awayPitcher": "Merrill Kelly",
@@ -9813,8 +9813,8 @@
         "name": "Washington Nationals",
         "abbreviation": "WSH"
       },
-      "awayScore": 0,
-      "homeScore": 2,
+      "awayScore": 4,
+      "homeScore": 4,
       "venue": "Nationals Park",
       "awayPitcher": "Sandy Alcantara",
       "homePitcher": "Cade Cavalli"
@@ -9837,7 +9837,7 @@
         "name": "Cleveland Guardians",
         "abbreviation": "CLE"
       },
-      "awayScore": 0,
+      "awayScore": 6,
       "homeScore": 2,
       "venue": "Progressive Field",
       "awayPitcher": "Daniel Lynch IV",
@@ -9862,7 +9862,7 @@
         "abbreviation": "NYM"
       },
       "awayScore": 1,
-      "homeScore": 1,
+      "homeScore": 4,
       "venue": "Citi Field",
       "awayPitcher": "Bennett Sousa",
       "homePitcher": "Nolan McLean"
@@ -9885,8 +9885,8 @@
         "name": "Tampa Bay Rays",
         "abbreviation": "TB"
       },
-      "awayScore": 1,
-      "homeScore": 2,
+      "awayScore": 6,
+      "homeScore": 3,
       "venue": "Tropicana Field",
       "awayPitcher": "Walker Buehler",
       "homePitcher": "Nick Martinez"
@@ -9909,7 +9909,7 @@
         "name": "Atlanta Braves",
         "abbreviation": "ATL"
       },
-      "awayScore": 0,
+      "awayScore": 1,
       "homeScore": 0,
       "venue": "Truist Park",
       "awayPitcher": "Zach Agnos",
@@ -9944,9 +9944,9 @@
       "date": "2026-08-29",
       "gameDate": "2026-08-30T02:05:00Z",
       "localGameTime": "2026-08-29T22:05:00-04:00",
-      "status": "Scheduled",
+      "status": "Pre-Game",
       "abstractGameState": "Preview",
-      "codedGameState": "S",
+      "codedGameState": "P",
       "awayTeam": {
         "id": 110,
         "name": "Baltimore Orioles",
@@ -9957,8 +9957,8 @@
         "name": "Athletics",
         "abbreviation": "ATH"
       },
-      "awayScore": null,
-      "homeScore": null,
+      "awayScore": 0,
+      "homeScore": 0,
       "venue": "Sutter Health Park",
       "awayPitcher": "Shane Baz",
       "homePitcher": "Jack Perkins"
@@ -9968,9 +9968,9 @@
       "date": "2026-08-29",
       "gameDate": "2026-08-30T02:07:00Z",
       "localGameTime": "2026-08-29T22:07:00-04:00",
-      "status": "Scheduled",
+      "status": "Pre-Game",
       "abstractGameState": "Preview",
-      "codedGameState": "S",
+      "codedGameState": "P",
       "awayTeam": {
         "id": 143,
         "name": "Philadelphia Phillies",
@@ -10488,7 +10488,7 @@
       "awayScore": null,
       "homeScore": null,
       "venue": "Wrigley Field",
-      "awayPitcher": null,
+      "awayPitcher": "Kyle Harrison",
       "homePitcher": null
     },
     {
@@ -10824,7 +10824,7 @@
       "awayScore": null,
       "homeScore": null,
       "venue": "Wrigley Field",
-      "awayPitcher": null,
+      "awayPitcher": "Robert Gasser",
       "homePitcher": null
     },
     {
@@ -11256,7 +11256,7 @@
       "awayScore": null,
       "homeScore": null,
       "venue": "Wrigley Field",
-      "awayPitcher": null,
+      "awayPitcher": "Jacob Misiorowski",
       "homePitcher": null
     },
     {
@@ -11448,7 +11448,7 @@
       "awayScore": null,
       "homeScore": null,
       "venue": "Wrigley Field",
-      "awayPitcher": null,
+      "awayPitcher": "Logan Henderson",
       "homePitcher": null
     },
     {
