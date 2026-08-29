@@ -1,7 +1,7 @@
 {
   "league": "MLB",
   "timezone": "America/New_York",
-  "lastUpdated": "2026-08-29T17:06:34.246448+00:00",
+  "lastUpdated": "2026-08-29T18:06:52.644794+00:00",
   "games": [
     {
       "gamePk": 822946,
@@ -9584,9 +9584,9 @@
       "date": "2026-08-29",
       "gameDate": "2026-08-29T17:05:00Z",
       "localGameTime": "2026-08-29T13:05:00-04:00",
-      "status": "Warmup",
+      "status": "In Progress",
       "abstractGameState": "Live",
-      "codedGameState": "P",
+      "codedGameState": "I",
       "awayTeam": {
         "id": 111,
         "name": "Boston Red Sox",
@@ -9597,7 +9597,7 @@
         "name": "New York Yankees",
         "abbreviation": "NYY"
       },
-      "awayScore": 0,
+      "awayScore": 1,
       "homeScore": 0,
       "venue": "Yankee Stadium",
       "awayPitcher": "Jake Bennett",
@@ -9632,9 +9632,9 @@
       "date": "2026-08-29",
       "gameDate": "2026-08-29T17:10:00Z",
       "localGameTime": "2026-08-29T13:10:00-04:00",
-      "status": "Warmup",
+      "status": "In Progress",
       "abstractGameState": "Live",
-      "codedGameState": "P",
+      "codedGameState": "I",
       "awayTeam": {
         "id": 119,
         "name": "Los Angeles Dodgers",
@@ -9646,7 +9646,7 @@
         "abbreviation": "DET"
       },
       "awayScore": 0,
-      "homeScore": 0,
+      "homeScore": 1,
       "venue": "Comerica Park",
       "awayPitcher": "Blake Snell",
       "homePitcher": "Keider Montero"
@@ -9656,8 +9656,8 @@
       "date": "2026-08-29",
       "gameDate": "2026-08-29T18:10:00Z",
       "localGameTime": "2026-08-29T14:10:00-04:00",
-      "status": "Pre-Game",
-      "abstractGameState": "Preview",
+      "status": "Warmup",
+      "abstractGameState": "Live",
       "codedGameState": "P",
       "awayTeam": {
         "id": 145,
@@ -9680,8 +9680,8 @@
       "date": "2026-08-29",
       "gameDate": "2026-08-29T18:15:00Z",
       "localGameTime": "2026-08-29T14:15:00-04:00",
-      "status": "Pre-Game",
-      "abstractGameState": "Preview",
+      "status": "Warmup",
+      "abstractGameState": "Live",
       "codedGameState": "P",
       "awayTeam": {
         "id": 134,
@@ -9704,8 +9704,8 @@
       "date": "2026-08-29",
       "gameDate": "2026-08-29T18:20:00Z",
       "localGameTime": "2026-08-29T14:20:00-04:00",
-      "status": "Pre-Game",
-      "abstractGameState": "Preview",
+      "status": "Warmup",
+      "abstractGameState": "Live",
       "codedGameState": "P",
       "awayTeam": {
         "id": 113,
@@ -9752,9 +9752,9 @@
       "date": "2026-08-29",
       "gameDate": "2026-08-29T20:05:00Z",
       "localGameTime": "2026-08-29T16:05:00-04:00",
-      "status": "Scheduled",
+      "status": "Pre-Game",
       "abstractGameState": "Preview",
-      "codedGameState": "S",
+      "codedGameState": "P",
       "awayTeam": {
         "id": 109,
         "name": "Arizona Diamondbacks",
@@ -9769,7 +9769,7 @@
       "homeScore": null,
       "venue": "Oracle Park",
       "awayPitcher": "Merrill Kelly",
-      "homePitcher": null
+      "homePitcher": "Matt Wilkinson"
     },
     {
       "gamePk": 823176,
@@ -9813,8 +9813,8 @@
         "name": "Washington Nationals",
         "abbreviation": "WSH"
       },
-      "awayScore": null,
-      "homeScore": null,
+      "awayScore": 0,
+      "homeScore": 0,
       "venue": "Nationals Park",
       "awayPitcher": "Sandy Alcantara",
       "homePitcher": "Cade Cavalli"
@@ -9861,8 +9861,8 @@
         "name": "New York Mets",
         "abbreviation": "NYM"
       },
-      "awayScore": null,
-      "homeScore": null,
+      "awayScore": 0,
+      "homeScore": 0,
       "venue": "Citi Field",
       "awayPitcher": "Bennett Sousa",
       "homePitcher": "Nolan McLean"
@@ -9912,7 +9912,7 @@
       "awayScore": 0,
       "homeScore": 0,
       "venue": "Truist Park",
-      "awayPitcher": "Ryan Feltner",
+      "awayPitcher": "Zach Agnos",
       "homePitcher": "Mart\u00edn P\u00e9rez"
     },
     {
