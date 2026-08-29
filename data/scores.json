@@ -1,6 +1,6 @@
 {
   "league": "MLB",
-  "lastUpdated": "2026-08-29T20:56:28.064643+00:00",
+  "lastUpdated": "2026-08-29T21:10:07.990191+00:00",
   "games": [
     {
       "gamePk": 823539,
@@ -226,13 +226,13 @@
       "homeTeam": "St. Louis Cardinals",
       "awayScore": 6,
       "homeScore": 2,
-      "status": "In Progress",
+      "status": "Game Over",
       "gameDate": "2026-08-29T18:15:00Z",
       "inning": 9,
       "inningOrdinal": "9th",
-      "inningState": "Middle",
+      "inningState": "Bottom",
       "outs": 3,
-      "battingTeam": "Pittsburgh Pirates",
+      "battingTeam": "St. Louis Cardinals",
       "runners": {
         "first": false,
         "second": false,
@@ -291,16 +291,16 @@
       "awayTeam": "Cincinnati Reds",
       "homeTeam": "Chicago Cubs",
       "awayScore": 5,
-      "homeScore": 14,
-      "status": "In Progress",
+      "homeScore": 17,
+      "status": "Game Over",
       "gameDate": "2026-08-29T18:20:00Z",
-      "inning": 8,
-      "inningOrdinal": "8th",
-      "inningState": "Bottom",
-      "outs": 0,
-      "battingTeam": "Chicago Cubs",
+      "inning": 9,
+      "inningOrdinal": "9th",
+      "inningState": "Top",
+      "outs": 3,
+      "battingTeam": "Cincinnati Reds",
       "runners": {
-        "first": true,
+        "first": false,
         "second": false,
         "third": false
       },
@@ -343,6 +343,11 @@
         {
           "inning": 8,
           "awayRuns": 0,
+          "homeRuns": 3
+        },
+        {
+          "inning": 9,
+          "awayRuns": 0,
           "homeRuns": 0
         }
       ]
@@ -355,14 +360,14 @@
       "homeScore": 0,
       "status": "In Progress",
       "gameDate": "2026-08-29T19:07:00Z",
-      "inning": 4,
-      "inningOrdinal": "4th",
-      "inningState": "End",
-      "outs": 3,
-      "battingTeam": "Seattle Mariners",
+      "inning": 5,
+      "inningOrdinal": "5th",
+      "inningState": "Bottom",
+      "outs": 1,
+      "battingTeam": "Toronto Blue Jays",
       "runners": {
-        "first": false,
-        "second": false,
+        "first": true,
+        "second": true,
         "third": false
       },
       "inningScores": [
@@ -385,6 +390,11 @@
           "inning": 4,
           "awayRuns": 2,
           "homeRuns": 0
+        },
+        {
+          "inning": 5,
+          "awayRuns": 0,
+          "homeRuns": 0
         }
       ]
     },
@@ -396,10 +406,10 @@
       "homeScore": 0,
       "status": "In Progress",
       "gameDate": "2026-08-29T20:05:00Z",
-      "inning": 4,
-      "inningOrdinal": "4th",
-      "inningState": "Middle",
-      "outs": 3,
+      "inning": 5,
+      "inningOrdinal": "5th",
+      "inningState": "Top",
+      "outs": 0,
       "battingTeam": "Arizona Diamondbacks",
       "runners": {
         "first": false,
@@ -424,6 +434,11 @@
         },
         {
           "inning": 4,
+          "awayRuns": 0,
+          "homeRuns": 0
+        },
+        {
+          "inning": 5,
           "awayRuns": 0,
           "homeRuns": 0
         }
@@ -454,12 +469,12 @@
       "awayTeam": "Miami Marlins",
       "homeTeam": "Washington Nationals",
       "awayScore": 0,
-      "homeScore": 0,
+      "homeScore": 4,
       "status": "In Progress",
       "gameDate": "2026-08-29T20:05:00Z",
       "inning": 3,
       "inningOrdinal": "3rd",
-      "inningState": "Middle",
+      "inningState": "End",
       "outs": 3,
       "battingTeam": "Miami Marlins",
       "runners": {
@@ -481,7 +496,7 @@
         {
           "inning": 3,
           "awayRuns": 0,
-          "homeRuns": 0
+          "homeRuns": 4
         }
       ]
     },
@@ -493,14 +508,14 @@
       "homeScore": 2,
       "status": "In Progress",
       "gameDate": "2026-08-29T20:10:00Z",
-      "inning": 3,
-      "inningOrdinal": "3rd",
+      "inning": 4,
+      "inningOrdinal": "4th",
       "inningState": "Bottom",
       "outs": 1,
       "battingTeam": "Cleveland Guardians",
       "runners": {
         "first": false,
-        "second": true,
+        "second": false,
         "third": false
       },
       "inningScores": [
@@ -518,6 +533,11 @@
           "inning": 3,
           "awayRuns": 0,
           "homeRuns": 0
+        },
+        {
+          "inning": 4,
+          "awayRuns": 0,
+          "homeRuns": 0
         }
       ]
     },
@@ -529,10 +549,10 @@
       "homeScore": 1,
       "status": "In Progress",
       "gameDate": "2026-08-29T20:10:00Z",
-      "inning": 3,
-      "inningOrdinal": "3rd",
-      "inningState": "Middle",
-      "outs": 3,
+      "inning": 4,
+      "inningOrdinal": "4th",
+      "inningState": "Top",
+      "outs": 2,
       "battingTeam": "Houston Astros",
       "runners": {
         "first": false,
@@ -554,6 +574,11 @@
           "inning": 3,
           "awayRuns": 0,
           "homeRuns": 0
+        },
+        {
+          "inning": 4,
+          "awayRuns": 0,
+          "homeRuns": 0
         }
       ]
     },
@@ -565,10 +590,10 @@
       "homeScore": 2,
       "status": "In Progress",
       "gameDate": "2026-08-29T20:10:00Z",
-      "inning": 3,
-      "inningOrdinal": "3rd",
-      "inningState": "End",
-      "outs": 3,
+      "inning": 5,
+      "inningOrdinal": "5th",
+      "inningState": "Top",
+      "outs": 0,
       "battingTeam": "San Diego Padres",
       "runners": {
         "first": false,
@@ -590,6 +615,16 @@
           "inning": 3,
           "awayRuns": 1,
           "homeRuns": 1
+        },
+        {
+          "inning": 4,
+          "awayRuns": 0,
+          "homeRuns": 0
+        },
+        {
+          "inning": 5,
+          "awayRuns": 0,
+          "homeRuns": 0
         }
       ]
     },
@@ -603,13 +638,13 @@
       "gameDate": "2026-08-29T20:10:00Z",
       "inning": 3,
       "inningOrdinal": "3rd",
-      "inningState": "Top",
+      "inningState": "Bottom",
       "outs": 2,
-      "battingTeam": "Colorado Rockies",
+      "battingTeam": "Atlanta Braves",
       "runners": {
-        "first": false,
+        "first": true,
         "second": false,
-        "third": false
+        "third": true
       },
       "inningScores": [
         {
