@@ -1,6 +1,6 @@
 {
   "league": "MLB",
-  "lastUpdated": "2026-08-29T16:56:13.884385+00:00",
+  "lastUpdated": "2026-08-29T17:08:55.082016+00:00",
   "games": [
     {
       "gamePk": 823539,
@@ -224,7 +224,7 @@
       "homeTeam": "Washington Nationals",
       "awayScore": 0,
       "homeScore": 0,
-      "status": "Scheduled",
+      "status": "Pre-Game",
       "gameDate": "2026-08-29T20:05:00Z",
       "inning": null,
       "inningOrdinal": null,
@@ -318,17 +318,23 @@
       "homeScore": 0,
       "status": "Pre-Game",
       "gameDate": "2026-08-29T20:10:00Z",
-      "inning": null,
-      "inningOrdinal": null,
-      "inningState": null,
-      "outs": null,
-      "battingTeam": null,
+      "inning": 1,
+      "inningOrdinal": "1st",
+      "inningState": "Top",
+      "outs": 0,
+      "battingTeam": "Colorado Rockies",
       "runners": {
         "first": false,
         "second": false,
         "third": false
       },
-      "inningScores": []
+      "inningScores": [
+        {
+          "inning": 1,
+          "awayRuns": 0,
+          "homeRuns": 0
+        }
+      ]
     },
     {
       "gamePk": 823741,
