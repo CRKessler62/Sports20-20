@@ -1,6 +1,6 @@
 {
   "season": 2026,
-  "lastUpdated": "2026-08-29T22:18:18.418252+00:00",
+  "lastUpdated": "2026-08-29T23:17:54.769604+00:00",
   "leagues": {
     "AL": {
       "offense": {
@@ -10,14 +10,14 @@
             "player": "Yordan Alvarez",
             "team": "Houston Astros",
             "position": "DH",
-            "value": ".319"
+            "value": ".320"
           },
           {
             "rank": 2,
             "player": "Chandler Simpson",
             "team": "Tampa Bay Rays",
             "position": "LF",
-            "value": ".309"
+            "value": ".311"
           },
           {
             "rank": 3,
@@ -31,14 +31,14 @@
             "player": "Bobby Witt Jr.",
             "team": "Kansas City Royals",
             "position": "SS",
-            "value": ".288"
+            "value": ".287"
           },
           {
             "rank": 5,
-            "player": "Chase DeLauter",
-            "team": "Cleveland Guardians",
-            "position": "RF",
-            "value": ".287"
+            "player": "Ceddanne Rafaela",
+            "team": "Boston Red Sox",
+            "position": "CF",
+            "value": ".286"
           }
         ],
         "hits": [
@@ -54,7 +54,7 @@
             "player": "Yordan Alvarez",
             "team": "Houston Astros",
             "position": "DH",
-            "value": "153"
+            "value": "154"
           },
           {
             "rank": 3,
@@ -68,7 +68,7 @@
             "player": "Chandler Simpson",
             "team": "Tampa Bay Rays",
             "position": "LF",
-            "value": "147"
+            "value": "148"
           },
           {
             "rank": 5,
@@ -84,7 +84,7 @@
             "player": "Yordan Alvarez",
             "team": "Houston Astros",
             "position": "DH",
-            "value": "36"
+            "value": "37"
           },
           {
             "rank": 2,
@@ -121,7 +121,7 @@
             "player": "Yordan Alvarez",
             "team": "Houston Astros",
             "position": "DH",
-            "value": "92"
+            "value": "93"
           },
           {
             "rank": 2,
@@ -165,7 +165,7 @@
             "player": "Yordan Alvarez",
             "team": "Houston Astros",
             "position": "DH",
-            "value": "89"
+            "value": "90"
           },
           {
             "rank": 3,
@@ -195,7 +195,7 @@
             "player": "Yordan Alvarez",
             "team": "Houston Astros",
             "position": "DH",
-            "value": ".434"
+            "value": ".435"
           },
           {
             "rank": 2,
@@ -232,7 +232,7 @@
             "player": "Yordan Alvarez",
             "team": "Houston Astros",
             "position": "DH",
-            "value": ".606"
+            "value": ".613"
           },
           {
             "rank": 2,
@@ -269,14 +269,14 @@
             "player": "Yordan Alvarez",
             "team": "Houston Astros",
             "position": "DH",
-            "value": "1.040"
+            "value": "1.048"
           },
           {
             "rank": 2,
             "player": "Junior Caminero",
             "team": "Tampa Bay Rays",
             "position": "3B",
-            "value": ".899"
+            "value": ".900"
           },
           {
             "rank": 3,
@@ -567,7 +567,7 @@
             "player": "Bryan Baker",
             "team": "Tampa Bay Rays",
             "position": "P",
-            "value": "38"
+            "value": "39"
           },
           {
             "rank": 2,
@@ -585,15 +585,15 @@
           },
           {
             "rank": 4,
-            "player": "Aroldis Chapman",
-            "team": "Boston Red Sox",
+            "player": "Louis Varland",
+            "team": "Toronto Blue Jays",
             "position": "P",
-            "value": "30"
+            "value": "31"
           },
           {
             "rank": 5,
-            "player": "Louis Varland",
-            "team": "Toronto Blue Jays",
+            "player": "Aroldis Chapman",
+            "team": "Boston Red Sox",
             "position": "P",
             "value": "30"
           }
@@ -688,7 +688,7 @@
             "player": "Jonathan Aranda",
             "team": "Tampa Bay Rays",
             "position": "1B",
-            "value": "910"
+            "value": "912"
           },
           {
             "rank": 3,
@@ -878,7 +878,7 @@
             "player": "Otto Lopez",
             "team": "Miami Marlins",
             "position": "SS",
-            "value": "161"
+            "value": "162"
           },
           {
             "rank": 3,
@@ -996,7 +996,7 @@
             "player": "Matt Olson",
             "team": "Atlanta Braves",
             "position": "1B",
-            "value": "92"
+            "value": "93"
           },
           {
             "rank": 4,
@@ -1044,9 +1044,9 @@
           },
           {
             "rank": 5,
-            "player": "TJ Rumfield",
-            "team": "Colorado Rockies",
-            "position": "1B",
+            "player": "Gabriel Moreno",
+            "team": "Arizona Diamondbacks",
+            "position": "C",
             "value": ".382"
           }
         ],
@@ -1063,7 +1063,7 @@
             "player": "Hunter Goodman",
             "team": "Colorado Rockies",
             "position": "C",
-            "value": ".546"
+            "value": ".545"
           },
           {
             "rank": 3,
@@ -1171,31 +1171,31 @@
           },
           {
             "rank": 2,
+            "player": "Rafael Devers",
+            "team": "San Francisco Giants",
+            "position": "1B",
+            "value": "32"
+          },
+          {
+            "rank": 3,
+            "player": "Michael Harris II",
+            "team": "Atlanta Braves",
+            "position": "CF",
+            "value": "32"
+          },
+          {
+            "rank": 4,
             "player": "Matt Olson",
             "team": "Atlanta Braves",
             "position": "1B",
             "value": "32"
           },
           {
-            "rank": 3,
+            "rank": 5,
             "player": "Bryan Reynolds",
             "team": "Pittsburgh Pirates",
             "position": "LF",
             "value": "32"
-          },
-          {
-            "rank": 4,
-            "player": "Rafael Devers",
-            "team": "San Francisco Giants",
-            "position": "1B",
-            "value": "31"
-          },
-          {
-            "rank": 5,
-            "player": "Freddie Freeman",
-            "team": "Los Angeles Dodgers",
-            "position": "1B",
-            "value": "31"
           }
         ],
         "triples": [
@@ -1533,7 +1533,7 @@
             "player": "Matt Olson",
             "team": "Atlanta Braves",
             "position": "1B",
-            "value": "978"
+            "value": "979"
           }
         ],
         "assists": [
@@ -1563,7 +1563,7 @@
             "player": "Xavier Edwards",
             "team": "Miami Marlins",
             "position": "2B",
-            "value": "323"
+            "value": "324"
           },
           {
             "rank": 5,
@@ -1644,7 +1644,7 @@
             "player": "TJ Rumfield",
             "team": "Colorado Rockies",
             "position": "1B",
-            "value": "82"
+            "value": "83"
           }
         ]
       },
