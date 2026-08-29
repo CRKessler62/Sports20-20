@@ -1,7 +1,7 @@
 {
   "league": "MLB",
   "timezone": "America/New_York",
-  "lastUpdated": "2026-08-29T16:06:47.794923+00:00",
+  "lastUpdated": "2026-08-29T17:06:34.246448+00:00",
   "games": [
     {
       "gamePk": 822946,
@@ -9584,8 +9584,8 @@
       "date": "2026-08-29",
       "gameDate": "2026-08-29T17:05:00Z",
       "localGameTime": "2026-08-29T13:05:00-04:00",
-      "status": "Pre-Game",
-      "abstractGameState": "Preview",
+      "status": "Warmup",
+      "abstractGameState": "Live",
       "codedGameState": "P",
       "awayTeam": {
         "id": 111,
@@ -9632,8 +9632,8 @@
       "date": "2026-08-29",
       "gameDate": "2026-08-29T17:10:00Z",
       "localGameTime": "2026-08-29T13:10:00-04:00",
-      "status": "Pre-Game",
-      "abstractGameState": "Preview",
+      "status": "Warmup",
+      "abstractGameState": "Live",
       "codedGameState": "P",
       "awayTeam": {
         "id": 119,
@@ -9741,8 +9741,8 @@
         "name": "Toronto Blue Jays",
         "abbreviation": "TOR"
       },
-      "awayScore": null,
-      "homeScore": null,
+      "awayScore": 0,
+      "homeScore": 0,
       "venue": "Rogers Centre",
       "awayPitcher": "Kade Anderson",
       "homePitcher": "Jos\u00e9 Soriano"
@@ -9800,9 +9800,9 @@
       "date": "2026-08-29",
       "gameDate": "2026-08-29T20:05:00Z",
       "localGameTime": "2026-08-29T16:05:00-04:00",
-      "status": "Scheduled",
+      "status": "Pre-Game",
       "abstractGameState": "Preview",
-      "codedGameState": "S",
+      "codedGameState": "P",
       "awayTeam": {
         "id": 146,
         "name": "Miami Marlins",
@@ -9824,9 +9824,9 @@
       "date": "2026-08-29",
       "gameDate": "2026-08-29T20:10:00Z",
       "localGameTime": "2026-08-29T16:10:00-04:00",
-      "status": "Scheduled",
+      "status": "Pre-Game",
       "abstractGameState": "Preview",
-      "codedGameState": "S",
+      "codedGameState": "P",
       "awayTeam": {
         "id": 118,
         "name": "Kansas City Royals",
@@ -9837,8 +9837,8 @@
         "name": "Cleveland Guardians",
         "abbreviation": "CLE"
       },
-      "awayScore": null,
-      "homeScore": null,
+      "awayScore": 0,
+      "homeScore": 0,
       "venue": "Progressive Field",
       "awayPitcher": "Daniel Lynch IV",
       "homePitcher": "Foster Griffin"
@@ -9848,9 +9848,9 @@
       "date": "2026-08-29",
       "gameDate": "2026-08-29T20:10:00Z",
       "localGameTime": "2026-08-29T16:10:00-04:00",
-      "status": "Scheduled",
+      "status": "Pre-Game",
       "abstractGameState": "Preview",
-      "codedGameState": "S",
+      "codedGameState": "P",
       "awayTeam": {
         "id": 117,
         "name": "Houston Astros",
@@ -9872,9 +9872,9 @@
       "date": "2026-08-29",
       "gameDate": "2026-08-29T20:10:00Z",
       "localGameTime": "2026-08-29T16:10:00-04:00",
-      "status": "Scheduled",
+      "status": "Pre-Game",
       "abstractGameState": "Preview",
-      "codedGameState": "S",
+      "codedGameState": "P",
       "awayTeam": {
         "id": 135,
         "name": "San Diego Padres",
@@ -9885,8 +9885,8 @@
         "name": "Tampa Bay Rays",
         "abbreviation": "TB"
       },
-      "awayScore": null,
-      "homeScore": null,
+      "awayScore": 0,
+      "homeScore": 0,
       "venue": "Tropicana Field",
       "awayPitcher": "Walker Buehler",
       "homePitcher": "Nick Martinez"
@@ -9896,9 +9896,9 @@
       "date": "2026-08-29",
       "gameDate": "2026-08-29T20:10:00Z",
       "localGameTime": "2026-08-29T16:10:00-04:00",
-      "status": "Scheduled",
+      "status": "Pre-Game",
       "abstractGameState": "Preview",
-      "codedGameState": "S",
+      "codedGameState": "P",
       "awayTeam": {
         "id": 115,
         "name": "Colorado Rockies",
@@ -9909,8 +9909,8 @@
         "name": "Atlanta Braves",
         "abbreviation": "ATL"
       },
-      "awayScore": null,
-      "homeScore": null,
+      "awayScore": 0,
+      "homeScore": 0,
       "venue": "Truist Park",
       "awayPitcher": "Ryan Feltner",
       "homePitcher": "Mart\u00edn P\u00e9rez"
@@ -10584,7 +10584,7 @@
       "awayScore": null,
       "homeScore": null,
       "venue": "Angel Stadium",
-      "awayPitcher": null,
+      "awayPitcher": "Elmer Rodr\u00edguez",
       "homePitcher": null
     },
     {
@@ -10704,7 +10704,7 @@
       "awayScore": null,
       "homeScore": null,
       "venue": "Progressive Field",
-      "awayPitcher": null,
+      "awayPitcher": "Spencer Arrighetti",
       "homePitcher": "Gavin Williams"
     },
     {
@@ -11184,7 +11184,7 @@
       "awayScore": null,
       "homeScore": null,
       "venue": "Progressive Field",
-      "awayPitcher": null,
+      "awayPitcher": "Dylan Cease",
       "homePitcher": null
     },
     {
@@ -11376,7 +11376,7 @@
       "awayScore": null,
       "homeScore": null,
       "venue": "Progressive Field",
-      "awayPitcher": null,
+      "awayPitcher": "Jos\u00e9 Soriano",
       "homePitcher": null
     },
     {
