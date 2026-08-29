@@ -1,6 +1,6 @@
 {
   "season": 2026,
-  "lastUpdated": "2026-08-29T21:17:56.801576+00:00",
+  "lastUpdated": "2026-08-29T22:18:18.418252+00:00",
   "leagues": {
     "AL": {
       "offense": {
@@ -10,34 +10,34 @@
             "player": "Yordan Alvarez",
             "team": "Houston Astros",
             "position": "DH",
-            "value": ".317"
+            "value": ".319"
           },
           {
             "rank": 2,
             "player": "Chandler Simpson",
             "team": "Tampa Bay Rays",
             "position": "LF",
-            "value": ".310"
+            "value": ".309"
           },
           {
             "rank": 3,
             "player": "Yandy D\u00edaz",
             "team": "Tampa Bay Rays",
             "position": "DH",
-            "value": ".303"
+            "value": ".304"
           },
           {
             "rank": 4,
-            "player": "Chase DeLauter",
-            "team": "Cleveland Guardians",
-            "position": "RF",
-            "value": ".287"
-          },
-          {
-            "rank": 5,
             "player": "Bobby Witt Jr.",
             "team": "Kansas City Royals",
             "position": "SS",
+            "value": ".288"
+          },
+          {
+            "rank": 5,
+            "player": "Chase DeLauter",
+            "team": "Cleveland Guardians",
+            "position": "RF",
             "value": ".287"
           }
         ],
@@ -47,14 +47,14 @@
             "player": "Yandy D\u00edaz",
             "team": "Tampa Bay Rays",
             "position": "DH",
-            "value": "155"
+            "value": "156"
           },
           {
             "rank": 2,
             "player": "Yordan Alvarez",
             "team": "Houston Astros",
             "position": "DH",
-            "value": "152"
+            "value": "153"
           },
           {
             "rank": 3,
@@ -75,7 +75,7 @@
             "player": "Junior Caminero",
             "team": "Tampa Bay Rays",
             "position": "3B",
-            "value": "143"
+            "value": "144"
           }
         ],
         "homeRuns": [
@@ -91,7 +91,7 @@
             "player": "Junior Caminero",
             "team": "Tampa Bay Rays",
             "position": "3B",
-            "value": "35"
+            "value": "36"
           },
           {
             "rank": 3,
@@ -135,7 +135,7 @@
             "player": "Junior Caminero",
             "team": "Tampa Bay Rays",
             "position": "3B",
-            "value": "85"
+            "value": "86"
           },
           {
             "rank": 4,
@@ -195,7 +195,7 @@
             "player": "Yordan Alvarez",
             "team": "Houston Astros",
             "position": "DH",
-            "value": ".433"
+            "value": ".434"
           },
           {
             "rank": 2,
@@ -232,21 +232,21 @@
             "player": "Yordan Alvarez",
             "team": "Houston Astros",
             "position": "DH",
-            "value": ".605"
+            "value": ".606"
           },
           {
             "rank": 2,
+            "player": "Junior Caminero",
+            "team": "Tampa Bay Rays",
+            "position": "3B",
+            "value": ".533"
+          },
+          {
+            "rank": 3,
             "player": "Ben Rice",
             "team": "New York Yankees",
             "position": "DH",
             "value": ".528"
-          },
-          {
-            "rank": 3,
-            "player": "Junior Caminero",
-            "team": "Tampa Bay Rays",
-            "position": "3B",
-            "value": ".526"
           },
           {
             "rank": 4,
@@ -269,21 +269,21 @@
             "player": "Yordan Alvarez",
             "team": "Houston Astros",
             "position": "DH",
-            "value": "1.038"
+            "value": "1.040"
           },
           {
             "rank": 2,
+            "player": "Junior Caminero",
+            "team": "Tampa Bay Rays",
+            "position": "3B",
+            "value": ".899"
+          },
+          {
+            "rank": 3,
             "player": "Willson Contreras",
             "team": "Boston Red Sox",
             "position": "1B",
             "value": ".898"
-          },
-          {
-            "rank": 3,
-            "player": "Junior Caminero",
-            "team": "Tampa Bay Rays",
-            "position": "3B",
-            "value": ".891"
           },
           {
             "rank": 4,
@@ -444,10 +444,10 @@
           },
           {
             "rank": 5,
-            "player": "Nick Martinez",
+            "player": "Drew Rasmussen",
             "team": "Tampa Bay Rays",
             "position": "P",
-            "value": "2.89"
+            "value": "2.95"
           }
         ],
         "wins": [
@@ -688,7 +688,7 @@
             "player": "Jonathan Aranda",
             "team": "Tampa Bay Rays",
             "position": "1B",
-            "value": "908"
+            "value": "910"
           },
           {
             "rank": 3,
@@ -699,17 +699,17 @@
           },
           {
             "rank": 4,
+            "player": "Josh Naylor",
+            "team": "Seattle Mariners",
+            "position": "1B",
+            "value": "867"
+          },
+          {
+            "rank": 5,
             "player": "Willson Contreras",
             "team": "Boston Red Sox",
             "position": "1B",
             "value": "864"
-          },
-          {
-            "rank": 5,
-            "player": "Josh Naylor",
-            "team": "Seattle Mariners",
-            "position": "1B",
-            "value": "863"
           }
         ],
         "assists": [
@@ -718,7 +718,7 @@
             "player": "Cole Young",
             "team": "Seattle Mariners",
             "position": "2B",
-            "value": "343"
+            "value": "345"
           },
           {
             "rank": 2,
@@ -848,21 +848,21 @@
             "player": "Otto Lopez",
             "team": "Miami Marlins",
             "position": "SS",
-            "value": ".307"
+            "value": ".306"
           },
           {
             "rank": 4,
+            "player": "Gabriel Moreno",
+            "team": "Arizona Diamondbacks",
+            "position": "C",
+            "value": ".302"
+          },
+          {
+            "rank": 5,
             "player": "Freddie Freeman",
             "team": "Los Angeles Dodgers",
             "position": "1B",
             "value": ".301"
-          },
-          {
-            "rank": 5,
-            "player": "Gabriel Moreno",
-            "team": "Arizona Diamondbacks",
-            "position": "C",
-            "value": ".300"
           }
         ],
         "hits": [
@@ -896,8 +896,8 @@
           },
           {
             "rank": 5,
-            "player": "Jordan Walker",
-            "team": "St. Louis Cardinals",
+            "player": "Fernando Tatis Jr.",
+            "team": "San Diego Padres",
             "position": "RF",
             "value": "149"
           }
@@ -1335,17 +1335,17 @@
           },
           {
             "rank": 4,
-            "player": "Chris Sale",
-            "team": "Atlanta Braves",
+            "player": "Cade Cavalli",
+            "team": "Washington Nationals",
             "position": "P",
             "value": "177"
           },
           {
             "rank": 5,
-            "player": "Cade Cavalli",
-            "team": "Washington Nationals",
+            "player": "Chris Sale",
+            "team": "Atlanta Braves",
             "position": "P",
-            "value": "176"
+            "value": "177"
           }
         ],
         "whip": [
@@ -1428,7 +1428,7 @@
             "player": "Sandy Alcantara",
             "team": "Miami Marlins",
             "position": "P",
-            "value": "186.2"
+            "value": "189.2"
           },
           {
             "rank": 2,
@@ -1533,7 +1533,7 @@
             "player": "Matt Olson",
             "team": "Atlanta Braves",
             "position": "1B",
-            "value": "971"
+            "value": "978"
           }
         ],
         "assists": [
@@ -1553,17 +1553,17 @@
           },
           {
             "rank": 3,
-            "player": "Xavier Edwards",
-            "team": "Miami Marlins",
-            "position": "2B",
-            "value": "320"
-          },
-          {
-            "rank": 4,
             "player": "Ozzie Albies",
             "team": "Atlanta Braves",
             "position": "2B",
-            "value": "319"
+            "value": "324"
+          },
+          {
+            "rank": 4,
+            "player": "Xavier Edwards",
+            "team": "Miami Marlins",
+            "position": "2B",
+            "value": "323"
           },
           {
             "rank": 5,
@@ -1623,7 +1623,7 @@
             "player": "Matt Olson",
             "team": "Atlanta Braves",
             "position": "1B",
-            "value": "105"
+            "value": "107"
           },
           {
             "rank": 3,
