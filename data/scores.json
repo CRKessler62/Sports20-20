@@ -1,6 +1,6 @@
 {
   "league": "MLB",
-  "lastUpdated": "2026-08-29T23:42:21.397772+00:00",
+  "lastUpdated": "2026-08-29T23:55:06.089268+00:00",
   "games": [
     {
       "gamePk": 823539,
@@ -78,11 +78,11 @@
       "gameDate": "2026-08-29T23:15:00Z",
       "inning": 2,
       "inningOrdinal": "2nd",
-      "inningState": "Bottom",
-      "outs": 1,
-      "battingTeam": "New York Yankees",
+      "inningState": "End",
+      "outs": 3,
+      "battingTeam": "Boston Red Sox",
       "runners": {
-        "first": true,
+        "first": false,
         "second": false,
         "third": false
       },
@@ -855,13 +855,13 @@
       "awayTeam": "Texas Rangers",
       "homeTeam": "Milwaukee Brewers",
       "awayScore": 0,
-      "homeScore": 2,
+      "homeScore": 3,
       "status": "In Progress",
       "gameDate": "2026-08-29T23:15:00Z",
       "inning": 2,
       "inningOrdinal": "2nd",
-      "inningState": "Top",
-      "outs": 1,
+      "inningState": "End",
+      "outs": 3,
       "battingTeam": "Texas Rangers",
       "runners": {
         "first": false,
@@ -877,7 +877,7 @@
         {
           "inning": 2,
           "awayRuns": 0,
-          "homeRuns": 0
+          "homeRuns": 1
         }
       ]
     },
