@@ -1,7 +1,7 @@
 {
   "league": "MLB",
   "timezone": "America/New_York",
-  "lastUpdated": "2026-08-29T19:06:43.671632+00:00",
+  "lastUpdated": "2026-08-29T20:06:48.472243+00:00",
   "games": [
     {
       "gamePk": 822946,
@@ -9584,9 +9584,9 @@
       "date": "2026-08-29",
       "gameDate": "2026-08-29T17:05:00Z",
       "localGameTime": "2026-08-29T13:05:00-04:00",
-      "status": "In Progress",
-      "abstractGameState": "Live",
-      "codedGameState": "I",
+      "status": "Final",
+      "abstractGameState": "Final",
+      "codedGameState": "F",
       "awayTeam": {
         "id": 111,
         "name": "Boston Red Sox",
@@ -9597,7 +9597,7 @@
         "name": "New York Yankees",
         "abbreviation": "NYY"
       },
-      "awayScore": 2,
+      "awayScore": 6,
       "homeScore": 0,
       "venue": "Yankee Stadium",
       "awayPitcher": "Jake Bennett",
@@ -9632,9 +9632,9 @@
       "date": "2026-08-29",
       "gameDate": "2026-08-29T17:10:00Z",
       "localGameTime": "2026-08-29T13:10:00-04:00",
-      "status": "In Progress",
-      "abstractGameState": "Live",
-      "codedGameState": "I",
+      "status": "Game Over",
+      "abstractGameState": "Final",
+      "codedGameState": "O",
       "awayTeam": {
         "id": 119,
         "name": "Los Angeles Dodgers",
@@ -9646,7 +9646,7 @@
         "abbreviation": "DET"
       },
       "awayScore": 1,
-      "homeScore": 1,
+      "homeScore": 2,
       "venue": "Comerica Park",
       "awayPitcher": "Blake Snell",
       "homePitcher": "Keider Montero"
@@ -9669,7 +9669,7 @@
         "name": "Minnesota Twins",
         "abbreviation": "MIN"
       },
-      "awayScore": 1,
+      "awayScore": 3,
       "homeScore": 2,
       "venue": "Target Field",
       "awayPitcher": "Erick Fedde",
@@ -9693,7 +9693,7 @@
         "name": "St. Louis Cardinals",
         "abbreviation": "STL"
       },
-      "awayScore": 1,
+      "awayScore": 5,
       "homeScore": 1,
       "venue": "Busch Stadium",
       "awayPitcher": "Lake Bachar",
@@ -9717,8 +9717,8 @@
         "name": "Chicago Cubs",
         "abbreviation": "CHC"
       },
-      "awayScore": 4,
-      "homeScore": 6,
+      "awayScore": 5,
+      "homeScore": 10,
       "venue": "Wrigley Field",
       "awayPitcher": "Andrew Abbott",
       "homePitcher": "Kevin Gausman"
@@ -9728,9 +9728,9 @@
       "date": "2026-08-29",
       "gameDate": "2026-08-29T19:07:00Z",
       "localGameTime": "2026-08-29T15:07:00-04:00",
-      "status": "Delayed Start",
-      "abstractGameState": "Preview",
-      "codedGameState": "P",
+      "status": "In Progress",
+      "abstractGameState": "Live",
+      "codedGameState": "I",
       "awayTeam": {
         "id": 136,
         "name": "Seattle Mariners",
@@ -9741,7 +9741,7 @@
         "name": "Toronto Blue Jays",
         "abbreviation": "TOR"
       },
-      "awayScore": 0,
+      "awayScore": 1,
       "homeScore": 0,
       "venue": "Rogers Centre",
       "awayPitcher": "Kade Anderson",
@@ -9752,9 +9752,9 @@
       "date": "2026-08-29",
       "gameDate": "2026-08-29T20:05:00Z",
       "localGameTime": "2026-08-29T16:05:00-04:00",
-      "status": "Pre-Game",
-      "abstractGameState": "Preview",
-      "codedGameState": "P",
+      "status": "In Progress",
+      "abstractGameState": "Live",
+      "codedGameState": "I",
       "awayTeam": {
         "id": 109,
         "name": "Arizona Diamondbacks",
@@ -9800,9 +9800,9 @@
       "date": "2026-08-29",
       "gameDate": "2026-08-29T20:05:00Z",
       "localGameTime": "2026-08-29T16:05:00-04:00",
-      "status": "Pre-Game",
-      "abstractGameState": "Preview",
-      "codedGameState": "P",
+      "status": "In Progress",
+      "abstractGameState": "Live",
+      "codedGameState": "I",
       "awayTeam": {
         "id": 146,
         "name": "Miami Marlins",
@@ -9824,8 +9824,8 @@
       "date": "2026-08-29",
       "gameDate": "2026-08-29T20:10:00Z",
       "localGameTime": "2026-08-29T16:10:00-04:00",
-      "status": "Pre-Game",
-      "abstractGameState": "Preview",
+      "status": "Warmup",
+      "abstractGameState": "Live",
       "codedGameState": "P",
       "awayTeam": {
         "id": 118,
@@ -9848,8 +9848,8 @@
       "date": "2026-08-29",
       "gameDate": "2026-08-29T20:10:00Z",
       "localGameTime": "2026-08-29T16:10:00-04:00",
-      "status": "Pre-Game",
-      "abstractGameState": "Preview",
+      "status": "Warmup",
+      "abstractGameState": "Live",
       "codedGameState": "P",
       "awayTeam": {
         "id": 117,
@@ -9872,8 +9872,8 @@
       "date": "2026-08-29",
       "gameDate": "2026-08-29T20:10:00Z",
       "localGameTime": "2026-08-29T16:10:00-04:00",
-      "status": "Pre-Game",
-      "abstractGameState": "Preview",
+      "status": "Warmup",
+      "abstractGameState": "Live",
       "codedGameState": "P",
       "awayTeam": {
         "id": 135,
@@ -9896,7 +9896,7 @@
       "date": "2026-08-29",
       "gameDate": "2026-08-29T20:10:00Z",
       "localGameTime": "2026-08-29T16:10:00-04:00",
-      "status": "Pre-Game",
+      "status": "Delayed Start",
       "abstractGameState": "Preview",
       "codedGameState": "P",
       "awayTeam": {
@@ -9920,9 +9920,9 @@
       "date": "2026-08-29",
       "gameDate": "2026-08-29T23:15:00Z",
       "localGameTime": "2026-08-29T19:15:00-04:00",
-      "status": "Scheduled",
+      "status": "Pre-Game",
       "abstractGameState": "Preview",
-      "codedGameState": "S",
+      "codedGameState": "P",
       "awayTeam": {
         "id": 140,
         "name": "Texas Rangers",
@@ -11185,7 +11185,7 @@
       "homeScore": null,
       "venue": "Progressive Field",
       "awayPitcher": "Dylan Cease",
-      "homePitcher": null
+      "homePitcher": "Joey Cantillo"
     },
     {
       "gamePk": 823660,
