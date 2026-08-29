@@ -1,6 +1,6 @@
 {
   "league": "MLB",
-  "lastUpdated": "2026-08-29T17:46:48.226545+00:00",
+  "lastUpdated": "2026-08-29T17:59:27.769538+00:00",
   "games": [
     {
       "gamePk": 823539,
@@ -12,7 +12,7 @@
       "gameDate": "2026-08-29T17:05:00Z",
       "inning": 3,
       "inningOrdinal": "3rd",
-      "inningState": "Middle",
+      "inningState": "End",
       "outs": 3,
       "battingTeam": "Boston Red Sox",
       "runners": {
@@ -63,18 +63,18 @@
       "awayTeam": "Los Angeles Dodgers",
       "homeTeam": "Detroit Tigers",
       "awayScore": 0,
-      "homeScore": 0,
+      "homeScore": 1,
       "status": "In Progress",
       "gameDate": "2026-08-29T17:10:00Z",
       "inning": 3,
       "inningOrdinal": "3rd",
-      "inningState": "Middle",
-      "outs": 3,
-      "battingTeam": "Los Angeles Dodgers",
+      "inningState": "Bottom",
+      "outs": 1,
+      "battingTeam": "Detroit Tigers",
       "runners": {
-        "first": false,
-        "second": false,
-        "third": false
+        "first": true,
+        "second": true,
+        "third": true
       },
       "inningScores": [
         {
@@ -90,7 +90,7 @@
         {
           "inning": 3,
           "awayRuns": 0,
-          "homeRuns": 0
+          "homeRuns": 1
         }
       ]
     },
@@ -152,7 +152,7 @@
       "homeTeam": "Chicago Cubs",
       "awayScore": 0,
       "homeScore": 0,
-      "status": "Pre-Game",
+      "status": "Warmup",
       "gameDate": "2026-08-29T18:20:00Z",
       "inning": 1,
       "inningOrdinal": "1st",
