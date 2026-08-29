@@ -1,6 +1,6 @@
 {
   "league": "MLB",
-  "lastUpdated": "2026-08-29T23:04:21.564216+00:00",
+  "lastUpdated": "2026-08-29T23:17:06.777147+00:00",
   "games": [
     {
       "gamePk": 823539,
@@ -74,12 +74,12 @@
       "homeTeam": "New York Yankees",
       "awayScore": 0,
       "homeScore": 0,
-      "status": "Warmup",
+      "status": "In Progress",
       "gameDate": "2026-08-29T23:15:00Z",
       "inning": 1,
       "inningOrdinal": "1st",
       "inningState": "Top",
-      "outs": 0,
+      "outs": 1,
       "battingTeam": "Boston Red Sox",
       "runners": {
         "first": false,
@@ -306,7 +306,7 @@
       "outs": 3,
       "battingTeam": "Cincinnati Reds",
       "runners": {
-        "first": false,
+        "first": true,
         "second": false,
         "third": false
       },
@@ -515,8 +515,8 @@
       "awayTeam": "Miami Marlins",
       "homeTeam": "Washington Nationals",
       "awayScore": 4,
-      "homeScore": 4,
-      "status": "In Progress",
+      "homeScore": 5,
+      "status": "Final",
       "gameDate": "2026-08-29T20:05:00Z",
       "inning": 10,
       "inningOrdinal": "10th",
@@ -526,7 +526,7 @@
       "runners": {
         "first": true,
         "second": true,
-        "third": false
+        "third": true
       },
       "inningScores": [
         {
@@ -577,7 +577,7 @@
         {
           "inning": 10,
           "awayRuns": 0,
-          "homeRuns": 0
+          "homeRuns": 1
         }
       ]
     },
@@ -596,7 +596,7 @@
       "battingTeam": "Cleveland Guardians",
       "runners": {
         "first": false,
-        "second": false,
+        "second": true,
         "third": false
       },
       "inningScores": [
@@ -663,7 +663,7 @@
       "runners": {
         "first": false,
         "second": false,
-        "third": false
+        "third": true
       },
       "inningScores": [
         {
@@ -727,7 +727,7 @@
       "outs": 3,
       "battingTeam": "San Diego Padres",
       "runners": {
-        "first": false,
+        "first": true,
         "second": false,
         "third": false
       },
@@ -787,14 +787,14 @@
       "homeScore": 2,
       "status": "In Progress",
       "gameDate": "2026-08-29T20:10:00Z",
-      "inning": 8,
-      "inningOrdinal": "8th",
-      "inningState": "Bottom",
-      "outs": 2,
-      "battingTeam": "Atlanta Braves",
+      "inning": 9,
+      "inningOrdinal": "9th",
+      "inningState": "Middle",
+      "outs": 3,
+      "battingTeam": "Colorado Rockies",
       "runners": {
-        "first": true,
-        "second": true,
+        "first": false,
+        "second": false,
         "third": false
       },
       "inningScores": [
@@ -837,6 +837,11 @@
           "inning": 8,
           "awayRuns": 0,
           "homeRuns": 2
+        },
+        {
+          "inning": 9,
+          "awayRuns": 0,
+          "homeRuns": 0
         }
       ]
     },
@@ -846,7 +851,7 @@
       "homeTeam": "Milwaukee Brewers",
       "awayScore": 0,
       "homeScore": 0,
-      "status": "Warmup",
+      "status": "In Progress",
       "gameDate": "2026-08-29T23:15:00Z",
       "inning": 1,
       "inningOrdinal": "1st",
@@ -884,13 +889,7 @@
         "second": false,
         "third": false
       },
-      "inningScores": [
-        {
-          "inning": 1,
-          "awayRuns": 0,
-          "homeRuns": 0
-        }
-      ]
+      "inningScores": []
     },
     {
       "gamePk": 823986,
@@ -910,13 +909,7 @@
         "second": false,
         "third": false
       },
-      "inningScores": [
-        {
-          "inning": 1,
-          "awayRuns": 0,
-          "homeRuns": 0
-        }
-      ]
+      "inningScores": []
     }
   ]
 }
