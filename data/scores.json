@@ -1,6 +1,6 @@
 {
   "league": "MLB",
-  "lastUpdated": "2026-08-29T18:49:47.685554+00:00",
+  "lastUpdated": "2026-08-29T19:02:25.550425+00:00",
   "games": [
     {
       "gamePk": 823539,
@@ -10,13 +10,13 @@
       "homeScore": 0,
       "status": "In Progress",
       "gameDate": "2026-08-29T17:05:00Z",
-      "inning": 6,
-      "inningOrdinal": "6th",
+      "inning": 7,
+      "inningOrdinal": "7th",
       "inningState": "Top",
-      "outs": 2,
+      "outs": 0,
       "battingTeam": "Boston Red Sox",
       "runners": {
-        "first": true,
+        "first": false,
         "second": false,
         "third": false
       },
@@ -48,6 +48,11 @@
         },
         {
           "inning": 6,
+          "awayRuns": 0,
+          "homeRuns": 0
+        },
+        {
+          "inning": 7,
           "awayRuns": 0,
           "homeRuns": 0
         }
@@ -81,15 +86,15 @@
       "homeScore": 1,
       "status": "In Progress",
       "gameDate": "2026-08-29T17:10:00Z",
-      "inning": 6,
-      "inningOrdinal": "6th",
+      "inning": 7,
+      "inningOrdinal": "7th",
       "inningState": "Top",
-      "outs": 1,
+      "outs": 0,
       "battingTeam": "Los Angeles Dodgers",
       "runners": {
-        "first": true,
+        "first": false,
         "second": true,
-        "third": true
+        "third": false
       },
       "inningScores": [
         {
@@ -121,6 +126,11 @@
           "inning": 6,
           "awayRuns": 1,
           "homeRuns": 0
+        },
+        {
+          "inning": 7,
+          "awayRuns": 0,
+          "homeRuns": 0
         }
       ]
     },
@@ -129,16 +139,16 @@
       "awayTeam": "Chicago White Sox",
       "homeTeam": "Minnesota Twins",
       "awayScore": 1,
-      "homeScore": 1,
+      "homeScore": 2,
       "status": "In Progress",
       "gameDate": "2026-08-29T18:10:00Z",
-      "inning": 2,
-      "inningOrdinal": "2nd",
-      "inningState": "Bottom",
-      "outs": 1,
-      "battingTeam": "Minnesota Twins",
+      "inning": 3,
+      "inningOrdinal": "3rd",
+      "inningState": "Middle",
+      "outs": 3,
+      "battingTeam": "Chicago White Sox",
       "runners": {
-        "first": true,
+        "first": false,
         "second": false,
         "third": false
       },
@@ -151,6 +161,11 @@
         {
           "inning": 2,
           "awayRuns": 0,
+          "homeRuns": 1
+        },
+        {
+          "inning": 3,
+          "awayRuns": 0,
           "homeRuns": 0
         }
       ]
@@ -160,16 +175,16 @@
       "awayTeam": "Pittsburgh Pirates",
       "homeTeam": "St. Louis Cardinals",
       "awayScore": 1,
-      "homeScore": 0,
+      "homeScore": 1,
       "status": "In Progress",
       "gameDate": "2026-08-29T18:15:00Z",
       "inning": 3,
       "inningOrdinal": "3rd",
-      "inningState": "Top",
-      "outs": 0,
-      "battingTeam": "Pittsburgh Pirates",
+      "inningState": "Bottom",
+      "outs": 1,
+      "battingTeam": "St. Louis Cardinals",
       "runners": {
-        "first": false,
+        "first": true,
         "second": false,
         "third": false
       },
@@ -187,7 +202,7 @@
         {
           "inning": 3,
           "awayRuns": 0,
-          "homeRuns": 0
+          "homeRuns": 1
         }
       ]
     },
@@ -195,18 +210,18 @@
       "gamePk": 824637,
       "awayTeam": "Cincinnati Reds",
       "homeTeam": "Chicago Cubs",
-      "awayScore": 2,
-      "homeScore": 3,
+      "awayScore": 4,
+      "homeScore": 6,
       "status": "In Progress",
       "gameDate": "2026-08-29T18:20:00Z",
-      "inning": 2,
-      "inningOrdinal": "2nd",
-      "inningState": "Bottom",
-      "outs": 0,
-      "battingTeam": "Chicago Cubs",
+      "inning": 3,
+      "inningOrdinal": "3rd",
+      "inningState": "Top",
+      "outs": 1,
+      "battingTeam": "Cincinnati Reds",
       "runners": {
-        "first": true,
-        "second": true,
+        "first": false,
+        "second": false,
         "third": false
       },
       "inningScores": [
@@ -217,6 +232,11 @@
         },
         {
           "inning": 2,
+          "awayRuns": 2,
+          "homeRuns": 3
+        },
+        {
+          "inning": 3,
           "awayRuns": 2,
           "homeRuns": 0
         }
