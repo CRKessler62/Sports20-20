@@ -1,7 +1,7 @@
 {
   "league": "MLB",
   "timezone": "America/New_York",
-  "lastUpdated": "2026-08-29T00:06:40.902074+00:00",
+  "lastUpdated": "2026-08-29T01:06:41.338332+00:00",
   "games": [
     {
       "gamePk": 822946,
@@ -9261,7 +9261,7 @@
         "name": "Detroit Tigers",
         "abbreviation": "DET"
       },
-      "awayScore": 0,
+      "awayScore": 2,
       "homeScore": 1,
       "venue": "Comerica Park",
       "awayPitcher": "Tarik Skubal",
@@ -9285,8 +9285,8 @@
         "name": "Washington Nationals",
         "abbreviation": "WSH"
       },
-      "awayScore": 1,
-      "homeScore": 5,
+      "awayScore": 2,
+      "homeScore": 9,
       "venue": "Nationals Park",
       "awayPitcher": "Eury P\u00e9rez",
       "homePitcher": "Jackson Kent"
@@ -9309,7 +9309,7 @@
         "name": "Cleveland Guardians",
         "abbreviation": "CLE"
       },
-      "awayScore": 0,
+      "awayScore": 1,
       "homeScore": 0,
       "venue": "Progressive Field",
       "awayPitcher": "Michael Wacha",
@@ -9333,8 +9333,8 @@
         "name": "New York Mets",
         "abbreviation": "NYM"
       },
-      "awayScore": 0,
-      "homeScore": 0,
+      "awayScore": 3,
+      "homeScore": 1,
       "venue": "Citi Field",
       "awayPitcher": "Hunter Brown",
       "homePitcher": "Christian Scott"
@@ -9357,8 +9357,8 @@
         "name": "Tampa Bay Rays",
         "abbreviation": "TB"
       },
-      "awayScore": 0,
-      "homeScore": 4,
+      "awayScore": 4,
+      "homeScore": 8,
       "venue": "Tropicana Field",
       "awayPitcher": "Casey Mize",
       "homePitcher": "Shane McClanahan"
@@ -9382,7 +9382,7 @@
         "abbreviation": "TOR"
       },
       "awayScore": 1,
-      "homeScore": 3,
+      "homeScore": 6,
       "venue": "Rogers Centre",
       "awayPitcher": "Emerson Hancock",
       "homePitcher": "Dylan Cease"
@@ -9405,8 +9405,8 @@
         "name": "Atlanta Braves",
         "abbreviation": "ATL"
       },
-      "awayScore": 0,
-      "homeScore": 3,
+      "awayScore": 3,
+      "homeScore": 6,
       "venue": "Truist Park",
       "awayPitcher": "Tomoyuki Sugano",
       "homePitcher": "Grant Holmes"
@@ -9416,9 +9416,9 @@
       "date": "2026-08-28",
       "gameDate": "2026-08-28T23:15:00Z",
       "localGameTime": "2026-08-28T19:15:00-04:00",
-      "status": "In Progress",
+      "status": "Player challenge",
       "abstractGameState": "Live",
-      "codedGameState": "I",
+      "codedGameState": "M",
       "awayTeam": {
         "id": 111,
         "name": "Boston Red Sox",
@@ -9430,7 +9430,7 @@
         "abbreviation": "NYY"
       },
       "awayScore": 0,
-      "homeScore": 0,
+      "homeScore": 1,
       "venue": "Yankee Stadium",
       "awayPitcher": "Patrick Sandoval",
       "homePitcher": "Cam Schlittler"
@@ -9453,7 +9453,7 @@
         "name": "Milwaukee Brewers",
         "abbreviation": "MIL"
       },
-      "awayScore": 0,
+      "awayScore": 1,
       "homeScore": 2,
       "venue": "American Family Field",
       "awayPitcher": "Cody Bradford",
@@ -9464,9 +9464,9 @@
       "date": "2026-08-28",
       "gameDate": "2026-08-29T00:10:00Z",
       "localGameTime": "2026-08-28T20:10:00-04:00",
-      "status": "Warmup",
+      "status": "In Progress",
       "abstractGameState": "Live",
-      "codedGameState": "P",
+      "codedGameState": "I",
       "awayTeam": {
         "id": 145,
         "name": "Chicago White Sox",
@@ -9477,8 +9477,8 @@
         "name": "Minnesota Twins",
         "abbreviation": "MIN"
       },
-      "awayScore": 0,
-      "homeScore": 0,
+      "awayScore": 5,
+      "homeScore": 4,
       "venue": "Target Field",
       "awayPitcher": "Luis Castillo",
       "homePitcher": "Dean Kremer"
@@ -9488,9 +9488,9 @@
       "date": "2026-08-28",
       "gameDate": "2026-08-29T00:15:00Z",
       "localGameTime": "2026-08-28T20:15:00-04:00",
-      "status": "Warmup",
+      "status": "In Progress",
       "abstractGameState": "Live",
-      "codedGameState": "P",
+      "codedGameState": "I",
       "awayTeam": {
         "id": 134,
         "name": "Pittsburgh Pirates",
@@ -9502,7 +9502,7 @@
         "abbreviation": "STL"
       },
       "awayScore": 0,
-      "homeScore": 0,
+      "homeScore": 2,
       "venue": "Busch Stadium",
       "awayPitcher": "Jared Jones",
       "homePitcher": "Quinn Mathews"
