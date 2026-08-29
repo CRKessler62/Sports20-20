@@ -1,6 +1,6 @@
 {
   "league": "MLB",
-  "lastUpdated": "2026-08-29T22:38:45.050684+00:00",
+  "lastUpdated": "2026-08-29T22:51:38.872179+00:00",
   "games": [
     {
       "gamePk": 823539,
@@ -74,7 +74,7 @@
       "homeTeam": "New York Yankees",
       "awayScore": 0,
       "homeScore": 0,
-      "status": "Pre-Game",
+      "status": "Warmup",
       "gameDate": "2026-08-29T23:15:00Z",
       "inning": 1,
       "inningOrdinal": "1st",
@@ -430,13 +430,13 @@
       "homeTeam": "San Francisco Giants",
       "awayScore": 7,
       "homeScore": 1,
-      "status": "In Progress",
+      "status": "Game Over",
       "gameDate": "2026-08-29T20:05:00Z",
       "inning": 9,
       "inningOrdinal": "9th",
-      "inningState": "Middle",
+      "inningState": "Bottom",
       "outs": 3,
-      "battingTeam": "Arizona Diamondbacks",
+      "battingTeam": "San Francisco Giants",
       "runners": {
         "first": false,
         "second": false,
@@ -518,14 +518,14 @@
       "homeScore": 4,
       "status": "In Progress",
       "gameDate": "2026-08-29T20:05:00Z",
-      "inning": 9,
-      "inningOrdinal": "9th",
-      "inningState": "Middle",
-      "outs": 3,
+      "inning": 10,
+      "inningOrdinal": "10th",
+      "inningState": "Top",
+      "outs": 1,
       "battingTeam": "Miami Marlins",
       "runners": {
         "first": false,
-        "second": false,
+        "second": true,
         "third": false
       },
       "inningScores": [
@@ -573,6 +573,11 @@
           "inning": 9,
           "awayRuns": 0,
           "homeRuns": 0
+        },
+        {
+          "inning": 10,
+          "awayRuns": 0,
+          "homeRuns": 0
         }
       ]
     },
@@ -581,17 +586,17 @@
       "awayTeam": "Kansas City Royals",
       "homeTeam": "Cleveland Guardians",
       "awayScore": 8,
-      "homeScore": 2,
-      "status": "In Progress",
+      "homeScore": 3,
+      "status": "Final",
       "gameDate": "2026-08-29T20:10:00Z",
       "inning": 9,
       "inningOrdinal": "9th",
       "inningState": "Bottom",
-      "outs": 1,
+      "outs": 3,
       "battingTeam": "Cleveland Guardians",
       "runners": {
         "first": false,
-        "second": true,
+        "second": false,
         "third": false
       },
       "inningScores": [
@@ -638,7 +643,7 @@
         {
           "inning": 9,
           "awayRuns": 0,
-          "homeRuns": 0
+          "homeRuns": 1
         }
       ]
     },
@@ -648,11 +653,11 @@
       "homeTeam": "New York Mets",
       "awayScore": 2,
       "homeScore": 6,
-      "status": "In Progress",
+      "status": "Game Over",
       "gameDate": "2026-08-29T20:10:00Z",
-      "inning": 8,
-      "inningOrdinal": "8th",
-      "inningState": "End",
+      "inning": 9,
+      "inningOrdinal": "9th",
+      "inningState": "Top",
       "outs": 3,
       "battingTeam": "Houston Astros",
       "runners": {
@@ -700,6 +705,11 @@
           "inning": 8,
           "awayRuns": 1,
           "homeRuns": 2
+        },
+        {
+          "inning": 9,
+          "awayRuns": 0,
+          "homeRuns": 0
         }
       ]
     },
@@ -711,11 +721,11 @@
       "homeScore": 7,
       "status": "In Progress",
       "gameDate": "2026-08-29T20:10:00Z",
-      "inning": 8,
-      "inningOrdinal": "8th",
-      "inningState": "Bottom",
+      "inning": 9,
+      "inningOrdinal": "9th",
+      "inningState": "Top",
       "outs": 1,
-      "battingTeam": "Tampa Bay Rays",
+      "battingTeam": "San Diego Padres",
       "runners": {
         "first": true,
         "second": false,
@@ -761,6 +771,11 @@
           "inning": 8,
           "awayRuns": 0,
           "homeRuns": 0
+        },
+        {
+          "inning": 9,
+          "awayRuns": 0,
+          "homeRuns": 0
         }
       ]
     },
@@ -772,15 +787,15 @@
       "homeScore": 0,
       "status": "In Progress",
       "gameDate": "2026-08-29T20:10:00Z",
-      "inning": 7,
-      "inningOrdinal": "7th",
+      "inning": 8,
+      "inningOrdinal": "8th",
       "inningState": "Bottom",
-      "outs": 2,
+      "outs": 1,
       "battingTeam": "Atlanta Braves",
       "runners": {
-        "first": true,
+        "first": false,
         "second": false,
-        "third": true
+        "third": false
       },
       "inningScores": [
         {
@@ -815,6 +830,11 @@
         },
         {
           "inning": 7,
+          "awayRuns": 0,
+          "homeRuns": 0
+        },
+        {
+          "inning": 8,
           "awayRuns": 0,
           "homeRuns": 0
         }
