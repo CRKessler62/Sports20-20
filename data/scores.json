@@ -1,24 +1,24 @@
 {
   "league": "MLB",
-  "lastUpdated": "2026-08-29T18:24:49.609661+00:00",
+  "lastUpdated": "2026-08-29T18:37:25.103333+00:00",
   "games": [
     {
       "gamePk": 823539,
       "awayTeam": "Boston Red Sox",
       "homeTeam": "New York Yankees",
-      "awayScore": 1,
+      "awayScore": 2,
       "homeScore": 0,
       "status": "In Progress",
       "gameDate": "2026-08-29T17:05:00Z",
       "inning": 5,
       "inningOrdinal": "5th",
-      "inningState": "Top",
-      "outs": 2,
+      "inningState": "Middle",
+      "outs": 3,
       "battingTeam": "Boston Red Sox",
       "runners": {
-        "first": true,
+        "first": false,
         "second": false,
-        "third": true
+        "third": false
       },
       "inningScores": [
         {
@@ -43,7 +43,7 @@
         },
         {
           "inning": 5,
-          "awayRuns": 0,
+          "awayRuns": 1,
           "homeRuns": 0
         }
       ]
@@ -78,12 +78,12 @@
       "gameDate": "2026-08-29T17:10:00Z",
       "inning": 5,
       "inningOrdinal": "5th",
-      "inningState": "Middle",
-      "outs": 3,
-      "battingTeam": "Los Angeles Dodgers",
+      "inningState": "Bottom",
+      "outs": 2,
+      "battingTeam": "Detroit Tigers",
       "runners": {
-        "first": false,
-        "second": false,
+        "first": true,
+        "second": true,
         "third": false
       },
       "inningScores": [
@@ -119,24 +119,24 @@
       "awayTeam": "Chicago White Sox",
       "homeTeam": "Minnesota Twins",
       "awayScore": 1,
-      "homeScore": 0,
+      "homeScore": 1,
       "status": "In Progress",
       "gameDate": "2026-08-29T18:10:00Z",
       "inning": 1,
       "inningOrdinal": "1st",
-      "inningState": "Top",
-      "outs": 2,
+      "inningState": "End",
+      "outs": 3,
       "battingTeam": "Chicago White Sox",
       "runners": {
-        "first": true,
+        "first": false,
         "second": false,
-        "third": true
+        "third": false
       },
       "inningScores": [
         {
           "inning": 1,
           "awayRuns": 1,
-          "homeRuns": 0
+          "homeRuns": 1
         }
       ]
     },
@@ -148,20 +148,25 @@
       "homeScore": 0,
       "status": "In Progress",
       "gameDate": "2026-08-29T18:15:00Z",
-      "inning": 1,
-      "inningOrdinal": "1st",
-      "inningState": "Bottom",
-      "outs": 1,
-      "battingTeam": "St. Louis Cardinals",
+      "inning": 2,
+      "inningOrdinal": "2nd",
+      "inningState": "Top",
+      "outs": 0,
+      "battingTeam": "Pittsburgh Pirates",
       "runners": {
-        "first": false,
-        "second": false,
+        "first": true,
+        "second": true,
         "third": false
       },
       "inningScores": [
         {
           "inning": 1,
           "awayRuns": 1,
+          "homeRuns": 0
+        },
+        {
+          "inning": 2,
+          "awayRuns": 0,
           "homeRuns": 0
         }
       ]
@@ -171,13 +176,13 @@
       "awayTeam": "Cincinnati Reds",
       "homeTeam": "Chicago Cubs",
       "awayScore": 0,
-      "homeScore": 0,
+      "homeScore": 3,
       "status": "In Progress",
       "gameDate": "2026-08-29T18:20:00Z",
-      "inning": 1,
-      "inningOrdinal": "1st",
-      "inningState": "Middle",
-      "outs": 3,
+      "inning": 2,
+      "inningOrdinal": "2nd",
+      "inningState": "Top",
+      "outs": 1,
       "battingTeam": "Cincinnati Reds",
       "runners": {
         "first": false,
@@ -187,6 +192,11 @@
       "inningScores": [
         {
           "inning": 1,
+          "awayRuns": 0,
+          "homeRuns": 3
+        },
+        {
+          "inning": 2,
           "awayRuns": 0,
           "homeRuns": 0
         }
