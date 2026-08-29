@@ -1,6 +1,6 @@
 {
   "league": "MLB",
-  "lastUpdated": "2026-08-29T19:02:25.550425+00:00",
+  "lastUpdated": "2026-08-29T19:15:15.082165+00:00",
   "games": [
     {
       "gamePk": 823539,
@@ -12,9 +12,9 @@
       "gameDate": "2026-08-29T17:05:00Z",
       "inning": 7,
       "inningOrdinal": "7th",
-      "inningState": "Top",
-      "outs": 0,
-      "battingTeam": "Boston Red Sox",
+      "inningState": "Bottom",
+      "outs": 1,
+      "battingTeam": "New York Yankees",
       "runners": {
         "first": false,
         "second": false,
@@ -88,12 +88,12 @@
       "gameDate": "2026-08-29T17:10:00Z",
       "inning": 7,
       "inningOrdinal": "7th",
-      "inningState": "Top",
-      "outs": 0,
-      "battingTeam": "Los Angeles Dodgers",
+      "inningState": "Bottom",
+      "outs": 2,
+      "battingTeam": "Detroit Tigers",
       "runners": {
         "first": false,
-        "second": true,
+        "second": false,
         "third": false
       },
       "inningScores": [
@@ -142,15 +142,15 @@
       "homeScore": 2,
       "status": "In Progress",
       "gameDate": "2026-08-29T18:10:00Z",
-      "inning": 3,
-      "inningOrdinal": "3rd",
-      "inningState": "Middle",
-      "outs": 3,
+      "inning": 4,
+      "inningOrdinal": "4th",
+      "inningState": "Top",
+      "outs": 1,
       "battingTeam": "Chicago White Sox",
       "runners": {
         "first": false,
         "second": false,
-        "third": false
+        "third": true
       },
       "inningScores": [
         {
@@ -165,6 +165,11 @@
         },
         {
           "inning": 3,
+          "awayRuns": 0,
+          "homeRuns": 0
+        },
+        {
+          "inning": 4,
           "awayRuns": 0,
           "homeRuns": 0
         }
@@ -176,15 +181,15 @@
       "homeTeam": "St. Louis Cardinals",
       "awayScore": 1,
       "homeScore": 1,
-      "status": "In Progress",
+      "status": "Manager challenge",
       "gameDate": "2026-08-29T18:15:00Z",
-      "inning": 3,
-      "inningOrdinal": "3rd",
-      "inningState": "Bottom",
+      "inning": 4,
+      "inningOrdinal": "4th",
+      "inningState": "Top",
       "outs": 1,
-      "battingTeam": "St. Louis Cardinals",
+      "battingTeam": "Pittsburgh Pirates",
       "runners": {
-        "first": true,
+        "first": false,
         "second": false,
         "third": false
       },
@@ -203,6 +208,11 @@
           "inning": 3,
           "awayRuns": 0,
           "homeRuns": 1
+        },
+        {
+          "inning": 4,
+          "awayRuns": 0,
+          "homeRuns": 0
         }
       ]
     },
@@ -216,13 +226,13 @@
       "gameDate": "2026-08-29T18:20:00Z",
       "inning": 3,
       "inningOrdinal": "3rd",
-      "inningState": "Top",
-      "outs": 1,
-      "battingTeam": "Cincinnati Reds",
+      "inningState": "Bottom",
+      "outs": 2,
+      "battingTeam": "Chicago Cubs",
       "runners": {
         "first": false,
-        "second": false,
-        "third": false
+        "second": true,
+        "third": true
       },
       "inningScores": [
         {
@@ -248,7 +258,7 @@
       "homeTeam": "Toronto Blue Jays",
       "awayScore": 0,
       "homeScore": 0,
-      "status": "Pre-Game",
+      "status": "Delayed Start",
       "gameDate": "2026-08-29T19:07:00Z",
       "inning": 1,
       "inningOrdinal": "1st",
