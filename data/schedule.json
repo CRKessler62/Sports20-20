@@ -1,7 +1,7 @@
 {
   "league": "MLB",
   "timezone": "America/New_York",
-  "lastUpdated": "2026-08-29T13:06:40.007050+00:00",
+  "lastUpdated": "2026-08-29T14:06:35.169536+00:00",
   "games": [
     {
       "gamePk": 822946,
@@ -9584,9 +9584,9 @@
       "date": "2026-08-29",
       "gameDate": "2026-08-29T17:05:00Z",
       "localGameTime": "2026-08-29T13:05:00-04:00",
-      "status": "Scheduled",
+      "status": "Pre-Game",
       "abstractGameState": "Preview",
-      "codedGameState": "S",
+      "codedGameState": "P",
       "awayTeam": {
         "id": 111,
         "name": "Boston Red Sox",
@@ -9632,9 +9632,9 @@
       "date": "2026-08-29",
       "gameDate": "2026-08-29T17:10:00Z",
       "localGameTime": "2026-08-29T13:10:00-04:00",
-      "status": "Scheduled",
+      "status": "Pre-Game",
       "abstractGameState": "Preview",
-      "codedGameState": "S",
+      "codedGameState": "P",
       "awayTeam": {
         "id": 119,
         "name": "Los Angeles Dodgers",
@@ -9645,8 +9645,8 @@
         "name": "Detroit Tigers",
         "abbreviation": "DET"
       },
-      "awayScore": null,
-      "homeScore": null,
+      "awayScore": 0,
+      "homeScore": 0,
       "venue": "Comerica Park",
       "awayPitcher": "Blake Snell",
       "homePitcher": "Keider Montero"
