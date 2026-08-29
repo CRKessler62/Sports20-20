@@ -1,6 +1,6 @@
 {
   "league": "MLB",
-  "lastUpdated": "2026-08-29T17:34:07.811684+00:00",
+  "lastUpdated": "2026-08-29T17:46:48.226545+00:00",
   "games": [
     {
       "gamePk": 823539,
@@ -10,11 +10,11 @@
       "homeScore": 0,
       "status": "In Progress",
       "gameDate": "2026-08-29T17:05:00Z",
-      "inning": 2,
-      "inningOrdinal": "2nd",
-      "inningState": "Bottom",
-      "outs": 0,
-      "battingTeam": "New York Yankees",
+      "inning": 3,
+      "inningOrdinal": "3rd",
+      "inningState": "Middle",
+      "outs": 3,
+      "battingTeam": "Boston Red Sox",
       "runners": {
         "first": false,
         "second": false,
@@ -28,6 +28,11 @@
         },
         {
           "inning": 2,
+          "awayRuns": 0,
+          "homeRuns": 0
+        },
+        {
+          "inning": 3,
           "awayRuns": 0,
           "homeRuns": 0
         }
@@ -61,13 +66,13 @@
       "homeScore": 0,
       "status": "In Progress",
       "gameDate": "2026-08-29T17:10:00Z",
-      "inning": 2,
-      "inningOrdinal": "2nd",
-      "inningState": "Bottom",
-      "outs": 0,
-      "battingTeam": "Detroit Tigers",
+      "inning": 3,
+      "inningOrdinal": "3rd",
+      "inningState": "Middle",
+      "outs": 3,
+      "battingTeam": "Los Angeles Dodgers",
       "runners": {
-        "first": true,
+        "first": false,
         "second": false,
         "third": false
       },
@@ -81,6 +86,11 @@
           "inning": 2,
           "awayRuns": 0,
           "homeRuns": 0
+        },
+        {
+          "inning": 3,
+          "awayRuns": 0,
+          "homeRuns": 0
         }
       ]
     },
@@ -90,7 +100,7 @@
       "homeTeam": "Minnesota Twins",
       "awayScore": 0,
       "homeScore": 0,
-      "status": "Pre-Game",
+      "status": "Warmup",
       "gameDate": "2026-08-29T18:10:00Z",
       "inning": 1,
       "inningOrdinal": "1st",
