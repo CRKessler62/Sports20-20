@@ -1,6 +1,6 @@
 {
   "league": "MLB",
-  "lastUpdated": "2026-08-29T17:59:27.769538+00:00",
+  "lastUpdated": "2026-08-29T18:12:05.139392+00:00",
   "games": [
     {
       "gamePk": 823539,
@@ -10,14 +10,14 @@
       "homeScore": 0,
       "status": "In Progress",
       "gameDate": "2026-08-29T17:05:00Z",
-      "inning": 3,
-      "inningOrdinal": "3rd",
-      "inningState": "End",
-      "outs": 3,
-      "battingTeam": "Boston Red Sox",
+      "inning": 4,
+      "inningOrdinal": "4th",
+      "inningState": "Bottom",
+      "outs": 1,
+      "battingTeam": "New York Yankees",
       "runners": {
         "first": false,
-        "second": false,
+        "second": true,
         "third": false
       },
       "inningScores": [
@@ -33,6 +33,11 @@
         },
         {
           "inning": 3,
+          "awayRuns": 0,
+          "homeRuns": 0
+        },
+        {
+          "inning": 4,
           "awayRuns": 0,
           "homeRuns": 0
         }
@@ -66,15 +71,15 @@
       "homeScore": 1,
       "status": "In Progress",
       "gameDate": "2026-08-29T17:10:00Z",
-      "inning": 3,
-      "inningOrdinal": "3rd",
+      "inning": 4,
+      "inningOrdinal": "4th",
       "inningState": "Bottom",
-      "outs": 1,
+      "outs": 0,
       "battingTeam": "Detroit Tigers",
       "runners": {
-        "first": true,
-        "second": true,
-        "third": true
+        "first": false,
+        "second": false,
+        "third": false
       },
       "inningScores": [
         {
@@ -91,6 +96,11 @@
           "inning": 3,
           "awayRuns": 0,
           "homeRuns": 1
+        },
+        {
+          "inning": 4,
+          "awayRuns": 0,
+          "homeRuns": 0
         }
       ]
     },
@@ -100,7 +110,7 @@
       "homeTeam": "Minnesota Twins",
       "awayScore": 0,
       "homeScore": 0,
-      "status": "Warmup",
+      "status": "In Progress",
       "gameDate": "2026-08-29T18:10:00Z",
       "inning": 1,
       "inningOrdinal": "1st",
@@ -126,7 +136,7 @@
       "homeTeam": "St. Louis Cardinals",
       "awayScore": 0,
       "homeScore": 0,
-      "status": "Pre-Game",
+      "status": "Warmup",
       "gameDate": "2026-08-29T18:15:00Z",
       "inning": 1,
       "inningOrdinal": "1st",
