@@ -1,6 +1,6 @@
 {
   "season": 2026,
-  "lastUpdated": "2026-08-29T17:18:17.006237+00:00",
+  "lastUpdated": "2026-08-29T18:18:09.812861+00:00",
   "leagues": {
     "AL": {
       "offense": {
@@ -209,7 +209,7 @@
             "player": "Willson Contreras",
             "team": "Boston Red Sox",
             "position": "1B",
-            "value": ".386"
+            "value": ".385"
           },
           {
             "rank": 4,
@@ -239,7 +239,7 @@
             "player": "Ben Rice",
             "team": "New York Yankees",
             "position": "DH",
-            "value": ".532"
+            "value": ".530"
           },
           {
             "rank": 3,
@@ -253,7 +253,7 @@
             "player": "Willson Contreras",
             "team": "Boston Red Sox",
             "position": "1B",
-            "value": ".520"
+            "value": ".519"
           },
           {
             "rank": 5,
@@ -276,7 +276,7 @@
             "player": "Willson Contreras",
             "team": "Boston Red Sox",
             "position": "1B",
-            "value": ".906"
+            "value": ".904"
           },
           {
             "rank": 3,
@@ -290,7 +290,7 @@
             "player": "Ben Rice",
             "team": "New York Yankees",
             "position": "DH",
-            "value": ".884"
+            "value": ".881"
           },
           {
             "rank": 5,
@@ -541,24 +541,24 @@
           },
           {
             "rank": 3,
+            "player": "Keider Montero",
+            "team": "Detroit Tigers",
+            "position": "P",
+            "value": "0.98"
+          },
+          {
+            "rank": 4,
             "player": "Parker Messick",
             "team": "Cleveland Guardians",
             "position": "P",
             "value": "1.01"
           },
           {
-            "rank": 4,
+            "rank": 5,
             "player": "Logan Gilbert",
             "team": "Seattle Mariners",
             "position": "P",
             "value": "1.02"
-          },
-          {
-            "rank": 5,
-            "player": "Dylan Cease",
-            "team": "Toronto Blue Jays",
-            "position": "P",
-            "value": "1.05"
           }
         ],
         "saves": [
@@ -681,7 +681,7 @@
             "player": "Spencer Torkelson",
             "team": "Detroit Tigers",
             "position": "1B",
-            "value": "1017"
+            "value": "1018"
           },
           {
             "rank": 2,
@@ -699,17 +699,17 @@
           },
           {
             "rank": 4,
+            "player": "Willson Contreras",
+            "team": "Boston Red Sox",
+            "position": "1B",
+            "value": "860"
+          },
+          {
+            "rank": 5,
             "player": "Josh Naylor",
             "team": "Seattle Mariners",
             "position": "1B",
             "value": "859"
-          },
-          {
-            "rank": 5,
-            "player": "Willson Contreras",
-            "team": "Boston Red Sox",
-            "position": "1B",
-            "value": "856"
           }
         ],
         "assists": [
@@ -1030,17 +1030,17 @@
           },
           {
             "rank": 3,
-            "player": "Bryce Harper",
-            "team": "Philadelphia Phillies",
-            "position": "1B",
+            "player": "Shohei Ohtani",
+            "team": "Los Angeles Dodgers",
+            "position": "TWP",
             "value": ".384"
           },
           {
             "rank": 4,
-            "player": "Shohei Ohtani",
-            "team": "Los Angeles Dodgers",
-            "position": "TWP",
-            "value": ".383"
+            "player": "Bryce Harper",
+            "team": "Philadelphia Phillies",
+            "position": "1B",
+            "value": ".384"
           },
           {
             "rank": 5,
@@ -1070,7 +1070,7 @@
             "player": "Shohei Ohtani",
             "team": "Los Angeles Dodgers",
             "position": "TWP",
-            "value": ".536"
+            "value": ".537"
           },
           {
             "rank": 4,
@@ -1107,7 +1107,7 @@
             "player": "Shohei Ohtani",
             "team": "Los Angeles Dodgers",
             "position": "TWP",
-            "value": ".919"
+            "value": ".921"
           },
           {
             "rank": 4,
@@ -1505,7 +1505,7 @@
             "player": "Alec Burleson",
             "team": "St. Louis Cardinals",
             "position": "1B",
-            "value": "1028"
+            "value": "1029"
           },
           {
             "rank": 2,
