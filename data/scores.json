@@ -1,20 +1,20 @@
 {
   "league": "MLB",
-  "lastUpdated": "2026-08-29T17:08:55.082016+00:00",
+  "lastUpdated": "2026-08-29T17:21:26.312750+00:00",
   "games": [
     {
       "gamePk": 823539,
       "awayTeam": "Boston Red Sox",
       "homeTeam": "New York Yankees",
-      "awayScore": 0,
+      "awayScore": 1,
       "homeScore": 0,
-      "status": "Warmup",
+      "status": "In Progress",
       "gameDate": "2026-08-29T17:05:00Z",
       "inning": 1,
       "inningOrdinal": "1st",
-      "inningState": "Top",
-      "outs": 0,
-      "battingTeam": "Boston Red Sox",
+      "inningState": "Bottom",
+      "outs": 1,
+      "battingTeam": "New York Yankees",
       "runners": {
         "first": false,
         "second": false,
@@ -23,7 +23,7 @@
       "inningScores": [
         {
           "inning": 1,
-          "awayRuns": 0,
+          "awayRuns": 1,
           "homeRuns": 0
         }
       ]
@@ -54,12 +54,12 @@
       "homeTeam": "Detroit Tigers",
       "awayScore": 0,
       "homeScore": 0,
-      "status": "Warmup",
+      "status": "In Progress",
       "gameDate": "2026-08-29T17:10:00Z",
       "inning": 1,
       "inningOrdinal": "1st",
-      "inningState": "Top",
-      "outs": 0,
+      "inningState": "End",
+      "outs": 3,
       "battingTeam": "Los Angeles Dodgers",
       "runners": {
         "first": false,
@@ -184,7 +184,7 @@
       "homeTeam": "San Francisco Giants",
       "awayScore": 0,
       "homeScore": 0,
-      "status": "Scheduled",
+      "status": "Pre-Game",
       "gameDate": "2026-08-29T20:05:00Z",
       "inning": null,
       "inningOrdinal": null,
@@ -226,17 +226,23 @@
       "homeScore": 0,
       "status": "Pre-Game",
       "gameDate": "2026-08-29T20:05:00Z",
-      "inning": null,
-      "inningOrdinal": null,
-      "inningState": null,
-      "outs": null,
-      "battingTeam": null,
+      "inning": 1,
+      "inningOrdinal": "1st",
+      "inningState": "Top",
+      "outs": 0,
+      "battingTeam": "Miami Marlins",
       "runners": {
         "first": false,
         "second": false,
         "third": false
       },
-      "inningScores": []
+      "inningScores": [
+        {
+          "inning": 1,
+          "awayRuns": 0,
+          "homeRuns": 0
+        }
+      ]
     },
     {
       "gamePk": 824392,
