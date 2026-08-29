@@ -1,7 +1,7 @@
 {
   "league": "MLB",
   "timezone": "America/New_York",
-  "lastUpdated": "2026-08-29T15:06:39.751725+00:00",
+  "lastUpdated": "2026-08-29T16:06:47.794923+00:00",
   "games": [
     {
       "gamePk": 822946,
@@ -9669,8 +9669,8 @@
         "name": "Minnesota Twins",
         "abbreviation": "MIN"
       },
-      "awayScore": null,
-      "homeScore": null,
+      "awayScore": 0,
+      "homeScore": 0,
       "venue": "Target Field",
       "awayPitcher": "Erick Fedde",
       "homePitcher": "Bailey Ober"
@@ -9680,9 +9680,9 @@
       "date": "2026-08-29",
       "gameDate": "2026-08-29T18:15:00Z",
       "localGameTime": "2026-08-29T14:15:00-04:00",
-      "status": "Scheduled",
+      "status": "Pre-Game",
       "abstractGameState": "Preview",
-      "codedGameState": "S",
+      "codedGameState": "P",
       "awayTeam": {
         "id": 134,
         "name": "Pittsburgh Pirates",
@@ -9693,8 +9693,8 @@
         "name": "St. Louis Cardinals",
         "abbreviation": "STL"
       },
-      "awayScore": null,
-      "homeScore": null,
+      "awayScore": 0,
+      "homeScore": 0,
       "venue": "Busch Stadium",
       "awayPitcher": "Lake Bachar",
       "homePitcher": "Kyle Leahy"
@@ -9717,8 +9717,8 @@
         "name": "Chicago Cubs",
         "abbreviation": "CHC"
       },
-      "awayScore": null,
-      "homeScore": null,
+      "awayScore": 0,
+      "homeScore": 0,
       "venue": "Wrigley Field",
       "awayPitcher": "Andrew Abbott",
       "homePitcher": "Kevin Gausman"
@@ -9728,9 +9728,9 @@
       "date": "2026-08-29",
       "gameDate": "2026-08-29T19:07:00Z",
       "localGameTime": "2026-08-29T15:07:00-04:00",
-      "status": "Scheduled",
+      "status": "Pre-Game",
       "abstractGameState": "Preview",
-      "codedGameState": "S",
+      "codedGameState": "P",
       "awayTeam": {
         "id": 136,
         "name": "Seattle Mariners",
