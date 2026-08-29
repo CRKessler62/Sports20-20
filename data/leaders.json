@@ -1,6 +1,6 @@
 {
   "season": 2026,
-  "lastUpdated": "2026-08-29T18:18:09.812861+00:00",
+  "lastUpdated": "2026-08-29T19:18:27.050311+00:00",
   "leagues": {
     "AL": {
       "offense": {
@@ -223,7 +223,7 @@
             "player": "Kevin McGonigle",
             "team": "Detroit Tigers",
             "position": "SS",
-            "value": ".376"
+            "value": ".378"
           }
         ],
         "slg": [
@@ -239,7 +239,7 @@
             "player": "Ben Rice",
             "team": "New York Yankees",
             "position": "DH",
-            "value": ".530"
+            "value": ".529"
           },
           {
             "rank": 3,
@@ -253,7 +253,7 @@
             "player": "Willson Contreras",
             "team": "Boston Red Sox",
             "position": "1B",
-            "value": ".519"
+            "value": ".518"
           },
           {
             "rank": 5,
@@ -276,7 +276,7 @@
             "player": "Willson Contreras",
             "team": "Boston Red Sox",
             "position": "1B",
-            "value": ".904"
+            "value": ".903"
           },
           {
             "rank": 3,
@@ -287,16 +287,16 @@
           },
           {
             "rank": 4,
-            "player": "Ben Rice",
-            "team": "New York Yankees",
-            "position": "DH",
-            "value": ".881"
-          },
-          {
-            "rank": 5,
             "player": "Nick Kurtz",
             "team": "Athletics",
             "position": "1B",
+            "value": ".879"
+          },
+          {
+            "rank": 5,
+            "player": "Ben Rice",
+            "team": "New York Yankees",
+            "position": "DH",
             "value": ".879"
           }
         ],
@@ -544,7 +544,7 @@
             "player": "Keider Montero",
             "team": "Detroit Tigers",
             "position": "P",
-            "value": "0.98"
+            "value": "0.99"
           },
           {
             "rank": 4,
@@ -681,7 +681,7 @@
             "player": "Spencer Torkelson",
             "team": "Detroit Tigers",
             "position": "1B",
-            "value": "1018"
+            "value": "1021"
           },
           {
             "rank": 2,
@@ -702,7 +702,7 @@
             "player": "Willson Contreras",
             "team": "Boston Red Sox",
             "position": "1B",
-            "value": "860"
+            "value": "863"
           },
           {
             "rank": 5,
@@ -746,7 +746,7 @@
             "player": "Chase Meidroth",
             "team": "Chicago White Sox",
             "position": "2B",
-            "value": "268"
+            "value": "270"
           }
         ],
         "errors": [
@@ -792,7 +792,7 @@
             "player": "Spencer Torkelson",
             "team": "Detroit Tigers",
             "position": "1B",
-            "value": "94"
+            "value": "95"
           },
           {
             "rank": 2,
@@ -848,14 +848,14 @@
             "player": "Nick Gonzales",
             "team": "Pittsburgh Pirates",
             "position": "3B",
-            "value": ".305"
+            "value": ".306"
           },
           {
             "rank": 4,
             "player": "Freddie Freeman",
             "team": "Los Angeles Dodgers",
             "position": "1B",
-            "value": ".301"
+            "value": ".302"
           },
           {
             "rank": 5,
@@ -885,7 +885,7 @@
             "player": "Freddie Freeman",
             "team": "Los Angeles Dodgers",
             "position": "1B",
-            "value": "150"
+            "value": "151"
           },
           {
             "rank": 4,
@@ -929,7 +929,7 @@
             "player": "Pete Crow-Armstrong",
             "team": "Chicago Cubs",
             "position": "CF",
-            "value": "33"
+            "value": "35"
           },
           {
             "rank": 5,
@@ -945,7 +945,7 @@
             "player": "Sal Stewart",
             "team": "Cincinnati Reds",
             "position": "1B",
-            "value": "102"
+            "value": "104"
           },
           {
             "rank": 2,
@@ -973,7 +973,7 @@
             "player": "Pete Crow-Armstrong",
             "team": "Chicago Cubs",
             "position": "CF",
-            "value": "83"
+            "value": "86"
           }
         ],
         "runs": [
@@ -989,7 +989,7 @@
             "player": "Pete Crow-Armstrong",
             "team": "Chicago Cubs",
             "position": "CF",
-            "value": "93"
+            "value": "95"
           },
           {
             "rank": 3,
@@ -1030,17 +1030,17 @@
           },
           {
             "rank": 3,
-            "player": "Shohei Ohtani",
-            "team": "Los Angeles Dodgers",
-            "position": "TWP",
-            "value": ".384"
-          },
-          {
-            "rank": 4,
             "player": "Bryce Harper",
             "team": "Philadelphia Phillies",
             "position": "1B",
             "value": ".384"
+          },
+          {
+            "rank": 4,
+            "player": "Shohei Ohtani",
+            "team": "Los Angeles Dodgers",
+            "position": "TWP",
+            "value": ".383"
           },
           {
             "rank": 5,
@@ -1053,24 +1053,24 @@
         "slg": [
           {
             "rank": 1,
+            "player": "Pete Crow-Armstrong",
+            "team": "Chicago Cubs",
+            "position": "CF",
+            "value": ".562"
+          },
+          {
+            "rank": 2,
             "player": "Hunter Goodman",
             "team": "Colorado Rockies",
             "position": "C",
             "value": ".549"
           },
           {
-            "rank": 2,
-            "player": "Pete Crow-Armstrong",
-            "team": "Chicago Cubs",
-            "position": "CF",
-            "value": ".548"
-          },
-          {
             "rank": 3,
             "player": "Shohei Ohtani",
             "team": "Los Angeles Dodgers",
             "position": "TWP",
-            "value": ".537"
+            "value": ".536"
           },
           {
             "rank": 4,
@@ -1090,24 +1090,24 @@
         "ops": [
           {
             "rank": 1,
+            "player": "Pete Crow-Armstrong",
+            "team": "Chicago Cubs",
+            "position": "CF",
+            "value": ".938"
+          },
+          {
+            "rank": 2,
             "player": "James Wood",
             "team": "Washington Nationals",
             "position": "RF",
             "value": ".928"
           },
           {
-            "rank": 2,
-            "player": "Pete Crow-Armstrong",
-            "team": "Chicago Cubs",
-            "position": "CF",
-            "value": ".922"
-          },
-          {
             "rank": 3,
             "player": "Shohei Ohtani",
             "team": "Los Angeles Dodgers",
             "position": "TWP",
-            "value": ".921"
+            "value": ".919"
           },
           {
             "rank": 4,
@@ -1505,7 +1505,7 @@
             "player": "Alec Burleson",
             "team": "St. Louis Cardinals",
             "position": "1B",
-            "value": "1029"
+            "value": "1030"
           },
           {
             "rank": 2,
@@ -1519,7 +1519,7 @@
             "player": "Michael Busch",
             "team": "Chicago Cubs",
             "position": "1B",
-            "value": "1009"
+            "value": "1012"
           },
           {
             "rank": 4,
@@ -1607,7 +1607,7 @@
             "player": "Elly De La Cruz",
             "team": "Cincinnati Reds",
             "position": "SS",
-            "value": "15"
+            "value": "16"
           }
         ],
         "doublePlays": [
