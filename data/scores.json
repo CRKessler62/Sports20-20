@@ -1,6 +1,6 @@
 {
   "league": "MLB",
-  "lastUpdated": "2026-08-29T23:17:06.777147+00:00",
+  "lastUpdated": "2026-08-29T23:29:35.669374+00:00",
   "games": [
     {
       "gamePk": 823539,
@@ -78,8 +78,8 @@
       "gameDate": "2026-08-29T23:15:00Z",
       "inning": 1,
       "inningOrdinal": "1st",
-      "inningState": "Top",
-      "outs": 1,
+      "inningState": "End",
+      "outs": 3,
       "battingTeam": "Boston Red Sox",
       "runners": {
         "first": false,
@@ -306,7 +306,7 @@
       "outs": 3,
       "battingTeam": "Cincinnati Reds",
       "runners": {
-        "first": true,
+        "first": false,
         "second": false,
         "third": false
       },
@@ -496,7 +496,7 @@
       "homeTeam": "San Francisco Giants",
       "awayScore": 0,
       "homeScore": 0,
-      "status": "Scheduled",
+      "status": "Pre-Game",
       "gameDate": "2026-08-30T02:05:00Z",
       "inning": null,
       "inningOrdinal": null,
@@ -596,7 +596,7 @@
       "battingTeam": "Cleveland Guardians",
       "runners": {
         "first": false,
-        "second": true,
+        "second": false,
         "third": false
       },
       "inningScores": [
@@ -663,7 +663,7 @@
       "runners": {
         "first": false,
         "second": false,
-        "third": true
+        "third": false
       },
       "inningScores": [
         {
@@ -727,7 +727,7 @@
       "outs": 3,
       "battingTeam": "San Diego Padres",
       "runners": {
-        "first": true,
+        "first": false,
         "second": false,
         "third": false
       },
@@ -785,11 +785,11 @@
       "homeTeam": "Atlanta Braves",
       "awayScore": 1,
       "homeScore": 2,
-      "status": "In Progress",
+      "status": "Game Over",
       "gameDate": "2026-08-29T20:10:00Z",
       "inning": 9,
       "inningOrdinal": "9th",
-      "inningState": "Middle",
+      "inningState": "Top",
       "outs": 3,
       "battingTeam": "Colorado Rockies",
       "runners": {
@@ -855,9 +855,9 @@
       "gameDate": "2026-08-29T23:15:00Z",
       "inning": 1,
       "inningOrdinal": "1st",
-      "inningState": "Top",
+      "inningState": "Bottom",
       "outs": 0,
-      "battingTeam": "Texas Rangers",
+      "battingTeam": "Milwaukee Brewers",
       "runners": {
         "first": false,
         "second": false,
@@ -889,7 +889,13 @@
         "second": false,
         "third": false
       },
-      "inningScores": []
+      "inningScores": [
+        {
+          "inning": 1,
+          "awayRuns": 0,
+          "homeRuns": 0
+        }
+      ]
     },
     {
       "gamePk": 823986,
@@ -909,7 +915,13 @@
         "second": false,
         "third": false
       },
-      "inningScores": []
+      "inningScores": [
+        {
+          "inning": 1,
+          "awayRuns": 0,
+          "homeRuns": 0
+        }
+      ]
     }
   ]
 }
