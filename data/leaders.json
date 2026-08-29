@@ -1,6 +1,6 @@
 {
   "season": 2026,
-  "lastUpdated": "2026-08-29T02:18:30.321822+00:00",
+  "lastUpdated": "2026-08-29T03:17:57.440345+00:00",
   "leagues": {
     "AL": {
       "offense": {
@@ -216,7 +216,7 @@
             "player": "Mike Trout",
             "team": "Los Angeles Angels",
             "position": "CF",
-            "value": ".383"
+            "value": ".382"
           },
           {
             "rank": 5,
@@ -260,7 +260,7 @@
             "player": "Pete Alonso",
             "team": "Baltimore Orioles",
             "position": "1B",
-            "value": ".511"
+            "value": ".509"
           }
         ],
         "ops": [
@@ -514,7 +514,7 @@
             "player": "Reid Detmers",
             "team": "Los Angeles Angels",
             "position": "P",
-            "value": "173"
+            "value": "174"
           },
           {
             "rank": 5,
@@ -739,14 +739,14 @@
             "player": "Zach Neto",
             "team": "Los Angeles Angels",
             "position": "SS",
-            "value": "269"
+            "value": "270"
           },
           {
             "rank": 5,
-            "player": "Bobby Witt Jr.",
-            "team": "Kansas City Royals",
-            "position": "SS",
-            "value": "267"
+            "player": "Chase Meidroth",
+            "team": "Chicago White Sox",
+            "position": "2B",
+            "value": "268"
           }
         ],
         "errors": [
@@ -848,20 +848,20 @@
             "player": "Nick Gonzales",
             "team": "Pittsburgh Pirates",
             "position": "3B",
-            "value": ".306"
+            "value": ".305"
           },
           {
             "rank": 4,
-            "player": "Gabriel Moreno",
-            "team": "Arizona Diamondbacks",
-            "position": "C",
-            "value": ".303"
-          },
-          {
-            "rank": 5,
             "player": "Freddie Freeman",
             "team": "Los Angeles Dodgers",
             "position": "1B",
+            "value": ".302"
+          },
+          {
+            "rank": 5,
+            "player": "Gabriel Moreno",
+            "team": "Arizona Diamondbacks",
+            "position": "C",
             "value": ".302"
           }
         ],
@@ -871,7 +871,7 @@
             "player": "Luis Arraez",
             "team": "Philadelphia Phillies",
             "position": "2B",
-            "value": "162"
+            "value": "163"
           },
           {
             "rank": 2,
@@ -896,10 +896,10 @@
           },
           {
             "rank": 5,
-            "player": "Fernando Tatis Jr.",
-            "team": "San Diego Padres",
+            "player": "Jordan Walker",
+            "team": "St. Louis Cardinals",
             "position": "RF",
-            "value": "148"
+            "value": "149"
           }
         ],
         "homeRuns": [
@@ -1044,10 +1044,10 @@
           },
           {
             "rank": 5,
-            "player": "Gabriel Moreno",
-            "team": "Arizona Diamondbacks",
-            "position": "C",
-            "value": ".383"
+            "player": "TJ Rumfield",
+            "team": "Colorado Rockies",
+            "position": "1B",
+            "value": ".382"
           }
         ],
         "slg": [
@@ -1512,7 +1512,7 @@
             "player": "William Contreras",
             "team": "Milwaukee Brewers",
             "position": "C",
-            "value": "1015"
+            "value": "1018"
           },
           {
             "rank": 3,
@@ -1526,7 +1526,7 @@
             "player": "J.T. Realmuto",
             "team": "Philadelphia Phillies",
             "position": "C",
-            "value": "998"
+            "value": "1001"
           },
           {
             "rank": 5,
@@ -1549,7 +1549,7 @@
             "player": "Luis Arraez",
             "team": "Philadelphia Phillies",
             "position": "2B",
-            "value": "323"
+            "value": "324"
           },
           {
             "rank": 3,
