@@ -1,6 +1,6 @@
 {
   "league": "MLB",
-  "lastUpdated": "2026-08-29T16:31:01.312205+00:00",
+  "lastUpdated": "2026-08-29T16:43:33.256031+00:00",
   "games": [
     {
       "gamePk": 823539,
@@ -8,7 +8,7 @@
       "homeTeam": "New York Yankees",
       "awayScore": 0,
       "homeScore": 0,
-      "status": "Pre-Game",
+      "status": "Warmup",
       "gameDate": "2026-08-29T17:05:00Z",
       "inning": 1,
       "inningOrdinal": "1st",
@@ -246,17 +246,23 @@
       "homeScore": 0,
       "status": "Pre-Game",
       "gameDate": "2026-08-29T20:10:00Z",
-      "inning": null,
-      "inningOrdinal": null,
-      "inningState": null,
-      "outs": null,
-      "battingTeam": null,
+      "inning": 1,
+      "inningOrdinal": "1st",
+      "inningState": "Top",
+      "outs": 0,
+      "battingTeam": "Kansas City Royals",
       "runners": {
         "first": false,
         "second": false,
         "third": false
       },
-      "inningScores": []
+      "inningScores": [
+        {
+          "inning": 1,
+          "awayRuns": 0,
+          "homeRuns": 0
+        }
+      ]
     },
     {
       "gamePk": 823582,
@@ -304,7 +310,7 @@
       "homeTeam": "Atlanta Braves",
       "awayScore": 0,
       "homeScore": 0,
-      "status": "Scheduled",
+      "status": "Pre-Game",
       "gameDate": "2026-08-29T20:10:00Z",
       "inning": null,
       "inningOrdinal": null,
