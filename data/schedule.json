@@ -1,7 +1,7 @@
 {
   "league": "MLB",
   "timezone": "America/New_York",
-  "lastUpdated": "2026-08-29T22:06:36.940108+00:00",
+  "lastUpdated": "2026-08-29T23:06:32.468094+00:00",
   "games": [
     {
       "gamePk": 822946,
@@ -9608,8 +9608,8 @@
       "date": "2026-08-29",
       "gameDate": "2026-08-29T23:15:00Z",
       "localGameTime": "2026-08-29T19:15:00-04:00",
-      "status": "Pre-Game",
-      "abstractGameState": "Preview",
+      "status": "Warmup",
+      "abstractGameState": "Live",
       "codedGameState": "P",
       "awayTeam": {
         "id": 111,
@@ -9728,9 +9728,9 @@
       "date": "2026-08-29",
       "gameDate": "2026-08-29T19:07:00Z",
       "localGameTime": "2026-08-29T15:07:00-04:00",
-      "status": "In Progress",
-      "abstractGameState": "Live",
-      "codedGameState": "I",
+      "status": "Final",
+      "abstractGameState": "Final",
+      "codedGameState": "F",
       "awayTeam": {
         "id": 136,
         "name": "Seattle Mariners",
@@ -9752,9 +9752,9 @@
       "date": "2026-08-29",
       "gameDate": "2026-08-29T20:05:00Z",
       "localGameTime": "2026-08-29T16:05:00-04:00",
-      "status": "In Progress",
-      "abstractGameState": "Live",
-      "codedGameState": "I",
+      "status": "Final",
+      "abstractGameState": "Final",
+      "codedGameState": "F",
       "awayTeam": {
         "id": 109,
         "name": "Arizona Diamondbacks",
@@ -9765,8 +9765,8 @@
         "name": "San Francisco Giants",
         "abbreviation": "SF"
       },
-      "awayScore": 4,
-      "homeScore": 0,
+      "awayScore": 7,
+      "homeScore": 1,
       "venue": "Oracle Park",
       "awayPitcher": "Merrill Kelly",
       "homePitcher": "Matt Wilkinson"
@@ -9814,7 +9814,7 @@
         "abbreviation": "WSH"
       },
       "awayScore": 4,
-      "homeScore": 4,
+      "homeScore": 5,
       "venue": "Nationals Park",
       "awayPitcher": "Sandy Alcantara",
       "homePitcher": "Cade Cavalli"
@@ -9824,9 +9824,9 @@
       "date": "2026-08-29",
       "gameDate": "2026-08-29T20:10:00Z",
       "localGameTime": "2026-08-29T16:10:00-04:00",
-      "status": "In Progress",
-      "abstractGameState": "Live",
-      "codedGameState": "I",
+      "status": "Final",
+      "abstractGameState": "Final",
+      "codedGameState": "F",
       "awayTeam": {
         "id": 118,
         "name": "Kansas City Royals",
@@ -9837,8 +9837,8 @@
         "name": "Cleveland Guardians",
         "abbreviation": "CLE"
       },
-      "awayScore": 6,
-      "homeScore": 2,
+      "awayScore": 8,
+      "homeScore": 3,
       "venue": "Progressive Field",
       "awayPitcher": "Daniel Lynch IV",
       "homePitcher": "Foster Griffin"
@@ -9848,9 +9848,9 @@
       "date": "2026-08-29",
       "gameDate": "2026-08-29T20:10:00Z",
       "localGameTime": "2026-08-29T16:10:00-04:00",
-      "status": "In Progress",
-      "abstractGameState": "Live",
-      "codedGameState": "I",
+      "status": "Final",
+      "abstractGameState": "Final",
+      "codedGameState": "F",
       "awayTeam": {
         "id": 117,
         "name": "Houston Astros",
@@ -9861,8 +9861,8 @@
         "name": "New York Mets",
         "abbreviation": "NYM"
       },
-      "awayScore": 1,
-      "homeScore": 4,
+      "awayScore": 2,
+      "homeScore": 6,
       "venue": "Citi Field",
       "awayPitcher": "Bennett Sousa",
       "homePitcher": "Nolan McLean"
@@ -9872,9 +9872,9 @@
       "date": "2026-08-29",
       "gameDate": "2026-08-29T20:10:00Z",
       "localGameTime": "2026-08-29T16:10:00-04:00",
-      "status": "In Progress",
-      "abstractGameState": "Live",
-      "codedGameState": "I",
+      "status": "Final",
+      "abstractGameState": "Final",
+      "codedGameState": "F",
       "awayTeam": {
         "id": 135,
         "name": "San Diego Padres",
@@ -9886,7 +9886,7 @@
         "abbreviation": "TB"
       },
       "awayScore": 6,
-      "homeScore": 3,
+      "homeScore": 7,
       "venue": "Tropicana Field",
       "awayPitcher": "Walker Buehler",
       "homePitcher": "Nick Martinez"
@@ -9910,7 +9910,7 @@
         "abbreviation": "ATL"
       },
       "awayScore": 1,
-      "homeScore": 0,
+      "homeScore": 2,
       "venue": "Truist Park",
       "awayPitcher": "Zach Agnos",
       "homePitcher": "Mart\u00edn P\u00e9rez"
@@ -9920,8 +9920,8 @@
       "date": "2026-08-29",
       "gameDate": "2026-08-29T23:15:00Z",
       "localGameTime": "2026-08-29T19:15:00-04:00",
-      "status": "Pre-Game",
-      "abstractGameState": "Preview",
+      "status": "Warmup",
+      "abstractGameState": "Live",
       "codedGameState": "P",
       "awayTeam": {
         "id": 140,
@@ -9981,8 +9981,8 @@
         "name": "Los Angeles Angels",
         "abbreviation": "LAA"
       },
-      "awayScore": null,
-      "homeScore": null,
+      "awayScore": 0,
+      "homeScore": 0,
       "venue": "Angel Stadium",
       "awayPitcher": "Cristopher S\u00e1nchez",
       "homePitcher": "Ryan Johnson"
