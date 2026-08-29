@@ -1,6 +1,6 @@
 {
   "season": 2026,
-  "lastUpdated": "2026-08-29T03:17:57.440345+00:00",
+  "lastUpdated": "2026-08-29T04:18:08.093835+00:00",
   "leagues": {
     "AL": {
       "offense": {
@@ -216,7 +216,7 @@
             "player": "Mike Trout",
             "team": "Los Angeles Angels",
             "position": "CF",
-            "value": ".382"
+            "value": ".381"
           },
           {
             "rank": 5,
@@ -260,7 +260,7 @@
             "player": "Pete Alonso",
             "team": "Baltimore Orioles",
             "position": "1B",
-            "value": ".509"
+            "value": ".508"
           }
         ],
         "ops": [
@@ -739,7 +739,7 @@
             "player": "Zach Neto",
             "team": "Los Angeles Angels",
             "position": "SS",
-            "value": "270"
+            "value": "271"
           },
           {
             "rank": 5,
@@ -862,7 +862,7 @@
             "player": "Gabriel Moreno",
             "team": "Arizona Diamondbacks",
             "position": "C",
-            "value": ".302"
+            "value": ".300"
           }
         ],
         "hits": [
@@ -1033,7 +1033,7 @@
             "player": "Bryce Harper",
             "team": "Philadelphia Phillies",
             "position": "1B",
-            "value": ".385"
+            "value": ".384"
           },
           {
             "rank": 4,
@@ -1118,9 +1118,9 @@
           },
           {
             "rank": 5,
-            "player": "Bryce Harper",
+            "player": "Kyle Schwarber",
             "team": "Philadelphia Phillies",
-            "position": "1B",
+            "position": "DH",
             "value": ".891"
           }
         ],
@@ -1526,7 +1526,7 @@
             "player": "J.T. Realmuto",
             "team": "Philadelphia Phillies",
             "position": "C",
-            "value": "1001"
+            "value": "1002"
           },
           {
             "rank": 5,
@@ -1549,7 +1549,7 @@
             "player": "Luis Arraez",
             "team": "Philadelphia Phillies",
             "position": "2B",
-            "value": "324"
+            "value": "326"
           },
           {
             "rank": 3,
