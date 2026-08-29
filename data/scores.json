@@ -1,6 +1,6 @@
 {
   "league": "MLB",
-  "lastUpdated": "2026-08-29T13:33:57.729523+00:00",
+  "lastUpdated": "2026-08-29T13:46:42.183318+00:00",
   "games": [
     {
       "gamePk": 823539,
@@ -8,7 +8,7 @@
       "homeTeam": "New York Yankees",
       "awayScore": 0,
       "homeScore": 0,
-      "status": "Scheduled",
+      "status": "Pre-Game",
       "gameDate": "2026-08-29T17:05:00Z",
       "inning": null,
       "inningOrdinal": null,
