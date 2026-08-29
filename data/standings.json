@@ -1,7 +1,7 @@
 {
   "league": "MLB",
   "season": 2026,
-  "lastUpdated": "2026-08-29T21:00:57.838507+00:00",
+  "lastUpdated": "2026-08-29T21:07:48.456763+00:00",
   "teamCount": 30,
   "teams": [
     {
@@ -86,10 +86,10 @@
           "pct": ".581"
         },
         {
-          "wins": 31,
-          "losses": 25,
+          "wins": 30,
+          "losses": 23,
           "type": "winners",
-          "pct": ".554"
+          "pct": ".566"
         },
         {
           "wins": 29,
@@ -199,10 +199,10 @@
           "pct": ".472"
         },
         {
-          "wins": 29,
-          "losses": 31,
+          "wins": 28,
+          "losses": 29,
           "type": "winners",
-          "pct": ".483"
+          "pct": ".491"
         },
         {
           "wins": 27,
@@ -312,10 +312,10 @@
           "pct": ".469"
         },
         {
-          "wins": 35,
-          "losses": 28,
+          "wins": 33,
+          "losses": 27,
           "type": "winners",
-          "pct": ".556"
+          "pct": ".550"
         },
         {
           "wins": 24,
@@ -425,10 +425,10 @@
           "pct": ".441"
         },
         {
-          "wins": 35,
-          "losses": 37,
+          "wins": 33,
+          "losses": 36,
           "type": "winners",
-          "pct": ".486"
+          "pct": ".478"
         },
         {
           "wins": 25,
@@ -538,10 +538,10 @@
           "pct": ".447"
         },
         {
-          "wins": 38,
-          "losses": 46,
+          "wins": 36,
+          "losses": 45,
           "type": "winners",
-          "pct": ".452"
+          "pct": ".444"
         },
         {
           "wins": 28,
@@ -764,10 +764,10 @@
           "pct": ".513"
         },
         {
-          "wins": 24,
-          "losses": 34,
+          "wins": 23,
+          "losses": 32,
           "type": "winners",
-          "pct": ".414"
+          "pct": ".418"
         },
         {
           "wins": 26,
@@ -877,10 +877,10 @@
           "pct": ".412"
         },
         {
-          "wins": 33,
-          "losses": 37,
+          "wins": 31,
+          "losses": 36,
           "type": "winners",
-          "pct": ".471"
+          "pct": ".463"
         },
         {
           "wins": 26,
@@ -990,10 +990,10 @@
           "pct": ".361"
         },
         {
-          "wins": 31,
-          "losses": 39,
+          "wins": 29,
+          "losses": 38,
           "type": "winners",
-          "pct": ".443"
+          "pct": ".433"
         },
         {
           "wins": 25,
@@ -1103,10 +1103,10 @@
           "pct": ".450"
         },
         {
-          "wins": 20,
-          "losses": 41,
+          "wins": 17,
+          "losses": 38,
           "type": "winners",
-          "pct": ".328"
+          "pct": ".309"
         },
         {
           "wins": 22,
@@ -1217,9 +1217,9 @@
         },
         {
           "wins": 25,
-          "losses": 17,
+          "losses": 14,
           "type": "winners",
-          "pct": ".595"
+          "pct": ".641"
         },
         {
           "wins": 21,
@@ -1329,10 +1329,10 @@
           "pct": ".629"
         },
         {
-          "wins": 27,
-          "losses": 35,
+          "wins": 25,
+          "losses": 34,
           "type": "winners",
-          "pct": ".435"
+          "pct": ".424"
         },
         {
           "wins": 21,
@@ -1442,10 +1442,10 @@
           "pct": ".525"
         },
         {
-          "wins": 33,
+          "wins": 30,
           "losses": 36,
           "type": "winners",
-          "pct": ".478"
+          "pct": ".455"
         },
         {
           "wins": 26,
@@ -1555,10 +1555,10 @@
           "pct": ".474"
         },
         {
-          "wins": 23,
-          "losses": 38,
+          "wins": 22,
+          "losses": 36,
           "type": "winners",
-          "pct": ".377"
+          "pct": ".379"
         },
         {
           "wins": 16,
@@ -1668,10 +1668,10 @@
           "pct": ".400"
         },
         {
-          "wins": 22,
-          "losses": 44,
+          "wins": 20,
+          "losses": 43,
           "type": "winners",
-          "pct": ".333"
+          "pct": ".317"
         },
         {
           "wins": 18,
@@ -1781,10 +1781,10 @@
           "pct": ".537"
         },
         {
-          "wins": 39,
-          "losses": 27,
+          "wins": 37,
+          "losses": 23,
           "type": "winners",
-          "pct": ".591"
+          "pct": ".617"
         },
         {
           "wins": 23,
@@ -1894,10 +1894,10 @@
           "pct": ".676"
         },
         {
-          "wins": 30,
-          "losses": 32,
+          "wins": 26,
+          "losses": 30,
           "type": "winners",
-          "pct": ".484"
+          "pct": ".464"
         },
         {
           "wins": 21,
@@ -2007,10 +2007,10 @@
           "pct": ".548"
         },
         {
-          "wins": 24,
-          "losses": 41,
+          "wins": 20,
+          "losses": 39,
           "type": "winners",
-          "pct": ".369"
+          "pct": ".339"
         },
         {
           "wins": 32,
@@ -2120,10 +2120,10 @@
           "pct": ".406"
         },
         {
-          "wins": 31,
-          "losses": 46,
+          "wins": 30,
+          "losses": 44,
           "type": "winners",
-          "pct": ".403"
+          "pct": ".405"
         },
         {
           "wins": 28,
@@ -2233,10 +2233,10 @@
           "pct": ".417"
         },
         {
-          "wins": 32,
-          "losses": 50,
+          "wins": 30,
+          "losses": 46,
           "type": "winners",
-          "pct": ".390"
+          "pct": ".395"
         },
         {
           "wins": 27,
@@ -2346,10 +2346,10 @@
           "pct": ".538"
         },
         {
-          "wins": 45,
-          "losses": 23,
+          "wins": 37,
+          "losses": 21,
           "type": "winners",
-          "pct": ".662"
+          "pct": ".638"
         },
         {
           "wins": 32,
@@ -2459,10 +2459,10 @@
           "pct": ".543"
         },
         {
-          "wins": 35,
-          "losses": 30,
+          "wins": 29,
+          "losses": 23,
           "type": "winners",
-          "pct": ".538"
+          "pct": ".558"
         },
         {
           "wins": 30,
@@ -2497,19 +2497,19 @@
       "league": "",
       "division": "",
       "wins": 68,
-      "losses": 68,
-      "winPct": ".500",
-      "gamesBack": "16.5",
+      "losses": 69,
+      "winPct": ".496",
+      "gamesBack": "17.0",
       "divisionRank": "3",
       "leagueRank": "9",
-      "wildCardGamesBack": "4.5",
-      "streak": "W2",
+      "wildCardGamesBack": "5.0",
+      "streak": "L1",
       "lastTen": [
         {
           "wins": 34,
-          "losses": 36,
+          "losses": 37,
           "type": "home",
-          "pct": ".486"
+          "pct": ".479"
         },
         {
           "wins": 34,
@@ -2537,9 +2537,9 @@
         },
         {
           "wins": 21,
-          "losses": 25,
+          "losses": 26,
           "type": "rightHome",
-          "pct": ".457"
+          "pct": ".447"
         },
         {
           "wins": 23,
@@ -2549,15 +2549,15 @@
         },
         {
           "wins": 44,
-          "losses": 50,
+          "losses": 51,
           "type": "right",
-          "pct": ".468"
+          "pct": ".463"
         },
         {
-          "wins": 4,
-          "losses": 6,
+          "wins": 3,
+          "losses": 7,
           "type": "lastTen",
-          "pct": ".400"
+          "pct": ".300"
         },
         {
           "wins": 8,
@@ -2579,9 +2579,9 @@
         },
         {
           "wins": 24,
-          "losses": 31,
+          "losses": 32,
           "type": "day",
-          "pct": ".436"
+          "pct": ".429"
         },
         {
           "wins": 44,
@@ -2591,9 +2591,9 @@
         },
         {
           "wins": 65,
-          "losses": 62,
+          "losses": 63,
           "type": "grass",
-          "pct": ".512"
+          "pct": ".508"
         },
         {
           "wins": 3,
@@ -2609,14 +2609,14 @@
       "abbreviation": null,
       "league": "",
       "division": "",
-      "wins": 65,
+      "wins": 66,
       "losses": 71,
-      "winPct": ".478",
-      "gamesBack": "19.5",
+      "winPct": ".482",
+      "gamesBack": "19.0",
       "divisionRank": "4",
       "leagueRank": "10",
-      "wildCardGamesBack": "7.5",
-      "streak": "L2",
+      "wildCardGamesBack": "7.0",
+      "streak": "W1",
       "lastTen": [
         {
           "wins": 34,
@@ -2625,10 +2625,10 @@
           "pct": ".515"
         },
         {
-          "wins": 31,
+          "wins": 32,
           "losses": 39,
           "type": "away",
-          "pct": ".443"
+          "pct": ".451"
         },
         {
           "wins": 13,
@@ -2655,22 +2655,22 @@
           "pct": ".596"
         },
         {
-          "wins": 24,
+          "wins": 25,
           "losses": 22,
           "type": "rightAway",
-          "pct": ".522"
+          "pct": ".532"
         },
         {
-          "wins": 52,
+          "wins": 53,
           "losses": 41,
           "type": "right",
-          "pct": ".559"
+          "pct": ".564"
         },
         {
-          "wins": 4,
-          "losses": 6,
+          "wins": 5,
+          "losses": 5,
           "type": "lastTen",
-          "pct": ".400"
+          "pct": ".500"
         },
         {
           "wins": 6,
@@ -2685,16 +2685,16 @@
           "pct": ".556"
         },
         {
-          "wins": 34,
-          "losses": 46,
+          "wins": 32,
+          "losses": 40,
           "type": "winners",
-          "pct": ".425"
+          "pct": ".444"
         },
         {
-          "wins": 34,
+          "wins": 35,
           "losses": 26,
           "type": "day",
-          "pct": ".567"
+          "pct": ".574"
         },
         {
           "wins": 31,
@@ -2703,10 +2703,10 @@
           "pct": ".408"
         },
         {
-          "wins": 60,
+          "wins": 61,
           "losses": 64,
           "type": "grass",
-          "pct": ".484"
+          "pct": ".488"
         },
         {
           "wins": 5,
@@ -2798,10 +2798,10 @@
           "pct": ".622"
         },
         {
-          "wins": 30,
-          "losses": 44,
+          "wins": 25,
+          "losses": 36,
           "type": "winners",
-          "pct": ".405"
+          "pct": ".410"
         },
         {
           "wins": 29,
@@ -2911,10 +2911,10 @@
           "pct": ".551"
         },
         {
-          "wins": 34,
-          "losses": 38,
+          "wins": 33,
+          "losses": 36,
           "type": "winners",
-          "pct": ".472"
+          "pct": ".478"
         },
         {
           "wins": 17,
@@ -3024,10 +3024,10 @@
           "pct": ".500"
         },
         {
-          "wins": 30,
-          "losses": 38,
+          "wins": 27,
+          "losses": 34,
           "type": "winners",
-          "pct": ".441"
+          "pct": ".443"
         },
         {
           "wins": 31,
@@ -3137,10 +3137,10 @@
           "pct": ".561"
         },
         {
-          "wins": 31,
-          "losses": 36,
+          "wins": 26,
+          "losses": 34,
           "type": "winners",
-          "pct": ".463"
+          "pct": ".433"
         },
         {
           "wins": 27,
@@ -3363,10 +3363,10 @@
           "pct": ".471"
         },
         {
-          "wins": 23,
-          "losses": 56,
+          "wins": 22,
+          "losses": 54,
           "type": "winners",
-          "pct": ".291"
+          "pct": ".289"
         },
         {
           "wins": 17,
