@@ -1,7 +1,7 @@
 {
   "league": "MLB",
   "timezone": "America/New_York",
-  "lastUpdated": "2026-08-30T17:06:38.169454+00:00",
+  "lastUpdated": "2026-08-30T18:06:43.799347+00:00",
   "games": [
     {
       "gamePk": 824651,
@@ -9766,7 +9766,7 @@
         "abbreviation": "WSH"
       },
       "awayScore": 0,
-      "homeScore": 0,
+      "homeScore": 1,
       "venue": "Nationals Park",
       "awayPitcher": "Janson Junk",
       "homePitcher": "Andrew Alvarez"
@@ -9776,9 +9776,9 @@
       "date": "2026-08-30",
       "gameDate": "2026-08-30T17:35:00Z",
       "localGameTime": "2026-08-30T13:35:00-04:00",
-      "status": "Pre-Game",
-      "abstractGameState": "Preview",
-      "codedGameState": "P",
+      "status": "In Progress",
+      "abstractGameState": "Live",
+      "codedGameState": "I",
       "awayTeam": {
         "id": 115,
         "name": "Colorado Rockies",
@@ -9800,9 +9800,9 @@
       "date": "2026-08-30",
       "gameDate": "2026-08-30T17:35:00Z",
       "localGameTime": "2026-08-30T13:35:00-04:00",
-      "status": "Pre-Game",
-      "abstractGameState": "Preview",
-      "codedGameState": "P",
+      "status": "In Progress",
+      "abstractGameState": "Live",
+      "codedGameState": "I",
       "awayTeam": {
         "id": 111,
         "name": "Boston Red Sox",
@@ -9824,9 +9824,9 @@
       "date": "2026-08-30",
       "gameDate": "2026-08-30T17:37:00Z",
       "localGameTime": "2026-08-30T13:37:00-04:00",
-      "status": "Pre-Game",
-      "abstractGameState": "Preview",
-      "codedGameState": "P",
+      "status": "In Progress",
+      "abstractGameState": "Live",
+      "codedGameState": "I",
       "awayTeam": {
         "id": 136,
         "name": "Seattle Mariners",
@@ -9838,7 +9838,7 @@
         "abbreviation": "TOR"
       },
       "awayScore": 0,
-      "homeScore": 0,
+      "homeScore": 2,
       "venue": "Rogers Centre",
       "awayPitcher": "Logan Gilbert",
       "homePitcher": "Max Scherzer"
@@ -9848,8 +9848,8 @@
       "date": "2026-08-30",
       "gameDate": "2026-08-30T17:40:00Z",
       "localGameTime": "2026-08-30T13:40:00-04:00",
-      "status": "Delayed Start",
-      "abstractGameState": "Preview",
+      "status": "Warmup",
+      "abstractGameState": "Live",
       "codedGameState": "P",
       "awayTeam": {
         "id": 118,
@@ -9872,7 +9872,7 @@
       "date": "2026-08-30",
       "gameDate": "2026-08-30T17:40:00Z",
       "localGameTime": "2026-08-30T13:40:00-04:00",
-      "status": "Pre-Game",
+      "status": "Delayed Start",
       "abstractGameState": "Preview",
       "codedGameState": "P",
       "awayTeam": {
@@ -9896,9 +9896,9 @@
       "date": "2026-08-30",
       "gameDate": "2026-08-30T17:40:00Z",
       "localGameTime": "2026-08-30T13:40:00-04:00",
-      "status": "Pre-Game",
-      "abstractGameState": "Preview",
-      "codedGameState": "P",
+      "status": "In Progress",
+      "abstractGameState": "Live",
+      "codedGameState": "I",
       "awayTeam": {
         "id": 135,
         "name": "San Diego Padres",
@@ -9920,8 +9920,8 @@
       "date": "2026-08-30",
       "gameDate": "2026-08-30T18:10:00Z",
       "localGameTime": "2026-08-30T14:10:00-04:00",
-      "status": "Pre-Game",
-      "abstractGameState": "Preview",
+      "status": "Warmup",
+      "abstractGameState": "Live",
       "codedGameState": "P",
       "awayTeam": {
         "id": 145,
@@ -9944,8 +9944,8 @@
       "date": "2026-08-30",
       "gameDate": "2026-08-30T18:10:00Z",
       "localGameTime": "2026-08-30T14:10:00-04:00",
-      "status": "Pre-Game",
-      "abstractGameState": "Preview",
+      "status": "Warmup",
+      "abstractGameState": "Live",
       "codedGameState": "P",
       "awayTeam": {
         "id": 140,
@@ -9968,8 +9968,8 @@
       "date": "2026-08-30",
       "gameDate": "2026-08-30T18:15:00Z",
       "localGameTime": "2026-08-30T14:15:00-04:00",
-      "status": "Pre-Game",
-      "abstractGameState": "Preview",
+      "status": "Warmup",
+      "abstractGameState": "Live",
       "codedGameState": "P",
       "awayTeam": {
         "id": 134,
@@ -10029,8 +10029,8 @@
         "name": "Athletics",
         "abbreviation": "ATH"
       },
-      "awayScore": null,
-      "homeScore": null,
+      "awayScore": 0,
+      "homeScore": 0,
       "venue": "Sutter Health Park",
       "awayPitcher": "Chris Bassitt",
       "homePitcher": "Jeffrey Springs"
@@ -10040,9 +10040,9 @@
       "date": "2026-08-30",
       "gameDate": "2026-08-30T20:07:00Z",
       "localGameTime": "2026-08-30T16:07:00-04:00",
-      "status": "Scheduled",
+      "status": "Pre-Game",
       "abstractGameState": "Preview",
-      "codedGameState": "S",
+      "codedGameState": "P",
       "awayTeam": {
         "id": 143,
         "name": "Philadelphia Phillies",
@@ -10053,8 +10053,8 @@
         "name": "Los Angeles Angels",
         "abbreviation": "LAA"
       },
-      "awayScore": null,
-      "homeScore": null,
+      "awayScore": 0,
+      "homeScore": 0,
       "venue": "Angel Stadium",
       "awayPitcher": "Zack Wheeler",
       "homePitcher": "Yusei Kikuchi"
@@ -10128,7 +10128,7 @@
       "awayScore": null,
       "homeScore": null,
       "venue": "Great American Ball Park",
-      "awayPitcher": null,
+      "awayPitcher": "Michael King",
       "homePitcher": "Brady Singer"
     },
     {
@@ -10176,7 +10176,7 @@
       "awayScore": null,
       "homeScore": null,
       "venue": "Fenway Park",
-      "awayPitcher": null,
+      "awayPitcher": "George Kirby",
       "homePitcher": "Payton Tolle"
     },
     {
@@ -10272,8 +10272,8 @@
       "awayScore": null,
       "homeScore": null,
       "venue": "Globe Life Field",
-      "awayPitcher": null,
-      "homePitcher": null
+      "awayPitcher": "Gage Jump",
+      "homePitcher": "Jacob deGrom"
     },
     {
       "gamePk": 824149,
@@ -10297,7 +10297,7 @@
       "homeScore": null,
       "venue": "Daikin Park",
       "awayPitcher": "Anthony Kay",
-      "homePitcher": null
+      "homePitcher": "Peter Lambert"
     },
     {
       "gamePk": 824314,
@@ -10392,7 +10392,7 @@
       "awayScore": null,
       "homeScore": null,
       "venue": "Great American Ball Park",
-      "awayPitcher": null,
+      "awayPitcher": "Randy V\u00e1squez",
       "homePitcher": "Nick Lodolo"
     },
     {
@@ -10488,7 +10488,7 @@
       "awayScore": null,
       "homeScore": null,
       "venue": "Fenway Park",
-      "awayPitcher": null,
+      "awayPitcher": "Bryan Woo",
       "homePitcher": null
     },
     {
@@ -10608,8 +10608,8 @@
       "awayScore": null,
       "homeScore": null,
       "venue": "Globe Life Field",
-      "awayPitcher": null,
-      "homePitcher": null
+      "awayPitcher": "J.T. Ginn",
+      "homePitcher": "MacKenzie Gore"
     },
     {
       "gamePk": 824148,
@@ -10680,7 +10680,7 @@
       "awayScore": null,
       "homeScore": null,
       "venue": "Angel Stadium",
-      "awayPitcher": null,
+      "awayPitcher": "Gerrit Cole",
       "homePitcher": null
     },
     {
@@ -10752,7 +10752,7 @@
       "awayScore": null,
       "homeScore": null,
       "venue": "Great American Ball Park",
-      "awayPitcher": null,
+      "awayPitcher": "Casey Mize",
       "homePitcher": null
     },
     {
@@ -10800,8 +10800,8 @@
       "awayScore": null,
       "homeScore": null,
       "venue": "Globe Life Field",
-      "awayPitcher": null,
-      "homePitcher": null
+      "awayPitcher": "Jacob Lopez",
+      "homePitcher": "Cody Bradford"
     },
     {
       "gamePk": 824312,
@@ -10873,7 +10873,7 @@
       "homeScore": null,
       "venue": "Fenway Park",
       "awayPitcher": null,
-      "homePitcher": null
+      "homePitcher": "Patrick Sandoval"
     },
     {
       "gamePk": 823339,
@@ -11041,7 +11041,7 @@
       "homeScore": null,
       "venue": "Daikin Park",
       "awayPitcher": null,
-      "homePitcher": null
+      "homePitcher": "Hayden Wesneski"
     },
     {
       "gamePk": 823983,
@@ -11064,7 +11064,7 @@
       "awayScore": null,
       "homeScore": null,
       "venue": "Angel Stadium",
-      "awayPitcher": null,
+      "awayPitcher": "Cam Schlittler",
       "homePitcher": null
     },
     {
@@ -11161,7 +11161,7 @@
       "homeScore": null,
       "venue": "Daikin Park",
       "awayPitcher": "Luis Castillo",
-      "homePitcher": null
+      "homePitcher": "Hunter Brown"
     },
     {
       "gamePk": 824796,
