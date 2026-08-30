@@ -1,6 +1,6 @@
 {
   "league": "MLB",
-  "lastUpdated": "2026-08-30T14:10:25.152378+00:00",
+  "lastUpdated": "2026-08-30T14:23:06.680391+00:00",
   "games": [
     {
       "gamePk": 822688,
@@ -28,7 +28,7 @@
       "homeTeam": "Atlanta Braves",
       "awayScore": 0,
       "homeScore": 0,
-      "status": "Scheduled",
+      "status": "Pre-Game",
       "gameDate": "2026-08-30T17:35:00Z",
       "inning": null,
       "inningOrdinal": null,
@@ -108,7 +108,7 @@
       "homeTeam": "Detroit Tigers",
       "awayScore": 0,
       "homeScore": 0,
-      "status": "Scheduled",
+      "status": "Pre-Game",
       "gameDate": "2026-08-30T17:40:00Z",
       "inning": null,
       "inningOrdinal": null,
