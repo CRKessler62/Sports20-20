@@ -1,7 +1,7 @@
 {
   "league": "MLB",
   "timezone": "America/New_York",
-  "lastUpdated": "2026-08-30T16:06:48.520914+00:00",
+  "lastUpdated": "2026-08-30T17:06:38.169454+00:00",
   "games": [
     {
       "gamePk": 824651,
@@ -9752,9 +9752,9 @@
       "date": "2026-08-30",
       "gameDate": "2026-08-30T16:15:00Z",
       "localGameTime": "2026-08-30T12:15:00-04:00",
-      "status": "Warmup",
+      "status": "In Progress",
       "abstractGameState": "Live",
-      "codedGameState": "P",
+      "codedGameState": "I",
       "awayTeam": {
         "id": 146,
         "name": "Miami Marlins",
@@ -9848,7 +9848,7 @@
       "date": "2026-08-30",
       "gameDate": "2026-08-30T17:40:00Z",
       "localGameTime": "2026-08-30T13:40:00-04:00",
-      "status": "Pre-Game",
+      "status": "Delayed Start",
       "abstractGameState": "Preview",
       "codedGameState": "P",
       "awayTeam": {
@@ -9909,8 +9909,8 @@
         "name": "Tampa Bay Rays",
         "abbreviation": "TB"
       },
-      "awayScore": null,
-      "homeScore": null,
+      "awayScore": 0,
+      "homeScore": 0,
       "venue": "Tropicana Field",
       "awayPitcher": "Robbie Ray",
       "homePitcher": "Drew Rasmussen"
@@ -9992,9 +9992,9 @@
       "date": "2026-08-30",
       "gameDate": "2026-08-30T19:10:00Z",
       "localGameTime": "2026-08-30T15:10:00-04:00",
-      "status": "Scheduled",
+      "status": "Pre-Game",
       "abstractGameState": "Preview",
-      "codedGameState": "S",
+      "codedGameState": "P",
       "awayTeam": {
         "id": 117,
         "name": "Houston Astros",
@@ -10005,8 +10005,8 @@
         "name": "New York Mets",
         "abbreviation": "NYM"
       },
-      "awayScore": null,
-      "homeScore": null,
+      "awayScore": 0,
+      "homeScore": 0,
       "venue": "Citi Field",
       "awayPitcher": "Ethan Pecko",
       "homePitcher": "Zac Thornton"
@@ -10016,9 +10016,9 @@
       "date": "2026-08-30",
       "gameDate": "2026-08-30T20:05:00Z",
       "localGameTime": "2026-08-30T16:05:00-04:00",
-      "status": "Scheduled",
+      "status": "Pre-Game",
       "abstractGameState": "Preview",
-      "codedGameState": "S",
+      "codedGameState": "P",
       "awayTeam": {
         "id": 110,
         "name": "Baltimore Orioles",
@@ -10153,7 +10153,7 @@
       "homeScore": null,
       "venue": "Tropicana Field",
       "awayPitcher": "Robert Stock",
-      "homePitcher": null
+      "homePitcher": "Ian Seymour"
     },
     {
       "gamePk": 824719,
@@ -10177,7 +10177,7 @@
       "homeScore": null,
       "venue": "Fenway Park",
       "awayPitcher": null,
-      "homePitcher": null
+      "homePitcher": "Payton Tolle"
     },
     {
       "gamePk": 822689,
@@ -10296,7 +10296,7 @@
       "awayScore": null,
       "homeScore": null,
       "venue": "Daikin Park",
-      "awayPitcher": null,
+      "awayPitcher": "Anthony Kay",
       "homePitcher": null
     },
     {
@@ -10417,7 +10417,7 @@
       "homeScore": null,
       "venue": "PNC Park",
       "awayPitcher": null,
-      "homePitcher": null
+      "homePitcher": "Paul Skenes"
     },
     {
       "gamePk": 822929,
@@ -10441,7 +10441,7 @@
       "homeScore": null,
       "venue": "Tropicana Field",
       "awayPitcher": "Sean Manaea",
-      "homePitcher": null
+      "homePitcher": "Freddy Peralta"
     },
     {
       "gamePk": 824391,
@@ -10561,7 +10561,7 @@
       "homeScore": null,
       "venue": "Kauffman Stadium",
       "awayPitcher": "Tyler Phillips",
-      "homePitcher": null
+      "homePitcher": "Randy Dobnak"
     },
     {
       "gamePk": 824633,
@@ -10632,7 +10632,7 @@
       "awayScore": null,
       "homeScore": null,
       "venue": "Daikin Park",
-      "awayPitcher": null,
+      "awayPitcher": "Sean Burke",
       "homePitcher": null
     },
     {
@@ -10729,7 +10729,7 @@
       "homeScore": null,
       "venue": "UNIQLO Field at Dodger Stadium",
       "awayPitcher": null,
-      "homePitcher": null
+      "homePitcher": "Eric Lauer"
     },
     {
       "gamePk": 824470,
@@ -10897,7 +10897,7 @@
       "homeScore": null,
       "venue": "PNC Park",
       "awayPitcher": null,
-      "homePitcher": null
+      "homePitcher": "Jared Jones"
     },
     {
       "gamePk": 822931,
@@ -10993,7 +10993,7 @@
       "homeScore": null,
       "venue": "Kauffman Stadium",
       "awayPitcher": "Eury P\u00e9rez",
-      "homePitcher": null
+      "homePitcher": "Noah Cameron"
     },
     {
       "gamePk": 824634,
@@ -11089,7 +11089,7 @@
       "homeScore": null,
       "venue": "UNIQLO Field at Dodger Stadium",
       "awayPitcher": null,
-      "homePitcher": null
+      "homePitcher": "Yoshinobu Yamamoto"
     },
     {
       "gamePk": 823337,
@@ -11160,7 +11160,7 @@
       "awayScore": null,
       "homeScore": null,
       "venue": "Daikin Park",
-      "awayPitcher": null,
+      "awayPitcher": "Luis Castillo",
       "homePitcher": null
     },
     {
@@ -11233,7 +11233,7 @@
       "homeScore": null,
       "venue": "Kauffman Stadium",
       "awayPitcher": null,
-      "homePitcher": null
+      "homePitcher": "Michael Wacha"
     },
     {
       "gamePk": 822853,
@@ -11305,7 +11305,7 @@
       "homeScore": null,
       "venue": "UNIQLO Field at Dodger Stadium",
       "awayPitcher": null,
-      "homePitcher": null
+      "homePitcher": "Tarik Skubal"
     },
     {
       "gamePk": 824424,
