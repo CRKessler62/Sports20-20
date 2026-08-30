@@ -1,7 +1,7 @@
 {
   "league": "MLB",
   "timezone": "America/New_York",
-  "lastUpdated": "2026-08-30T19:06:51.573245+00:00",
+  "lastUpdated": "2026-08-30T20:06:31.680877+00:00",
   "games": [
     {
       "gamePk": 824651,
@@ -9752,9 +9752,9 @@
       "date": "2026-08-30",
       "gameDate": "2026-08-30T16:15:00Z",
       "localGameTime": "2026-08-30T12:15:00-04:00",
-      "status": "In Progress",
-      "abstractGameState": "Live",
-      "codedGameState": "I",
+      "status": "Final",
+      "abstractGameState": "Final",
+      "codedGameState": "F",
       "awayTeam": {
         "id": 146,
         "name": "Miami Marlins",
@@ -9789,7 +9789,7 @@
         "name": "Atlanta Braves",
         "abbreviation": "ATL"
       },
-      "awayScore": 1,
+      "awayScore": 2,
       "homeScore": 2,
       "venue": "Truist Park",
       "awayPitcher": "Mason Adams",
@@ -9813,8 +9813,8 @@
         "name": "New York Yankees",
         "abbreviation": "NYY"
       },
-      "awayScore": 0,
-      "homeScore": 5,
+      "awayScore": 1,
+      "homeScore": 7,
       "venue": "Yankee Stadium",
       "awayPitcher": "Ranger Suarez",
       "homePitcher": "Will Warren"
@@ -9824,9 +9824,9 @@
       "date": "2026-08-30",
       "gameDate": "2026-08-30T17:37:00Z",
       "localGameTime": "2026-08-30T13:37:00-04:00",
-      "status": "In Progress",
-      "abstractGameState": "Live",
-      "codedGameState": "I",
+      "status": "Game Over",
+      "abstractGameState": "Final",
+      "codedGameState": "O",
       "awayTeam": {
         "id": 136,
         "name": "Seattle Mariners",
@@ -9838,7 +9838,7 @@
         "abbreviation": "TOR"
       },
       "awayScore": 0,
-      "homeScore": 3,
+      "homeScore": 7,
       "venue": "Rogers Centre",
       "awayPitcher": "Logan Gilbert",
       "homePitcher": "Max Scherzer"
@@ -9862,7 +9862,7 @@
         "abbreviation": "CLE"
       },
       "awayScore": 1,
-      "homeScore": 5,
+      "homeScore": 11,
       "venue": "Progressive Field",
       "awayPitcher": "Seth Lugo",
       "homePitcher": "Parker Messick"
@@ -9885,8 +9885,8 @@
         "name": "Detroit Tigers",
         "abbreviation": "DET"
       },
-      "awayScore": 0,
-      "homeScore": 0,
+      "awayScore": 1,
+      "homeScore": 1,
       "venue": "Comerica Park",
       "awayPitcher": "Tyler Glasnow",
       "homePitcher": "Framber Valdez"
@@ -9909,7 +9909,7 @@
         "name": "Tampa Bay Rays",
         "abbreviation": "TB"
       },
-      "awayScore": 2,
+      "awayScore": 3,
       "homeScore": 1,
       "venue": "Tropicana Field",
       "awayPitcher": "Robbie Ray",
@@ -9934,7 +9934,7 @@
         "abbreviation": "MIN"
       },
       "awayScore": 0,
-      "homeScore": 4,
+      "homeScore": 5,
       "venue": "Target Field",
       "awayPitcher": "Jordan Hicks",
       "homePitcher": "Zebby Matthews"
@@ -9957,7 +9957,7 @@
         "name": "Milwaukee Brewers",
         "abbreviation": "MIL"
       },
-      "awayScore": 1,
+      "awayScore": 4,
       "homeScore": 2,
       "venue": "American Family Field",
       "awayPitcher": "Kumar Rocker",
@@ -9981,8 +9981,8 @@
         "name": "St. Louis Cardinals",
         "abbreviation": "STL"
       },
-      "awayScore": 3,
-      "homeScore": 0,
+      "awayScore": 4,
+      "homeScore": 2,
       "venue": "Busch Stadium",
       "awayPitcher": "Braxton Ashcraft",
       "homePitcher": "Matthew Liberatore"
@@ -9992,9 +9992,9 @@
       "date": "2026-08-30",
       "gameDate": "2026-08-30T19:10:00Z",
       "localGameTime": "2026-08-30T15:10:00-04:00",
-      "status": "Warmup",
+      "status": "In Progress",
       "abstractGameState": "Live",
-      "codedGameState": "P",
+      "codedGameState": "I",
       "awayTeam": {
         "id": 117,
         "name": "Houston Astros",
@@ -10005,8 +10005,8 @@
         "name": "New York Mets",
         "abbreviation": "NYM"
       },
-      "awayScore": 0,
-      "homeScore": 0,
+      "awayScore": 2,
+      "homeScore": 2,
       "venue": "Citi Field",
       "awayPitcher": "Ethan Pecko",
       "homePitcher": "Zac Thornton"
@@ -10016,9 +10016,9 @@
       "date": "2026-08-30",
       "gameDate": "2026-08-30T20:05:00Z",
       "localGameTime": "2026-08-30T16:05:00-04:00",
-      "status": "Pre-Game",
-      "abstractGameState": "Preview",
-      "codedGameState": "P",
+      "status": "In Progress",
+      "abstractGameState": "Live",
+      "codedGameState": "I",
       "awayTeam": {
         "id": 110,
         "name": "Baltimore Orioles",
@@ -10040,8 +10040,8 @@
       "date": "2026-08-30",
       "gameDate": "2026-08-30T20:07:00Z",
       "localGameTime": "2026-08-30T16:07:00-04:00",
-      "status": "Pre-Game",
-      "abstractGameState": "Preview",
+      "status": "Warmup",
+      "abstractGameState": "Live",
       "codedGameState": "P",
       "awayTeam": {
         "id": 143,
@@ -10064,9 +10064,9 @@
       "date": "2026-08-30",
       "gameDate": "2026-08-30T23:20:00Z",
       "localGameTime": "2026-08-30T19:20:00-04:00",
-      "status": "Scheduled",
+      "status": "Pre-Game",
       "abstractGameState": "Preview",
-      "codedGameState": "S",
+      "codedGameState": "P",
       "awayTeam": {
         "id": 113,
         "name": "Cincinnati Reds",
@@ -10077,8 +10077,8 @@
         "name": "Chicago Cubs",
         "abbreviation": "CHC"
       },
-      "awayScore": null,
-      "homeScore": null,
+      "awayScore": 0,
+      "homeScore": 0,
       "venue": "Wrigley Field",
       "awayPitcher": "Chase Burns",
       "homePitcher": "Shota Imanaga"
@@ -10201,7 +10201,7 @@
       "homeScore": null,
       "venue": "Nationals Park",
       "awayPitcher": "Ryan Gusto",
-      "homePitcher": null
+      "homePitcher": "Will Dion"
     },
     {
       "gamePk": 823663,
