@@ -1,7 +1,7 @@
 {
   "league": "MLB",
   "timezone": "America/New_York",
-  "lastUpdated": "2026-08-30T01:06:41.424575+00:00",
+  "lastUpdated": "2026-08-30T02:06:49.969636+00:00",
   "games": [
     {
       "gamePk": 824651,
@@ -9381,8 +9381,8 @@
         "name": "New York Yankees",
         "abbreviation": "NYY"
       },
-      "awayScore": 1,
-      "homeScore": 3,
+      "awayScore": 2,
+      "homeScore": 4,
       "venue": "Yankee Stadium",
       "awayPitcher": "Alec Gamboa",
       "homePitcher": "Max Fried"
@@ -9536,9 +9536,9 @@
       "date": "2026-08-29",
       "gameDate": "2026-08-30T02:05:00Z",
       "localGameTime": "2026-08-29T22:05:00-04:00",
-      "status": "Pre-Game",
-      "abstractGameState": "Preview",
-      "codedGameState": "P",
+      "status": "In Progress",
+      "abstractGameState": "Live",
+      "codedGameState": "I",
       "awayTeam": {
         "id": 109,
         "name": "Arizona Diamondbacks",
@@ -9680,9 +9680,9 @@
       "date": "2026-08-29",
       "gameDate": "2026-08-29T23:15:00Z",
       "localGameTime": "2026-08-29T19:15:00-04:00",
-      "status": "In Progress",
-      "abstractGameState": "Live",
-      "codedGameState": "I",
+      "status": "Final",
+      "abstractGameState": "Final",
+      "codedGameState": "F",
       "awayTeam": {
         "id": 140,
         "name": "Texas Rangers",
@@ -9693,8 +9693,8 @@
         "name": "Milwaukee Brewers",
         "abbreviation": "MIL"
       },
-      "awayScore": 1,
-      "homeScore": 3,
+      "awayScore": 3,
+      "homeScore": 5,
       "venue": "American Family Field",
       "awayPitcher": "Cal Quantrill",
       "homePitcher": "Shane Drohan"
@@ -9704,9 +9704,9 @@
       "date": "2026-08-29",
       "gameDate": "2026-08-30T02:05:00Z",
       "localGameTime": "2026-08-29T22:05:00-04:00",
-      "status": "Pre-Game",
-      "abstractGameState": "Preview",
-      "codedGameState": "P",
+      "status": "In Progress",
+      "abstractGameState": "Live",
+      "codedGameState": "I",
       "awayTeam": {
         "id": 110,
         "name": "Baltimore Orioles",
@@ -9728,9 +9728,9 @@
       "date": "2026-08-29",
       "gameDate": "2026-08-30T02:07:00Z",
       "localGameTime": "2026-08-29T22:07:00-04:00",
-      "status": "Pre-Game",
-      "abstractGameState": "Preview",
-      "codedGameState": "P",
+      "status": "In Progress",
+      "abstractGameState": "Live",
+      "codedGameState": "I",
       "awayTeam": {
         "id": 143,
         "name": "Philadelphia Phillies",
