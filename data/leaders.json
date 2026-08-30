@@ -1,6 +1,6 @@
 {
   "season": 2026,
-  "lastUpdated": "2026-08-30T03:17:55.136584+00:00",
+  "lastUpdated": "2026-08-30T04:17:53.157065+00:00",
   "leagues": {
     "AL": {
       "offense": {
@@ -260,7 +260,7 @@
             "player": "Pete Alonso",
             "team": "Baltimore Orioles",
             "position": "1B",
-            "value": ".506"
+            "value": ".504"
           }
         ],
         "ops": [
@@ -622,17 +622,17 @@
           },
           {
             "rank": 4,
+            "player": "Shane Baz",
+            "team": "Baltimore Orioles",
+            "position": "P",
+            "value": "157.0"
+          },
+          {
+            "rank": 5,
             "player": "Gavin Williams",
             "team": "Cleveland Guardians",
             "position": "P",
             "value": "156.0"
-          },
-          {
-            "rank": 5,
-            "player": "Shane Baz",
-            "team": "Baltimore Orioles",
-            "position": "P",
-            "value": "155.1"
           }
         ],
         "qualityStarts": []
@@ -739,7 +739,7 @@
             "player": "Zach Neto",
             "team": "Los Angeles Angels",
             "position": "SS",
-            "value": "272"
+            "value": "273"
           },
           {
             "rank": 5,
@@ -834,7 +834,7 @@
             "player": "Luis Arraez",
             "team": "Philadelphia Phillies",
             "position": "2B",
-            "value": ".318"
+            "value": ".317"
           },
           {
             "rank": 2,
@@ -1118,10 +1118,10 @@
           },
           {
             "rank": 5,
-            "player": "Kyle Schwarber",
+            "player": "Bryce Harper",
             "team": "Philadelphia Phillies",
-            "position": "DH",
-            "value": ".888"
+            "position": "1B",
+            "value": ".886"
           }
         ],
         "stolenBases": [
@@ -1261,17 +1261,17 @@
           },
           {
             "rank": 4,
+            "player": "Cristopher S\u00e1nchez",
+            "team": "Philadelphia Phillies",
+            "position": "P",
+            "value": "2.52"
+          },
+          {
+            "rank": 5,
             "player": "Yoshinobu Yamamoto",
             "team": "Los Angeles Dodgers",
             "position": "P",
             "value": "2.56"
-          },
-          {
-            "rank": 5,
-            "player": "Cristopher S\u00e1nchez",
-            "team": "Philadelphia Phillies",
-            "position": "P",
-            "value": "2.57"
           }
         ],
         "wins": [
@@ -1331,7 +1331,7 @@
             "player": "Cristopher S\u00e1nchez",
             "team": "Philadelphia Phillies",
             "position": "P",
-            "value": "196"
+            "value": "202"
           },
           {
             "rank": 4,
@@ -1435,7 +1435,7 @@
             "player": "Cristopher S\u00e1nchez",
             "team": "Philadelphia Phillies",
             "position": "P",
-            "value": "172.1"
+            "value": "175.1"
           },
           {
             "rank": 3,
@@ -1526,7 +1526,7 @@
             "player": "J.T. Realmuto",
             "team": "Philadelphia Phillies",
             "position": "C",
-            "value": "1007"
+            "value": "1012"
           },
           {
             "rank": 5,
@@ -1549,7 +1549,7 @@
             "player": "Luis Arraez",
             "team": "Philadelphia Phillies",
             "position": "2B",
-            "value": "327"
+            "value": "329"
           },
           {
             "rank": 3,
