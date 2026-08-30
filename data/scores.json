@@ -1,6 +1,6 @@
 {
   "league": "MLB",
-  "lastUpdated": "2026-08-30T23:14:14.052198+00:00",
+  "lastUpdated": "2026-08-30T23:26:50.185288+00:00",
   "games": [
     {
       "gamePk": 822688,
@@ -815,7 +815,7 @@
       "homeTeam": "Los Angeles Angels",
       "awayScore": 5,
       "homeScore": 2,
-      "status": "Game Over",
+      "status": "Final",
       "gameDate": "2026-08-30T20:07:00Z",
       "inning": 9,
       "inningOrdinal": "9th",
