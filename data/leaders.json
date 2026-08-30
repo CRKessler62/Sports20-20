@@ -1,6 +1,6 @@
 {
   "season": 2026,
-  "lastUpdated": "2026-08-30T17:17:56.129092+00:00",
+  "lastUpdated": "2026-08-30T18:17:56.548048+00:00",
   "leagues": {
     "AL": {
       "offense": {
@@ -24,7 +24,7 @@
             "player": "Yandy D\u00edaz",
             "team": "Tampa Bay Rays",
             "position": "DH",
-            "value": ".304"
+            "value": ".303"
           },
           {
             "rank": 4,
@@ -209,7 +209,7 @@
             "player": "Willson Contreras",
             "team": "Boston Red Sox",
             "position": "1B",
-            "value": ".386"
+            "value": ".385"
           },
           {
             "rank": 4,
@@ -239,7 +239,7 @@
             "player": "Junior Caminero",
             "team": "Tampa Bay Rays",
             "position": "3B",
-            "value": ".533"
+            "value": ".532"
           },
           {
             "rank": 3,
@@ -253,7 +253,7 @@
             "player": "Willson Contreras",
             "team": "Boston Red Sox",
             "position": "1B",
-            "value": ".520"
+            "value": ".519"
           },
           {
             "rank": 5,
@@ -276,14 +276,14 @@
             "player": "Willson Contreras",
             "team": "Boston Red Sox",
             "position": "1B",
-            "value": ".906"
+            "value": ".904"
           },
           {
             "rank": 3,
             "player": "Junior Caminero",
             "team": "Tampa Bay Rays",
             "position": "3B",
-            "value": ".900"
+            "value": ".899"
           },
           {
             "rank": 4,
@@ -433,7 +433,7 @@
             "player": "Parker Messick",
             "team": "Cleveland Guardians",
             "position": "P",
-            "value": "2.50"
+            "value": "2.54"
           },
           {
             "rank": 4,
@@ -447,7 +447,7 @@
             "player": "Drew Rasmussen",
             "team": "Tampa Bay Rays",
             "position": "P",
-            "value": "2.95"
+            "value": "2.89"
           }
         ],
         "wins": [
@@ -530,7 +530,7 @@
             "player": "Drew Rasmussen",
             "team": "Tampa Bay Rays",
             "position": "P",
-            "value": "0.93"
+            "value": "0.92"
           },
           {
             "rank": 2,
@@ -551,14 +551,14 @@
             "player": "Parker Messick",
             "team": "Cleveland Guardians",
             "position": "P",
-            "value": "1.01"
+            "value": "1.02"
           },
           {
             "rank": 5,
             "player": "Logan Gilbert",
             "team": "Seattle Mariners",
             "position": "P",
-            "value": "1.02"
+            "value": "1.03"
           }
         ],
         "saves": [
@@ -622,17 +622,17 @@
           },
           {
             "rank": 4,
+            "player": "Logan Gilbert",
+            "team": "Seattle Mariners",
+            "position": "P",
+            "value": "157.1"
+          },
+          {
+            "rank": 5,
             "player": "Shane Baz",
             "team": "Baltimore Orioles",
             "position": "P",
             "value": "157.0"
-          },
-          {
-            "rank": 5,
-            "player": "Gavin Williams",
-            "team": "Cleveland Guardians",
-            "position": "P",
-            "value": "156.0"
           }
         ],
         "qualityStarts": []
@@ -688,7 +688,7 @@
             "player": "Jonathan Aranda",
             "team": "Tampa Bay Rays",
             "position": "1B",
-            "value": "912"
+            "value": "913"
           },
           {
             "rank": 3,
@@ -702,14 +702,14 @@
             "player": "Willson Contreras",
             "team": "Boston Red Sox",
             "position": "1B",
-            "value": "868"
+            "value": "870"
           },
           {
             "rank": 5,
             "player": "Josh Naylor",
             "team": "Seattle Mariners",
             "position": "1B",
-            "value": "867"
+            "value": "869"
           }
         ],
         "assists": [
@@ -718,7 +718,7 @@
             "player": "Cole Young",
             "team": "Seattle Mariners",
             "position": "2B",
-            "value": "345"
+            "value": "346"
           },
           {
             "rank": 2,
@@ -732,7 +732,7 @@
             "player": "Jazz Chisholm Jr.",
             "team": "New York Yankees",
             "position": "2B",
-            "value": "291"
+            "value": "292"
           },
           {
             "rank": 4,
@@ -820,7 +820,7 @@
             "player": "Willson Contreras",
             "team": "Boston Red Sox",
             "position": "1B",
-            "value": "78"
+            "value": "79"
           }
         ]
       },
@@ -1044,9 +1044,9 @@
           },
           {
             "rank": 5,
-            "player": "Gabriel Moreno",
-            "team": "Arizona Diamondbacks",
-            "position": "C",
+            "player": "TJ Rumfield",
+            "team": "Colorado Rockies",
+            "position": "1B",
             "value": ".382"
           }
         ],
@@ -1063,7 +1063,7 @@
             "player": "Hunter Goodman",
             "team": "Colorado Rockies",
             "position": "C",
-            "value": ".545"
+            "value": ".546"
           },
           {
             "rank": 3,
@@ -1081,9 +1081,9 @@
           },
           {
             "rank": 5,
-            "player": "Matt Olson",
-            "team": "Atlanta Braves",
-            "position": "1B",
+            "player": "Kyle Schwarber",
+            "team": "Philadelphia Phillies",
+            "position": "DH",
             "value": ".530"
           }
         ],
@@ -1533,7 +1533,7 @@
             "player": "Matt Olson",
             "team": "Atlanta Braves",
             "position": "1B",
-            "value": "979"
+            "value": "982"
           }
         ],
         "assists": [
