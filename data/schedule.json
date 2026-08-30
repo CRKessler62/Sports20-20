@@ -1,7 +1,7 @@
 {
   "league": "MLB",
   "timezone": "America/New_York",
-  "lastUpdated": "2026-08-30T15:06:53.509710+00:00",
+  "lastUpdated": "2026-08-30T16:06:48.520914+00:00",
   "games": [
     {
       "gamePk": 824651,
@@ -9752,8 +9752,8 @@
       "date": "2026-08-30",
       "gameDate": "2026-08-30T16:15:00Z",
       "localGameTime": "2026-08-30T12:15:00-04:00",
-      "status": "Pre-Game",
-      "abstractGameState": "Preview",
+      "status": "Warmup",
+      "abstractGameState": "Live",
       "codedGameState": "P",
       "awayTeam": {
         "id": 146,
@@ -9813,8 +9813,8 @@
         "name": "New York Yankees",
         "abbreviation": "NYY"
       },
-      "awayScore": null,
-      "homeScore": null,
+      "awayScore": 0,
+      "homeScore": 0,
       "venue": "Yankee Stadium",
       "awayPitcher": "Ranger Suarez",
       "homePitcher": "Will Warren"
@@ -9944,9 +9944,9 @@
       "date": "2026-08-30",
       "gameDate": "2026-08-30T18:10:00Z",
       "localGameTime": "2026-08-30T14:10:00-04:00",
-      "status": "Scheduled",
+      "status": "Pre-Game",
       "abstractGameState": "Preview",
-      "codedGameState": "S",
+      "codedGameState": "P",
       "awayTeam": {
         "id": 140,
         "name": "Texas Rangers",
@@ -9957,8 +9957,8 @@
         "name": "Milwaukee Brewers",
         "abbreviation": "MIL"
       },
-      "awayScore": null,
-      "homeScore": null,
+      "awayScore": 0,
+      "homeScore": 0,
       "venue": "American Family Field",
       "awayPitcher": "Kumar Rocker",
       "homePitcher": "Dustin May"
@@ -9981,8 +9981,8 @@
         "name": "St. Louis Cardinals",
         "abbreviation": "STL"
       },
-      "awayScore": null,
-      "homeScore": null,
+      "awayScore": 0,
+      "homeScore": 0,
       "venue": "Busch Stadium",
       "awayPitcher": "Braxton Ashcraft",
       "homePitcher": "Matthew Liberatore"
@@ -10105,7 +10105,7 @@
       "homeScore": null,
       "venue": "Truist Park",
       "awayPitcher": null,
-      "homePitcher": null
+      "homePitcher": "Bryce Elder"
     },
     {
       "gamePk": 824473,
@@ -10321,7 +10321,7 @@
       "homeScore": null,
       "venue": "Coors Field",
       "awayPitcher": null,
-      "homePitcher": null
+      "homePitcher": "Tanner Gordon"
     },
     {
       "gamePk": 823982,
@@ -10512,8 +10512,8 @@
       "awayScore": null,
       "homeScore": null,
       "venue": "Nationals Park",
-      "awayPitcher": null,
-      "homePitcher": null
+      "awayPitcher": "AJ Smith-Shawver",
+      "homePitcher": "Jake Irvin"
     },
     {
       "gamePk": 823661,
@@ -10560,7 +10560,7 @@
       "awayScore": null,
       "homeScore": null,
       "venue": "Kauffman Stadium",
-      "awayPitcher": null,
+      "awayPitcher": "Tyler Phillips",
       "homePitcher": null
     },
     {
@@ -10657,7 +10657,7 @@
       "homeScore": null,
       "venue": "Coors Field",
       "awayPitcher": null,
-      "homePitcher": null
+      "homePitcher": "Gabriel Hughes"
     },
     {
       "gamePk": 823984,
@@ -10776,7 +10776,7 @@
       "awayScore": null,
       "homeScore": null,
       "venue": "Nationals Park",
-      "awayPitcher": null,
+      "awayPitcher": "Grant Holmes",
       "homePitcher": null
     },
     {
@@ -10825,7 +10825,7 @@
       "homeScore": null,
       "venue": "Coors Field",
       "awayPitcher": null,
-      "homePitcher": null
+      "homePitcher": "Tomoyuki Sugano"
     },
     {
       "gamePk": 825037,
@@ -10992,7 +10992,7 @@
       "awayScore": null,
       "homeScore": null,
       "venue": "Kauffman Stadium",
-      "awayPitcher": null,
+      "awayPitcher": "Eury P\u00e9rez",
       "homePitcher": null
     },
     {
