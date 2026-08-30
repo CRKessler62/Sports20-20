@@ -1,7 +1,7 @@
 {
   "league": "MLB",
   "timezone": "America/New_York",
-  "lastUpdated": "2026-08-30T04:06:58.713104+00:00",
+  "lastUpdated": "2026-08-30T05:06:46.395475+00:00",
   "games": [
     {
       "gamePk": 824651,
@@ -9536,9 +9536,9 @@
       "date": "2026-08-29",
       "gameDate": "2026-08-30T02:05:00Z",
       "localGameTime": "2026-08-29T22:05:00-04:00",
-      "status": "In Progress",
-      "abstractGameState": "Live",
-      "codedGameState": "I",
+      "status": "Final",
+      "abstractGameState": "Final",
+      "codedGameState": "F",
       "awayTeam": {
         "id": 109,
         "name": "Arizona Diamondbacks",
@@ -9550,7 +9550,7 @@
         "abbreviation": "SF"
       },
       "awayScore": 2,
-      "homeScore": 4,
+      "homeScore": 7,
       "venue": "Oracle Park",
       "awayPitcher": "Mitch Bratt",
       "homePitcher": "Yunior Marte"
@@ -9704,9 +9704,9 @@
       "date": "2026-08-29",
       "gameDate": "2026-08-30T02:05:00Z",
       "localGameTime": "2026-08-29T22:05:00-04:00",
-      "status": "In Progress",
-      "abstractGameState": "Live",
-      "codedGameState": "I",
+      "status": "Final",
+      "abstractGameState": "Final",
+      "codedGameState": "F",
       "awayTeam": {
         "id": 110,
         "name": "Baltimore Orioles",
@@ -9717,8 +9717,8 @@
         "name": "Athletics",
         "abbreviation": "ATH"
       },
-      "awayScore": 4,
-      "homeScore": 2,
+      "awayScore": 5,
+      "homeScore": 3,
       "venue": "Sutter Health Park",
       "awayPitcher": "Shane Baz",
       "homePitcher": "Jack Perkins"
@@ -9728,9 +9728,9 @@
       "date": "2026-08-29",
       "gameDate": "2026-08-30T02:07:00Z",
       "localGameTime": "2026-08-29T22:07:00-04:00",
-      "status": "Manager challenge",
+      "status": "In Progress",
       "abstractGameState": "Live",
-      "codedGameState": "M",
+      "codedGameState": "I",
       "awayTeam": {
         "id": 143,
         "name": "Philadelphia Phillies",
@@ -9741,8 +9741,8 @@
         "name": "Los Angeles Angels",
         "abbreviation": "LAA"
       },
-      "awayScore": 1,
-      "homeScore": 0,
+      "awayScore": 4,
+      "homeScore": 2,
       "venue": "Angel Stadium",
       "awayPitcher": "Cristopher S\u00e1nchez",
       "homePitcher": "Ryan Johnson"
