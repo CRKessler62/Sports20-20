@@ -1,6 +1,6 @@
 {
   "season": 2026,
-  "lastUpdated": "2026-08-30T18:17:56.548048+00:00",
+  "lastUpdated": "2026-08-30T19:17:53.366483+00:00",
   "leagues": {
     "AL": {
       "offense": {
@@ -17,27 +17,27 @@
             "player": "Chandler Simpson",
             "team": "Tampa Bay Rays",
             "position": "LF",
-            "value": ".311"
+            "value": ".310"
           },
           {
             "rank": 3,
             "player": "Yandy D\u00edaz",
             "team": "Tampa Bay Rays",
             "position": "DH",
-            "value": ".303"
+            "value": ".304"
           },
           {
             "rank": 4,
-            "player": "Bobby Witt Jr.",
-            "team": "Kansas City Royals",
-            "position": "SS",
-            "value": ".287"
-          },
-          {
-            "rank": 5,
             "player": "Chase DeLauter",
             "team": "Cleveland Guardians",
             "position": "RF",
+            "value": ".289"
+          },
+          {
+            "rank": 5,
+            "player": "Bobby Witt Jr.",
+            "team": "Kansas City Royals",
+            "position": "SS",
             "value": ".286"
           }
         ],
@@ -47,7 +47,7 @@
             "player": "Yandy D\u00edaz",
             "team": "Tampa Bay Rays",
             "position": "DH",
-            "value": "156"
+            "value": "157"
           },
           {
             "rank": 2,
@@ -75,7 +75,7 @@
             "player": "Junior Caminero",
             "team": "Tampa Bay Rays",
             "position": "3B",
-            "value": "144"
+            "value": "145"
           }
         ],
         "homeRuns": [
@@ -91,7 +91,7 @@
             "player": "Junior Caminero",
             "team": "Tampa Bay Rays",
             "position": "3B",
-            "value": "36"
+            "value": "37"
           },
           {
             "rank": 3,
@@ -135,7 +135,7 @@
             "player": "Junior Caminero",
             "team": "Tampa Bay Rays",
             "position": "3B",
-            "value": "86"
+            "value": "87"
           },
           {
             "rank": 4,
@@ -146,10 +146,10 @@
           },
           {
             "rank": 5,
-            "player": "Dillon Dingler",
-            "team": "Detroit Tigers",
-            "position": "C",
-            "value": "82"
+            "player": "Josh Bell",
+            "team": "Minnesota Twins",
+            "position": "DH",
+            "value": "83"
           }
         ],
         "runs": [
@@ -209,7 +209,7 @@
             "player": "Willson Contreras",
             "team": "Boston Red Sox",
             "position": "1B",
-            "value": ".385"
+            "value": ".384"
           },
           {
             "rank": 4,
@@ -223,7 +223,7 @@
             "player": "Kevin McGonigle",
             "team": "Detroit Tigers",
             "position": "SS",
-            "value": ".378"
+            "value": ".377"
           }
         ],
         "slg": [
@@ -232,14 +232,14 @@
             "player": "Yordan Alvarez",
             "team": "Houston Astros",
             "position": "DH",
-            "value": ".613"
+            "value": ".612"
           },
           {
             "rank": 2,
             "player": "Junior Caminero",
             "team": "Tampa Bay Rays",
             "position": "3B",
-            "value": ".532"
+            "value": ".539"
           },
           {
             "rank": 3,
@@ -253,7 +253,7 @@
             "player": "Willson Contreras",
             "team": "Boston Red Sox",
             "position": "1B",
-            "value": ".519"
+            "value": ".516"
           },
           {
             "rank": 5,
@@ -269,21 +269,21 @@
             "player": "Yordan Alvarez",
             "team": "Houston Astros",
             "position": "DH",
-            "value": "1.048"
+            "value": "1.047"
           },
           {
             "rank": 2,
-            "player": "Willson Contreras",
-            "team": "Boston Red Sox",
-            "position": "1B",
-            "value": ".904"
-          },
-          {
-            "rank": 3,
             "player": "Junior Caminero",
             "team": "Tampa Bay Rays",
             "position": "3B",
-            "value": ".899"
+            "value": ".907"
+          },
+          {
+            "rank": 3,
+            "player": "Willson Contreras",
+            "team": "Boston Red Sox",
+            "position": "1B",
+            "value": ".900"
           },
           {
             "rank": 4,
@@ -433,7 +433,7 @@
             "player": "Parker Messick",
             "team": "Cleveland Guardians",
             "position": "P",
-            "value": "2.54"
+            "value": "2.50"
           },
           {
             "rank": 4,
@@ -447,7 +447,7 @@
             "player": "Drew Rasmussen",
             "team": "Tampa Bay Rays",
             "position": "P",
-            "value": "2.89"
+            "value": "2.96"
           }
         ],
         "wins": [
@@ -530,7 +530,7 @@
             "player": "Drew Rasmussen",
             "team": "Tampa Bay Rays",
             "position": "P",
-            "value": "0.92"
+            "value": "0.93"
           },
           {
             "rank": 2,
@@ -558,7 +558,7 @@
             "player": "Logan Gilbert",
             "team": "Seattle Mariners",
             "position": "P",
-            "value": "1.03"
+            "value": "1.04"
           }
         ],
         "saves": [
@@ -625,14 +625,14 @@
             "player": "Logan Gilbert",
             "team": "Seattle Mariners",
             "position": "P",
-            "value": "157.1"
+            "value": "160.1"
           },
           {
             "rank": 5,
-            "player": "Shane Baz",
-            "team": "Baltimore Orioles",
+            "player": "Parker Messick",
+            "team": "Cleveland Guardians",
             "position": "P",
-            "value": "157.0"
+            "value": "159.0"
           }
         ],
         "qualityStarts": []
@@ -688,7 +688,7 @@
             "player": "Jonathan Aranda",
             "team": "Tampa Bay Rays",
             "position": "1B",
-            "value": "913"
+            "value": "918"
           },
           {
             "rank": 3,
@@ -702,14 +702,14 @@
             "player": "Willson Contreras",
             "team": "Boston Red Sox",
             "position": "1B",
-            "value": "870"
+            "value": "873"
           },
           {
             "rank": 5,
             "player": "Josh Naylor",
             "team": "Seattle Mariners",
             "position": "1B",
-            "value": "869"
+            "value": "873"
           }
         ],
         "assists": [
@@ -732,7 +732,7 @@
             "player": "Jazz Chisholm Jr.",
             "team": "New York Yankees",
             "position": "2B",
-            "value": "292"
+            "value": "294"
           },
           {
             "rank": 4,
@@ -878,7 +878,7 @@
             "player": "Otto Lopez",
             "team": "Miami Marlins",
             "position": "SS",
-            "value": "162"
+            "value": "163"
           },
           {
             "rank": 3,
@@ -1037,17 +1037,17 @@
           },
           {
             "rank": 4,
-            "player": "Shohei Ohtani",
-            "team": "Los Angeles Dodgers",
-            "position": "TWP",
-            "value": ".383"
+            "player": "Gabriel Moreno",
+            "team": "Arizona Diamondbacks",
+            "position": "C",
+            "value": ".382"
           },
           {
             "rank": 5,
-            "player": "TJ Rumfield",
-            "team": "Colorado Rockies",
-            "position": "1B",
-            "value": ".382"
+            "player": "Shohei Ohtani",
+            "team": "Los Angeles Dodgers",
+            "position": "TWP",
+            "value": ".381"
           }
         ],
         "slg": [
@@ -1063,7 +1063,7 @@
             "player": "Hunter Goodman",
             "team": "Colorado Rockies",
             "position": "C",
-            "value": ".546"
+            "value": ".544"
           },
           {
             "rank": 3,
@@ -1077,7 +1077,7 @@
             "player": "Shohei Ohtani",
             "team": "Los Angeles Dodgers",
             "position": "TWP",
-            "value": ".535"
+            "value": ".533"
           },
           {
             "rank": 5,
@@ -1107,7 +1107,7 @@
             "player": "Shohei Ohtani",
             "team": "Los Angeles Dodgers",
             "position": "TWP",
-            "value": ".918"
+            "value": ".914"
           },
           {
             "rank": 4,
@@ -1151,14 +1151,14 @@
             "player": "Matthew Liberatore",
             "team": "St. Louis Cardinals",
             "position": "P",
-            "value": "20"
+            "value": "21"
           },
           {
             "rank": 5,
             "player": "Robbie Ray",
             "team": "San Diego Padres",
             "position": "P",
-            "value": "18"
+            "value": "20"
           }
         ],
         "doubles": [
@@ -1453,10 +1453,10 @@
           },
           {
             "rank": 5,
-            "player": "Yoshinobu Yamamoto",
-            "team": "Los Angeles Dodgers",
+            "player": "Braxton Ashcraft",
+            "team": "Pittsburgh Pirates",
             "position": "P",
-            "value": "158.0"
+            "value": "158.1"
           }
         ],
         "qualityStarts": []
@@ -1505,7 +1505,7 @@
             "player": "Alec Burleson",
             "team": "St. Louis Cardinals",
             "position": "1B",
-            "value": "1034"
+            "value": "1035"
           },
           {
             "rank": 2,
@@ -1533,7 +1533,7 @@
             "player": "Matt Olson",
             "team": "Atlanta Braves",
             "position": "1B",
-            "value": "982"
+            "value": "984"
           }
         ],
         "assists": [
@@ -1563,7 +1563,7 @@
             "player": "Ozzie Albies",
             "team": "Atlanta Braves",
             "position": "2B",
-            "value": "324"
+            "value": "325"
           },
           {
             "rank": 5,
@@ -1623,7 +1623,7 @@
             "player": "Matt Olson",
             "team": "Atlanta Braves",
             "position": "1B",
-            "value": "107"
+            "value": "108"
           },
           {
             "rank": 3,
@@ -1644,7 +1644,7 @@
             "player": "TJ Rumfield",
             "team": "Colorado Rockies",
             "position": "1B",
-            "value": "83"
+            "value": "84"
           }
         ]
       },
