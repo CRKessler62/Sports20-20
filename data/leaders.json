@@ -1,6 +1,6 @@
 {
   "season": 2026,
-  "lastUpdated": "2026-08-30T00:17:55.916588+00:00",
+  "lastUpdated": "2026-08-30T01:18:01.498197+00:00",
   "leagues": {
     "AL": {
       "offense": {
@@ -142,7 +142,7 @@
             "player": "Ben Rice",
             "team": "New York Yankees",
             "position": "DH",
-            "value": "83"
+            "value": "84"
           },
           {
             "rank": 5,
@@ -176,15 +176,15 @@
           },
           {
             "rank": 4,
-            "player": "Kevin McGonigle",
-            "team": "Detroit Tigers",
-            "position": "SS",
-            "value": "84"
+            "player": "Ben Rice",
+            "team": "New York Yankees",
+            "position": "DH",
+            "value": "85"
           },
           {
             "rank": 5,
-            "player": "Zach Neto",
-            "team": "Los Angeles Angels",
+            "player": "Kevin McGonigle",
+            "team": "Detroit Tigers",
             "position": "SS",
             "value": "84"
           }
@@ -209,7 +209,7 @@
             "player": "Willson Contreras",
             "team": "Boston Red Sox",
             "position": "1B",
-            "value": ".382"
+            "value": ".385"
           },
           {
             "rank": 4,
@@ -246,7 +246,7 @@
             "player": "Ben Rice",
             "team": "New York Yankees",
             "position": "DH",
-            "value": ".528"
+            "value": ".527"
           },
           {
             "rank": 4,
@@ -283,7 +283,7 @@
             "player": "Willson Contreras",
             "team": "Boston Red Sox",
             "position": "1B",
-            "value": ".896"
+            "value": ".899"
           },
           {
             "rank": 4,
@@ -699,17 +699,17 @@
           },
           {
             "rank": 4,
-            "player": "Josh Naylor",
-            "team": "Seattle Mariners",
+            "player": "Willson Contreras",
+            "team": "Boston Red Sox",
             "position": "1B",
             "value": "867"
           },
           {
             "rank": 5,
-            "player": "Willson Contreras",
-            "team": "Boston Red Sox",
+            "player": "Josh Naylor",
+            "team": "Seattle Mariners",
             "position": "1B",
-            "value": "864"
+            "value": "867"
           }
         ],
         "assists": [
@@ -732,7 +732,7 @@
             "player": "Jazz Chisholm Jr.",
             "team": "New York Yankees",
             "position": "2B",
-            "value": "289"
+            "value": "290"
           },
           {
             "rank": 4,
@@ -1026,7 +1026,7 @@
             "player": "Jake Bauers",
             "team": "Milwaukee Brewers",
             "position": "1B",
-            "value": ".387"
+            "value": ".386"
           },
           {
             "rank": 3,
@@ -1118,10 +1118,10 @@
           },
           {
             "rank": 5,
-            "player": "Jake Bauers",
-            "team": "Milwaukee Brewers",
+            "player": "Bryce Harper",
+            "team": "Philadelphia Phillies",
             "position": "1B",
-            "value": ".890"
+            "value": ".888"
           }
         ],
         "stolenBases": [
@@ -1512,7 +1512,7 @@
             "player": "William Contreras",
             "team": "Milwaukee Brewers",
             "position": "C",
-            "value": "1025"
+            "value": "1026"
           },
           {
             "rank": 3,
