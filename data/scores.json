@@ -1,6 +1,6 @@
 {
   "league": "MLB",
-  "lastUpdated": "2026-08-30T21:58:14.513086+00:00",
+  "lastUpdated": "2026-08-30T22:10:52.039807+00:00",
   "games": [
     {
       "gamePk": 822688,
@@ -687,12 +687,12 @@
       "gameDate": "2026-08-30T19:10:00Z",
       "inning": 9,
       "inningOrdinal": "9th",
-      "inningState": "Top",
+      "inningState": "Bottom",
       "outs": 2,
-      "battingTeam": "Houston Astros",
+      "battingTeam": "New York Mets",
       "runners": {
         "first": false,
-        "second": false,
+        "second": true,
         "third": false
       },
       "inningScores": [
@@ -751,11 +751,11 @@
       "homeScore": 5,
       "status": "In Progress",
       "gameDate": "2026-08-30T20:05:00Z",
-      "inning": 6,
-      "inningOrdinal": "6th",
-      "inningState": "Bottom",
-      "outs": 2,
-      "battingTeam": "Athletics",
+      "inning": 7,
+      "inningOrdinal": "7th",
+      "inningState": "Middle",
+      "outs": 3,
+      "battingTeam": "Baltimore Orioles",
       "runners": {
         "first": false,
         "second": false,
@@ -791,6 +791,11 @@
           "inning": 6,
           "awayRuns": 0,
           "homeRuns": 0
+        },
+        {
+          "inning": 7,
+          "awayRuns": 0,
+          "homeRuns": 0
         }
       ]
     },
@@ -802,13 +807,13 @@
       "homeScore": 1,
       "status": "In Progress",
       "gameDate": "2026-08-30T20:07:00Z",
-      "inning": 7,
-      "inningOrdinal": "7th",
-      "inningState": "Middle",
-      "outs": 3,
+      "inning": 8,
+      "inningOrdinal": "8th",
+      "inningState": "Top",
+      "outs": 0,
       "battingTeam": "Philadelphia Phillies",
       "runners": {
-        "first": false,
+        "first": true,
         "second": false,
         "third": false
       },
@@ -846,6 +851,11 @@
         {
           "inning": 7,
           "awayRuns": 1,
+          "homeRuns": 0
+        },
+        {
+          "inning": 8,
+          "awayRuns": 0,
           "homeRuns": 0
         }
       ]
