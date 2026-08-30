@@ -1,7 +1,7 @@
 {
   "league": "MLB",
   "timezone": "America/New_York",
-  "lastUpdated": "2026-08-30T14:06:36.212894+00:00",
+  "lastUpdated": "2026-08-30T15:06:53.509710+00:00",
   "games": [
     {
       "gamePk": 824651,
@@ -9765,8 +9765,8 @@
         "name": "Washington Nationals",
         "abbreviation": "WSH"
       },
-      "awayScore": null,
-      "homeScore": null,
+      "awayScore": 0,
+      "homeScore": 0,
       "venue": "Nationals Park",
       "awayPitcher": "Janson Junk",
       "homePitcher": "Andrew Alvarez"
@@ -9776,9 +9776,9 @@
       "date": "2026-08-30",
       "gameDate": "2026-08-30T17:35:00Z",
       "localGameTime": "2026-08-30T13:35:00-04:00",
-      "status": "Scheduled",
+      "status": "Pre-Game",
       "abstractGameState": "Preview",
-      "codedGameState": "S",
+      "codedGameState": "P",
       "awayTeam": {
         "id": 115,
         "name": "Colorado Rockies",
@@ -9789,8 +9789,8 @@
         "name": "Atlanta Braves",
         "abbreviation": "ATL"
       },
-      "awayScore": null,
-      "homeScore": null,
+      "awayScore": 0,
+      "homeScore": 0,
       "venue": "Truist Park",
       "awayPitcher": "Mason Adams",
       "homePitcher": "Tyler Mahle"
@@ -9800,9 +9800,9 @@
       "date": "2026-08-30",
       "gameDate": "2026-08-30T17:35:00Z",
       "localGameTime": "2026-08-30T13:35:00-04:00",
-      "status": "Scheduled",
+      "status": "Pre-Game",
       "abstractGameState": "Preview",
-      "codedGameState": "S",
+      "codedGameState": "P",
       "awayTeam": {
         "id": 111,
         "name": "Boston Red Sox",
@@ -9824,9 +9824,9 @@
       "date": "2026-08-30",
       "gameDate": "2026-08-30T17:37:00Z",
       "localGameTime": "2026-08-30T13:37:00-04:00",
-      "status": "Scheduled",
+      "status": "Pre-Game",
       "abstractGameState": "Preview",
-      "codedGameState": "S",
+      "codedGameState": "P",
       "awayTeam": {
         "id": 136,
         "name": "Seattle Mariners",
@@ -9837,8 +9837,8 @@
         "name": "Toronto Blue Jays",
         "abbreviation": "TOR"
       },
-      "awayScore": null,
-      "homeScore": null,
+      "awayScore": 0,
+      "homeScore": 0,
       "venue": "Rogers Centre",
       "awayPitcher": "Logan Gilbert",
       "homePitcher": "Max Scherzer"
@@ -9861,8 +9861,8 @@
         "name": "Cleveland Guardians",
         "abbreviation": "CLE"
       },
-      "awayScore": null,
-      "homeScore": null,
+      "awayScore": 0,
+      "homeScore": 0,
       "venue": "Progressive Field",
       "awayPitcher": "Seth Lugo",
       "homePitcher": "Parker Messick"
@@ -9872,9 +9872,9 @@
       "date": "2026-08-30",
       "gameDate": "2026-08-30T17:40:00Z",
       "localGameTime": "2026-08-30T13:40:00-04:00",
-      "status": "Scheduled",
+      "status": "Pre-Game",
       "abstractGameState": "Preview",
-      "codedGameState": "S",
+      "codedGameState": "P",
       "awayTeam": {
         "id": 119,
         "name": "Los Angeles Dodgers",
@@ -9885,8 +9885,8 @@
         "name": "Detroit Tigers",
         "abbreviation": "DET"
       },
-      "awayScore": null,
-      "homeScore": null,
+      "awayScore": 0,
+      "homeScore": 0,
       "venue": "Comerica Park",
       "awayPitcher": "Tyler Glasnow",
       "homePitcher": "Framber Valdez"
@@ -9896,9 +9896,9 @@
       "date": "2026-08-30",
       "gameDate": "2026-08-30T17:40:00Z",
       "localGameTime": "2026-08-30T13:40:00-04:00",
-      "status": "Scheduled",
+      "status": "Pre-Game",
       "abstractGameState": "Preview",
-      "codedGameState": "S",
+      "codedGameState": "P",
       "awayTeam": {
         "id": 135,
         "name": "San Diego Padres",
@@ -9920,9 +9920,9 @@
       "date": "2026-08-30",
       "gameDate": "2026-08-30T18:10:00Z",
       "localGameTime": "2026-08-30T14:10:00-04:00",
-      "status": "Scheduled",
+      "status": "Pre-Game",
       "abstractGameState": "Preview",
-      "codedGameState": "S",
+      "codedGameState": "P",
       "awayTeam": {
         "id": 145,
         "name": "Chicago White Sox",
@@ -9933,8 +9933,8 @@
         "name": "Minnesota Twins",
         "abbreviation": "MIN"
       },
-      "awayScore": null,
-      "homeScore": null,
+      "awayScore": 0,
+      "homeScore": 0,
       "venue": "Target Field",
       "awayPitcher": "Jordan Hicks",
       "homePitcher": "Zebby Matthews"
@@ -9968,9 +9968,9 @@
       "date": "2026-08-30",
       "gameDate": "2026-08-30T18:15:00Z",
       "localGameTime": "2026-08-30T14:15:00-04:00",
-      "status": "Scheduled",
+      "status": "Pre-Game",
       "abstractGameState": "Preview",
-      "codedGameState": "S",
+      "codedGameState": "P",
       "awayTeam": {
         "id": 134,
         "name": "Pittsburgh Pirates",
@@ -10224,8 +10224,8 @@
       "awayScore": null,
       "homeScore": null,
       "venue": "Target Field",
-      "awayPitcher": null,
-      "homePitcher": null
+      "awayPitcher": "Jackson Jobe",
+      "homePitcher": "Taj Bradley"
     },
     {
       "gamePk": 824635,
@@ -10536,8 +10536,8 @@
       "awayScore": null,
       "homeScore": null,
       "venue": "Target Field",
-      "awayPitcher": null,
-      "homePitcher": null
+      "awayPitcher": "Troy Melton",
+      "homePitcher": "Connor Prielipp"
     },
     {
       "gamePk": 824070,
@@ -10968,8 +10968,8 @@
       "awayScore": null,
       "homeScore": null,
       "venue": "Target Field",
-      "awayPitcher": null,
-      "homePitcher": null
+      "awayPitcher": "Drew Anderson",
+      "homePitcher": "Dean Kremer"
     },
     {
       "gamePk": 824068,
