@@ -1,6 +1,6 @@
 {
   "league": "MLB",
-  "lastUpdated": "2026-08-30T23:01:33.255278+00:00",
+  "lastUpdated": "2026-08-30T23:14:14.052198+00:00",
   "games": [
     {
       "gamePk": 822688,
@@ -285,7 +285,7 @@
       "outs": 3,
       "battingTeam": "Kansas City Royals",
       "runners": {
-        "first": true,
+        "first": false,
         "second": false,
         "third": false
       },
@@ -494,8 +494,8 @@
       "battingTeam": "Chicago White Sox",
       "runners": {
         "first": false,
-        "second": true,
-        "third": true
+        "second": false,
+        "third": false
       },
       "inningScores": [
         {
@@ -749,7 +749,7 @@
       "homeTeam": "Athletics",
       "awayScore": 8,
       "homeScore": 5,
-      "status": "Game Over",
+      "status": "Final",
       "gameDate": "2026-08-30T20:05:00Z",
       "inning": 9,
       "inningOrdinal": "9th",
@@ -815,16 +815,16 @@
       "homeTeam": "Los Angeles Angels",
       "awayScore": 5,
       "homeScore": 2,
-      "status": "In Progress",
+      "status": "Game Over",
       "gameDate": "2026-08-30T20:07:00Z",
       "inning": 9,
       "inningOrdinal": "9th",
       "inningState": "Bottom",
-      "outs": 2,
+      "outs": 3,
       "battingTeam": "Los Angeles Angels",
       "runners": {
         "first": false,
-        "second": true,
+        "second": false,
         "third": false
       },
       "inningScores": [
