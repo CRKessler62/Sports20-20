@@ -1,6 +1,6 @@
 {
   "season": 2026,
-  "lastUpdated": "2026-08-30T04:17:53.157065+00:00",
+  "lastUpdated": "2026-08-30T06:18:07.634254+00:00",
   "leagues": {
     "AL": {
       "offense": {
@@ -176,17 +176,17 @@
           },
           {
             "rank": 4,
-            "player": "Ben Rice",
-            "team": "New York Yankees",
-            "position": "DH",
+            "player": "Zach Neto",
+            "team": "Los Angeles Angels",
+            "position": "SS",
             "value": "85"
           },
           {
             "rank": 5,
-            "player": "Kevin McGonigle",
-            "team": "Detroit Tigers",
-            "position": "SS",
-            "value": "84"
+            "player": "Ben Rice",
+            "team": "New York Yankees",
+            "position": "DH",
+            "value": "85"
           }
         ],
         "obp": [
@@ -216,7 +216,7 @@
             "player": "Mike Trout",
             "team": "Los Angeles Angels",
             "position": "CF",
-            "value": ".380"
+            "value": ".378"
           },
           {
             "rank": 5,
@@ -260,7 +260,7 @@
             "player": "Pete Alonso",
             "team": "Baltimore Orioles",
             "position": "1B",
-            "value": ".504"
+            "value": ".503"
           }
         ],
         "ops": [
@@ -725,7 +725,7 @@
             "player": "Gunnar Henderson",
             "team": "Baltimore Orioles",
             "position": "SS",
-            "value": "307"
+            "value": "309"
           },
           {
             "rank": 3,
@@ -739,7 +739,7 @@
             "player": "Zach Neto",
             "team": "Los Angeles Angels",
             "position": "SS",
-            "value": "273"
+            "value": "275"
           },
           {
             "rank": 5,
@@ -1033,7 +1033,7 @@
             "player": "Bryce Harper",
             "team": "Philadelphia Phillies",
             "position": "1B",
-            "value": ".384"
+            "value": ".386"
           },
           {
             "rank": 4,
@@ -1111,17 +1111,17 @@
           },
           {
             "rank": 4,
+            "player": "Kyle Schwarber",
+            "team": "Philadelphia Phillies",
+            "position": "DH",
+            "value": ".889"
+          },
+          {
+            "rank": 5,
             "player": "Jake Bauers",
             "team": "Milwaukee Brewers",
             "position": "1B",
             "value": ".888"
-          },
-          {
-            "rank": 5,
-            "player": "Bryce Harper",
-            "team": "Philadelphia Phillies",
-            "position": "1B",
-            "value": ".886"
           }
         ],
         "stolenBases": [
@@ -1526,7 +1526,7 @@
             "player": "J.T. Realmuto",
             "team": "Philadelphia Phillies",
             "position": "C",
-            "value": "1012"
+            "value": "1014"
           },
           {
             "rank": 5,
@@ -1549,7 +1549,7 @@
             "player": "Luis Arraez",
             "team": "Philadelphia Phillies",
             "position": "2B",
-            "value": "329"
+            "value": "330"
           },
           {
             "rank": 3,
