@@ -1,6 +1,6 @@
 {
   "season": 2026,
-  "lastUpdated": "2026-08-30T01:18:01.498197+00:00",
+  "lastUpdated": "2026-08-30T03:17:55.136584+00:00",
   "leagues": {
     "AL": {
       "offense": {
@@ -142,7 +142,7 @@
             "player": "Ben Rice",
             "team": "New York Yankees",
             "position": "DH",
-            "value": "84"
+            "value": "86"
           },
           {
             "rank": 5,
@@ -209,14 +209,14 @@
             "player": "Willson Contreras",
             "team": "Boston Red Sox",
             "position": "1B",
-            "value": ".385"
+            "value": ".386"
           },
           {
             "rank": 4,
             "player": "Mike Trout",
             "team": "Los Angeles Angels",
             "position": "CF",
-            "value": ".381"
+            "value": ".380"
           },
           {
             "rank": 5,
@@ -253,14 +253,14 @@
             "player": "Willson Contreras",
             "team": "Boston Red Sox",
             "position": "1B",
-            "value": ".514"
+            "value": ".520"
           },
           {
             "rank": 5,
             "player": "Pete Alonso",
             "team": "Baltimore Orioles",
             "position": "1B",
-            "value": ".508"
+            "value": ".506"
           }
         ],
         "ops": [
@@ -273,17 +273,17 @@
           },
           {
             "rank": 2,
+            "player": "Willson Contreras",
+            "team": "Boston Red Sox",
+            "position": "1B",
+            "value": ".906"
+          },
+          {
+            "rank": 3,
             "player": "Junior Caminero",
             "team": "Tampa Bay Rays",
             "position": "3B",
             "value": ".900"
-          },
-          {
-            "rank": 3,
-            "player": "Willson Contreras",
-            "team": "Boston Red Sox",
-            "position": "1B",
-            "value": ".899"
           },
           {
             "rank": 4,
@@ -297,7 +297,7 @@
             "player": "Ben Rice",
             "team": "New York Yankees",
             "position": "DH",
-            "value": ".876"
+            "value": ".877"
           }
         ],
         "stolenBases": [
@@ -350,7 +350,7 @@
             "player": "Wilyer Abreu",
             "team": "Boston Red Sox",
             "position": "RF",
-            "value": "30"
+            "value": "31"
           },
           {
             "rank": 3,
@@ -629,8 +629,8 @@
           },
           {
             "rank": 5,
-            "player": "Logan Gilbert",
-            "team": "Seattle Mariners",
+            "player": "Shane Baz",
+            "team": "Baltimore Orioles",
             "position": "P",
             "value": "155.1"
           }
@@ -702,7 +702,7 @@
             "player": "Willson Contreras",
             "team": "Boston Red Sox",
             "position": "1B",
-            "value": "867"
+            "value": "868"
           },
           {
             "rank": 5,
@@ -725,21 +725,21 @@
             "player": "Gunnar Henderson",
             "team": "Baltimore Orioles",
             "position": "SS",
-            "value": "303"
+            "value": "307"
           },
           {
             "rank": 3,
             "player": "Jazz Chisholm Jr.",
             "team": "New York Yankees",
             "position": "2B",
-            "value": "290"
+            "value": "291"
           },
           {
             "rank": 4,
             "player": "Zach Neto",
             "team": "Los Angeles Angels",
             "position": "SS",
-            "value": "271"
+            "value": "272"
           },
           {
             "rank": 5,
@@ -834,7 +834,7 @@
             "player": "Luis Arraez",
             "team": "Philadelphia Phillies",
             "position": "2B",
-            "value": ".320"
+            "value": ".318"
           },
           {
             "rank": 2,
@@ -1026,7 +1026,7 @@
             "player": "Jake Bauers",
             "team": "Milwaukee Brewers",
             "position": "1B",
-            "value": ".386"
+            "value": ".388"
           },
           {
             "rank": 3,
@@ -1081,10 +1081,10 @@
           },
           {
             "rank": 5,
-            "player": "Kyle Schwarber",
-            "team": "Philadelphia Phillies",
-            "position": "DH",
-            "value": ".531"
+            "player": "Matt Olson",
+            "team": "Atlanta Braves",
+            "position": "1B",
+            "value": ".530"
           }
         ],
         "ops": [
@@ -1111,16 +1111,16 @@
           },
           {
             "rank": 4,
-            "player": "Kyle Schwarber",
-            "team": "Philadelphia Phillies",
-            "position": "DH",
-            "value": ".891"
+            "player": "Jake Bauers",
+            "team": "Milwaukee Brewers",
+            "position": "1B",
+            "value": ".888"
           },
           {
             "rank": 5,
-            "player": "Bryce Harper",
+            "player": "Kyle Schwarber",
             "team": "Philadelphia Phillies",
-            "position": "1B",
+            "position": "DH",
             "value": ".888"
           }
         ],
@@ -1271,7 +1271,7 @@
             "player": "Cristopher S\u00e1nchez",
             "team": "Philadelphia Phillies",
             "position": "P",
-            "value": "2.62"
+            "value": "2.57"
           }
         ],
         "wins": [
@@ -1331,7 +1331,7 @@
             "player": "Cristopher S\u00e1nchez",
             "team": "Philadelphia Phillies",
             "position": "P",
-            "value": "194"
+            "value": "196"
           },
           {
             "rank": 4,
@@ -1419,7 +1419,7 @@
             "player": "Trevor Megill",
             "team": "Milwaukee Brewers",
             "position": "P",
-            "value": "24"
+            "value": "25"
           }
         ],
         "innings": [
@@ -1435,7 +1435,7 @@
             "player": "Cristopher S\u00e1nchez",
             "team": "Philadelphia Phillies",
             "position": "P",
-            "value": "168.1"
+            "value": "172.1"
           },
           {
             "rank": 3,
@@ -1526,7 +1526,7 @@
             "player": "J.T. Realmuto",
             "team": "Philadelphia Phillies",
             "position": "C",
-            "value": "1004"
+            "value": "1007"
           },
           {
             "rank": 5,
@@ -1549,7 +1549,7 @@
             "player": "Luis Arraez",
             "team": "Philadelphia Phillies",
             "position": "2B",
-            "value": "326"
+            "value": "327"
           },
           {
             "rank": 3,
