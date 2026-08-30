@@ -1,6 +1,6 @@
 {
   "league": "MLB",
-  "lastUpdated": "2026-08-30T21:07:42.156814+00:00",
+  "lastUpdated": "2026-08-30T21:20:16.587669+00:00",
   "games": [
     {
       "gamePk": 822688,
@@ -343,15 +343,15 @@
       "homeTeam": "Detroit Tigers",
       "awayScore": 6,
       "homeScore": 1,
-      "status": "In Progress",
+      "status": "Game Over",
       "gameDate": "2026-08-30T17:40:00Z",
-      "inning": 8,
-      "inningOrdinal": "8th",
+      "inning": 9,
+      "inningOrdinal": "9th",
       "inningState": "Bottom",
-      "outs": 2,
+      "outs": 3,
       "battingTeam": "Detroit Tigers",
       "runners": {
-        "first": true,
+        "first": false,
         "second": false,
         "third": false
       },
@@ -395,6 +395,11 @@
           "inning": 8,
           "awayRuns": 3,
           "homeRuns": 0
+        },
+        {
+          "inning": 9,
+          "awayRuns": 0,
+          "homeRuns": 0
         }
       ]
     },
@@ -404,7 +409,7 @@
       "homeTeam": "Tampa Bay Rays",
       "awayScore": 4,
       "homeScore": 5,
-      "status": "Game Over",
+      "status": "Final",
       "gameDate": "2026-08-30T17:40:00Z",
       "inning": 11,
       "inningOrdinal": "11th",
@@ -548,10 +553,10 @@
       "homeScore": 4,
       "status": "In Progress",
       "gameDate": "2026-08-30T18:10:00Z",
-      "inning": 7,
-      "inningOrdinal": "7th",
+      "inning": 8,
+      "inningOrdinal": "8th",
       "inningState": "Bottom",
-      "outs": 2,
+      "outs": 1,
       "battingTeam": "Milwaukee Brewers",
       "runners": {
         "first": false,
@@ -593,6 +598,11 @@
           "inning": 7,
           "awayRuns": 2,
           "homeRuns": 2
+        },
+        {
+          "inning": 8,
+          "awayRuns": 0,
+          "homeRuns": 0
         }
       ]
     },
@@ -602,12 +612,12 @@
       "homeTeam": "St. Louis Cardinals",
       "awayScore": 5,
       "homeScore": 4,
-      "status": "In Progress",
+      "status": "Final",
       "gameDate": "2026-08-30T18:15:00Z",
       "inning": 9,
       "inningOrdinal": "9th",
       "inningState": "Bottom",
-      "outs": 0,
+      "outs": 3,
       "battingTeam": "St. Louis Cardinals",
       "runners": {
         "first": false,
@@ -666,13 +676,13 @@
       "gamePk": 823580,
       "awayTeam": "Houston Astros",
       "homeTeam": "New York Mets",
-      "awayScore": 4,
+      "awayScore": 6,
       "homeScore": 3,
       "status": "In Progress",
       "gameDate": "2026-08-30T19:10:00Z",
-      "inning": 6,
-      "inningOrdinal": "6th",
-      "inningState": "End",
+      "inning": 7,
+      "inningOrdinal": "7th",
+      "inningState": "Middle",
       "outs": 3,
       "battingTeam": "Houston Astros",
       "runners": {
@@ -710,6 +720,11 @@
           "inning": 6,
           "awayRuns": 2,
           "homeRuns": 0
+        },
+        {
+          "inning": 7,
+          "awayRuns": 2,
+          "homeRuns": 0
         }
       ]
     },
@@ -717,18 +732,18 @@
       "gamePk": 824959,
       "awayTeam": "Baltimore Orioles",
       "homeTeam": "Athletics",
-      "awayScore": 1,
+      "awayScore": 4,
       "homeScore": 5,
       "status": "In Progress",
       "gameDate": "2026-08-30T20:05:00Z",
-      "inning": 4,
-      "inningOrdinal": "4th",
+      "inning": 5,
+      "inningOrdinal": "5th",
       "inningState": "Top",
       "outs": 0,
       "battingTeam": "Baltimore Orioles",
       "runners": {
-        "first": true,
-        "second": true,
+        "first": false,
+        "second": false,
         "third": false
       },
       "inningScores": [
@@ -749,6 +764,11 @@
         },
         {
           "inning": 4,
+          "awayRuns": 3,
+          "homeRuns": 0
+        },
+        {
+          "inning": 5,
           "awayRuns": 0,
           "homeRuns": 0
         }
@@ -762,11 +782,11 @@
       "homeScore": 1,
       "status": "In Progress",
       "gameDate": "2026-08-30T20:07:00Z",
-      "inning": 4,
-      "inningOrdinal": "4th",
-      "inningState": "Bottom",
-      "outs": 1,
-      "battingTeam": "Los Angeles Angels",
+      "inning": 5,
+      "inningOrdinal": "5th",
+      "inningState": "Middle",
+      "outs": 3,
+      "battingTeam": "Philadelphia Phillies",
       "runners": {
         "first": false,
         "second": false,
@@ -790,6 +810,11 @@
         },
         {
           "inning": 4,
+          "awayRuns": 0,
+          "homeRuns": 0
+        },
+        {
+          "inning": 5,
           "awayRuns": 0,
           "homeRuns": 0
         }
