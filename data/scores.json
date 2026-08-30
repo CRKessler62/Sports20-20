@@ -1,6 +1,6 @@
 {
   "league": "MLB",
-  "lastUpdated": "2026-08-30T22:36:04.977839+00:00",
+  "lastUpdated": "2026-08-30T22:48:46.325879+00:00",
   "games": [
     {
       "gamePk": 822688,
@@ -285,7 +285,7 @@
       "outs": 3,
       "battingTeam": "Kansas City Royals",
       "runners": {
-        "first": false,
+        "first": true,
         "second": false,
         "third": false
       },
@@ -494,8 +494,8 @@
       "battingTeam": "Chicago White Sox",
       "runners": {
         "first": false,
-        "second": false,
-        "third": false
+        "second": true,
+        "third": true
       },
       "inningScores": [
         {
@@ -751,8 +751,8 @@
       "homeScore": 5,
       "status": "In Progress",
       "gameDate": "2026-08-30T20:05:00Z",
-      "inning": 8,
-      "inningOrdinal": "8th",
+      "inning": 9,
+      "inningOrdinal": "9th",
       "inningState": "Bottom",
       "outs": 0,
       "battingTeam": "Athletics",
@@ -801,6 +801,11 @@
           "inning": 8,
           "awayRuns": 1,
           "homeRuns": 0
+        },
+        {
+          "inning": 9,
+          "awayRuns": 0,
+          "homeRuns": 0
         }
       ]
     },
@@ -812,11 +817,11 @@
       "homeScore": 1,
       "status": "In Progress",
       "gameDate": "2026-08-30T20:07:00Z",
-      "inning": 8,
-      "inningOrdinal": "8th",
-      "inningState": "Bottom",
-      "outs": 1,
-      "battingTeam": "Los Angeles Angels",
+      "inning": 9,
+      "inningOrdinal": "9th",
+      "inningState": "Top",
+      "outs": 2,
+      "battingTeam": "Philadelphia Phillies",
       "runners": {
         "first": true,
         "second": true,
@@ -862,6 +867,11 @@
           "inning": 8,
           "awayRuns": 2,
           "homeRuns": 0
+        },
+        {
+          "inning": 9,
+          "awayRuns": 0,
+          "homeRuns": 0
         }
       ]
     },
@@ -883,13 +893,7 @@
         "second": false,
         "third": false
       },
-      "inningScores": [
-        {
-          "inning": 1,
-          "awayRuns": 0,
-          "homeRuns": 0
-        }
-      ]
+      "inningScores": []
     }
   ]
 }
