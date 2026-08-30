@@ -1,6 +1,6 @@
 {
   "season": 2026,
-  "lastUpdated": "2026-08-30T15:18:41.450207+00:00",
+  "lastUpdated": "2026-08-30T17:17:56.129092+00:00",
   "leagues": {
     "AL": {
       "offense": {
@@ -848,7 +848,7 @@
             "player": "Otto Lopez",
             "team": "Miami Marlins",
             "position": "SS",
-            "value": ".306"
+            "value": ".305"
           },
           {
             "rank": 4,
@@ -1553,15 +1553,15 @@
           },
           {
             "rank": 3,
-            "player": "Ozzie Albies",
-            "team": "Atlanta Braves",
+            "player": "Xavier Edwards",
+            "team": "Miami Marlins",
             "position": "2B",
-            "value": "324"
+            "value": "326"
           },
           {
             "rank": 4,
-            "player": "Xavier Edwards",
-            "team": "Miami Marlins",
+            "player": "Ozzie Albies",
+            "team": "Atlanta Braves",
             "position": "2B",
             "value": "324"
           },
