@@ -1,7 +1,7 @@
 {
   "league": "MLB",
   "timezone": "America/New_York",
-  "lastUpdated": "2026-08-30T18:06:43.799347+00:00",
+  "lastUpdated": "2026-08-30T19:06:51.573245+00:00",
   "games": [
     {
       "gamePk": 824651,
@@ -9765,8 +9765,8 @@
         "name": "Washington Nationals",
         "abbreviation": "WSH"
       },
-      "awayScore": 0,
-      "homeScore": 1,
+      "awayScore": 6,
+      "homeScore": 2,
       "venue": "Nationals Park",
       "awayPitcher": "Janson Junk",
       "homePitcher": "Andrew Alvarez"
@@ -9789,8 +9789,8 @@
         "name": "Atlanta Braves",
         "abbreviation": "ATL"
       },
-      "awayScore": 0,
-      "homeScore": 0,
+      "awayScore": 1,
+      "homeScore": 2,
       "venue": "Truist Park",
       "awayPitcher": "Mason Adams",
       "homePitcher": "Tyler Mahle"
@@ -9814,7 +9814,7 @@
         "abbreviation": "NYY"
       },
       "awayScore": 0,
-      "homeScore": 0,
+      "homeScore": 5,
       "venue": "Yankee Stadium",
       "awayPitcher": "Ranger Suarez",
       "homePitcher": "Will Warren"
@@ -9838,7 +9838,7 @@
         "abbreviation": "TOR"
       },
       "awayScore": 0,
-      "homeScore": 2,
+      "homeScore": 3,
       "venue": "Rogers Centre",
       "awayPitcher": "Logan Gilbert",
       "homePitcher": "Max Scherzer"
@@ -9848,9 +9848,9 @@
       "date": "2026-08-30",
       "gameDate": "2026-08-30T17:40:00Z",
       "localGameTime": "2026-08-30T13:40:00-04:00",
-      "status": "Warmup",
+      "status": "In Progress",
       "abstractGameState": "Live",
-      "codedGameState": "P",
+      "codedGameState": "I",
       "awayTeam": {
         "id": 118,
         "name": "Kansas City Royals",
@@ -9861,8 +9861,8 @@
         "name": "Cleveland Guardians",
         "abbreviation": "CLE"
       },
-      "awayScore": 0,
-      "homeScore": 0,
+      "awayScore": 1,
+      "homeScore": 5,
       "venue": "Progressive Field",
       "awayPitcher": "Seth Lugo",
       "homePitcher": "Parker Messick"
@@ -9872,9 +9872,9 @@
       "date": "2026-08-30",
       "gameDate": "2026-08-30T17:40:00Z",
       "localGameTime": "2026-08-30T13:40:00-04:00",
-      "status": "Delayed Start",
-      "abstractGameState": "Preview",
-      "codedGameState": "P",
+      "status": "In Progress",
+      "abstractGameState": "Live",
+      "codedGameState": "I",
       "awayTeam": {
         "id": 119,
         "name": "Los Angeles Dodgers",
@@ -9909,8 +9909,8 @@
         "name": "Tampa Bay Rays",
         "abbreviation": "TB"
       },
-      "awayScore": 0,
-      "homeScore": 0,
+      "awayScore": 2,
+      "homeScore": 1,
       "venue": "Tropicana Field",
       "awayPitcher": "Robbie Ray",
       "homePitcher": "Drew Rasmussen"
@@ -9920,9 +9920,9 @@
       "date": "2026-08-30",
       "gameDate": "2026-08-30T18:10:00Z",
       "localGameTime": "2026-08-30T14:10:00-04:00",
-      "status": "Warmup",
+      "status": "In Progress",
       "abstractGameState": "Live",
-      "codedGameState": "P",
+      "codedGameState": "I",
       "awayTeam": {
         "id": 145,
         "name": "Chicago White Sox",
@@ -9934,7 +9934,7 @@
         "abbreviation": "MIN"
       },
       "awayScore": 0,
-      "homeScore": 0,
+      "homeScore": 4,
       "venue": "Target Field",
       "awayPitcher": "Jordan Hicks",
       "homePitcher": "Zebby Matthews"
@@ -9944,9 +9944,9 @@
       "date": "2026-08-30",
       "gameDate": "2026-08-30T18:10:00Z",
       "localGameTime": "2026-08-30T14:10:00-04:00",
-      "status": "Warmup",
+      "status": "In Progress",
       "abstractGameState": "Live",
-      "codedGameState": "P",
+      "codedGameState": "I",
       "awayTeam": {
         "id": 140,
         "name": "Texas Rangers",
@@ -9957,8 +9957,8 @@
         "name": "Milwaukee Brewers",
         "abbreviation": "MIL"
       },
-      "awayScore": 0,
-      "homeScore": 0,
+      "awayScore": 1,
+      "homeScore": 2,
       "venue": "American Family Field",
       "awayPitcher": "Kumar Rocker",
       "homePitcher": "Dustin May"
@@ -9968,9 +9968,9 @@
       "date": "2026-08-30",
       "gameDate": "2026-08-30T18:15:00Z",
       "localGameTime": "2026-08-30T14:15:00-04:00",
-      "status": "Warmup",
+      "status": "In Progress",
       "abstractGameState": "Live",
-      "codedGameState": "P",
+      "codedGameState": "I",
       "awayTeam": {
         "id": 134,
         "name": "Pittsburgh Pirates",
@@ -9981,7 +9981,7 @@
         "name": "St. Louis Cardinals",
         "abbreviation": "STL"
       },
-      "awayScore": 0,
+      "awayScore": 3,
       "homeScore": 0,
       "venue": "Busch Stadium",
       "awayPitcher": "Braxton Ashcraft",
@@ -9992,8 +9992,8 @@
       "date": "2026-08-30",
       "gameDate": "2026-08-30T19:10:00Z",
       "localGameTime": "2026-08-30T15:10:00-04:00",
-      "status": "Pre-Game",
-      "abstractGameState": "Preview",
+      "status": "Warmup",
+      "abstractGameState": "Live",
       "codedGameState": "P",
       "awayTeam": {
         "id": 117,
@@ -10368,7 +10368,7 @@
       "awayScore": null,
       "homeScore": null,
       "venue": "Chase Field",
-      "awayPitcher": null,
+      "awayPitcher": "Aaron Nola",
       "homePitcher": null
     },
     {
@@ -10704,7 +10704,7 @@
       "awayScore": null,
       "homeScore": null,
       "venue": "Chase Field",
-      "awayPitcher": null,
+      "awayPitcher": "Jes\u00fas Luzardo",
       "homePitcher": null
     },
     {
@@ -10848,7 +10848,7 @@
       "awayScore": null,
       "homeScore": null,
       "venue": "Chase Field",
-      "awayPitcher": null,
+      "awayPitcher": "Andrew Painter",
       "homePitcher": null
     },
     {
