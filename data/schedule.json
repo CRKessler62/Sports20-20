@@ -1,7 +1,7 @@
 {
   "league": "MLB",
   "timezone": "America/New_York",
-  "lastUpdated": "2026-08-30T00:08:23.269123+00:00",
+  "lastUpdated": "2026-08-30T01:06:41.424575+00:00",
   "games": [
     {
       "gamePk": 824651,
@@ -9382,7 +9382,7 @@
         "abbreviation": "NYY"
       },
       "awayScore": 1,
-      "homeScore": 0,
+      "homeScore": 3,
       "venue": "Yankee Stadium",
       "awayPitcher": "Alec Gamboa",
       "homePitcher": "Max Fried"
@@ -9693,7 +9693,7 @@
         "name": "Milwaukee Brewers",
         "abbreviation": "MIL"
       },
-      "awayScore": 0,
+      "awayScore": 1,
       "homeScore": 3,
       "venue": "American Family Field",
       "awayPitcher": "Cal Quantrill",
@@ -9768,7 +9768,7 @@
       "awayScore": null,
       "homeScore": null,
       "venue": "Nationals Park",
-      "awayPitcher": "Tyler Phillips",
+      "awayPitcher": "Janson Junk",
       "homePitcher": "Andrew Alvarez"
     },
     {
@@ -10200,7 +10200,7 @@
       "awayScore": null,
       "homeScore": null,
       "venue": "Nationals Park",
-      "awayPitcher": "Janson Junk",
+      "awayPitcher": "Ryan Gusto",
       "homePitcher": null
     },
     {
