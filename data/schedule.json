@@ -1,7 +1,7 @@
 {
   "league": "MLB",
   "timezone": "America/New_York",
-  "lastUpdated": "2026-08-30T12:07:04.458558+00:00",
+  "lastUpdated": "2026-08-30T14:06:36.212894+00:00",
   "games": [
     {
       "gamePk": 824651,
@@ -9752,9 +9752,9 @@
       "date": "2026-08-30",
       "gameDate": "2026-08-30T16:15:00Z",
       "localGameTime": "2026-08-30T12:15:00-04:00",
-      "status": "Scheduled",
+      "status": "Pre-Game",
       "abstractGameState": "Preview",
-      "codedGameState": "S",
+      "codedGameState": "P",
       "awayTeam": {
         "id": 146,
         "name": "Miami Marlins",
@@ -9848,9 +9848,9 @@
       "date": "2026-08-30",
       "gameDate": "2026-08-30T17:40:00Z",
       "localGameTime": "2026-08-30T13:40:00-04:00",
-      "status": "Scheduled",
+      "status": "Pre-Game",
       "abstractGameState": "Preview",
-      "codedGameState": "S",
+      "codedGameState": "P",
       "awayTeam": {
         "id": 118,
         "name": "Kansas City Royals",
