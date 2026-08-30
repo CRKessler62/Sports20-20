@@ -1,6 +1,6 @@
 {
   "league": "MLB",
-  "lastUpdated": "2026-08-30T22:10:52.039807+00:00",
+  "lastUpdated": "2026-08-30T22:23:28.838515+00:00",
   "games": [
     {
       "gamePk": 822688,
@@ -683,16 +683,16 @@
       "homeTeam": "New York Mets",
       "awayScore": 6,
       "homeScore": 3,
-      "status": "In Progress",
+      "status": "Final",
       "gameDate": "2026-08-30T19:10:00Z",
       "inning": 9,
       "inningOrdinal": "9th",
       "inningState": "Bottom",
-      "outs": 2,
+      "outs": 3,
       "battingTeam": "New York Mets",
       "runners": {
         "first": false,
-        "second": true,
+        "second": false,
         "third": false
       },
       "inningScores": [
@@ -751,13 +751,13 @@
       "homeScore": 5,
       "status": "In Progress",
       "gameDate": "2026-08-30T20:05:00Z",
-      "inning": 7,
-      "inningOrdinal": "7th",
-      "inningState": "Middle",
-      "outs": 3,
+      "inning": 8,
+      "inningOrdinal": "8th",
+      "inningState": "Top",
+      "outs": 0,
       "battingTeam": "Baltimore Orioles",
       "runners": {
-        "first": false,
+        "first": true,
         "second": false,
         "third": false
       },
@@ -796,6 +796,11 @@
           "inning": 7,
           "awayRuns": 0,
           "homeRuns": 0
+        },
+        {
+          "inning": 8,
+          "awayRuns": 0,
+          "homeRuns": 0
         }
       ]
     },
@@ -803,18 +808,18 @@
       "gamePk": 823987,
       "awayTeam": "Philadelphia Phillies",
       "homeTeam": "Los Angeles Angels",
-      "awayScore": 2,
+      "awayScore": 3,
       "homeScore": 1,
       "status": "In Progress",
       "gameDate": "2026-08-30T20:07:00Z",
       "inning": 8,
       "inningOrdinal": "8th",
       "inningState": "Top",
-      "outs": 0,
+      "outs": 2,
       "battingTeam": "Philadelphia Phillies",
       "runners": {
         "first": true,
-        "second": false,
+        "second": true,
         "third": false
       },
       "inningScores": [
@@ -855,7 +860,7 @@
         },
         {
           "inning": 8,
-          "awayRuns": 0,
+          "awayRuns": 1,
           "homeRuns": 0
         }
       ]
