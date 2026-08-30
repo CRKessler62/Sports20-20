@@ -1,6 +1,6 @@
 {
   "season": 2026,
-  "lastUpdated": "2026-08-30T21:17:56.145472+00:00",
+  "lastUpdated": "2026-08-30T23:17:53.962889+00:00",
   "leagues": {
     "AL": {
       "offense": {
@@ -10,7 +10,7 @@
             "player": "Yordan Alvarez",
             "team": "Houston Astros",
             "position": "DH",
-            "value": ".318"
+            "value": ".317"
           },
           {
             "rank": 2,
@@ -216,14 +216,14 @@
             "player": "Mike Trout",
             "team": "Los Angeles Angels",
             "position": "CF",
-            "value": ".379"
+            "value": ".378"
           },
           {
             "rank": 5,
-            "player": "Kevin McGonigle",
-            "team": "Detroit Tigers",
-            "position": "SS",
-            "value": ".378"
+            "player": "Steven Kwan",
+            "team": "Cleveland Guardians",
+            "position": "LF",
+            "value": ".377"
           }
         ],
         "slg": [
@@ -232,7 +232,7 @@
             "player": "Yordan Alvarez",
             "team": "Houston Astros",
             "position": "DH",
-            "value": ".608"
+            "value": ".607"
           },
           {
             "rank": 2,
@@ -269,7 +269,7 @@
             "player": "Yordan Alvarez",
             "team": "Houston Astros",
             "position": "DH",
-            "value": "1.040"
+            "value": "1.039"
           },
           {
             "rank": 2,
@@ -398,16 +398,16 @@
           },
           {
             "rank": 4,
-            "player": "Wilyer Abreu",
-            "team": "Boston Red Sox",
-            "position": "RF",
-            "value": "4"
+            "player": "Gunnar Henderson",
+            "team": "Baltimore Orioles",
+            "position": "SS",
+            "value": "5"
           },
           {
             "rank": 5,
-            "player": "Ezequiel Duran",
-            "team": "Texas Rangers",
-            "position": "SS",
+            "player": "Wilyer Abreu",
+            "team": "Boston Red Sox",
+            "position": "RF",
             "value": "4"
           }
         ]
@@ -725,7 +725,7 @@
             "player": "Gunnar Henderson",
             "team": "Baltimore Orioles",
             "position": "SS",
-            "value": "310"
+            "value": "314"
           },
           {
             "rank": 3,
@@ -1026,14 +1026,14 @@
             "player": "Jake Bauers",
             "team": "Milwaukee Brewers",
             "position": "1B",
-            "value": ".389"
+            "value": ".388"
           },
           {
             "rank": 3,
             "player": "Bryce Harper",
             "team": "Philadelphia Phillies",
             "position": "1B",
-            "value": ".384"
+            "value": ".386"
           },
           {
             "rank": 4,
@@ -1074,17 +1074,17 @@
           },
           {
             "rank": 4,
-            "player": "Kyle Schwarber",
-            "team": "Philadelphia Phillies",
-            "position": "DH",
-            "value": ".530"
-          },
-          {
-            "rank": 5,
             "player": "Shohei Ohtani",
             "team": "Los Angeles Dodgers",
             "position": "TWP",
             "value": ".529"
+          },
+          {
+            "rank": 5,
+            "player": "Kyle Schwarber",
+            "team": "Philadelphia Phillies",
+            "position": "DH",
+            "value": ".527"
           }
         ],
         "ops": [
@@ -1111,17 +1111,17 @@
           },
           {
             "rank": 4,
-            "player": "Kyle Schwarber",
+            "player": "Bryce Harper",
             "team": "Philadelphia Phillies",
-            "position": "DH",
-            "value": ".890"
+            "position": "1B",
+            "value": ".889"
           },
           {
             "rank": 5,
             "player": "Jake Bauers",
             "team": "Milwaukee Brewers",
             "position": "1B",
-            "value": ".888"
+            "value": ".886"
           }
         ],
         "stolenBases": [
@@ -1516,17 +1516,17 @@
           },
           {
             "rank": 3,
+            "player": "J.T. Realmuto",
+            "team": "Philadelphia Phillies",
+            "position": "C",
+            "value": "1023"
+          },
+          {
+            "rank": 4,
             "player": "Michael Busch",
             "team": "Chicago Cubs",
             "position": "1B",
             "value": "1018"
-          },
-          {
-            "rank": 4,
-            "player": "J.T. Realmuto",
-            "team": "Philadelphia Phillies",
-            "position": "C",
-            "value": "1016"
           },
           {
             "rank": 5,
@@ -1549,7 +1549,7 @@
             "player": "Luis Arraez",
             "team": "Philadelphia Phillies",
             "position": "2B",
-            "value": "330"
+            "value": "331"
           },
           {
             "rank": 3,
