@@ -1,6 +1,6 @@
 {
   "league": "MLB",
-  "lastUpdated": "2026-08-30T21:33:04.055895+00:00",
+  "lastUpdated": "2026-08-30T21:45:40.876989+00:00",
   "games": [
     {
       "gamePk": 822688,
@@ -551,13 +551,13 @@
       "homeTeam": "Milwaukee Brewers",
       "awayScore": 7,
       "homeScore": 4,
-      "status": "In Progress",
+      "status": "Game Over",
       "gameDate": "2026-08-30T18:10:00Z",
       "inning": 9,
       "inningOrdinal": "9th",
-      "inningState": "Middle",
+      "inningState": "Bottom",
       "outs": 3,
-      "battingTeam": "Texas Rangers",
+      "battingTeam": "Milwaukee Brewers",
       "runners": {
         "first": false,
         "second": false,
@@ -687,11 +687,11 @@
       "gameDate": "2026-08-30T19:10:00Z",
       "inning": 8,
       "inningOrdinal": "8th",
-      "inningState": "Top",
-      "outs": 0,
-      "battingTeam": "Houston Astros",
+      "inningState": "Bottom",
+      "outs": 2,
+      "battingTeam": "New York Mets",
       "runners": {
-        "first": false,
+        "first": true,
         "second": false,
         "third": false
       },
@@ -748,9 +748,9 @@
       "gameDate": "2026-08-30T20:05:00Z",
       "inning": 5,
       "inningOrdinal": "5th",
-      "inningState": "Top",
+      "inningState": "Bottom",
       "outs": 2,
-      "battingTeam": "Baltimore Orioles",
+      "battingTeam": "Athletics",
       "runners": {
         "first": false,
         "second": false,
@@ -794,7 +794,7 @@
       "gameDate": "2026-08-30T20:07:00Z",
       "inning": 6,
       "inningOrdinal": "6th",
-      "inningState": "Middle",
+      "inningState": "End",
       "outs": 3,
       "battingTeam": "Philadelphia Phillies",
       "runners": {
