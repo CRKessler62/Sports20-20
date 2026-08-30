@@ -1,6 +1,6 @@
 {
   "season": 2026,
-  "lastUpdated": "2026-08-29T23:17:54.769604+00:00",
+  "lastUpdated": "2026-08-30T00:17:55.916588+00:00",
   "leagues": {
     "AL": {
       "offense": {
@@ -35,9 +35,9 @@
           },
           {
             "rank": 5,
-            "player": "Ceddanne Rafaela",
-            "team": "Boston Red Sox",
-            "position": "CF",
+            "player": "Chase DeLauter",
+            "team": "Cleveland Guardians",
+            "position": "RF",
             "value": ".286"
           }
         ],
@@ -209,7 +209,7 @@
             "player": "Willson Contreras",
             "team": "Boston Red Sox",
             "position": "1B",
-            "value": ".383"
+            "value": ".382"
           },
           {
             "rank": 4,
@@ -253,7 +253,7 @@
             "player": "Willson Contreras",
             "team": "Boston Red Sox",
             "position": "1B",
-            "value": ".515"
+            "value": ".514"
           },
           {
             "rank": 5,
@@ -283,7 +283,7 @@
             "player": "Willson Contreras",
             "team": "Boston Red Sox",
             "position": "1B",
-            "value": ".898"
+            "value": ".896"
           },
           {
             "rank": 4,
@@ -297,7 +297,7 @@
             "player": "Ben Rice",
             "team": "New York Yankees",
             "position": "DH",
-            "value": ".877"
+            "value": ".876"
           }
         ],
         "stolenBases": [
@@ -1026,7 +1026,7 @@
             "player": "Jake Bauers",
             "team": "Milwaukee Brewers",
             "position": "1B",
-            "value": ".389"
+            "value": ".387"
           },
           {
             "rank": 3,
@@ -1111,17 +1111,17 @@
           },
           {
             "rank": 4,
-            "player": "Jake Bauers",
-            "team": "Milwaukee Brewers",
-            "position": "1B",
-            "value": ".893"
-          },
-          {
-            "rank": 5,
             "player": "Kyle Schwarber",
             "team": "Philadelphia Phillies",
             "position": "DH",
             "value": ".891"
+          },
+          {
+            "rank": 5,
+            "player": "Jake Bauers",
+            "team": "Milwaukee Brewers",
+            "position": "1B",
+            "value": ".890"
           }
         ],
         "stolenBases": [
@@ -1509,16 +1509,16 @@
           },
           {
             "rank": 2,
-            "player": "Michael Busch",
-            "team": "Chicago Cubs",
-            "position": "1B",
-            "value": "1018"
-          },
-          {
-            "rank": 3,
             "player": "William Contreras",
             "team": "Milwaukee Brewers",
             "position": "C",
+            "value": "1025"
+          },
+          {
+            "rank": 3,
+            "player": "Michael Busch",
+            "team": "Chicago Cubs",
+            "position": "1B",
             "value": "1018"
           },
           {
