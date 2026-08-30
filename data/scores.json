@@ -1,6 +1,6 @@
 {
   "league": "MLB",
-  "lastUpdated": "2026-08-30T23:26:50.185288+00:00",
+  "lastUpdated": "2026-08-30T23:39:27.564026+00:00",
   "games": [
     {
       "gamePk": 822688,
@@ -285,7 +285,7 @@
       "outs": 3,
       "battingTeam": "Kansas City Royals",
       "runners": {
-        "first": false,
+        "first": true,
         "second": false,
         "third": false
       },
@@ -494,8 +494,8 @@
       "battingTeam": "Chicago White Sox",
       "runners": {
         "first": false,
-        "second": false,
-        "third": false
+        "second": true,
+        "third": true
       },
       "inningScores": [
         {
