@@ -1,6 +1,6 @@
 {
   "league": "MLB",
-  "lastUpdated": "2026-08-30T22:48:46.325879+00:00",
+  "lastUpdated": "2026-08-30T23:01:33.255278+00:00",
   "games": [
     {
       "gamePk": 822688,
@@ -749,12 +749,12 @@
       "homeTeam": "Athletics",
       "awayScore": 8,
       "homeScore": 5,
-      "status": "In Progress",
+      "status": "Game Over",
       "gameDate": "2026-08-30T20:05:00Z",
       "inning": 9,
       "inningOrdinal": "9th",
       "inningState": "Bottom",
-      "outs": 0,
+      "outs": 3,
       "battingTeam": "Athletics",
       "runners": {
         "first": false,
@@ -813,17 +813,17 @@
       "gamePk": 823987,
       "awayTeam": "Philadelphia Phillies",
       "homeTeam": "Los Angeles Angels",
-      "awayScore": 4,
-      "homeScore": 1,
+      "awayScore": 5,
+      "homeScore": 2,
       "status": "In Progress",
       "gameDate": "2026-08-30T20:07:00Z",
       "inning": 9,
       "inningOrdinal": "9th",
-      "inningState": "Top",
+      "inningState": "Bottom",
       "outs": 2,
-      "battingTeam": "Philadelphia Phillies",
+      "battingTeam": "Los Angeles Angels",
       "runners": {
-        "first": true,
+        "first": false,
         "second": true,
         "third": false
       },
@@ -870,8 +870,8 @@
         },
         {
           "inning": 9,
-          "awayRuns": 0,
-          "homeRuns": 0
+          "awayRuns": 1,
+          "homeRuns": 1
         }
       ]
     },
@@ -881,7 +881,7 @@
       "homeTeam": "Chicago Cubs",
       "awayScore": 0,
       "homeScore": 0,
-      "status": "Pre-Game",
+      "status": "Delayed Start",
       "gameDate": "2026-08-30T23:20:00Z",
       "inning": 1,
       "inningOrdinal": "1st",
@@ -893,7 +893,13 @@
         "second": false,
         "third": false
       },
-      "inningScores": []
+      "inningScores": [
+        {
+          "inning": 1,
+          "awayRuns": 0,
+          "homeRuns": 0
+        }
+      ]
     }
   ]
 }
