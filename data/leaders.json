@@ -1,6 +1,6 @@
 {
   "season": 2026,
-  "lastUpdated": "2026-08-30T23:17:53.962889+00:00",
+  "lastUpdated": "2026-08-31T00:17:55.486639+00:00",
   "leagues": {
     "AL": {
       "offense": {
@@ -912,17 +912,17 @@
           },
           {
             "rank": 2,
-            "player": "Matt Olson",
-            "team": "Atlanta Braves",
-            "position": "1B",
+            "player": "Pete Crow-Armstrong",
+            "team": "Chicago Cubs",
+            "position": "CF",
             "value": "37"
           },
           {
             "rank": 3,
-            "player": "Pete Crow-Armstrong",
-            "team": "Chicago Cubs",
-            "position": "CF",
-            "value": "36"
+            "player": "Matt Olson",
+            "team": "Atlanta Braves",
+            "position": "1B",
+            "value": "37"
           },
           {
             "rank": 4,
@@ -973,7 +973,7 @@
             "player": "Pete Crow-Armstrong",
             "team": "Chicago Cubs",
             "position": "CF",
-            "value": "89"
+            "value": "90"
           }
         ],
         "runs": [
@@ -989,7 +989,7 @@
             "player": "Pete Crow-Armstrong",
             "team": "Chicago Cubs",
             "position": "CF",
-            "value": "97"
+            "value": "98"
           },
           {
             "rank": 3,
@@ -1056,7 +1056,7 @@
             "player": "Pete Crow-Armstrong",
             "team": "Chicago Cubs",
             "position": "CF",
-            "value": ".567"
+            "value": ".574"
           },
           {
             "rank": 2,
@@ -1093,7 +1093,7 @@
             "player": "Pete Crow-Armstrong",
             "team": "Chicago Cubs",
             "position": "CF",
-            "value": ".944"
+            "value": ".952"
           },
           {
             "rank": 2,
@@ -1526,7 +1526,7 @@
             "player": "Michael Busch",
             "team": "Chicago Cubs",
             "position": "1B",
-            "value": "1018"
+            "value": "1021"
           },
           {
             "rank": 5,
