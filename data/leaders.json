@@ -1,6 +1,6 @@
 {
   "season": 2026,
-  "lastUpdated": "2026-08-31T02:18:01.590134+00:00",
+  "lastUpdated": "2026-08-31T04:17:54.297733+00:00",
   "leagues": {
     "AL": {
       "offense": {
@@ -896,9 +896,9 @@
           },
           {
             "rank": 5,
-            "player": "Fernando Tatis Jr.",
-            "team": "San Diego Padres",
-            "position": "RF",
+            "player": "Pete Crow-Armstrong",
+            "team": "Chicago Cubs",
+            "position": "CF",
             "value": "149"
           }
         ],
@@ -915,7 +915,7 @@
             "player": "Pete Crow-Armstrong",
             "team": "Chicago Cubs",
             "position": "CF",
-            "value": "37"
+            "value": "38"
           },
           {
             "rank": 3,
@@ -973,7 +973,7 @@
             "player": "Pete Crow-Armstrong",
             "team": "Chicago Cubs",
             "position": "CF",
-            "value": "90"
+            "value": "91"
           }
         ],
         "runs": [
@@ -989,7 +989,7 @@
             "player": "Pete Crow-Armstrong",
             "team": "Chicago Cubs",
             "position": "CF",
-            "value": "98"
+            "value": "99"
           },
           {
             "rank": 3,
@@ -1056,7 +1056,7 @@
             "player": "Pete Crow-Armstrong",
             "team": "Chicago Cubs",
             "position": "CF",
-            "value": ".570"
+            "value": ".577"
           },
           {
             "rank": 2,
@@ -1093,7 +1093,7 @@
             "player": "Pete Crow-Armstrong",
             "team": "Chicago Cubs",
             "position": "CF",
-            "value": ".946"
+            "value": ".954"
           },
           {
             "rank": 2,
@@ -1284,15 +1284,15 @@
           },
           {
             "rank": 2,
-            "player": "Braxton Ashcraft",
-            "team": "Pittsburgh Pirates",
+            "player": "Chase Burns",
+            "team": "Cincinnati Reds",
             "position": "P",
-            "value": "14"
+            "value": "15"
           },
           {
             "rank": 3,
-            "player": "Chase Burns",
-            "team": "Cincinnati Reds",
+            "player": "Braxton Ashcraft",
+            "team": "Pittsburgh Pirates",
             "position": "P",
             "value": "14"
           },
@@ -1519,7 +1519,7 @@
             "player": "Michael Busch",
             "team": "Chicago Cubs",
             "position": "1B",
-            "value": "1023"
+            "value": "1024"
           },
           {
             "rank": 4,
