@@ -1,24 +1,24 @@
 {
   "league": "MLB",
-  "lastUpdated": "2026-08-31T23:05:21.643146+00:00",
+  "lastUpdated": "2026-08-31T23:18:15.055023+00:00",
   "games": [
     {
       "gamePk": 824911,
       "awayTeam": "San Francisco Giants",
       "homeTeam": "Atlanta Braves",
-      "awayScore": 1,
-      "homeScore": 2,
+      "awayScore": 2,
+      "homeScore": 3,
       "status": "In Progress",
       "gameDate": "2026-08-31T22:05:00Z",
       "inning": 5,
       "inningOrdinal": "5th",
-      "inningState": "Top",
+      "inningState": "Bottom",
       "outs": 2,
-      "battingTeam": "San Francisco Giants",
+      "battingTeam": "Atlanta Braves",
       "runners": {
         "first": true,
-        "second": false,
-        "third": true
+        "second": true,
+        "third": false
       },
       "inningScores": [
         {
@@ -43,8 +43,8 @@
         },
         {
           "inning": 5,
-          "awayRuns": 0,
-          "homeRuns": 0
+          "awayRuns": 1,
+          "homeRuns": 1
         }
       ]
     },
@@ -56,13 +56,13 @@
       "homeScore": 0,
       "status": "In Progress",
       "gameDate": "2026-08-31T22:40:00Z",
-      "inning": 2,
-      "inningOrdinal": "2nd",
+      "inning": 3,
+      "inningOrdinal": "3rd",
       "inningState": "Top",
-      "outs": 2,
+      "outs": 1,
       "battingTeam": "San Diego Padres",
       "runners": {
-        "first": true,
+        "first": false,
         "second": false,
         "third": false
       },
@@ -76,6 +76,11 @@
           "inning": 2,
           "awayRuns": 0,
           "homeRuns": 0
+        },
+        {
+          "inning": 3,
+          "awayRuns": 0,
+          "homeRuns": 0
         }
       ]
     },
@@ -87,10 +92,10 @@
       "homeScore": 0,
       "status": "In Progress",
       "gameDate": "2026-08-31T22:40:00Z",
-      "inning": 2,
-      "inningOrdinal": "2nd",
+      "inning": 3,
+      "inningOrdinal": "3rd",
       "inningState": "Bottom",
-      "outs": 1,
+      "outs": 0,
       "battingTeam": "Tampa Bay Rays",
       "runners": {
         "first": false,
@@ -107,6 +112,11 @@
           "inning": 2,
           "awayRuns": 0,
           "homeRuns": 0
+        },
+        {
+          "inning": 3,
+          "awayRuns": 0,
+          "homeRuns": 0
         }
       ]
     },
@@ -115,14 +125,14 @@
       "awayTeam": "Seattle Mariners",
       "homeTeam": "Boston Red Sox",
       "awayScore": 1,
-      "homeScore": 1,
+      "homeScore": 3,
       "status": "In Progress",
       "gameDate": "2026-08-31T22:45:00Z",
-      "inning": 1,
-      "inningOrdinal": "1st",
-      "inningState": "End",
-      "outs": 3,
-      "battingTeam": "Seattle Mariners",
+      "inning": 2,
+      "inningOrdinal": "2nd",
+      "inningState": "Bottom",
+      "outs": 2,
+      "battingTeam": "Boston Red Sox",
       "runners": {
         "first": false,
         "second": false,
@@ -133,6 +143,11 @@
           "inning": 1,
           "awayRuns": 1,
           "homeRuns": 1
+        },
+        {
+          "inning": 2,
+          "awayRuns": 0,
+          "homeRuns": 2
         }
       ]
     },
@@ -146,8 +161,8 @@
       "gameDate": "2026-08-31T22:45:00Z",
       "inning": 2,
       "inningOrdinal": "2nd",
-      "inningState": "Top",
-      "outs": 2,
+      "inningState": "End",
+      "outs": 3,
       "battingTeam": "Miami Marlins",
       "runners": {
         "first": false,
@@ -173,7 +188,7 @@
       "homeTeam": "Minnesota Twins",
       "awayScore": 0,
       "homeScore": 0,
-      "status": "Pre-Game",
+      "status": "Warmup",
       "gameDate": "2026-08-31T23:40:00Z",
       "inning": 1,
       "inningOrdinal": "1st",
@@ -199,7 +214,7 @@
       "homeTeam": "Chicago Cubs",
       "awayScore": 0,
       "homeScore": 0,
-      "status": "Pre-Game",
+      "status": "Warmup",
       "gameDate": "2026-08-31T23:40:00Z",
       "inning": 1,
       "inningOrdinal": "1st",
