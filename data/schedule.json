@@ -1,7 +1,7 @@
 {
   "league": "MLB",
   "timezone": "America/New_York",
-  "lastUpdated": "2026-08-31T01:06:36.145384+00:00",
+  "lastUpdated": "2026-08-31T02:06:41.106692+00:00",
   "games": [
     {
       "gamePk": 822781,
@@ -9717,7 +9717,7 @@
         "name": "Chicago Cubs",
         "abbreviation": "CHC"
       },
-      "awayScore": 4,
+      "awayScore": 7,
       "homeScore": 3,
       "venue": "Wrigley Field",
       "awayPitcher": "Chase Burns",
