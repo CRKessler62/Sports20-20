@@ -1,7 +1,7 @@
 {
   "league": "MLB",
   "timezone": "America/New_York",
-  "lastUpdated": "2026-08-31T20:06:34.315416+00:00",
+  "lastUpdated": "2026-08-31T21:06:49.867455+00:00",
   "games": [
     {
       "gamePk": 822781,
@@ -9861,8 +9861,8 @@
         "name": "Minnesota Twins",
         "abbreviation": "MIN"
       },
-      "awayScore": null,
-      "homeScore": null,
+      "awayScore": 0,
+      "homeScore": 0,
       "venue": "Target Field",
       "awayPitcher": "Jackson Jobe",
       "homePitcher": "Taj Bradley"
@@ -9872,9 +9872,9 @@
       "date": "2026-08-31",
       "gameDate": "2026-08-31T23:40:00Z",
       "localGameTime": "2026-08-31T19:40:00-04:00",
-      "status": "Scheduled",
+      "status": "Pre-Game",
       "abstractGameState": "Preview",
-      "codedGameState": "S",
+      "codedGameState": "P",
       "awayTeam": {
         "id": 158,
         "name": "Milwaukee Brewers",
@@ -9909,8 +9909,8 @@
         "name": "Texas Rangers",
         "abbreviation": "TEX"
       },
-      "awayScore": null,
-      "homeScore": null,
+      "awayScore": 0,
+      "homeScore": 0,
       "venue": "Globe Life Field",
       "awayPitcher": "Gage Jump",
       "homePitcher": "Jacob deGrom"
@@ -9920,9 +9920,9 @@
       "date": "2026-08-31",
       "gameDate": "2026-09-01T00:10:00Z",
       "localGameTime": "2026-08-31T20:10:00-04:00",
-      "status": "Scheduled",
+      "status": "Pre-Game",
       "abstractGameState": "Preview",
-      "codedGameState": "S",
+      "codedGameState": "P",
       "awayTeam": {
         "id": 145,
         "name": "Chicago White Sox",
@@ -9933,8 +9933,8 @@
         "name": "Houston Astros",
         "abbreviation": "HOU"
       },
-      "awayScore": null,
-      "homeScore": null,
+      "awayScore": 0,
+      "homeScore": 0,
       "venue": "Daikin Park",
       "awayPitcher": "Anthony Kay",
       "homePitcher": "Peter Lambert"
@@ -10296,7 +10296,7 @@
       "awayScore": null,
       "homeScore": null,
       "venue": "Coors Field",
-      "awayPitcher": null,
+      "awayPitcher": "Kyle Bradish",
       "homePitcher": "Gabriel Hughes"
     },
     {
@@ -10464,7 +10464,7 @@
       "awayScore": null,
       "homeScore": null,
       "venue": "Coors Field",
-      "awayPitcher": null,
+      "awayPitcher": "Trevor Rogers",
       "homePitcher": "Tomoyuki Sugano"
     },
     {
