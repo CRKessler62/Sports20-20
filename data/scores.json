@@ -1,29 +1,29 @@
 {
   "league": "MLB",
-  "lastUpdated": "2026-08-31T22:01:43.016180+00:00",
+  "lastUpdated": "2026-08-31T22:14:30.526793+00:00",
   "games": [
     {
       "gamePk": 824911,
       "awayTeam": "San Francisco Giants",
       "homeTeam": "Atlanta Braves",
-      "awayScore": 0,
+      "awayScore": 1,
       "homeScore": 0,
-      "status": "Warmup",
+      "status": "In Progress",
       "gameDate": "2026-08-31T22:05:00Z",
       "inning": 1,
       "inningOrdinal": "1st",
-      "inningState": "Top",
+      "inningState": "Bottom",
       "outs": 0,
-      "battingTeam": "San Francisco Giants",
+      "battingTeam": "Atlanta Braves",
       "runners": {
         "first": false,
-        "second": false,
+        "second": true,
         "third": false
       },
       "inningScores": [
         {
           "inning": 1,
-          "awayRuns": 0,
+          "awayRuns": 1,
           "homeRuns": 0
         }
       ]
