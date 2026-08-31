@@ -1,6 +1,6 @@
 {
   "season": 2026,
-  "lastUpdated": "2026-08-31T22:17:53.307580+00:00",
+  "lastUpdated": "2026-08-31T23:17:36.533523+00:00",
   "leagues": {
     "AL": {
       "offense": {
@@ -17,7 +17,7 @@
             "player": "Chandler Simpson",
             "team": "Tampa Bay Rays",
             "position": "LF",
-            "value": ".309"
+            "value": ".308"
           },
           {
             "rank": 3,
@@ -61,7 +61,7 @@
             "player": "Ceddanne Rafaela",
             "team": "Boston Red Sox",
             "position": "CF",
-            "value": "148"
+            "value": "149"
           },
           {
             "rank": 4,
@@ -75,7 +75,7 @@
             "player": "Junior Caminero",
             "team": "Tampa Bay Rays",
             "position": "3B",
-            "value": "146"
+            "value": "147"
           }
         ],
         "homeRuns": [
@@ -172,7 +172,7 @@
             "player": "Randy Arozarena",
             "team": "Seattle Mariners",
             "position": "LF",
-            "value": "85"
+            "value": "86"
           },
           {
             "rank": 4,
@@ -276,7 +276,7 @@
             "player": "Junior Caminero",
             "team": "Tampa Bay Rays",
             "position": "3B",
-            "value": ".908"
+            "value": ".909"
           },
           {
             "rank": 3,
@@ -688,7 +688,7 @@
             "player": "Jonathan Aranda",
             "team": "Tampa Bay Rays",
             "position": "1B",
-            "value": "919"
+            "value": "920"
           },
           {
             "rank": 3,
@@ -702,7 +702,7 @@
             "player": "Josh Naylor",
             "team": "Seattle Mariners",
             "position": "1B",
-            "value": "876"
+            "value": "877"
           },
           {
             "rank": 5,
@@ -718,7 +718,7 @@
             "player": "Cole Young",
             "team": "Seattle Mariners",
             "position": "2B",
-            "value": "347"
+            "value": "348"
           },
           {
             "rank": 2,
@@ -1533,7 +1533,7 @@
             "player": "Matt Olson",
             "team": "Atlanta Braves",
             "position": "1B",
-            "value": "985"
+            "value": "989"
           }
         ],
         "assists": [
@@ -1553,17 +1553,17 @@
           },
           {
             "rank": 3,
+            "player": "Ozzie Albies",
+            "team": "Atlanta Braves",
+            "position": "2B",
+            "value": "327"
+          },
+          {
+            "rank": 4,
             "player": "Xavier Edwards",
             "team": "Miami Marlins",
             "position": "2B",
             "value": "326"
-          },
-          {
-            "rank": 4,
-            "player": "Ozzie Albies",
-            "team": "Atlanta Braves",
-            "position": "2B",
-            "value": "325"
           },
           {
             "rank": 5,
