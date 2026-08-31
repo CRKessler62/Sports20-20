@@ -1,6 +1,6 @@
 {
   "season": 2026,
-  "lastUpdated": "2026-08-31T00:17:55.486639+00:00",
+  "lastUpdated": "2026-08-31T01:18:09.643608+00:00",
   "leagues": {
     "AL": {
       "offense": {
@@ -1056,7 +1056,7 @@
             "player": "Pete Crow-Armstrong",
             "team": "Chicago Cubs",
             "position": "CF",
-            "value": ".574"
+            "value": ".571"
           },
           {
             "rank": 2,
@@ -1093,7 +1093,7 @@
             "player": "Pete Crow-Armstrong",
             "team": "Chicago Cubs",
             "position": "CF",
-            "value": ".952"
+            "value": ".951"
           },
           {
             "rank": 2,
