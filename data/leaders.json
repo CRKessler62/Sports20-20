@@ -1,6 +1,6 @@
 {
   "season": 2026,
-  "lastUpdated": "2026-08-31T01:18:09.643608+00:00",
+  "lastUpdated": "2026-08-31T02:18:01.590134+00:00",
   "leagues": {
     "AL": {
       "offense": {
@@ -933,10 +933,10 @@
           },
           {
             "rank": 5,
-            "player": "Shohei Ohtani",
-            "team": "Los Angeles Dodgers",
-            "position": "TWP",
-            "value": "30"
+            "player": "Sal Stewart",
+            "team": "Cincinnati Reds",
+            "position": "1B",
+            "value": "31"
           }
         ],
         "rbi": [
@@ -945,7 +945,7 @@
             "player": "Sal Stewart",
             "team": "Cincinnati Reds",
             "position": "1B",
-            "value": "104"
+            "value": "105"
           },
           {
             "rank": 2,
@@ -1056,7 +1056,7 @@
             "player": "Pete Crow-Armstrong",
             "team": "Chicago Cubs",
             "position": "CF",
-            "value": ".571"
+            "value": ".570"
           },
           {
             "rank": 2,
@@ -1093,7 +1093,7 @@
             "player": "Pete Crow-Armstrong",
             "team": "Chicago Cubs",
             "position": "CF",
-            "value": ".951"
+            "value": ".946"
           },
           {
             "rank": 2,
@@ -1516,17 +1516,17 @@
           },
           {
             "rank": 3,
-            "player": "J.T. Realmuto",
-            "team": "Philadelphia Phillies",
-            "position": "C",
+            "player": "Michael Busch",
+            "team": "Chicago Cubs",
+            "position": "1B",
             "value": "1023"
           },
           {
             "rank": 4,
-            "player": "Michael Busch",
-            "team": "Chicago Cubs",
-            "position": "1B",
-            "value": "1021"
+            "player": "J.T. Realmuto",
+            "team": "Philadelphia Phillies",
+            "position": "C",
+            "value": "1023"
           },
           {
             "rank": 5,
@@ -1607,7 +1607,7 @@
             "player": "Elly De La Cruz",
             "team": "Cincinnati Reds",
             "position": "SS",
-            "value": "16"
+            "value": "17"
           }
         ],
         "doublePlays": [
