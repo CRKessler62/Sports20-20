@@ -1,7 +1,7 @@
 {
   "league": "MLB",
   "timezone": "America/New_York",
-  "lastUpdated": "2026-08-31T21:06:49.867455+00:00",
+  "lastUpdated": "2026-08-31T22:07:08.640029+00:00",
   "games": [
     {
       "gamePk": 822781,
@@ -9728,9 +9728,9 @@
       "date": "2026-08-31",
       "gameDate": "2026-08-31T22:05:00Z",
       "localGameTime": "2026-08-31T18:05:00-04:00",
-      "status": "Pre-Game",
-      "abstractGameState": "Preview",
-      "codedGameState": "P",
+      "status": "In Progress",
+      "abstractGameState": "Live",
+      "codedGameState": "I",
       "awayTeam": {
         "id": 137,
         "name": "San Francisco Giants",
@@ -9885,8 +9885,8 @@
         "name": "Chicago Cubs",
         "abbreviation": "CHC"
       },
-      "awayScore": null,
-      "homeScore": null,
+      "awayScore": 0,
+      "homeScore": 0,
       "venue": "Wrigley Field",
       "awayPitcher": "Kyle Harrison",
       "homePitcher": "Clay Holmes"
@@ -9957,8 +9957,8 @@
         "name": "Colorado Rockies",
         "abbreviation": "COL"
       },
-      "awayScore": null,
-      "homeScore": null,
+      "awayScore": 0,
+      "homeScore": 0,
       "venue": "Coors Field",
       "awayPitcher": "Cade Povich",
       "homePitcher": "Tanner Gordon"
@@ -9968,9 +9968,9 @@
       "date": "2026-08-31",
       "gameDate": "2026-09-01T01:38:00Z",
       "localGameTime": "2026-08-31T21:38:00-04:00",
-      "status": "Scheduled",
+      "status": "Pre-Game",
       "abstractGameState": "Preview",
-      "codedGameState": "S",
+      "codedGameState": "P",
       "awayTeam": {
         "id": 147,
         "name": "New York Yankees",
@@ -10393,7 +10393,7 @@
       "homeScore": null,
       "venue": "Great American Ball Park",
       "awayPitcher": "Casey Mize",
-      "homePitcher": "Rhett Lowder"
+      "homePitcher": "Brandon Williamson"
     },
     {
       "gamePk": 822686,
@@ -10560,7 +10560,7 @@
       "awayScore": null,
       "homeScore": null,
       "venue": "Tropicana Field",
-      "awayPitcher": "Christian Scott",
+      "awayPitcher": "Justin Hagenman",
       "homePitcher": null
     },
     {
