@@ -1,6 +1,6 @@
 {
   "league": "MLB",
-  "lastUpdated": "2026-08-31T18:51:10.935019+00:00",
+  "lastUpdated": "2026-08-31T19:04:13.260381+00:00",
   "games": [
     {
       "gamePk": 824911,
@@ -28,7 +28,7 @@
       "homeTeam": "Cincinnati Reds",
       "awayScore": 0,
       "homeScore": 0,
-      "status": "Scheduled",
+      "status": "Pre-Game",
       "gameDate": "2026-08-31T22:40:00Z",
       "inning": null,
       "inningOrdinal": null,
@@ -68,19 +68,25 @@
       "homeTeam": "Boston Red Sox",
       "awayScore": 0,
       "homeScore": 0,
-      "status": "Scheduled",
+      "status": "Pre-Game",
       "gameDate": "2026-08-31T22:45:00Z",
-      "inning": null,
-      "inningOrdinal": null,
-      "inningState": null,
-      "outs": null,
-      "battingTeam": null,
+      "inning": 1,
+      "inningOrdinal": "1st",
+      "inningState": "Top",
+      "outs": 0,
+      "battingTeam": "Seattle Mariners",
       "runners": {
         "first": false,
         "second": false,
         "third": false
       },
-      "inningScores": []
+      "inningScores": [
+        {
+          "inning": 1,
+          "awayRuns": 0,
+          "homeRuns": 0
+        }
+      ]
     },
     {
       "gamePk": 822689,
