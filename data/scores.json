@@ -1,6 +1,6 @@
 {
   "league": "MLB",
-  "lastUpdated": "2026-08-31T20:57:48.997493+00:00",
+  "lastUpdated": "2026-08-31T21:10:34.462534+00:00",
   "games": [
     {
       "gamePk": 824911,
@@ -166,17 +166,23 @@
       "homeScore": 0,
       "status": "Pre-Game",
       "gameDate": "2026-08-31T23:40:00Z",
-      "inning": null,
-      "inningOrdinal": null,
-      "inningState": null,
-      "outs": null,
-      "battingTeam": null,
+      "inning": 1,
+      "inningOrdinal": "1st",
+      "inningState": "Top",
+      "outs": 0,
+      "battingTeam": "Milwaukee Brewers",
       "runners": {
         "first": false,
         "second": false,
         "third": false
       },
-      "inningScores": []
+      "inningScores": [
+        {
+          "inning": 1,
+          "awayRuns": 0,
+          "homeRuns": 0
+        }
+      ]
     },
     {
       "gamePk": 822855,
