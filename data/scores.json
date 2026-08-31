@@ -1,6 +1,6 @@
 {
   "league": "MLB",
-  "lastUpdated": "2026-08-31T22:40:06.122004+00:00",
+  "lastUpdated": "2026-08-31T22:52:45.782976+00:00",
   "games": [
     {
       "gamePk": 824911,
@@ -10,10 +10,10 @@
       "homeScore": 2,
       "status": "In Progress",
       "gameDate": "2026-08-31T22:05:00Z",
-      "inning": 3,
-      "inningOrdinal": "3rd",
+      "inning": 4,
+      "inningOrdinal": "4th",
       "inningState": "Bottom",
-      "outs": 2,
+      "outs": 0,
       "battingTeam": "Atlanta Braves",
       "runners": {
         "first": false,
@@ -35,6 +35,11 @@
           "inning": 3,
           "awayRuns": 0,
           "homeRuns": 0
+        },
+        {
+          "inning": 4,
+          "awayRuns": 0,
+          "homeRuns": 0
         }
       ]
     },
@@ -44,15 +49,15 @@
       "homeTeam": "Cincinnati Reds",
       "awayScore": 0,
       "homeScore": 0,
-      "status": "Warmup",
+      "status": "In Progress",
       "gameDate": "2026-08-31T22:40:00Z",
       "inning": 1,
       "inningOrdinal": "1st",
-      "inningState": "Top",
-      "outs": 0,
-      "battingTeam": "San Diego Padres",
+      "inningState": "Bottom",
+      "outs": 1,
+      "battingTeam": "Cincinnati Reds",
       "runners": {
-        "first": false,
+        "first": true,
         "second": false,
         "third": false
       },
@@ -74,8 +79,8 @@
       "gameDate": "2026-08-31T22:40:00Z",
       "inning": 1,
       "inningOrdinal": "1st",
-      "inningState": "Top",
-      "outs": 0,
+      "inningState": "End",
+      "outs": 3,
       "battingTeam": "New York Mets",
       "runners": {
         "first": false,
@@ -94,24 +99,24 @@
       "gamePk": 824719,
       "awayTeam": "Seattle Mariners",
       "homeTeam": "Boston Red Sox",
-      "awayScore": 0,
+      "awayScore": 1,
       "homeScore": 0,
-      "status": "Warmup",
+      "status": "In Progress",
       "gameDate": "2026-08-31T22:45:00Z",
       "inning": 1,
       "inningOrdinal": "1st",
       "inningState": "Top",
-      "outs": 0,
+      "outs": 2,
       "battingTeam": "Seattle Mariners",
       "runners": {
         "first": false,
-        "second": false,
+        "second": true,
         "third": false
       },
       "inningScores": [
         {
           "inning": 1,
-          "awayRuns": 0,
+          "awayRuns": 1,
           "homeRuns": 0
         }
       ]
@@ -122,12 +127,12 @@
       "homeTeam": "Washington Nationals",
       "awayScore": 0,
       "homeScore": 0,
-      "status": "Warmup",
+      "status": "In Progress",
       "gameDate": "2026-08-31T22:45:00Z",
       "inning": 1,
       "inningOrdinal": "1st",
       "inningState": "Top",
-      "outs": 0,
+      "outs": 2,
       "battingTeam": "Miami Marlins",
       "runners": {
         "first": false,
