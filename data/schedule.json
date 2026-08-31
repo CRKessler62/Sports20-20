@@ -1,7 +1,7 @@
 {
   "league": "MLB",
   "timezone": "America/New_York",
-  "lastUpdated": "2026-08-31T00:08:45.322068+00:00",
+  "lastUpdated": "2026-08-31T01:06:36.145384+00:00",
   "games": [
     {
       "gamePk": 822781,
@@ -9717,8 +9717,8 @@
         "name": "Chicago Cubs",
         "abbreviation": "CHC"
       },
-      "awayScore": 0,
-      "homeScore": 1,
+      "awayScore": 4,
+      "homeScore": 3,
       "venue": "Wrigley Field",
       "awayPitcher": "Chase Burns",
       "homePitcher": "Shota Imanaga"
