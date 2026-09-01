@@ -1,6 +1,6 @@
 {
   "season": 2026,
-  "lastUpdated": "2026-09-01T00:34:07.436472+00:00",
+  "lastUpdated": "2026-09-01T01:22:08.768804+00:00",
   "leagues": {
     "AL": {
       "offense": {
@@ -17,7 +17,7 @@
             "player": "Chandler Simpson",
             "team": "Tampa Bay Rays",
             "position": "LF",
-            "value": ".309"
+            "value": ".311"
           },
           {
             "rank": 3,
@@ -68,7 +68,7 @@
             "player": "Chandler Simpson",
             "team": "Tampa Bay Rays",
             "position": "LF",
-            "value": "149"
+            "value": "150"
           },
           {
             "rank": 5,
@@ -121,7 +121,7 @@
             "player": "Yordan Alvarez",
             "team": "Houston Astros",
             "position": "DH",
-            "value": "93"
+            "value": "94"
           },
           {
             "rank": 2,
@@ -195,7 +195,7 @@
             "player": "Yordan Alvarez",
             "team": "Houston Astros",
             "position": "DH",
-            "value": ".431"
+            "value": ".430"
           },
           {
             "rank": 2,
@@ -232,14 +232,14 @@
             "player": "Yordan Alvarez",
             "team": "Houston Astros",
             "position": "DH",
-            "value": ".606"
+            "value": ".605"
           },
           {
             "rank": 2,
             "player": "Junior Caminero",
             "team": "Tampa Bay Rays",
             "position": "3B",
-            "value": ".537"
+            "value": ".536"
           },
           {
             "rank": 3,
@@ -260,7 +260,7 @@
             "player": "Pete Alonso",
             "team": "Baltimore Orioles",
             "position": "1B",
-            "value": ".503"
+            "value": ".502"
           }
         ],
         "ops": [
@@ -269,14 +269,14 @@
             "player": "Yordan Alvarez",
             "team": "Houston Astros",
             "position": "DH",
-            "value": "1.037"
+            "value": "1.035"
           },
           {
             "rank": 2,
             "player": "Junior Caminero",
             "team": "Tampa Bay Rays",
             "position": "3B",
-            "value": ".906"
+            "value": ".905"
           },
           {
             "rank": 3,
@@ -514,7 +514,7 @@
             "player": "Taj Bradley",
             "team": "Minnesota Twins",
             "position": "P",
-            "value": "175"
+            "value": "176"
           },
           {
             "rank": 5,
@@ -655,24 +655,24 @@
           },
           {
             "rank": 3,
-            "player": "Christian V\u00e1zquez",
-            "team": "Houston Astros",
-            "position": "C",
-            "value": ".998"
-          },
-          {
-            "rank": 4,
             "player": "Spencer Torkelson",
             "team": "Detroit Tigers",
             "position": "1B",
             "value": ".998"
           },
           {
-            "rank": 5,
+            "rank": 4,
             "player": "Christian Walker",
             "team": "Houston Astros",
             "position": "1B",
             "value": ".998"
+          },
+          {
+            "rank": 5,
+            "player": "Pete Alonso",
+            "team": "Baltimore Orioles",
+            "position": "1B",
+            "value": ".997"
           }
         ],
         "putouts": [
@@ -681,28 +681,28 @@
             "player": "Spencer Torkelson",
             "team": "Detroit Tigers",
             "position": "1B",
-            "value": "1023"
+            "value": "1024"
           },
           {
             "rank": 2,
             "player": "Jonathan Aranda",
             "team": "Tampa Bay Rays",
             "position": "1B",
-            "value": "923"
+            "value": "925"
           },
           {
             "rank": 3,
             "player": "Pete Alonso",
             "team": "Baltimore Orioles",
             "position": "1B",
-            "value": "890"
+            "value": "893"
           },
           {
             "rank": 4,
             "player": "Josh Naylor",
             "team": "Seattle Mariners",
             "position": "1B",
-            "value": "879"
+            "value": "884"
           },
           {
             "rank": 5,
@@ -746,7 +746,7 @@
             "player": "Chase Meidroth",
             "team": "Chicago White Sox",
             "position": "2B",
-            "value": "271"
+            "value": "273"
           }
         ],
         "errors": [
@@ -845,16 +845,16 @@
           },
           {
             "rank": 3,
-            "player": "Freddie Freeman",
-            "team": "Los Angeles Dodgers",
-            "position": "1B",
-            "value": ".304"
-          },
-          {
-            "rank": 4,
             "player": "Otto Lopez",
             "team": "Miami Marlins",
             "position": "SS",
+            "value": ".305"
+          },
+          {
+            "rank": 4,
+            "player": "Freddie Freeman",
+            "team": "Los Angeles Dodgers",
+            "position": "1B",
             "value": ".304"
           },
           {
@@ -868,16 +868,16 @@
         "hits": [
           {
             "rank": 1,
-            "player": "Luis Arraez",
-            "team": "Philadelphia Phillies",
-            "position": "2B",
-            "value": "163"
-          },
-          {
-            "rank": 2,
             "player": "Otto Lopez",
             "team": "Miami Marlins",
             "position": "SS",
+            "value": "164"
+          },
+          {
+            "rank": 2,
+            "player": "Luis Arraez",
+            "team": "Philadelphia Phillies",
+            "position": "2B",
             "value": "163"
           },
           {
@@ -896,10 +896,10 @@
           },
           {
             "rank": 5,
-            "player": "Pete Crow-Armstrong",
-            "team": "Chicago Cubs",
-            "position": "CF",
-            "value": "149"
+            "player": "Fernando Tatis Jr.",
+            "team": "San Diego Padres",
+            "position": "RF",
+            "value": "150"
           }
         ],
         "homeRuns": [
@@ -1026,7 +1026,7 @@
             "player": "Jake Bauers",
             "team": "Milwaukee Brewers",
             "position": "1B",
-            "value": ".389"
+            "value": ".390"
           },
           {
             "rank": 3,
@@ -1056,14 +1056,14 @@
             "player": "Pete Crow-Armstrong",
             "team": "Chicago Cubs",
             "position": "CF",
-            "value": ".575"
+            "value": ".574"
           },
           {
             "rank": 2,
             "player": "Hunter Goodman",
             "team": "Colorado Rockies",
             "position": "C",
-            "value": ".542"
+            "value": ".541"
           },
           {
             "rank": 3,
@@ -1093,7 +1093,7 @@
             "player": "Pete Crow-Armstrong",
             "team": "Chicago Cubs",
             "position": "CF",
-            "value": ".951"
+            "value": ".950"
           },
           {
             "rank": 2,
@@ -1111,17 +1111,17 @@
           },
           {
             "rank": 4,
-            "player": "Bryce Harper",
-            "team": "Philadelphia Phillies",
+            "player": "Jake Bauers",
+            "team": "Milwaukee Brewers",
             "position": "1B",
             "value": ".889"
           },
           {
             "rank": 5,
-            "player": "Jake Bauers",
-            "team": "Milwaukee Brewers",
+            "player": "Bryce Harper",
+            "team": "Philadelphia Phillies",
             "position": "1B",
-            "value": ".887"
+            "value": ".889"
           }
         ],
         "stolenBases": [
@@ -1446,17 +1446,17 @@
           },
           {
             "rank": 4,
-            "player": "Eduardo Rodriguez",
-            "team": "Arizona Diamondbacks",
+            "player": "Michael King",
+            "team": "San Diego Padres",
             "position": "P",
             "value": "162.0"
           },
           {
             "rank": 5,
-            "player": "Michael King",
-            "team": "San Diego Padres",
+            "player": "Eduardo Rodriguez",
+            "team": "Arizona Diamondbacks",
             "position": "P",
-            "value": "161.1"
+            "value": "162.0"
           }
         ],
         "qualityStarts": []
@@ -1512,14 +1512,14 @@
             "player": "William Contreras",
             "team": "Milwaukee Brewers",
             "position": "C",
-            "value": "1027"
+            "value": "1029"
           },
           {
             "rank": 3,
             "player": "Michael Busch",
             "team": "Chicago Cubs",
             "position": "1B",
-            "value": "1026"
+            "value": "1027"
           },
           {
             "rank": 4,
