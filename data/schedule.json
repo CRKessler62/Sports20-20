@@ -1,7 +1,7 @@
 {
   "league": "MLB",
   "timezone": "America/New_York",
-  "lastUpdated": "2026-09-01T20:12:53.921358+00:00",
+  "lastUpdated": "2026-09-01T21:12:34.497231+00:00",
   "games": [
     {
       "gamePk": 824807,
@@ -9789,8 +9789,8 @@
         "name": "Washington Nationals",
         "abbreviation": "WSH"
       },
-      "awayScore": null,
-      "homeScore": null,
+      "awayScore": 0,
+      "homeScore": 0,
       "venue": "Nationals Park",
       "awayPitcher": "AJ Smith-Shawver",
       "homePitcher": "Jake Irvin"
@@ -9813,8 +9813,8 @@
         "name": "Minnesota Twins",
         "abbreviation": "MIN"
       },
-      "awayScore": null,
-      "homeScore": null,
+      "awayScore": 0,
+      "homeScore": 0,
       "venue": "Target Field",
       "awayPitcher": "Troy Melton",
       "homePitcher": "Andrew Morris"
@@ -9837,8 +9837,8 @@
         "name": "Kansas City Royals",
         "abbreviation": "KC"
       },
-      "awayScore": null,
-      "homeScore": null,
+      "awayScore": 0,
+      "homeScore": 0,
       "venue": "Kauffman Stadium",
       "awayPitcher": "Tyler Phillips",
       "homePitcher": "Randy Dobnak"
@@ -9861,8 +9861,8 @@
         "name": "Chicago Cubs",
         "abbreviation": "CHC"
       },
-      "awayScore": null,
-      "homeScore": null,
+      "awayScore": 0,
+      "homeScore": 0,
       "venue": "Wrigley Field",
       "awayPitcher": "Robert Gasser",
       "homePitcher": "Matthew Boyd"
@@ -9896,9 +9896,9 @@
       "date": "2026-09-01",
       "gameDate": "2026-09-02T00:10:00Z",
       "localGameTime": "2026-09-01T20:10:00-04:00",
-      "status": "Scheduled",
+      "status": "Pre-Game",
       "abstractGameState": "Preview",
-      "codedGameState": "S",
+      "codedGameState": "P",
       "awayTeam": {
         "id": 145,
         "name": "Chicago White Sox",
@@ -9909,8 +9909,8 @@
         "name": "Houston Astros",
         "abbreviation": "HOU"
       },
-      "awayScore": null,
-      "homeScore": null,
+      "awayScore": 0,
+      "homeScore": 0,
       "venue": "Daikin Park",
       "awayPitcher": "Sean Burke",
       "homePitcher": "Ronel Blanco"
@@ -9920,9 +9920,9 @@
       "date": "2026-09-01",
       "gameDate": "2026-09-02T00:40:00Z",
       "localGameTime": "2026-09-01T20:40:00-04:00",
-      "status": "Scheduled",
+      "status": "Pre-Game",
       "abstractGameState": "Preview",
-      "codedGameState": "S",
+      "codedGameState": "P",
       "awayTeam": {
         "id": 110,
         "name": "Baltimore Orioles",
@@ -9944,9 +9944,9 @@
       "date": "2026-09-01",
       "gameDate": "2026-09-02T01:38:00Z",
       "localGameTime": "2026-09-01T21:38:00-04:00",
-      "status": "Scheduled",
+      "status": "Pre-Game",
       "abstractGameState": "Preview",
-      "codedGameState": "S",
+      "codedGameState": "P",
       "awayTeam": {
         "id": 147,
         "name": "New York Yankees",
