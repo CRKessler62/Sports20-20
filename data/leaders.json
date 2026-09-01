@@ -1,6 +1,6 @@
 {
   "season": 2026,
-  "lastUpdated": "2026-09-01T22:21:22.624434+00:00",
+  "lastUpdated": "2026-09-01T23:19:44.811399+00:00",
   "leagues": {
     "AL": {
       "offense": {
@@ -17,21 +17,21 @@
             "player": "Chandler Simpson",
             "team": "Tampa Bay Rays",
             "position": "LF",
-            "value": ".311"
+            "value": ".310"
           },
           {
             "rank": 3,
             "player": "Yandy D\u00edaz",
             "team": "Tampa Bay Rays",
             "position": "DH",
-            "value": ".300"
+            "value": ".302"
           },
           {
             "rank": 4,
             "player": "Chase DeLauter",
             "team": "Cleveland Guardians",
             "position": "RF",
-            "value": ".293"
+            "value": ".292"
           },
           {
             "rank": 5,
@@ -47,7 +47,7 @@
             "player": "Yandy D\u00edaz",
             "team": "Tampa Bay Rays",
             "position": "DH",
-            "value": "157"
+            "value": "158"
           },
           {
             "rank": 2,
@@ -75,7 +75,7 @@
             "player": "Junior Caminero",
             "team": "Tampa Bay Rays",
             "position": "3B",
-            "value": "147"
+            "value": "148"
           }
         ],
         "homeRuns": [
@@ -135,7 +135,7 @@
             "player": "Junior Caminero",
             "team": "Tampa Bay Rays",
             "position": "3B",
-            "value": "87"
+            "value": "88"
           },
           {
             "rank": 4,
@@ -172,7 +172,7 @@
             "player": "Randy Arozarena",
             "team": "Seattle Mariners",
             "position": "LF",
-            "value": "88"
+            "value": "89"
           },
           {
             "rank": 4,
@@ -223,7 +223,7 @@
             "player": "Steven Kwan",
             "team": "Cleveland Guardians",
             "position": "LF",
-            "value": ".377"
+            "value": ".376"
           }
         ],
         "slg": [
@@ -500,7 +500,7 @@
             "player": "Gavin Williams",
             "team": "Cleveland Guardians",
             "position": "P",
-            "value": "204"
+            "value": "208"
           },
           {
             "rank": 3,
@@ -702,7 +702,7 @@
             "player": "Josh Naylor",
             "team": "Seattle Mariners",
             "position": "1B",
-            "value": "885"
+            "value": "887"
           },
           {
             "rank": 5,
@@ -718,7 +718,7 @@
             "player": "Cole Young",
             "team": "Seattle Mariners",
             "position": "2B",
-            "value": "348"
+            "value": "349"
           },
           {
             "rank": 2,
@@ -841,7 +841,7 @@
             "player": "Nick Gonzales",
             "team": "Pittsburgh Pirates",
             "position": "3B",
-            "value": ".307"
+            "value": ".308"
           },
           {
             "rank": 3,
@@ -933,8 +933,8 @@
           },
           {
             "rank": 5,
-            "player": "Sal Stewart",
-            "team": "Cincinnati Reds",
+            "player": "Rafael Devers",
+            "team": "San Francisco Giants",
             "position": "1B",
             "value": "31"
           }
@@ -1003,7 +1003,7 @@
             "player": "Bryan Reynolds",
             "team": "Pittsburgh Pirates",
             "position": "LF",
-            "value": "89"
+            "value": "90"
           },
           {
             "rank": 5,
@@ -1382,7 +1382,7 @@
             "player": "Logan Webb",
             "team": "San Francisco Giants",
             "position": "P",
-            "value": "1.10"
+            "value": "1.12"
           }
         ],
         "saves": [
@@ -1533,7 +1533,7 @@
             "player": "Matt Olson",
             "team": "Atlanta Braves",
             "position": "1B",
-            "value": "992"
+            "value": "994"
           }
         ],
         "assists": [
