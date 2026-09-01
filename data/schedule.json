@@ -1,7 +1,7 @@
 {
   "league": "MLB",
   "timezone": "America/New_York",
-  "lastUpdated": "2026-09-01T13:12:54.819594+00:00",
+  "lastUpdated": "2026-09-01T14:13:01.351057+00:00",
   "games": [
     {
       "gamePk": 824807,
@@ -9744,7 +9744,7 @@
       "awayScore": null,
       "homeScore": null,
       "venue": "Progressive Field",
-      "awayPitcher": "Spencer Arrighetti",
+      "awayPitcher": "Spencer Miles",
       "homePitcher": "Gavin Williams"
     },
     {
