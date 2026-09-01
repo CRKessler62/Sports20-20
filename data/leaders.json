@@ -1,6 +1,6 @@
 {
   "season": 2026,
-  "lastUpdated": "2026-09-01T03:24:45.792831+00:00",
+  "lastUpdated": "2026-09-01T04:24:04.028558+00:00",
   "leagues": {
     "AL": {
       "offense": {
@@ -179,7 +179,7 @@
             "player": "Zach Neto",
             "team": "Los Angeles Angels",
             "position": "SS",
-            "value": "86"
+            "value": "87"
           },
           {
             "rank": 5,
@@ -216,7 +216,7 @@
             "player": "Mike Trout",
             "team": "Los Angeles Angels",
             "position": "CF",
-            "value": ".378"
+            "value": ".379"
           },
           {
             "rank": 5,
@@ -246,7 +246,7 @@
             "player": "Ben Rice",
             "team": "New York Yankees",
             "position": "DH",
-            "value": ".523"
+            "value": ".522"
           },
           {
             "rank": 4,
@@ -260,7 +260,7 @@
             "player": "Pete Alonso",
             "team": "Baltimore Orioles",
             "position": "1B",
-            "value": ".501"
+            "value": ".500"
           }
         ],
         "ops": [
@@ -297,7 +297,7 @@
             "player": "Ben Rice",
             "team": "New York Yankees",
             "position": "DH",
-            "value": ".871"
+            "value": ".869"
           }
         ],
         "stolenBases": [
@@ -695,7 +695,7 @@
             "player": "Pete Alonso",
             "team": "Baltimore Orioles",
             "position": "1B",
-            "value": "895"
+            "value": "896"
           },
           {
             "rank": 4,
@@ -725,21 +725,21 @@
             "player": "Gunnar Henderson",
             "team": "Baltimore Orioles",
             "position": "SS",
-            "value": "315"
+            "value": "316"
           },
           {
             "rank": 3,
             "player": "Jazz Chisholm Jr.",
             "team": "New York Yankees",
             "position": "2B",
-            "value": "296"
+            "value": "298"
           },
           {
             "rank": 4,
             "player": "Zach Neto",
             "team": "Los Angeles Angels",
             "position": "SS",
-            "value": "275"
+            "value": "276"
           },
           {
             "rank": 5,
@@ -834,7 +834,7 @@
             "player": "Luis Arraez",
             "team": "Philadelphia Phillies",
             "position": "2B",
-            "value": ".317"
+            "value": ".316"
           },
           {
             "rank": 2,
@@ -845,23 +845,23 @@
           },
           {
             "rank": 3,
-            "player": "Gabriel Moreno",
-            "team": "Arizona Diamondbacks",
-            "position": "C",
-            "value": ".305"
-          },
-          {
-            "rank": 4,
             "player": "Otto Lopez",
             "team": "Miami Marlins",
             "position": "SS",
             "value": ".305"
           },
           {
-            "rank": 5,
+            "rank": 4,
             "player": "Freddie Freeman",
             "team": "Los Angeles Dodgers",
             "position": "1B",
+            "value": ".304"
+          },
+          {
+            "rank": 5,
+            "player": "Gabriel Moreno",
+            "team": "Arizona Diamondbacks",
+            "position": "C",
             "value": ".304"
           }
         ],
@@ -1033,14 +1033,14 @@
             "player": "Bryce Harper",
             "team": "Philadelphia Phillies",
             "position": "1B",
-            "value": ".385"
+            "value": ".386"
           },
           {
             "rank": 4,
             "player": "Gabriel Moreno",
             "team": "Arizona Diamondbacks",
             "position": "C",
-            "value": ".382"
+            "value": ".383"
           },
           {
             "rank": 5,
@@ -1084,7 +1084,7 @@
             "player": "Kyle Schwarber",
             "team": "Philadelphia Phillies",
             "position": "DH",
-            "value": ".525"
+            "value": ".524"
           }
         ],
         "ops": [
@@ -1114,7 +1114,7 @@
             "player": "Bryce Harper",
             "team": "Philadelphia Phillies",
             "position": "1B",
-            "value": ".889"
+            "value": ".891"
           },
           {
             "rank": 5,
@@ -1570,7 +1570,7 @@
             "player": "Geraldo Perdomo",
             "team": "Arizona Diamondbacks",
             "position": "SS",
-            "value": "318"
+            "value": "319"
           }
         ],
         "errors": [
@@ -1644,7 +1644,7 @@
             "player": "TJ Rumfield",
             "team": "Colorado Rockies",
             "position": "1B",
-            "value": "84"
+            "value": "85"
           }
         ]
       },
