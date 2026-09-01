@@ -1,6 +1,6 @@
 {
   "league": "MLB",
-  "lastUpdated": "2026-09-01T18:16:21.001436+00:00",
+  "lastUpdated": "2026-09-01T18:35:20.161636+00:00",
   "games": [
     {
       "gamePk": 824472,
@@ -8,7 +8,7 @@
       "homeTeam": "Cincinnati Reds",
       "awayScore": 0,
       "homeScore": 0,
-      "status": "Scheduled",
+      "status": "Pre-Game",
       "gameDate": "2026-09-01T22:40:00Z",
       "inning": null,
       "inningOrdinal": null,
@@ -68,7 +68,7 @@
       "homeTeam": "Cleveland Guardians",
       "awayScore": 0,
       "homeScore": 0,
-      "status": "Scheduled",
+      "status": "Pre-Game",
       "gameDate": "2026-09-01T22:40:00Z",
       "inning": null,
       "inningOrdinal": null,
@@ -128,7 +128,7 @@
       "homeTeam": "Minnesota Twins",
       "awayScore": 0,
       "homeScore": 0,
-      "status": "Scheduled",
+      "status": "Pre-Game",
       "gameDate": "2026-09-01T23:40:00Z",
       "inning": null,
       "inningOrdinal": null,
