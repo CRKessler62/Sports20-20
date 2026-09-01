@@ -1,6 +1,6 @@
 {
   "league": "MLB",
-  "lastUpdated": "2026-09-01T20:38:44.544958+00:00",
+  "lastUpdated": "2026-09-01T20:52:22.427726+00:00",
   "games": [
     {
       "gamePk": 824472,
@@ -192,17 +192,23 @@
       "homeScore": 0,
       "status": "Pre-Game",
       "gameDate": "2026-09-01T23:40:00Z",
-      "inning": null,
-      "inningOrdinal": null,
-      "inningState": null,
-      "outs": null,
-      "battingTeam": null,
+      "inning": 1,
+      "inningOrdinal": "1st",
+      "inningState": "Top",
+      "outs": 0,
+      "battingTeam": "Miami Marlins",
       "runners": {
         "first": false,
         "second": false,
         "third": false
       },
-      "inningScores": []
+      "inningScores": [
+        {
+          "inning": 1,
+          "awayRuns": 0,
+          "homeRuns": 0
+        }
+      ]
     },
     {
       "gamePk": 824633,
