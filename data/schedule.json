@@ -1,7 +1,7 @@
 {
   "league": "MLB",
   "timezone": "America/New_York",
-  "lastUpdated": "2026-09-01T02:11:37.735513+00:00",
+  "lastUpdated": "2026-09-01T03:13:12.866957+00:00",
   "games": [
     {
       "gamePk": 824807,
@@ -9488,9 +9488,9 @@
       "date": "2026-08-31",
       "gameDate": "2026-08-31T23:40:00Z",
       "localGameTime": "2026-08-31T19:40:00-04:00",
-      "status": "Game Over",
+      "status": "Final",
       "abstractGameState": "Final",
-      "codedGameState": "O",
+      "codedGameState": "F",
       "awayTeam": {
         "id": 116,
         "name": "Detroit Tigers",
@@ -9512,9 +9512,9 @@
       "date": "2026-08-31",
       "gameDate": "2026-08-31T23:40:00Z",
       "localGameTime": "2026-08-31T19:40:00-04:00",
-      "status": "In Progress",
-      "abstractGameState": "Live",
-      "codedGameState": "I",
+      "status": "Final",
+      "abstractGameState": "Final",
+      "codedGameState": "F",
       "awayTeam": {
         "id": 158,
         "name": "Milwaukee Brewers",
@@ -9526,7 +9526,7 @@
         "abbreviation": "CHC"
       },
       "awayScore": 3,
-      "homeScore": 13,
+      "homeScore": 17,
       "venue": "Wrigley Field",
       "awayPitcher": "Kyle Harrison",
       "homePitcher": "Clay Holmes"
@@ -9536,9 +9536,9 @@
       "date": "2026-08-31",
       "gameDate": "2026-09-01T00:05:00Z",
       "localGameTime": "2026-08-31T20:05:00-04:00",
-      "status": "In Progress",
-      "abstractGameState": "Live",
-      "codedGameState": "I",
+      "status": "Final",
+      "abstractGameState": "Final",
+      "codedGameState": "F",
       "awayTeam": {
         "id": 133,
         "name": "Athletics",
@@ -9549,8 +9549,8 @@
         "name": "Texas Rangers",
         "abbreviation": "TEX"
       },
-      "awayScore": 0,
-      "homeScore": 7,
+      "awayScore": 1,
+      "homeScore": 8,
       "venue": "Globe Life Field",
       "awayPitcher": "Gage Jump",
       "homePitcher": "Jacob deGrom"
@@ -9573,7 +9573,7 @@
         "name": "Houston Astros",
         "abbreviation": "HOU"
       },
-      "awayScore": 2,
+      "awayScore": 3,
       "homeScore": 6,
       "venue": "Daikin Park",
       "awayPitcher": "Anthony Kay",
@@ -9621,8 +9621,8 @@
         "name": "Los Angeles Angels",
         "abbreviation": "LAA"
       },
-      "awayScore": 0,
-      "homeScore": 0,
+      "awayScore": 1,
+      "homeScore": 6,
       "venue": "Angel Stadium",
       "awayPitcher": "Elmer Rodr\u00edguez",
       "homePitcher": "Walbert Ure\u00f1a"
@@ -9645,8 +9645,8 @@
         "name": "Arizona Diamondbacks",
         "abbreviation": "AZ"
       },
-      "awayScore": 1,
-      "homeScore": 0,
+      "awayScore": 2,
+      "homeScore": 1,
       "venue": "Chase Field",
       "awayPitcher": "Aaron Nola",
       "homePitcher": "Brandon Pfaadt"
@@ -9817,7 +9817,7 @@
       "homeScore": null,
       "venue": "Target Field",
       "awayPitcher": "Troy Melton",
-      "homePitcher": "Connor Prielipp"
+      "homePitcher": "Andrew Morris"
     },
     {
       "gamePk": 824070,
@@ -9888,7 +9888,7 @@
       "awayScore": null,
       "homeScore": null,
       "venue": "Globe Life Field",
-      "awayPitcher": null,
+      "awayPitcher": "Brady Basso",
       "homePitcher": "MacKenzie Gore"
     },
     {
