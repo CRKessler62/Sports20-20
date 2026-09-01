@@ -1,7 +1,7 @@
 {
   "league": "MLB",
   "season": 2026,
-  "lastUpdated": "2026-09-01T01:40:01.363824+00:00",
+  "lastUpdated": "2026-09-01T01:48:28.108391+00:00",
   "teamCount": 30,
   "teams": [
     {
@@ -1932,13 +1932,13 @@
       "league": "",
       "division": "",
       "wins": 69,
-      "losses": 68,
-      "winPct": ".504",
-      "gamesBack": "12.5",
+      "losses": 69,
+      "winPct": ".500",
+      "gamesBack": "13.0",
       "divisionRank": "3",
       "leagueRank": "8",
-      "wildCardGamesBack": "3.5",
-      "streak": "W1",
+      "wildCardGamesBack": "4.0",
+      "streak": "L1",
       "lastTen": [
         {
           "wins": 42,
@@ -1948,15 +1948,15 @@
         },
         {
           "wins": 27,
-          "losses": 41,
+          "losses": 42,
           "type": "away",
-          "pct": ".397"
+          "pct": ".391"
         },
         {
           "wins": 15,
-          "losses": 22,
+          "losses": 23,
           "type": "left",
-          "pct": ".405"
+          "pct": ".395"
         },
         {
           "wins": 7,
@@ -1966,9 +1966,9 @@
         },
         {
           "wins": 8,
-          "losses": 11,
+          "losses": 12,
           "type": "leftAway",
-          "pct": ".421"
+          "pct": ".400"
         },
         {
           "wins": 35,
@@ -2020,15 +2020,15 @@
         },
         {
           "wins": 36,
-          "losses": 44,
+          "losses": 45,
           "type": "night",
-          "pct": ".450"
+          "pct": ".444"
         },
         {
           "wins": 25,
-          "losses": 37,
+          "losses": 38,
           "type": "grass",
-          "pct": ".403"
+          "pct": ".397"
         },
         {
           "wins": 44,
@@ -2044,20 +2044,20 @@
       "abbreviation": null,
       "league": "",
       "division": "",
-      "wins": 65,
+      "wins": 66,
       "losses": 74,
-      "winPct": ".468",
-      "gamesBack": "17.5",
+      "winPct": ".471",
+      "gamesBack": "17.0",
       "divisionRank": "4",
-      "leagueRank": "12",
-      "wildCardGamesBack": "8.5",
-      "streak": "L1",
+      "leagueRank": "11",
+      "wildCardGamesBack": "8.0",
+      "streak": "W1",
       "lastTen": [
         {
-          "wins": 31,
+          "wins": 32,
           "losses": 39,
           "type": "home",
-          "pct": ".443"
+          "pct": ".451"
         },
         {
           "wins": 34,
@@ -2084,10 +2084,10 @@
           "pct": ".643"
         },
         {
-          "wins": 26,
+          "wins": 27,
           "losses": 30,
           "type": "rightHome",
-          "pct": ".464"
+          "pct": ".474"
         },
         {
           "wins": 16,
@@ -2096,16 +2096,16 @@
           "pct": ".390"
         },
         {
-          "wins": 42,
+          "wins": 43,
           "losses": 55,
           "type": "right",
-          "pct": ".433"
+          "pct": ".439"
         },
         {
-          "wins": 4,
-          "losses": 6,
+          "wins": 5,
+          "losses": 5,
           "type": "lastTen",
-          "pct": ".400"
+          "pct": ".500"
         },
         {
           "wins": 7,
@@ -2120,10 +2120,10 @@
           "pct": ".424"
         },
         {
-          "wins": 31,
+          "wins": 32,
           "losses": 45,
           "type": "winners",
-          "pct": ".408"
+          "pct": ".416"
         },
         {
           "wins": 29,
@@ -2132,16 +2132,16 @@
           "pct": ".483"
         },
         {
-          "wins": 36,
+          "wins": 37,
           "losses": 43,
           "type": "night",
-          "pct": ".456"
+          "pct": ".463"
         },
         {
-          "wins": 60,
+          "wins": 61,
           "losses": 64,
           "type": "grass",
-          "pct": ".484"
+          "pct": ".488"
         },
         {
           "wins": 5,
@@ -2727,7 +2727,7 @@
       "winPct": ".471",
       "gamesBack": "20.5",
       "divisionRank": "5",
-      "leagueRank": "11",
+      "leagueRank": "12",
       "wildCardGamesBack": "8.0",
       "streak": "L1",
       "lastTen": [
