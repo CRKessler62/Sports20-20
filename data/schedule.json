@@ -1,7 +1,7 @@
 {
   "league": "MLB",
   "timezone": "America/New_York",
-  "lastUpdated": "2026-09-01T04:12:07.317510+00:00",
+  "lastUpdated": "2026-09-01T05:11:49.691686+00:00",
   "games": [
     {
       "gamePk": 824807,
@@ -9608,9 +9608,9 @@
       "date": "2026-08-31",
       "gameDate": "2026-09-01T01:38:00Z",
       "localGameTime": "2026-08-31T21:38:00-04:00",
-      "status": "In Progress",
-      "abstractGameState": "Live",
-      "codedGameState": "I",
+      "status": "Final",
+      "abstractGameState": "Final",
+      "codedGameState": "F",
       "awayTeam": {
         "id": 147,
         "name": "New York Yankees",
@@ -9632,9 +9632,9 @@
       "date": "2026-08-31",
       "gameDate": "2026-09-01T01:40:00Z",
       "localGameTime": "2026-08-31T21:40:00-04:00",
-      "status": "In Progress",
-      "abstractGameState": "Live",
-      "codedGameState": "I",
+      "status": "Final",
+      "abstractGameState": "Final",
+      "codedGameState": "F",
       "awayTeam": {
         "id": 143,
         "name": "Philadelphia Phillies",
@@ -9913,7 +9913,7 @@
       "homeScore": null,
       "venue": "Daikin Park",
       "awayPitcher": "Sean Burke",
-      "homePitcher": null
+      "homePitcher": "Ronel Blanco"
     },
     {
       "gamePk": 824313,
