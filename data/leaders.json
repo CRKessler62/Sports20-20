@@ -1,6 +1,6 @@
 {
   "season": 2026,
-  "lastUpdated": "2026-09-01T04:24:04.028558+00:00",
+  "lastUpdated": "2026-09-01T05:23:20.895041+00:00",
   "leagues": {
     "AL": {
       "offense": {
@@ -695,7 +695,7 @@
             "player": "Pete Alonso",
             "team": "Baltimore Orioles",
             "position": "1B",
-            "value": "896"
+            "value": "897"
           },
           {
             "rank": 4,
@@ -862,7 +862,7 @@
             "player": "Gabriel Moreno",
             "team": "Arizona Diamondbacks",
             "position": "C",
-            "value": ".304"
+            "value": ".303"
           }
         ],
         "hits": [
@@ -1037,16 +1037,16 @@
           },
           {
             "rank": 4,
-            "player": "Gabriel Moreno",
-            "team": "Arizona Diamondbacks",
-            "position": "C",
+            "player": "TJ Rumfield",
+            "team": "Colorado Rockies",
+            "position": "1B",
             "value": ".383"
           },
           {
             "rank": 5,
-            "player": "TJ Rumfield",
-            "team": "Colorado Rockies",
-            "position": "1B",
+            "player": "Gabriel Moreno",
+            "team": "Arizona Diamondbacks",
+            "position": "C",
             "value": ".382"
           }
         ],
@@ -1063,7 +1063,7 @@
             "player": "Hunter Goodman",
             "team": "Colorado Rockies",
             "position": "C",
-            "value": ".544"
+            "value": ".543"
           },
           {
             "rank": 3,
@@ -1402,17 +1402,17 @@
           },
           {
             "rank": 3,
-            "player": "Raisel Iglesias",
-            "team": "Atlanta Braves",
+            "player": "Jhoan Duran",
+            "team": "Philadelphia Phillies",
             "position": "P",
             "value": "29"
           },
           {
             "rank": 4,
-            "player": "Jhoan Duran",
-            "team": "Philadelphia Phillies",
+            "player": "Raisel Iglesias",
+            "team": "Atlanta Braves",
             "position": "P",
-            "value": "28"
+            "value": "29"
           },
           {
             "rank": 5,
