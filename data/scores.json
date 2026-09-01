@@ -1,6 +1,6 @@
 {
   "league": "MLB",
-  "lastUpdated": "2026-09-01T18:51:31.459480+00:00",
+  "lastUpdated": "2026-09-01T19:06:57.202061+00:00",
   "games": [
     {
       "gamePk": 824472,
@@ -88,7 +88,7 @@
       "homeTeam": "Boston Red Sox",
       "awayScore": 0,
       "homeScore": 0,
-      "status": "Scheduled",
+      "status": "Pre-Game",
       "gameDate": "2026-09-01T22:45:00Z",
       "inning": null,
       "inningOrdinal": null,
