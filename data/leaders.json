@@ -1,6 +1,6 @@
 {
   "season": 2026,
-  "lastUpdated": "2026-09-02T02:36:50.837370+00:00",
+  "lastUpdated": "2026-09-02T03:23:26.578750+00:00",
   "leagues": {
     "AL": {
       "offense": {
@@ -216,7 +216,7 @@
             "player": "Mike Trout",
             "team": "Los Angeles Angels",
             "position": "CF",
-            "value": ".377"
+            "value": ".376"
           },
           {
             "rank": 5,
@@ -232,7 +232,7 @@
             "player": "Yordan Alvarez",
             "team": "Houston Astros",
             "position": "DH",
-            "value": ".604"
+            "value": ".603"
           },
           {
             "rank": 2,
@@ -246,7 +246,7 @@
             "player": "Ben Rice",
             "team": "New York Yankees",
             "position": "DH",
-            "value": ".522"
+            "value": ".521"
           },
           {
             "rank": 4,
@@ -260,7 +260,7 @@
             "player": "Pete Alonso",
             "team": "Baltimore Orioles",
             "position": "1B",
-            "value": ".500"
+            "value": ".499"
           }
         ],
         "ops": [
@@ -269,7 +269,7 @@
             "player": "Yordan Alvarez",
             "team": "Houston Astros",
             "position": "DH",
-            "value": "1.037"
+            "value": "1.036"
           },
           {
             "rank": 2,
@@ -297,7 +297,7 @@
             "player": "Ben Rice",
             "team": "New York Yankees",
             "position": "DH",
-            "value": ".870"
+            "value": ".868"
           }
         ],
         "stolenBases": [
@@ -725,7 +725,7 @@
             "player": "Gunnar Henderson",
             "team": "Baltimore Orioles",
             "position": "SS",
-            "value": "316"
+            "value": "318"
           },
           {
             "rank": 3,
@@ -739,14 +739,14 @@
             "player": "Zach Neto",
             "team": "Los Angeles Angels",
             "position": "SS",
-            "value": "277"
+            "value": "278"
           },
           {
             "rank": 5,
             "player": "Chase Meidroth",
             "team": "Chicago White Sox",
             "position": "2B",
-            "value": "274"
+            "value": "275"
           }
         ],
         "errors": [
@@ -834,7 +834,7 @@
             "player": "Luis Arraez",
             "team": "Philadelphia Phillies",
             "position": "2B",
-            "value": ".317"
+            "value": ".318"
           },
           {
             "rank": 2,
@@ -862,7 +862,7 @@
             "player": "Gabriel Moreno",
             "team": "Arizona Diamondbacks",
             "position": "C",
-            "value": ".303"
+            "value": ".301"
           }
         ],
         "hits": [
@@ -871,7 +871,7 @@
             "player": "Luis Arraez",
             "team": "Philadelphia Phillies",
             "position": "2B",
-            "value": "165"
+            "value": "166"
           },
           {
             "rank": 2,
@@ -959,7 +959,7 @@
             "player": "Jordan Walker",
             "team": "St. Louis Cardinals",
             "position": "RF",
-            "value": "97"
+            "value": "99"
           },
           {
             "rank": 4,
@@ -1026,28 +1026,28 @@
             "player": "Jake Bauers",
             "team": "Milwaukee Brewers",
             "position": "1B",
-            "value": ".390"
+            "value": ".392"
           },
           {
             "rank": 3,
             "player": "Bryce Harper",
             "team": "Philadelphia Phillies",
             "position": "1B",
-            "value": ".389"
+            "value": ".390"
           },
           {
             "rank": 4,
             "player": "TJ Rumfield",
             "team": "Colorado Rockies",
             "position": "1B",
-            "value": ".383"
+            "value": ".384"
           },
           {
             "rank": 5,
-            "player": "Gabriel Moreno",
-            "team": "Arizona Diamondbacks",
-            "position": "C",
-            "value": ".381"
+            "player": "Shohei Ohtani",
+            "team": "Los Angeles Dodgers",
+            "position": "TWP",
+            "value": ".380"
           }
         ],
         "slg": [
@@ -1063,7 +1063,7 @@
             "player": "Hunter Goodman",
             "team": "Colorado Rockies",
             "position": "C",
-            "value": ".540"
+            "value": ".538"
           },
           {
             "rank": 3,
@@ -1081,9 +1081,9 @@
           },
           {
             "rank": 5,
-            "player": "Kyle Schwarber",
-            "team": "Philadelphia Phillies",
-            "position": "DH",
+            "player": "Matt Olson",
+            "team": "Atlanta Braves",
+            "position": "1B",
             "value": ".523"
           }
         ],
@@ -1107,21 +1107,21 @@
             "player": "Shohei Ohtani",
             "team": "Los Angeles Dodgers",
             "position": "TWP",
-            "value": ".907"
+            "value": ".908"
           },
           {
             "rank": 4,
             "player": "Bryce Harper",
             "team": "Philadelphia Phillies",
             "position": "1B",
-            "value": ".896"
+            "value": ".897"
           },
           {
             "rank": 5,
             "player": "Jake Bauers",
             "team": "Milwaukee Brewers",
             "position": "1B",
-            "value": ".885"
+            "value": ".887"
           }
         ],
         "stolenBases": [
@@ -1271,7 +1271,7 @@
             "player": "Eduardo Rodriguez",
             "team": "Arizona Diamondbacks",
             "position": "P",
-            "value": "2.56"
+            "value": "2.59"
           }
         ],
         "wins": [
@@ -1324,7 +1324,7 @@
             "player": "Jes\u00fas Luzardo",
             "team": "Philadelphia Phillies",
             "position": "P",
-            "value": "206"
+            "value": "209"
           },
           {
             "rank": 3,
@@ -1442,14 +1442,14 @@
             "player": "Jes\u00fas Luzardo",
             "team": "Philadelphia Phillies",
             "position": "P",
-            "value": "165.2"
+            "value": "169.0"
           },
           {
             "rank": 4,
             "player": "Eduardo Rodriguez",
             "team": "Arizona Diamondbacks",
             "position": "P",
-            "value": "165.0"
+            "value": "167.0"
           },
           {
             "rank": 5,
@@ -1512,21 +1512,21 @@
             "player": "Alec Burleson",
             "team": "St. Louis Cardinals",
             "position": "1B",
-            "value": "1040"
+            "value": "1041"
           },
           {
             "rank": 3,
             "player": "William Contreras",
             "team": "Milwaukee Brewers",
             "position": "C",
-            "value": "1035"
+            "value": "1037"
           },
           {
             "rank": 4,
             "player": "J.T. Realmuto",
             "team": "Philadelphia Phillies",
             "position": "C",
-            "value": "1027"
+            "value": "1029"
           },
           {
             "rank": 5,
@@ -1570,7 +1570,7 @@
             "player": "Geraldo Perdomo",
             "team": "Arizona Diamondbacks",
             "position": "SS",
-            "value": "321"
+            "value": "322"
           }
         ],
         "errors": [
