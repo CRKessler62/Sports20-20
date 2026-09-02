@@ -1,6 +1,6 @@
 {
   "season": 2026,
-  "lastUpdated": "2026-09-02T03:23:26.578750+00:00",
+  "lastUpdated": "2026-09-02T04:25:33.327451+00:00",
   "leagues": {
     "AL": {
       "offense": {
@@ -213,16 +213,16 @@
           },
           {
             "rank": 4,
-            "player": "Mike Trout",
-            "team": "Los Angeles Angels",
-            "position": "CF",
+            "player": "Steven Kwan",
+            "team": "Cleveland Guardians",
+            "position": "LF",
             "value": ".376"
           },
           {
             "rank": 5,
-            "player": "Steven Kwan",
-            "team": "Cleveland Guardians",
-            "position": "LF",
+            "player": "Mike Trout",
+            "team": "Los Angeles Angels",
+            "position": "CF",
             "value": ".376"
           }
         ],
@@ -246,7 +246,7 @@
             "player": "Ben Rice",
             "team": "New York Yankees",
             "position": "DH",
-            "value": ".521"
+            "value": ".519"
           },
           {
             "rank": 4,
@@ -297,7 +297,7 @@
             "player": "Ben Rice",
             "team": "New York Yankees",
             "position": "DH",
-            "value": ".868"
+            "value": ".865"
           }
         ],
         "stolenBases": [
@@ -732,14 +732,14 @@
             "player": "Jazz Chisholm Jr.",
             "team": "New York Yankees",
             "position": "2B",
-            "value": "298"
+            "value": "299"
           },
           {
             "rank": 4,
             "player": "Zach Neto",
             "team": "Los Angeles Angels",
             "position": "SS",
-            "value": "278"
+            "value": "279"
           },
           {
             "rank": 5,
@@ -834,7 +834,7 @@
             "player": "Luis Arraez",
             "team": "Philadelphia Phillies",
             "position": "2B",
-            "value": ".318"
+            "value": ".317"
           },
           {
             "rank": 2,
@@ -855,14 +855,14 @@
             "player": "Freddie Freeman",
             "team": "Los Angeles Dodgers",
             "position": "1B",
-            "value": ".304"
+            "value": ".303"
           },
           {
             "rank": 5,
             "player": "Gabriel Moreno",
             "team": "Arizona Diamondbacks",
             "position": "C",
-            "value": ".301"
+            "value": ".300"
           }
         ],
         "hits": [
@@ -1023,17 +1023,17 @@
           },
           {
             "rank": 2,
-            "player": "Jake Bauers",
-            "team": "Milwaukee Brewers",
+            "player": "Bryce Harper",
+            "team": "Philadelphia Phillies",
             "position": "1B",
             "value": ".392"
           },
           {
             "rank": 3,
-            "player": "Bryce Harper",
-            "team": "Philadelphia Phillies",
+            "player": "Jake Bauers",
+            "team": "Milwaukee Brewers",
             "position": "1B",
-            "value": ".390"
+            "value": ".392"
           },
           {
             "rank": 4,
@@ -1047,7 +1047,7 @@
             "player": "Shohei Ohtani",
             "team": "Los Angeles Dodgers",
             "position": "TWP",
-            "value": ".380"
+            "value": ".382"
           }
         ],
         "slg": [
@@ -1077,7 +1077,7 @@
             "player": "Shohei Ohtani",
             "team": "Los Angeles Dodgers",
             "position": "TWP",
-            "value": ".528"
+            "value": ".529"
           },
           {
             "rank": 5,
@@ -1107,14 +1107,14 @@
             "player": "Shohei Ohtani",
             "team": "Los Angeles Dodgers",
             "position": "TWP",
-            "value": ".908"
+            "value": ".911"
           },
           {
             "rank": 4,
             "player": "Bryce Harper",
             "team": "Philadelphia Phillies",
             "position": "1B",
-            "value": ".897"
+            "value": ".901"
           },
           {
             "rank": 5,
@@ -1442,7 +1442,7 @@
             "player": "Jes\u00fas Luzardo",
             "team": "Philadelphia Phillies",
             "position": "P",
-            "value": "169.0"
+            "value": "169.2"
           },
           {
             "rank": 4,
@@ -1526,7 +1526,7 @@
             "player": "J.T. Realmuto",
             "team": "Philadelphia Phillies",
             "position": "C",
-            "value": "1029"
+            "value": "1031"
           },
           {
             "rank": 5,
@@ -1570,7 +1570,7 @@
             "player": "Geraldo Perdomo",
             "team": "Arizona Diamondbacks",
             "position": "SS",
-            "value": "322"
+            "value": "323"
           }
         ],
         "errors": [
