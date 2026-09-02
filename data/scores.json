@@ -1,6 +1,6 @@
 {
   "league": "MLB",
-  "lastUpdated": "2026-09-02T23:19:17.429708+00:00",
+  "lastUpdated": "2026-09-02T23:33:13.476516+00:00",
   "games": [
     {
       "gamePk": 824470,
@@ -206,7 +206,7 @@
       "homeTeam": "Colorado Rockies",
       "awayScore": 5,
       "homeScore": 6,
-      "status": "Game Over",
+      "status": "Final",
       "gameDate": "2026-09-02T19:10:00Z",
       "inning": 11,
       "inningOrdinal": "11th",
@@ -416,15 +416,15 @@
       "homeScore": 0,
       "status": "In Progress",
       "gameDate": "2026-09-02T22:40:00Z",
-      "inning": 3,
-      "inningOrdinal": "3rd",
-      "inningState": "Top",
-      "outs": 2,
-      "battingTeam": "San Francisco Giants",
+      "inning": 4,
+      "inningOrdinal": "4th",
+      "inningState": "Bottom",
+      "outs": 0,
+      "battingTeam": "Pittsburgh Pirates",
       "runners": {
-        "first": true,
-        "second": true,
-        "third": true
+        "first": false,
+        "second": false,
+        "third": false
       },
       "inningScores": [
         {
@@ -441,6 +441,11 @@
           "inning": 3,
           "awayRuns": 0,
           "homeRuns": 0
+        },
+        {
+          "inning": 4,
+          "awayRuns": 0,
+          "homeRuns": 0
         }
       ]
     },
@@ -448,15 +453,15 @@
       "gamePk": 822931,
       "awayTeam": "New York Mets",
       "homeTeam": "Tampa Bay Rays",
-      "awayScore": 3,
+      "awayScore": 6,
       "homeScore": 0,
       "status": "In Progress",
       "gameDate": "2026-09-02T22:40:00Z",
       "inning": 3,
       "inningOrdinal": "3rd",
-      "inningState": "Top",
-      "outs": 1,
-      "battingTeam": "New York Mets",
+      "inningState": "Bottom",
+      "outs": 2,
+      "battingTeam": "Tampa Bay Rays",
       "runners": {
         "first": true,
         "second": false,
@@ -475,7 +480,7 @@
         },
         {
           "inning": 3,
-          "awayRuns": 0,
+          "awayRuns": 3,
           "homeRuns": 0
         }
       ]
@@ -488,13 +493,13 @@
       "homeScore": 0,
       "status": "In Progress",
       "gameDate": "2026-09-02T22:40:00Z",
-      "inning": 2,
-      "inningOrdinal": "2nd",
-      "inningState": "Bottom",
-      "outs": 1,
-      "battingTeam": "Cleveland Guardians",
+      "inning": 3,
+      "inningOrdinal": "3rd",
+      "inningState": "Top",
+      "outs": 2,
+      "battingTeam": "Toronto Blue Jays",
       "runners": {
-        "first": false,
+        "first": true,
         "second": false,
         "third": false
       },
@@ -507,6 +512,11 @@
         {
           "inning": 2,
           "awayRuns": 5,
+          "homeRuns": 0
+        },
+        {
+          "inning": 3,
+          "awayRuns": 0,
           "homeRuns": 0
         }
       ]
@@ -543,7 +553,7 @@
       "homeTeam": "Kansas City Royals",
       "awayScore": 0,
       "homeScore": 0,
-      "status": "Pre-Game",
+      "status": "Warmup",
       "gameDate": "2026-09-02T23:40:00Z",
       "inning": 1,
       "inningOrdinal": "1st",
