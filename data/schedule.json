@@ -1,7 +1,7 @@
 {
   "league": "MLB",
   "timezone": "America/New_York",
-  "lastUpdated": "2026-09-02T14:12:58.911473+00:00",
+  "lastUpdated": "2026-09-02T15:17:43.531836+00:00",
   "games": [
     {
       "gamePk": 823431,
@@ -9693,8 +9693,8 @@
         "name": "Washington Nationals",
         "abbreviation": "WSH"
       },
-      "awayScore": null,
-      "homeScore": null,
+      "awayScore": 0,
+      "homeScore": 0,
       "venue": "Nationals Park",
       "awayPitcher": "Grant Holmes",
       "homePitcher": "Brad Lord"
@@ -10584,7 +10584,7 @@
       "awayScore": null,
       "homeScore": null,
       "venue": "UNIQLO Field at Dodger Stadium",
-      "awayPitcher": null,
+      "awayPitcher": "Jackson Kent",
       "homePitcher": null
     },
     {
@@ -10944,7 +10944,7 @@
       "awayScore": null,
       "homeScore": null,
       "venue": "UNIQLO Field at Dodger Stadium",
-      "awayPitcher": null,
+      "awayPitcher": "Cade Cavalli",
       "homePitcher": null
     },
     {
@@ -10993,7 +10993,7 @@
       "homeScore": null,
       "venue": "Great American Ball Park",
       "awayPitcher": null,
-      "homePitcher": null
+      "homePitcher": "Brady Singer"
     },
     {
       "gamePk": 823417,
@@ -11328,7 +11328,7 @@
       "awayScore": null,
       "homeScore": null,
       "venue": "UNIQLO Field at Dodger Stadium",
-      "awayPitcher": null,
+      "awayPitcher": "Andrew Alvarez",
       "homePitcher": null
     },
     {
