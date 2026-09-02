@@ -1,6 +1,6 @@
 {
   "season": 2026,
-  "lastUpdated": "2026-09-02T17:22:56.173169+00:00",
+  "lastUpdated": "2026-09-02T18:27:15.925153+00:00",
   "leagues": {
     "AL": {
       "offense": {
@@ -1084,7 +1084,7 @@
             "player": "Matt Olson",
             "team": "Atlanta Braves",
             "position": "1B",
-            "value": ".522"
+            "value": ".521"
           }
         ],
         "ops": [
@@ -1533,7 +1533,7 @@
             "player": "Matt Olson",
             "team": "Atlanta Braves",
             "position": "1B",
-            "value": "1002"
+            "value": "1004"
           }
         ],
         "assists": [
@@ -1556,7 +1556,7 @@
             "player": "Ozzie Albies",
             "team": "Atlanta Braves",
             "position": "2B",
-            "value": "327"
+            "value": "329"
           },
           {
             "rank": 4,
