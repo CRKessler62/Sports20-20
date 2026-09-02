@@ -1,7 +1,7 @@
 {
   "league": "MLB",
   "timezone": "America/New_York",
-  "lastUpdated": "2026-09-02T20:13:01.952827+00:00",
+  "lastUpdated": "2026-09-02T21:11:43.948881+00:00",
   "games": [
     {
       "gamePk": 823431,
@@ -9680,9 +9680,9 @@
       "date": "2026-09-02",
       "gameDate": "2026-09-02T17:05:00Z",
       "localGameTime": "2026-09-02T13:05:00-04:00",
-      "status": "In Progress",
-      "abstractGameState": "Live",
-      "codedGameState": "I",
+      "status": "Final",
+      "abstractGameState": "Final",
+      "codedGameState": "F",
       "awayTeam": {
         "id": 144,
         "name": "Atlanta Braves",
@@ -9693,7 +9693,7 @@
         "name": "Washington Nationals",
         "abbreviation": "WSH"
       },
-      "awayScore": 3,
+      "awayScore": 9,
       "homeScore": 0,
       "venue": "Nationals Park",
       "awayPitcher": "Grant Holmes",
@@ -9717,7 +9717,7 @@
         "name": "Texas Rangers",
         "abbreviation": "TEX"
       },
-      "awayScore": 6,
+      "awayScore": 9,
       "homeScore": 2,
       "venue": "Globe Life Field",
       "awayPitcher": "Jacob Lopez",
@@ -9742,7 +9742,7 @@
         "abbreviation": "COL"
       },
       "awayScore": 3,
-      "homeScore": 1,
+      "homeScore": 2,
       "venue": "Coors Field",
       "awayPitcher": "Trevor Rogers",
       "homePitcher": "Tomoyuki Sugano"
@@ -9789,7 +9789,7 @@
         "name": "Boston Red Sox",
         "abbreviation": "BOS"
       },
-      "awayScore": 0,
+      "awayScore": 4,
       "homeScore": 0,
       "venue": "Fenway Park",
       "awayPitcher": "Bryce Miller",
@@ -9885,8 +9885,8 @@
         "name": "Minnesota Twins",
         "abbreviation": "MIN"
       },
-      "awayScore": null,
-      "homeScore": null,
+      "awayScore": 0,
+      "homeScore": 0,
       "venue": "Target Field",
       "awayPitcher": "Drew Anderson",
       "homePitcher": "Dean Kremer"
@@ -9909,8 +9909,8 @@
         "name": "Kansas City Royals",
         "abbreviation": "KC"
       },
-      "awayScore": null,
-      "homeScore": null,
+      "awayScore": 0,
+      "homeScore": 0,
       "venue": "Kauffman Stadium",
       "awayPitcher": "Eury P\u00e9rez",
       "homePitcher": "Noah Cameron"
@@ -9920,9 +9920,9 @@
       "date": "2026-09-02",
       "gameDate": "2026-09-02T23:40:00Z",
       "localGameTime": "2026-09-02T19:40:00-04:00",
-      "status": "Scheduled",
+      "status": "Pre-Game",
       "abstractGameState": "Preview",
-      "codedGameState": "S",
+      "codedGameState": "P",
       "awayTeam": {
         "id": 158,
         "name": "Milwaukee Brewers",
@@ -9933,8 +9933,8 @@
         "name": "Chicago Cubs",
         "abbreviation": "CHC"
       },
-      "awayScore": null,
-      "homeScore": null,
+      "awayScore": 0,
+      "homeScore": 0,
       "venue": "Wrigley Field",
       "awayPitcher": "Jacob Misiorowski",
       "homePitcher": "David Peterson"
@@ -9944,9 +9944,9 @@
       "date": "2026-09-02",
       "gameDate": "2026-09-03T00:10:00Z",
       "localGameTime": "2026-09-02T20:10:00-04:00",
-      "status": "Scheduled",
+      "status": "Pre-Game",
       "abstractGameState": "Preview",
-      "codedGameState": "S",
+      "codedGameState": "P",
       "awayTeam": {
         "id": 145,
         "name": "Chicago White Sox",
@@ -9957,8 +9957,8 @@
         "name": "Houston Astros",
         "abbreviation": "HOU"
       },
-      "awayScore": null,
-      "homeScore": null,
+      "awayScore": 0,
+      "homeScore": 0,
       "venue": "Daikin Park",
       "awayPitcher": "Davis Martin",
       "homePitcher": "Hayden Wesneski"
