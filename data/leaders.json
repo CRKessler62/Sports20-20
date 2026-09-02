@@ -1,6 +1,6 @@
 {
   "season": 2026,
-  "lastUpdated": "2026-09-02T18:27:15.925153+00:00",
+  "lastUpdated": "2026-09-02T19:21:53.909388+00:00",
   "leagues": {
     "AL": {
       "offense": {
@@ -260,7 +260,7 @@
             "player": "Pete Alonso",
             "team": "Baltimore Orioles",
             "position": "1B",
-            "value": ".499"
+            "value": ".498"
           }
         ],
         "ops": [
