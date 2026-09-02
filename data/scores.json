@@ -1,6 +1,6 @@
 {
   "league": "MLB",
-  "lastUpdated": "2026-09-02T21:58:35.564588+00:00",
+  "lastUpdated": "2026-09-02T22:18:40.356123+00:00",
   "games": [
     {
       "gamePk": 824470,
@@ -204,19 +204,19 @@
       "gamePk": 824312,
       "awayTeam": "Baltimore Orioles",
       "homeTeam": "Colorado Rockies",
-      "awayScore": 3,
+      "awayScore": 4,
       "homeScore": 3,
       "status": "In Progress",
       "gameDate": "2026-09-02T19:10:00Z",
-      "inning": 10,
-      "inningOrdinal": "10th",
+      "inning": 11,
+      "inningOrdinal": "11th",
       "inningState": "Top",
       "outs": 1,
       "battingTeam": "Baltimore Orioles",
       "runners": {
         "first": true,
         "second": false,
-        "third": false
+        "third": true
       },
       "inningScores": [
         {
@@ -267,6 +267,11 @@
         {
           "inning": 10,
           "awayRuns": 0,
+          "homeRuns": 0
+        },
+        {
+          "inning": 11,
+          "awayRuns": 1,
           "homeRuns": 0
         }
       ]
@@ -341,18 +346,18 @@
       "gamePk": 824717,
       "awayTeam": "Seattle Mariners",
       "homeTeam": "Boston Red Sox",
-      "awayScore": 6,
+      "awayScore": 8,
       "homeScore": 1,
       "status": "In Progress",
       "gameDate": "2026-09-02T20:10:00Z",
-      "inning": 6,
-      "inningOrdinal": "6th",
+      "inning": 7,
+      "inningOrdinal": "7th",
       "inningState": "Top",
-      "outs": 0,
+      "outs": 1,
       "battingTeam": "Seattle Mariners",
       "runners": {
-        "first": true,
-        "second": true,
+        "first": false,
+        "second": false,
         "third": false
       },
       "inningScores": [
@@ -383,7 +388,12 @@
         },
         {
           "inning": 6,
-          "awayRuns": 2,
+          "awayRuns": 4,
+          "homeRuns": 0
+        },
+        {
+          "inning": 7,
+          "awayRuns": 0,
           "homeRuns": 0
         }
       ]
@@ -446,7 +456,7 @@
       "homeTeam": "Cleveland Guardians",
       "awayScore": 0,
       "homeScore": 0,
-      "status": "Pre-Game",
+      "status": "Warmup",
       "gameDate": "2026-09-02T22:40:00Z",
       "inning": 1,
       "inningOrdinal": "1st",
