@@ -1,6 +1,6 @@
 {
   "league": "MLB",
-  "lastUpdated": "2026-09-02T20:57:46.930995+00:00",
+  "lastUpdated": "2026-09-02T21:16:56.200803+00:00",
   "games": [
     {
       "gamePk": 824470,
@@ -74,13 +74,13 @@
       "homeTeam": "Washington Nationals",
       "awayScore": 9,
       "homeScore": 0,
-      "status": "In Progress",
+      "status": "Final",
       "gameDate": "2026-09-02T17:05:00Z",
       "inning": 9,
       "inningOrdinal": "9th",
-      "inningState": "Middle",
+      "inningState": "Bottom",
       "outs": 3,
-      "battingTeam": "Atlanta Braves",
+      "battingTeam": "Washington Nationals",
       "runners": {
         "first": false,
         "second": false,
@@ -142,10 +142,10 @@
       "homeScore": 2,
       "status": "In Progress",
       "gameDate": "2026-09-02T18:35:00Z",
-      "inning": 8,
-      "inningOrdinal": "8th",
+      "inning": 9,
+      "inningOrdinal": "9th",
       "inningState": "Top",
-      "outs": 0,
+      "outs": 2,
       "battingTeam": "Athletics",
       "runners": {
         "first": true,
@@ -192,6 +192,11 @@
           "inning": 8,
           "awayRuns": 0,
           "homeRuns": 0
+        },
+        {
+          "inning": 9,
+          "awayRuns": 0,
+          "homeRuns": 0
         }
       ]
     },
@@ -203,14 +208,14 @@
       "homeScore": 2,
       "status": "In Progress",
       "gameDate": "2026-09-02T19:10:00Z",
-      "inning": 7,
-      "inningOrdinal": "7th",
+      "inning": 8,
+      "inningOrdinal": "8th",
       "inningState": "Top",
-      "outs": 2,
+      "outs": 0,
       "battingTeam": "Baltimore Orioles",
       "runners": {
         "first": true,
-        "second": true,
+        "second": false,
         "third": false
       },
       "inningScores": [
@@ -248,6 +253,11 @@
           "inning": 7,
           "awayRuns": 0,
           "homeRuns": 0
+        },
+        {
+          "inning": 8,
+          "awayRuns": 0,
+          "homeRuns": 0
         }
       ]
     },
@@ -259,13 +269,13 @@
       "homeScore": 0,
       "status": "In Progress",
       "gameDate": "2026-09-02T19:40:00Z",
-      "inning": 6,
-      "inningOrdinal": "6th",
-      "inningState": "Top",
-      "outs": 1,
+      "inning": 7,
+      "inningOrdinal": "7th",
+      "inningState": "Middle",
+      "outs": 3,
       "battingTeam": "Philadelphia Phillies",
       "runners": {
-        "first": true,
+        "first": false,
         "second": false,
         "third": false
       },
@@ -299,6 +309,11 @@
           "inning": 6,
           "awayRuns": 0,
           "homeRuns": 0
+        },
+        {
+          "inning": 7,
+          "awayRuns": 0,
+          "homeRuns": 0
         }
       ]
     },
@@ -310,14 +325,14 @@
       "homeScore": 0,
       "status": "In Progress",
       "gameDate": "2026-09-02T20:10:00Z",
-      "inning": 3,
-      "inningOrdinal": "3rd",
+      "inning": 4,
+      "inningOrdinal": "4th",
       "inningState": "Bottom",
       "outs": 0,
       "battingTeam": "Boston Red Sox",
       "runners": {
         "first": false,
-        "second": false,
+        "second": true,
         "third": false
       },
       "inningScores": [
@@ -334,6 +349,11 @@
         {
           "inning": 3,
           "awayRuns": 4,
+          "homeRuns": 0
+        },
+        {
+          "inning": 4,
+          "awayRuns": 0,
           "homeRuns": 0
         }
       ]
@@ -470,17 +490,23 @@
       "homeScore": 0,
       "status": "Pre-Game",
       "gameDate": "2026-09-02T23:40:00Z",
-      "inning": null,
-      "inningOrdinal": null,
-      "inningState": null,
-      "outs": null,
-      "battingTeam": null,
+      "inning": 1,
+      "inningOrdinal": "1st",
+      "inningState": "Top",
+      "outs": 0,
+      "battingTeam": "Milwaukee Brewers",
       "runners": {
         "first": false,
         "second": false,
         "third": false
       },
-      "inningScores": []
+      "inningScores": [
+        {
+          "inning": 1,
+          "awayRuns": 0,
+          "homeRuns": 0
+        }
+      ]
     },
     {
       "gamePk": 824147,
