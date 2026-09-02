@@ -1,6 +1,6 @@
 {
   "league": "MLB",
-  "lastUpdated": "2026-09-02T22:18:40.356123+00:00",
+  "lastUpdated": "2026-09-02T22:35:30.320725+00:00",
   "games": [
     {
       "gamePk": 824470,
@@ -204,19 +204,19 @@
       "gamePk": 824312,
       "awayTeam": "Baltimore Orioles",
       "homeTeam": "Colorado Rockies",
-      "awayScore": 4,
-      "homeScore": 3,
+      "awayScore": 5,
+      "homeScore": 4,
       "status": "In Progress",
       "gameDate": "2026-09-02T19:10:00Z",
       "inning": 11,
       "inningOrdinal": "11th",
-      "inningState": "Top",
+      "inningState": "Bottom",
       "outs": 1,
-      "battingTeam": "Baltimore Orioles",
+      "battingTeam": "Colorado Rockies",
       "runners": {
         "first": true,
         "second": false,
-        "third": true
+        "third": false
       },
       "inningScores": [
         {
@@ -271,8 +271,8 @@
         },
         {
           "inning": 11,
-          "awayRuns": 1,
-          "homeRuns": 0
+          "awayRuns": 2,
+          "homeRuns": 1
         }
       ]
     },
@@ -347,17 +347,17 @@
       "awayTeam": "Seattle Mariners",
       "homeTeam": "Boston Red Sox",
       "awayScore": 8,
-      "homeScore": 1,
+      "homeScore": 3,
       "status": "In Progress",
       "gameDate": "2026-09-02T20:10:00Z",
       "inning": 7,
       "inningOrdinal": "7th",
-      "inningState": "Top",
+      "inningState": "Bottom",
       "outs": 1,
-      "battingTeam": "Seattle Mariners",
+      "battingTeam": "Boston Red Sox",
       "runners": {
         "first": false,
-        "second": false,
+        "second": true,
         "third": false
       },
       "inningScores": [
@@ -394,7 +394,7 @@
         {
           "inning": 7,
           "awayRuns": 0,
-          "homeRuns": 0
+          "homeRuns": 2
         }
       ]
     },
@@ -404,7 +404,7 @@
       "homeTeam": "Pittsburgh Pirates",
       "awayScore": 0,
       "homeScore": 0,
-      "status": "Pre-Game",
+      "status": "Warmup",
       "gameDate": "2026-09-02T22:40:00Z",
       "inning": 1,
       "inningOrdinal": "1st",
@@ -430,7 +430,7 @@
       "homeTeam": "Tampa Bay Rays",
       "awayScore": 0,
       "homeScore": 0,
-      "status": "Pre-Game",
+      "status": "Warmup",
       "gameDate": "2026-09-02T22:40:00Z",
       "inning": 1,
       "inningOrdinal": "1st",
@@ -606,7 +606,7 @@
       "homeTeam": "Los Angeles Dodgers",
       "awayScore": 0,
       "homeScore": 0,
-      "status": "Scheduled",
+      "status": "Pre-Game",
       "gameDate": "2026-09-03T02:10:00Z",
       "inning": null,
       "inningOrdinal": null,
