@@ -1,7 +1,7 @@
 {
   "league": "MLB",
   "timezone": "America/New_York",
-  "lastUpdated": "2026-09-02T18:15:42.351211+00:00",
+  "lastUpdated": "2026-09-02T20:13:01.952827+00:00",
   "games": [
     {
       "gamePk": 823431,
@@ -9656,9 +9656,9 @@
       "date": "2026-09-02",
       "gameDate": "2026-09-02T16:40:00Z",
       "localGameTime": "2026-09-02T12:40:00-04:00",
-      "status": "In Progress",
-      "abstractGameState": "Live",
-      "codedGameState": "I",
+      "status": "Final",
+      "abstractGameState": "Final",
+      "codedGameState": "F",
       "awayTeam": {
         "id": 135,
         "name": "San Diego Padres",
@@ -9670,7 +9670,7 @@
         "abbreviation": "CIN"
       },
       "awayScore": 3,
-      "homeScore": 4,
+      "homeScore": 7,
       "venue": "Great American Ball Park",
       "awayPitcher": "Casey Mize",
       "homePitcher": "Brandon Williamson"
@@ -9680,7 +9680,7 @@
       "date": "2026-09-02",
       "gameDate": "2026-09-02T17:05:00Z",
       "localGameTime": "2026-09-02T13:05:00-04:00",
-      "status": "Delayed",
+      "status": "In Progress",
       "abstractGameState": "Live",
       "codedGameState": "I",
       "awayTeam": {
@@ -9693,7 +9693,7 @@
         "name": "Washington Nationals",
         "abbreviation": "WSH"
       },
-      "awayScore": 0,
+      "awayScore": 3,
       "homeScore": 0,
       "venue": "Nationals Park",
       "awayPitcher": "Grant Holmes",
@@ -9704,9 +9704,9 @@
       "date": "2026-09-02",
       "gameDate": "2026-09-02T18:35:00Z",
       "localGameTime": "2026-09-02T14:35:00-04:00",
-      "status": "Warmup",
+      "status": "In Progress",
       "abstractGameState": "Live",
-      "codedGameState": "P",
+      "codedGameState": "I",
       "awayTeam": {
         "id": 133,
         "name": "Athletics",
@@ -9717,8 +9717,8 @@
         "name": "Texas Rangers",
         "abbreviation": "TEX"
       },
-      "awayScore": 0,
-      "homeScore": 0,
+      "awayScore": 6,
+      "homeScore": 2,
       "venue": "Globe Life Field",
       "awayPitcher": "Jacob Lopez",
       "homePitcher": "Cody Bradford"
@@ -9728,9 +9728,9 @@
       "date": "2026-09-02",
       "gameDate": "2026-09-02T19:10:00Z",
       "localGameTime": "2026-09-02T15:10:00-04:00",
-      "status": "Pre-Game",
-      "abstractGameState": "Preview",
-      "codedGameState": "P",
+      "status": "In Progress",
+      "abstractGameState": "Live",
+      "codedGameState": "I",
       "awayTeam": {
         "id": 110,
         "name": "Baltimore Orioles",
@@ -9741,8 +9741,8 @@
         "name": "Colorado Rockies",
         "abbreviation": "COL"
       },
-      "awayScore": 0,
-      "homeScore": 0,
+      "awayScore": 3,
+      "homeScore": 1,
       "venue": "Coors Field",
       "awayPitcher": "Trevor Rogers",
       "homePitcher": "Tomoyuki Sugano"
@@ -9752,9 +9752,9 @@
       "date": "2026-09-02",
       "gameDate": "2026-09-02T19:40:00Z",
       "localGameTime": "2026-09-02T15:40:00-04:00",
-      "status": "Pre-Game",
-      "abstractGameState": "Preview",
-      "codedGameState": "P",
+      "status": "In Progress",
+      "abstractGameState": "Live",
+      "codedGameState": "I",
       "awayTeam": {
         "id": 143,
         "name": "Philadelphia Phillies",
@@ -9776,9 +9776,9 @@
       "date": "2026-09-02",
       "gameDate": "2026-09-02T20:10:00Z",
       "localGameTime": "2026-09-02T16:10:00-04:00",
-      "status": "Pre-Game",
-      "abstractGameState": "Preview",
-      "codedGameState": "P",
+      "status": "In Progress",
+      "abstractGameState": "Live",
+      "codedGameState": "I",
       "awayTeam": {
         "id": 136,
         "name": "Seattle Mariners",
@@ -9800,9 +9800,9 @@
       "date": "2026-09-02",
       "gameDate": "2026-09-02T22:40:00Z",
       "localGameTime": "2026-09-02T18:40:00-04:00",
-      "status": "Scheduled",
+      "status": "Pre-Game",
       "abstractGameState": "Preview",
-      "codedGameState": "S",
+      "codedGameState": "P",
       "awayTeam": {
         "id": 137,
         "name": "San Francisco Giants",
@@ -9813,8 +9813,8 @@
         "name": "Pittsburgh Pirates",
         "abbreviation": "PIT"
       },
-      "awayScore": null,
-      "homeScore": null,
+      "awayScore": 0,
+      "homeScore": 0,
       "venue": "PNC Park",
       "awayPitcher": "Landen Roupp",
       "homePitcher": "Bubba Chandler"
@@ -9824,9 +9824,9 @@
       "date": "2026-09-02",
       "gameDate": "2026-09-02T22:40:00Z",
       "localGameTime": "2026-09-02T18:40:00-04:00",
-      "status": "Scheduled",
+      "status": "Pre-Game",
       "abstractGameState": "Preview",
-      "codedGameState": "S",
+      "codedGameState": "P",
       "awayTeam": {
         "id": 121,
         "name": "New York Mets",
@@ -9837,8 +9837,8 @@
         "name": "Tampa Bay Rays",
         "abbreviation": "TB"
       },
-      "awayScore": null,
-      "homeScore": null,
+      "awayScore": 0,
+      "homeScore": 0,
       "venue": "Tropicana Field",
       "awayPitcher": "Justin Hagenman",
       "homePitcher": "Griffin Jax"
@@ -9848,9 +9848,9 @@
       "date": "2026-09-02",
       "gameDate": "2026-09-02T22:40:00Z",
       "localGameTime": "2026-09-02T18:40:00-04:00",
-      "status": "Scheduled",
+      "status": "Pre-Game",
       "abstractGameState": "Preview",
-      "codedGameState": "S",
+      "codedGameState": "P",
       "awayTeam": {
         "id": 141,
         "name": "Toronto Blue Jays",
@@ -9861,8 +9861,8 @@
         "name": "Cleveland Guardians",
         "abbreviation": "CLE"
       },
-      "awayScore": null,
-      "homeScore": null,
+      "awayScore": 0,
+      "homeScore": 0,
       "venue": "Progressive Field",
       "awayPitcher": "Dylan Cease",
       "homePitcher": "Joey Cantillo"
@@ -9872,9 +9872,9 @@
       "date": "2026-09-02",
       "gameDate": "2026-09-02T23:40:00Z",
       "localGameTime": "2026-09-02T19:40:00-04:00",
-      "status": "Scheduled",
+      "status": "Pre-Game",
       "abstractGameState": "Preview",
-      "codedGameState": "S",
+      "codedGameState": "P",
       "awayTeam": {
         "id": 116,
         "name": "Detroit Tigers",
@@ -9896,9 +9896,9 @@
       "date": "2026-09-02",
       "gameDate": "2026-09-02T23:40:00Z",
       "localGameTime": "2026-09-02T19:40:00-04:00",
-      "status": "Scheduled",
+      "status": "Pre-Game",
       "abstractGameState": "Preview",
-      "codedGameState": "S",
+      "codedGameState": "P",
       "awayTeam": {
         "id": 146,
         "name": "Miami Marlins",
@@ -10176,7 +10176,7 @@
       "awayScore": null,
       "homeScore": null,
       "venue": "Globe Life Field",
-      "awayPitcher": null,
+      "awayPitcher": "Shane McClanahan",
       "homePitcher": "Cal Quantrill"
     },
     {
@@ -10248,7 +10248,7 @@
       "awayScore": null,
       "homeScore": null,
       "venue": "Progressive Field",
-      "awayPitcher": null,
+      "awayPitcher": "Keider Montero",
       "homePitcher": null
     },
     {
@@ -10272,7 +10272,7 @@
       "awayScore": null,
       "homeScore": null,
       "venue": "Progressive Field",
-      "awayPitcher": null,
+      "awayPitcher": "Andrew Sears",
       "homePitcher": null
     },
     {
@@ -10464,7 +10464,7 @@
       "awayScore": null,
       "homeScore": null,
       "venue": "Globe Life Field",
-      "awayPitcher": null,
+      "awayPitcher": "Nick Martinez",
       "homePitcher": "Kumar Rocker"
     },
     {
@@ -10488,7 +10488,7 @@
       "awayScore": null,
       "homeScore": null,
       "venue": "Daikin Park",
-      "awayPitcher": null,
+      "awayPitcher": "Merrill Kelly",
       "homePitcher": null
     },
     {
@@ -10704,8 +10704,8 @@
       "awayScore": null,
       "homeScore": null,
       "venue": "Progressive Field",
-      "awayPitcher": null,
-      "homePitcher": null
+      "awayPitcher": "Framber Valdez",
+      "homePitcher": "Parker Messick"
     },
     {
       "gamePk": 823335,
@@ -10800,7 +10800,7 @@
       "awayScore": null,
       "homeScore": null,
       "venue": "Globe Life Field",
-      "awayPitcher": null,
+      "awayPitcher": "Drew Rasmussen",
       "homePitcher": "Jacob deGrom"
     },
     {
@@ -10872,7 +10872,7 @@
       "awayScore": null,
       "homeScore": null,
       "venue": "Daikin Park",
-      "awayPitcher": null,
+      "awayPitcher": "Brandon Pfaadt",
       "homePitcher": null
     },
     {
@@ -11088,7 +11088,7 @@
       "awayScore": null,
       "homeScore": null,
       "venue": "Progressive Field",
-      "awayPitcher": null,
+      "awayPitcher": "Jackson Jobe",
       "homePitcher": null
     },
     {
@@ -11160,7 +11160,7 @@
       "awayScore": null,
       "homeScore": null,
       "venue": "Daikin Park",
-      "awayPitcher": null,
+      "awayPitcher": "Eduardo Rodriguez",
       "homePitcher": null
     },
     {
