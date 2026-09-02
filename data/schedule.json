@@ -1,7 +1,7 @@
 {
   "league": "MLB",
   "timezone": "America/New_York",
-  "lastUpdated": "2026-09-02T13:13:05.945497+00:00",
+  "lastUpdated": "2026-09-02T14:12:58.911473+00:00",
   "games": [
     {
       "gamePk": 823431,
@@ -9656,9 +9656,9 @@
       "date": "2026-09-02",
       "gameDate": "2026-09-02T16:40:00Z",
       "localGameTime": "2026-09-02T12:40:00-04:00",
-      "status": "Scheduled",
+      "status": "Pre-Game",
       "abstractGameState": "Preview",
-      "codedGameState": "S",
+      "codedGameState": "P",
       "awayTeam": {
         "id": 135,
         "name": "San Diego Padres",
@@ -9669,8 +9669,8 @@
         "name": "Cincinnati Reds",
         "abbreviation": "CIN"
       },
-      "awayScore": null,
-      "homeScore": null,
+      "awayScore": 0,
+      "homeScore": 0,
       "venue": "Great American Ball Park",
       "awayPitcher": "Casey Mize",
       "homePitcher": "Brandon Williamson"
@@ -9680,9 +9680,9 @@
       "date": "2026-09-02",
       "gameDate": "2026-09-02T17:05:00Z",
       "localGameTime": "2026-09-02T13:05:00-04:00",
-      "status": "Scheduled",
+      "status": "Pre-Game",
       "abstractGameState": "Preview",
-      "codedGameState": "S",
+      "codedGameState": "P",
       "awayTeam": {
         "id": 144,
         "name": "Atlanta Braves",
