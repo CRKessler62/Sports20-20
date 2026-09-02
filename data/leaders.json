@@ -1,6 +1,6 @@
 {
   "season": 2026,
-  "lastUpdated": "2026-09-02T14:24:52.770880+00:00",
+  "lastUpdated": "2026-09-02T16:25:25.446812+00:00",
   "leagues": {
     "AL": {
       "offense": {
@@ -379,7 +379,7 @@
             "rank": 1,
             "player": "Kody Clemens",
             "team": "Minnesota Twins",
-            "position": "1B",
+            "position": "2B",
             "value": "6"
           },
           {
