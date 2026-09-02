@@ -1,6 +1,6 @@
 {
   "league": "MLB",
-  "lastUpdated": "2026-09-02T14:05:57.638451+00:00",
+  "lastUpdated": "2026-09-02T14:43:23.529991+00:00",
   "games": [
     {
       "gamePk": 824470,
@@ -34,7 +34,7 @@
       "homeTeam": "Washington Nationals",
       "awayScore": 0,
       "homeScore": 0,
-      "status": "Scheduled",
+      "status": "Pre-Game",
       "gameDate": "2026-09-02T17:05:00Z",
       "inning": null,
       "inningOrdinal": null,
