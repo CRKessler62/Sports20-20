@@ -1,7 +1,7 @@
 {
   "league": "MLB",
   "timezone": "America/New_York",
-  "lastUpdated": "2026-09-02T15:17:43.531836+00:00",
+  "lastUpdated": "2026-09-02T16:13:11.850479+00:00",
   "games": [
     {
       "gamePk": 823431,
@@ -9704,9 +9704,9 @@
       "date": "2026-09-02",
       "gameDate": "2026-09-02T18:35:00Z",
       "localGameTime": "2026-09-02T14:35:00-04:00",
-      "status": "Scheduled",
+      "status": "Pre-Game",
       "abstractGameState": "Preview",
-      "codedGameState": "S",
+      "codedGameState": "P",
       "awayTeam": {
         "id": 133,
         "name": "Athletics",
@@ -9717,8 +9717,8 @@
         "name": "Texas Rangers",
         "abbreviation": "TEX"
       },
-      "awayScore": null,
-      "homeScore": null,
+      "awayScore": 0,
+      "homeScore": 0,
       "venue": "Globe Life Field",
       "awayPitcher": "Jacob Lopez",
       "homePitcher": "Cody Bradford"
@@ -9728,9 +9728,9 @@
       "date": "2026-09-02",
       "gameDate": "2026-09-02T19:10:00Z",
       "localGameTime": "2026-09-02T15:10:00-04:00",
-      "status": "Scheduled",
+      "status": "Pre-Game",
       "abstractGameState": "Preview",
-      "codedGameState": "S",
+      "codedGameState": "P",
       "awayTeam": {
         "id": 110,
         "name": "Baltimore Orioles",
@@ -9752,9 +9752,9 @@
       "date": "2026-09-02",
       "gameDate": "2026-09-02T19:40:00Z",
       "localGameTime": "2026-09-02T15:40:00-04:00",
-      "status": "Scheduled",
+      "status": "Pre-Game",
       "abstractGameState": "Preview",
-      "codedGameState": "S",
+      "codedGameState": "P",
       "awayTeam": {
         "id": 143,
         "name": "Philadelphia Phillies",
@@ -10177,7 +10177,7 @@
       "homeScore": null,
       "venue": "Globe Life Field",
       "awayPitcher": null,
-      "homePitcher": null
+      "homePitcher": "Cal Quantrill"
     },
     {
       "gamePk": 823095,
@@ -10297,7 +10297,7 @@
       "homeScore": null,
       "venue": "Great American Ball Park",
       "awayPitcher": null,
-      "homePitcher": "Andrew Abbott"
+      "homePitcher": "Rhett Lowder"
     },
     {
       "gamePk": 823418,
@@ -10320,7 +10320,7 @@
       "awayScore": null,
       "homeScore": null,
       "venue": "Citizens Bank Park",
-      "awayPitcher": null,
+      "awayPitcher": "Chris Sale",
       "homePitcher": null
     },
     {
@@ -10465,7 +10465,7 @@
       "homeScore": null,
       "venue": "Globe Life Field",
       "awayPitcher": null,
-      "homePitcher": null
+      "homePitcher": "Kumar Rocker"
     },
     {
       "gamePk": 824146,
@@ -10680,7 +10680,7 @@
       "awayScore": null,
       "homeScore": null,
       "venue": "Citizens Bank Park",
-      "awayPitcher": null,
+      "awayPitcher": "Mart\u00edn P\u00e9rez",
       "homePitcher": null
     },
     {
@@ -10753,7 +10753,7 @@
       "homeScore": null,
       "venue": "Great American Ball Park",
       "awayPitcher": null,
-      "homePitcher": null
+      "homePitcher": "Andrew Abbott"
     },
     {
       "gamePk": 824795,
@@ -10801,7 +10801,7 @@
       "homeScore": null,
       "venue": "Globe Life Field",
       "awayPitcher": null,
-      "homePitcher": null
+      "homePitcher": "Jacob deGrom"
     },
     {
       "gamePk": 824066,
@@ -11016,7 +11016,7 @@
       "awayScore": null,
       "homeScore": null,
       "venue": "Citizens Bank Park",
-      "awayPitcher": null,
+      "awayPitcher": "Tyler Mahle",
       "homePitcher": null
     },
     {
@@ -11209,7 +11209,7 @@
       "homeScore": null,
       "venue": "Globe Life Field",
       "awayPitcher": null,
-      "homePitcher": null
+      "homePitcher": "MacKenzie Gore"
     },
     {
       "gamePk": 824309,
@@ -11352,7 +11352,7 @@
       "awayScore": null,
       "homeScore": null,
       "venue": "Citizens Bank Park",
-      "awayPitcher": null,
+      "awayPitcher": "Bryce Elder",
       "homePitcher": null
     },
     {
