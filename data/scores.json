@@ -1,6 +1,6 @@
 {
   "league": "MLB",
-  "lastUpdated": "2026-09-02T21:16:56.200803+00:00",
+  "lastUpdated": "2026-09-02T21:46:10.272433+00:00",
   "games": [
     {
       "gamePk": 824470,
@@ -140,15 +140,15 @@
       "homeTeam": "Texas Rangers",
       "awayScore": 9,
       "homeScore": 2,
-      "status": "In Progress",
+      "status": "Final",
       "gameDate": "2026-09-02T18:35:00Z",
       "inning": 9,
       "inningOrdinal": "9th",
-      "inningState": "Top",
-      "outs": 2,
-      "battingTeam": "Athletics",
+      "inningState": "Bottom",
+      "outs": 3,
+      "battingTeam": "Texas Rangers",
       "runners": {
-        "first": true,
+        "first": false,
         "second": false,
         "third": false
       },
@@ -208,14 +208,14 @@
       "homeScore": 2,
       "status": "In Progress",
       "gameDate": "2026-09-02T19:10:00Z",
-      "inning": 8,
-      "inningOrdinal": "8th",
-      "inningState": "Top",
-      "outs": 0,
-      "battingTeam": "Baltimore Orioles",
+      "inning": 9,
+      "inningOrdinal": "9th",
+      "inningState": "Bottom",
+      "outs": 2,
+      "battingTeam": "Colorado Rockies",
       "runners": {
-        "first": true,
-        "second": false,
+        "first": false,
+        "second": true,
         "third": false
       },
       "inningScores": [
@@ -258,6 +258,11 @@
           "inning": 8,
           "awayRuns": 0,
           "homeRuns": 0
+        },
+        {
+          "inning": 9,
+          "awayRuns": 0,
+          "homeRuns": 0
         }
       ]
     },
@@ -266,12 +271,12 @@
       "awayTeam": "Philadelphia Phillies",
       "homeTeam": "Arizona Diamondbacks",
       "awayScore": 0,
-      "homeScore": 0,
-      "status": "In Progress",
+      "homeScore": 1,
+      "status": "Game Over",
       "gameDate": "2026-09-02T19:40:00Z",
-      "inning": 7,
-      "inningOrdinal": "7th",
-      "inningState": "Middle",
+      "inning": 9,
+      "inningOrdinal": "9th",
+      "inningState": "Top",
       "outs": 3,
       "battingTeam": "Philadelphia Phillies",
       "runners": {
@@ -314,6 +319,16 @@
           "inning": 7,
           "awayRuns": 0,
           "homeRuns": 0
+        },
+        {
+          "inning": 8,
+          "awayRuns": 0,
+          "homeRuns": 1
+        },
+        {
+          "inning": 9,
+          "awayRuns": 0,
+          "homeRuns": 0
         }
       ]
     },
@@ -322,18 +337,18 @@
       "awayTeam": "Seattle Mariners",
       "homeTeam": "Boston Red Sox",
       "awayScore": 4,
-      "homeScore": 0,
+      "homeScore": 1,
       "status": "In Progress",
       "gameDate": "2026-09-02T20:10:00Z",
-      "inning": 4,
-      "inningOrdinal": "4th",
+      "inning": 5,
+      "inningOrdinal": "5th",
       "inningState": "Bottom",
-      "outs": 0,
+      "outs": 2,
       "battingTeam": "Boston Red Sox",
       "runners": {
         "first": false,
         "second": true,
-        "third": false
+        "third": true
       },
       "inningScores": [
         {
@@ -353,6 +368,11 @@
         },
         {
           "inning": 4,
+          "awayRuns": 0,
+          "homeRuns": 1
+        },
+        {
+          "inning": 5,
           "awayRuns": 0,
           "homeRuns": 0
         }
@@ -402,7 +422,13 @@
         "second": false,
         "third": false
       },
-      "inningScores": []
+      "inningScores": [
+        {
+          "inning": 1,
+          "awayRuns": 0,
+          "homeRuns": 0
+        }
+      ]
     },
     {
       "gamePk": 824390,
@@ -540,7 +566,7 @@
       "homeTeam": "Los Angeles Angels",
       "awayScore": 0,
       "homeScore": 0,
-      "status": "Scheduled",
+      "status": "Pre-Game",
       "gameDate": "2026-09-03T01:38:00Z",
       "inning": null,
       "inningOrdinal": null,
