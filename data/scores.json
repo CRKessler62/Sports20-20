@@ -1,6 +1,6 @@
 {
   "league": "MLB",
-  "lastUpdated": "2026-09-02T22:49:02.262126+00:00",
+  "lastUpdated": "2026-09-02T23:02:29.422966+00:00",
   "games": [
     {
       "gamePk": 824470,
@@ -348,13 +348,13 @@
       "homeTeam": "Boston Red Sox",
       "awayScore": 8,
       "homeScore": 3,
-      "status": "In Progress",
+      "status": "Game Over",
       "gameDate": "2026-09-02T20:10:00Z",
-      "inning": 8,
-      "inningOrdinal": "8th",
-      "inningState": "End",
+      "inning": 9,
+      "inningOrdinal": "9th",
+      "inningState": "Bottom",
       "outs": 3,
-      "battingTeam": "Seattle Mariners",
+      "battingTeam": "Boston Red Sox",
       "runners": {
         "first": false,
         "second": false,
@@ -400,6 +400,11 @@
           "inning": 8,
           "awayRuns": 0,
           "homeRuns": 0
+        },
+        {
+          "inning": 9,
+          "awayRuns": 0,
+          "homeRuns": 0
         }
       ]
     },
@@ -411,8 +416,8 @@
       "homeScore": 0,
       "status": "In Progress",
       "gameDate": "2026-09-02T22:40:00Z",
-      "inning": 1,
-      "inningOrdinal": "1st",
+      "inning": 2,
+      "inningOrdinal": "2nd",
       "inningState": "Middle",
       "outs": 3,
       "battingTeam": "San Francisco Giants",
@@ -426,6 +431,11 @@
           "inning": 1,
           "awayRuns": 1,
           "homeRuns": 0
+        },
+        {
+          "inning": 2,
+          "awayRuns": 0,
+          "homeRuns": 0
         }
       ]
     },
@@ -433,23 +443,28 @@
       "gamePk": 822931,
       "awayTeam": "New York Mets",
       "homeTeam": "Tampa Bay Rays",
-      "awayScore": 0,
+      "awayScore": 3,
       "homeScore": 0,
       "status": "In Progress",
       "gameDate": "2026-09-02T22:40:00Z",
-      "inning": 1,
-      "inningOrdinal": "1st",
+      "inning": 2,
+      "inningOrdinal": "2nd",
       "inningState": "Top",
-      "outs": 2,
+      "outs": 0,
       "battingTeam": "New York Mets",
       "runners": {
-        "first": true,
-        "second": true,
+        "first": false,
+        "second": false,
         "third": false
       },
       "inningScores": [
         {
           "inning": 1,
+          "awayRuns": 3,
+          "homeRuns": 0
+        },
+        {
+          "inning": 2,
           "awayRuns": 0,
           "homeRuns": 0
         }
@@ -463,20 +478,25 @@
       "homeScore": 0,
       "status": "In Progress",
       "gameDate": "2026-09-02T22:40:00Z",
-      "inning": 1,
-      "inningOrdinal": "1st",
-      "inningState": "Middle",
-      "outs": 3,
+      "inning": 2,
+      "inningOrdinal": "2nd",
+      "inningState": "Top",
+      "outs": 1,
       "battingTeam": "Toronto Blue Jays",
       "runners": {
         "first": false,
-        "second": false,
+        "second": true,
         "third": false
       },
       "inningScores": [
         {
           "inning": 1,
           "awayRuns": 1,
+          "homeRuns": 0
+        },
+        {
+          "inning": 2,
+          "awayRuns": 0,
           "homeRuns": 0
         }
       ]
