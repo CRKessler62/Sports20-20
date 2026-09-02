@@ -1,6 +1,6 @@
 {
   "league": "MLB",
-  "lastUpdated": "2026-09-02T15:02:05.585872+00:00",
+  "lastUpdated": "2026-09-02T15:25:03.985021+00:00",
   "games": [
     {
       "gamePk": 824470,
@@ -100,7 +100,7 @@
       "homeTeam": "Arizona Diamondbacks",
       "awayScore": 0,
       "homeScore": 0,
-      "status": "Scheduled",
+      "status": "Pre-Game",
       "gameDate": "2026-09-02T19:40:00Z",
       "inning": null,
       "inningOrdinal": null,
