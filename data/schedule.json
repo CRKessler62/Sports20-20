@@ -1,7 +1,7 @@
 {
   "league": "MLB",
   "timezone": "America/New_York",
-  "lastUpdated": "2026-09-02T12:17:08.824784+00:00",
+  "lastUpdated": "2026-09-02T13:13:05.945497+00:00",
   "games": [
     {
       "gamePk": 823431,
@@ -9817,7 +9817,7 @@
       "homeScore": null,
       "venue": "PNC Park",
       "awayPitcher": "Landen Roupp",
-      "homePitcher": "Jared Jones"
+      "homePitcher": "Bubba Chandler"
     },
     {
       "gamePk": 822931,
@@ -10345,7 +10345,7 @@
       "homeScore": null,
       "venue": "PNC Park",
       "awayPitcher": null,
-      "homePitcher": null
+      "homePitcher": "Jared Jones"
     },
     {
       "gamePk": 824797,
