@@ -1,7 +1,7 @@
 {
   "league": "MLB",
   "timezone": "America/New_York",
-  "lastUpdated": "2026-09-02T02:20:31.411604+00:00",
+  "lastUpdated": "2026-09-02T03:12:35.252292+00:00",
   "games": [
     {
       "gamePk": 823431,
@@ -9320,9 +9320,9 @@
       "date": "2026-09-01",
       "gameDate": "2026-09-01T22:40:00Z",
       "localGameTime": "2026-09-01T18:40:00-04:00",
-      "status": "In Progress",
-      "abstractGameState": "Live",
-      "codedGameState": "I",
+      "status": "Final",
+      "abstractGameState": "Final",
+      "codedGameState": "F",
       "awayTeam": {
         "id": 137,
         "name": "San Francisco Giants",
@@ -9392,9 +9392,9 @@
       "date": "2026-09-01",
       "gameDate": "2026-09-01T22:45:00Z",
       "localGameTime": "2026-09-01T18:45:00-04:00",
-      "status": "Game Over",
+      "status": "Final",
       "abstractGameState": "Final",
-      "codedGameState": "O",
+      "codedGameState": "F",
       "awayTeam": {
         "id": 136,
         "name": "Seattle Mariners",
@@ -9440,9 +9440,9 @@
       "date": "2026-09-01",
       "gameDate": "2026-09-01T23:40:00Z",
       "localGameTime": "2026-09-01T19:40:00-04:00",
-      "status": "In Progress",
-      "abstractGameState": "Live",
-      "codedGameState": "I",
+      "status": "Final",
+      "abstractGameState": "Final",
+      "codedGameState": "F",
       "awayTeam": {
         "id": 116,
         "name": "Detroit Tigers",
@@ -9454,7 +9454,7 @@
         "abbreviation": "MIN"
       },
       "awayScore": 2,
-      "homeScore": 14,
+      "homeScore": 15,
       "venue": "Target Field",
       "awayPitcher": "Troy Melton",
       "homePitcher": "Andrew Morris"
@@ -9488,9 +9488,9 @@
       "date": "2026-09-01",
       "gameDate": "2026-09-01T23:40:00Z",
       "localGameTime": "2026-09-01T19:40:00-04:00",
-      "status": "In Progress",
-      "abstractGameState": "Live",
-      "codedGameState": "I",
+      "status": "Game Over",
+      "abstractGameState": "Final",
+      "codedGameState": "O",
       "awayTeam": {
         "id": 158,
         "name": "Milwaukee Brewers",
@@ -9501,7 +9501,7 @@
         "name": "Chicago Cubs",
         "abbreviation": "CHC"
       },
-      "awayScore": 7,
+      "awayScore": 9,
       "homeScore": 4,
       "venue": "Wrigley Field",
       "awayPitcher": "Robert Gasser",
@@ -9525,7 +9525,7 @@
         "name": "Texas Rangers",
         "abbreviation": "TEX"
       },
-      "awayScore": 1,
+      "awayScore": 5,
       "homeScore": 8,
       "venue": "Globe Life Field",
       "awayPitcher": "Brady Basso",
@@ -9549,8 +9549,8 @@
         "name": "Houston Astros",
         "abbreviation": "HOU"
       },
-      "awayScore": 3,
-      "homeScore": 0,
+      "awayScore": 5,
+      "homeScore": 1,
       "venue": "Daikin Park",
       "awayPitcher": "Sean Burke",
       "homePitcher": "Ronel Blanco"
@@ -9573,8 +9573,8 @@
         "name": "Colorado Rockies",
         "abbreviation": "COL"
       },
-      "awayScore": 1,
-      "homeScore": 2,
+      "awayScore": 2,
+      "homeScore": 4,
       "venue": "Coors Field",
       "awayPitcher": "Kyle Bradish",
       "homePitcher": "Gabriel Hughes"
@@ -9598,7 +9598,7 @@
         "abbreviation": "LAA"
       },
       "awayScore": 4,
-      "homeScore": 0,
+      "homeScore": 1,
       "venue": "Angel Stadium",
       "awayPitcher": "Gerrit Cole",
       "homePitcher": "Grayson Rodriguez"
@@ -9621,8 +9621,8 @@
         "name": "Arizona Diamondbacks",
         "abbreviation": "AZ"
       },
-      "awayScore": 2,
-      "homeScore": 0,
+      "awayScore": 3,
+      "homeScore": 1,
       "venue": "Chase Field",
       "awayPitcher": "Jes\u00fas Luzardo",
       "homePitcher": "Eduardo Rodriguez"
@@ -9645,7 +9645,7 @@
         "name": "Los Angeles Dodgers",
         "abbreviation": "LAD"
       },
-      "awayScore": 0,
+      "awayScore": 7,
       "homeScore": 0,
       "venue": "UNIQLO Field at Dodger Stadium",
       "awayPitcher": "Michael McGreevy",
@@ -9697,7 +9697,7 @@
       "homeScore": null,
       "venue": "Nationals Park",
       "awayPitcher": "Grant Holmes",
-      "homePitcher": null
+      "homePitcher": "Brad Lord"
     },
     {
       "gamePk": 822851,
