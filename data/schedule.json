@@ -1,7 +1,7 @@
 {
   "league": "MLB",
   "timezone": "America/New_York",
-  "lastUpdated": "2026-09-02T21:11:43.948881+00:00",
+  "lastUpdated": "2026-09-02T22:12:38.350469+00:00",
   "games": [
     {
       "gamePk": 823431,
@@ -9704,9 +9704,9 @@
       "date": "2026-09-02",
       "gameDate": "2026-09-02T18:35:00Z",
       "localGameTime": "2026-09-02T14:35:00-04:00",
-      "status": "In Progress",
-      "abstractGameState": "Live",
-      "codedGameState": "I",
+      "status": "Final",
+      "abstractGameState": "Final",
+      "codedGameState": "F",
       "awayTeam": {
         "id": 133,
         "name": "Athletics",
@@ -9742,7 +9742,7 @@
         "abbreviation": "COL"
       },
       "awayScore": 3,
-      "homeScore": 2,
+      "homeScore": 3,
       "venue": "Coors Field",
       "awayPitcher": "Trevor Rogers",
       "homePitcher": "Tomoyuki Sugano"
@@ -9752,9 +9752,9 @@
       "date": "2026-09-02",
       "gameDate": "2026-09-02T19:40:00Z",
       "localGameTime": "2026-09-02T15:40:00-04:00",
-      "status": "In Progress",
-      "abstractGameState": "Live",
-      "codedGameState": "I",
+      "status": "Final",
+      "abstractGameState": "Final",
+      "codedGameState": "F",
       "awayTeam": {
         "id": 143,
         "name": "Philadelphia Phillies",
@@ -9766,7 +9766,7 @@
         "abbreviation": "AZ"
       },
       "awayScore": 0,
-      "homeScore": 0,
+      "homeScore": 1,
       "venue": "Chase Field",
       "awayPitcher": "Andrew Painter",
       "homePitcher": "Taylor Clarke"
@@ -9789,8 +9789,8 @@
         "name": "Boston Red Sox",
         "abbreviation": "BOS"
       },
-      "awayScore": 4,
-      "homeScore": 0,
+      "awayScore": 8,
+      "homeScore": 1,
       "venue": "Fenway Park",
       "awayPitcher": "Bryce Miller",
       "homePitcher": "Patrick Sandoval"
@@ -9968,9 +9968,9 @@
       "date": "2026-09-02",
       "gameDate": "2026-09-03T01:38:00Z",
       "localGameTime": "2026-09-02T21:38:00-04:00",
-      "status": "Scheduled",
+      "status": "Pre-Game",
       "abstractGameState": "Preview",
-      "codedGameState": "S",
+      "codedGameState": "P",
       "awayTeam": {
         "id": 147,
         "name": "New York Yankees",
@@ -10393,7 +10393,7 @@
       "homeScore": null,
       "venue": "Citi Field",
       "awayPitcher": null,
-      "homePitcher": null
+      "homePitcher": "Nolan McLean"
     },
     {
       "gamePk": 823824,
@@ -10633,7 +10633,7 @@
       "homeScore": null,
       "venue": "Citi Field",
       "awayPitcher": null,
-      "homePitcher": null
+      "homePitcher": "Zac Thornton"
     },
     {
       "gamePk": 823823,
@@ -11113,7 +11113,7 @@
       "homeScore": null,
       "venue": "Citi Field",
       "awayPitcher": null,
-      "homePitcher": null
+      "homePitcher": "Christian Scott"
     },
     {
       "gamePk": 823822,
