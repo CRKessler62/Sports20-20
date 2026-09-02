@@ -1,6 +1,6 @@
 {
   "season": 2026,
-  "lastUpdated": "2026-09-02T04:25:33.327451+00:00",
+  "lastUpdated": "2026-09-02T05:26:51.808332+00:00",
   "leagues": {
     "AL": {
       "offense": {
@@ -896,10 +896,10 @@
           },
           {
             "rank": 5,
-            "player": "Nick Gonzales",
-            "team": "Pittsburgh Pirates",
-            "position": "3B",
-            "value": "151"
+            "player": "Jordan Walker",
+            "team": "St. Louis Cardinals",
+            "position": "RF",
+            "value": "152"
           }
         ],
         "homeRuns": [
@@ -1007,9 +1007,9 @@
           },
           {
             "rank": 5,
-            "player": "Trea Turner",
-            "team": "Philadelphia Phillies",
-            "position": "SS",
+            "player": "Shohei Ohtani",
+            "team": "Los Angeles Dodgers",
+            "position": "TWP",
             "value": "88"
           }
         ],
@@ -1502,17 +1502,17 @@
         "putouts": [
           {
             "rank": 1,
-            "player": "Michael Busch",
-            "team": "Chicago Cubs",
+            "player": "Alec Burleson",
+            "team": "St. Louis Cardinals",
             "position": "1B",
             "value": "1043"
           },
           {
             "rank": 2,
-            "player": "Alec Burleson",
-            "team": "St. Louis Cardinals",
+            "player": "Michael Busch",
+            "team": "Chicago Cubs",
             "position": "1B",
-            "value": "1041"
+            "value": "1043"
           },
           {
             "rank": 3,
