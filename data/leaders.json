@@ -1,6 +1,6 @@
 {
   "season": 2026,
-  "lastUpdated": "2026-09-02T16:25:25.446812+00:00",
+  "lastUpdated": "2026-09-02T17:22:56.173169+00:00",
   "leagues": {
     "AL": {
       "offense": {
@@ -882,17 +882,17 @@
           },
           {
             "rank": 3,
+            "player": "Fernando Tatis Jr.",
+            "team": "San Diego Padres",
+            "position": "RF",
+            "value": "154"
+          },
+          {
+            "rank": 4,
             "player": "Freddie Freeman",
             "team": "Los Angeles Dodgers",
             "position": "1B",
             "value": "153"
-          },
-          {
-            "rank": 4,
-            "player": "Fernando Tatis Jr.",
-            "team": "San Diego Padres",
-            "position": "RF",
-            "value": "152"
           },
           {
             "rank": 5,
@@ -1019,7 +1019,7 @@
             "player": "James Wood",
             "team": "Washington Nationals",
             "position": "RF",
-            "value": ".393"
+            "value": ".392"
           },
           {
             "rank": 2,
@@ -1070,7 +1070,7 @@
             "player": "James Wood",
             "team": "Washington Nationals",
             "position": "RF",
-            "value": ".535"
+            "value": ".534"
           },
           {
             "rank": 4,
@@ -1084,7 +1084,7 @@
             "player": "Matt Olson",
             "team": "Atlanta Braves",
             "position": "1B",
-            "value": ".523"
+            "value": ".522"
           }
         ],
         "ops": [
@@ -1100,7 +1100,7 @@
             "player": "James Wood",
             "team": "Washington Nationals",
             "position": "RF",
-            "value": ".928"
+            "value": ".926"
           },
           {
             "rank": 3,
@@ -1533,7 +1533,7 @@
             "player": "Matt Olson",
             "team": "Atlanta Braves",
             "position": "1B",
-            "value": "1000"
+            "value": "1002"
           }
         ],
         "assists": [
