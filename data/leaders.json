@@ -1,6 +1,6 @@
 {
   "season": 2026,
-  "lastUpdated": "2026-09-02T22:24:02.781054+00:00",
+  "lastUpdated": "2026-09-02T23:20:56.493324+00:00",
   "leagues": {
     "AL": {
       "offense": {
@@ -17,21 +17,21 @@
             "player": "Chandler Simpson",
             "team": "Tampa Bay Rays",
             "position": "LF",
-            "value": ".310"
+            "value": ".309"
           },
           {
             "rank": 3,
             "player": "Yandy D\u00edaz",
             "team": "Tampa Bay Rays",
             "position": "DH",
-            "value": ".302"
+            "value": ".301"
           },
           {
             "rank": 4,
             "player": "Chase DeLauter",
             "team": "Cleveland Guardians",
             "position": "RF",
-            "value": ".290"
+            "value": ".292"
           },
           {
             "rank": 5,
@@ -78,7 +78,43 @@
             "value": "149"
           }
         ],
-        "homeRuns": [],
+        "homeRuns": [
+          {
+            "rank": 1,
+            "player": "Yordan Alvarez",
+            "team": "Houston Astros",
+            "position": "DH",
+            "value": "37"
+          },
+          {
+            "rank": 2,
+            "player": "Junior Caminero",
+            "team": "Tampa Bay Rays",
+            "position": "3B",
+            "value": "37"
+          },
+          {
+            "rank": 3,
+            "player": "Ben Rice",
+            "team": "New York Yankees",
+            "position": "DH",
+            "value": "35"
+          },
+          {
+            "rank": 4,
+            "player": "Pete Alonso",
+            "team": "Baltimore Orioles",
+            "position": "1B",
+            "value": "32"
+          },
+          {
+            "rank": 5,
+            "player": "Colson Montgomery",
+            "team": "Chicago White Sox",
+            "position": "SS",
+            "value": "29"
+          }
+        ],
         "rbi": [
           {
             "rank": 1,
@@ -177,17 +213,17 @@
           },
           {
             "rank": 4,
-            "player": "Steven Kwan",
-            "team": "Cleveland Guardians",
-            "position": "LF",
-            "value": ".376"
-          },
-          {
-            "rank": 5,
             "player": "Mike Trout",
             "team": "Los Angeles Angels",
             "position": "CF",
             "value": ".376"
+          },
+          {
+            "rank": 5,
+            "player": "Steven Kwan",
+            "team": "Cleveland Guardians",
+            "position": "LF",
+            "value": ".375"
           }
         ],
         "slg": [
@@ -203,7 +239,7 @@
             "player": "Junior Caminero",
             "team": "Tampa Bay Rays",
             "position": "3B",
-            "value": ".535"
+            "value": ".534"
           },
           {
             "rank": 3,
@@ -240,7 +276,7 @@
             "player": "Junior Caminero",
             "team": "Tampa Bay Rays",
             "position": "3B",
-            "value": ".904"
+            "value": ".902"
           },
           {
             "rank": 3,
@@ -390,7 +426,7 @@
             "player": "Dylan Cease",
             "team": "Toronto Blue Jays",
             "position": "P",
-            "value": "2.33"
+            "value": "2.31"
           },
           {
             "rank": 3,
@@ -457,7 +493,7 @@
             "player": "Dylan Cease",
             "team": "Toronto Blue Jays",
             "position": "P",
-            "value": "217"
+            "value": "218"
           },
           {
             "rank": 2,
@@ -652,7 +688,7 @@
             "player": "Jonathan Aranda",
             "team": "Tampa Bay Rays",
             "position": "1B",
-            "value": "925"
+            "value": "929"
           },
           {
             "rank": 3,
@@ -666,7 +702,7 @@
             "player": "Josh Naylor",
             "team": "Seattle Mariners",
             "position": "1B",
-            "value": "897"
+            "value": "900"
           },
           {
             "rank": 5,
@@ -740,7 +776,7 @@
             "player": "Kazuma Okamoto",
             "team": "Toronto Blue Jays",
             "position": "3B",
-            "value": "13"
+            "value": "14"
           },
           {
             "rank": 5,
@@ -805,7 +841,7 @@
             "player": "Nick Gonzales",
             "team": "Pittsburgh Pirates",
             "position": "3B",
-            "value": ".310"
+            "value": ".309"
           },
           {
             "rank": 3,
@@ -900,7 +936,7 @@
             "player": "Rafael Devers",
             "team": "San Francisco Giants",
             "position": "1B",
-            "value": "31"
+            "value": "32"
           }
         ],
         "rbi": [
@@ -1004,7 +1040,7 @@
             "player": "TJ Rumfield",
             "team": "Colorado Rockies",
             "position": "1B",
-            "value": ".383"
+            "value": ".384"
           },
           {
             "rank": 5,
