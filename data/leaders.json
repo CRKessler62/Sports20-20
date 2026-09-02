@@ -1,6 +1,6 @@
 {
   "season": 2026,
-  "lastUpdated": "2026-09-02T20:24:30.515730+00:00",
+  "lastUpdated": "2026-09-02T21:22:18.498625+00:00",
   "leagues": {
     "AL": {
       "offense": {
@@ -343,7 +343,7 @@
             "player": "Wilyer Abreu",
             "team": "Boston Red Sox",
             "position": "RF",
-            "value": "32"
+            "value": "33"
           },
           {
             "rank": 2,
@@ -695,14 +695,14 @@
             "player": "Pete Alonso",
             "team": "Baltimore Orioles",
             "position": "1B",
-            "value": "900"
+            "value": "901"
           },
           {
             "rank": 4,
             "player": "Josh Naylor",
             "team": "Seattle Mariners",
             "position": "1B",
-            "value": "892"
+            "value": "895"
           },
           {
             "rank": 5,
@@ -718,14 +718,14 @@
             "player": "Cole Young",
             "team": "Seattle Mariners",
             "position": "2B",
-            "value": "352"
+            "value": "353"
           },
           {
             "rank": 2,
             "player": "Gunnar Henderson",
             "team": "Baltimore Orioles",
             "position": "SS",
-            "value": "319"
+            "value": "320"
           },
           {
             "rank": 3,
@@ -817,8 +817,8 @@
           },
           {
             "rank": 5,
-            "player": "Willson Contreras",
-            "team": "Boston Red Sox",
+            "player": "Jake Burger",
+            "team": "Texas Rangers",
             "position": "1B",
             "value": "79"
           }
@@ -834,7 +834,7 @@
             "player": "Luis Arraez",
             "team": "Philadelphia Phillies",
             "position": "2B",
-            "value": ".317"
+            "value": ".316"
           },
           {
             "rank": 2,
@@ -862,7 +862,7 @@
             "player": "Gabriel Moreno",
             "team": "Arizona Diamondbacks",
             "position": "C",
-            "value": ".299"
+            "value": ".298"
           }
         ],
         "hits": [
@@ -1023,17 +1023,17 @@
           },
           {
             "rank": 2,
-            "player": "James Wood",
-            "team": "Washington Nationals",
-            "position": "RF",
-            "value": ".392"
-          },
-          {
-            "rank": 3,
             "player": "Jake Bauers",
             "team": "Milwaukee Brewers",
             "position": "1B",
             "value": ".392"
+          },
+          {
+            "rank": 3,
+            "player": "James Wood",
+            "team": "Washington Nationals",
+            "position": "RF",
+            "value": ".391"
           },
           {
             "rank": 4,
@@ -1063,14 +1063,14 @@
             "player": "Hunter Goodman",
             "team": "Colorado Rockies",
             "position": "C",
-            "value": ".540"
+            "value": ".539"
           },
           {
             "rank": 3,
             "player": "James Wood",
             "team": "Washington Nationals",
             "position": "RF",
-            "value": ".534"
+            "value": ".533"
           },
           {
             "rank": 4,
@@ -1084,7 +1084,7 @@
             "player": "Matt Olson",
             "team": "Atlanta Braves",
             "position": "1B",
-            "value": ".519"
+            "value": ".518"
           }
         ],
         "ops": [
@@ -1100,7 +1100,7 @@
             "player": "James Wood",
             "team": "Washington Nationals",
             "position": "RF",
-            "value": ".926"
+            "value": ".924"
           },
           {
             "rank": 3,
@@ -1526,14 +1526,14 @@
             "player": "J.T. Realmuto",
             "team": "Philadelphia Phillies",
             "position": "C",
-            "value": "1034"
+            "value": "1037"
           },
           {
             "rank": 5,
             "player": "Matt Olson",
             "team": "Atlanta Braves",
             "position": "1B",
-            "value": "1006"
+            "value": "1007"
           }
         ],
         "assists": [
@@ -1549,7 +1549,7 @@
             "player": "Luis Arraez",
             "team": "Philadelphia Phillies",
             "position": "2B",
-            "value": "336"
+            "value": "338"
           },
           {
             "rank": 3,
@@ -1570,7 +1570,7 @@
             "player": "Geraldo Perdomo",
             "team": "Arizona Diamondbacks",
             "position": "SS",
-            "value": "323"
+            "value": "324"
           }
         ],
         "errors": [
@@ -1637,7 +1637,7 @@
             "player": "TJ Rumfield",
             "team": "Colorado Rockies",
             "position": "1B",
-            "value": "86"
+            "value": "87"
           },
           {
             "rank": 5,
