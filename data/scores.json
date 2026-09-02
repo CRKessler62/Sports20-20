@@ -1,20 +1,46 @@
 {
   "league": "MLB",
-  "lastUpdated": "2026-09-02T16:39:16.540842+00:00",
+  "lastUpdated": "2026-09-02T16:54:21.311584+00:00",
   "games": [
     {
       "gamePk": 824470,
       "awayTeam": "San Diego Padres",
       "homeTeam": "Cincinnati Reds",
+      "awayScore": 2,
+      "homeScore": 0,
+      "status": "In Progress",
+      "gameDate": "2026-09-02T16:40:00Z",
+      "inning": 1,
+      "inningOrdinal": "1st",
+      "inningState": "Bottom",
+      "outs": 1,
+      "battingTeam": "Cincinnati Reds",
+      "runners": {
+        "first": true,
+        "second": false,
+        "third": false
+      },
+      "inningScores": [
+        {
+          "inning": 1,
+          "awayRuns": 2,
+          "homeRuns": 0
+        }
+      ]
+    },
+    {
+      "gamePk": 822686,
+      "awayTeam": "Atlanta Braves",
+      "homeTeam": "Washington Nationals",
       "awayScore": 0,
       "homeScore": 0,
       "status": "Warmup",
-      "gameDate": "2026-09-02T16:40:00Z",
+      "gameDate": "2026-09-02T17:05:00Z",
       "inning": 1,
       "inningOrdinal": "1st",
       "inningState": "Top",
       "outs": 0,
-      "battingTeam": "San Diego Padres",
+      "battingTeam": "Atlanta Braves",
       "runners": {
         "first": false,
         "second": false,
@@ -27,26 +53,6 @@
           "homeRuns": 0
         }
       ]
-    },
-    {
-      "gamePk": 822686,
-      "awayTeam": "Atlanta Braves",
-      "homeTeam": "Washington Nationals",
-      "awayScore": 0,
-      "homeScore": 0,
-      "status": "Pre-Game",
-      "gameDate": "2026-09-02T17:05:00Z",
-      "inning": 1,
-      "inningOrdinal": "1st",
-      "inningState": "Top",
-      "outs": 0,
-      "battingTeam": "Atlanta Braves",
-      "runners": {
-        "first": false,
-        "second": false,
-        "third": false
-      },
-      "inningScores": []
     },
     {
       "gamePk": 822851,
