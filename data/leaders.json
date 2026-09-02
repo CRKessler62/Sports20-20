@@ -1,6 +1,6 @@
 {
   "season": 2026,
-  "lastUpdated": "2026-09-02T21:22:18.498625+00:00",
+  "lastUpdated": "2026-09-02T22:24:02.781054+00:00",
   "leagues": {
     "AL": {
       "offense": {
@@ -78,43 +78,7 @@
             "value": "149"
           }
         ],
-        "homeRuns": [
-          {
-            "rank": 1,
-            "player": "Yordan Alvarez",
-            "team": "Houston Astros",
-            "position": "DH",
-            "value": "37"
-          },
-          {
-            "rank": 2,
-            "player": "Junior Caminero",
-            "team": "Tampa Bay Rays",
-            "position": "3B",
-            "value": "37"
-          },
-          {
-            "rank": 3,
-            "player": "Ben Rice",
-            "team": "New York Yankees",
-            "position": "DH",
-            "value": "35"
-          },
-          {
-            "rank": 4,
-            "player": "Pete Alonso",
-            "team": "Baltimore Orioles",
-            "position": "1B",
-            "value": "32"
-          },
-          {
-            "rank": 5,
-            "player": "Colson Montgomery",
-            "team": "Chicago White Sox",
-            "position": "SS",
-            "value": "29"
-          }
-        ],
+        "homeRuns": [],
         "rbi": [
           {
             "rank": 1,
@@ -260,7 +224,7 @@
             "player": "Pete Alonso",
             "team": "Baltimore Orioles",
             "position": "1B",
-            "value": ".498"
+            "value": ".497"
           }
         ],
         "ops": [
@@ -343,7 +307,7 @@
             "player": "Wilyer Abreu",
             "team": "Boston Red Sox",
             "position": "RF",
-            "value": "33"
+            "value": "34"
           },
           {
             "rank": 2,
@@ -695,14 +659,14 @@
             "player": "Pete Alonso",
             "team": "Baltimore Orioles",
             "position": "1B",
-            "value": "901"
+            "value": "902"
           },
           {
             "rank": 4,
             "player": "Josh Naylor",
             "team": "Seattle Mariners",
             "position": "1B",
-            "value": "895"
+            "value": "897"
           },
           {
             "rank": 5,
@@ -725,7 +689,7 @@
             "player": "Gunnar Henderson",
             "team": "Baltimore Orioles",
             "position": "SS",
-            "value": "320"
+            "value": "321"
           },
           {
             "rank": 3,
@@ -799,7 +763,7 @@
             "player": "Josh Naylor",
             "team": "Seattle Mariners",
             "position": "1B",
-            "value": "92"
+            "value": "93"
           },
           {
             "rank": 3,
@@ -834,7 +798,7 @@
             "player": "Luis Arraez",
             "team": "Philadelphia Phillies",
             "position": "2B",
-            "value": ".316"
+            "value": ".315"
           },
           {
             "rank": 2,
@@ -1019,7 +983,7 @@
             "player": "Bryce Harper",
             "team": "Philadelphia Phillies",
             "position": "1B",
-            "value": ".393"
+            "value": ".394"
           },
           {
             "rank": 2,
@@ -1040,7 +1004,7 @@
             "player": "TJ Rumfield",
             "team": "Colorado Rockies",
             "position": "1B",
-            "value": ".384"
+            "value": ".383"
           },
           {
             "rank": 5,
@@ -1063,7 +1027,7 @@
             "player": "Hunter Goodman",
             "team": "Colorado Rockies",
             "position": "C",
-            "value": ".539"
+            "value": ".537"
           },
           {
             "rank": 3,
@@ -1114,7 +1078,7 @@
             "player": "Bryce Harper",
             "team": "Philadelphia Phillies",
             "position": "1B",
-            "value": ".902"
+            "value": ".903"
           },
           {
             "rank": 5,
@@ -1516,15 +1480,15 @@
           },
           {
             "rank": 3,
-            "player": "William Contreras",
-            "team": "Milwaukee Brewers",
+            "player": "J.T. Realmuto",
+            "team": "Philadelphia Phillies",
             "position": "C",
-            "value": "1037"
+            "value": "1039"
           },
           {
             "rank": 4,
-            "player": "J.T. Realmuto",
-            "team": "Philadelphia Phillies",
+            "player": "William Contreras",
+            "team": "Milwaukee Brewers",
             "position": "C",
             "value": "1037"
           },
@@ -1570,7 +1534,7 @@
             "player": "Geraldo Perdomo",
             "team": "Arizona Diamondbacks",
             "position": "SS",
-            "value": "324"
+            "value": "325"
           }
         ],
         "errors": [
