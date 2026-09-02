@@ -1,19 +1,19 @@
 {
   "league": "MLB",
-  "lastUpdated": "2026-09-02T18:53:56.637612+00:00",
+  "lastUpdated": "2026-09-02T19:11:21.643445+00:00",
   "games": [
     {
       "gamePk": 824470,
       "awayTeam": "San Diego Padres",
       "homeTeam": "Cincinnati Reds",
       "awayScore": 3,
-      "homeScore": 5,
+      "homeScore": 7,
       "status": "In Progress",
       "gameDate": "2026-09-02T16:40:00Z",
-      "inning": 7,
-      "inningOrdinal": "7th",
+      "inning": 8,
+      "inningOrdinal": "8th",
       "inningState": "Top",
-      "outs": 2,
+      "outs": 0,
       "battingTeam": "San Diego Padres",
       "runners": {
         "first": false,
@@ -53,6 +53,11 @@
         },
         {
           "inning": 7,
+          "awayRuns": 0,
+          "homeRuns": 2
+        },
+        {
+          "inning": 8,
           "awayRuns": 0,
           "homeRuns": 0
         }
@@ -107,10 +112,10 @@
       "homeScore": 1,
       "status": "In Progress",
       "gameDate": "2026-09-02T18:35:00Z",
-      "inning": 1,
-      "inningOrdinal": "1st",
+      "inning": 2,
+      "inningOrdinal": "2nd",
       "inningState": "Bottom",
-      "outs": 1,
+      "outs": 0,
       "battingTeam": "Texas Rangers",
       "runners": {
         "first": false,
@@ -122,6 +127,11 @@
           "inning": 1,
           "awayRuns": 0,
           "homeRuns": 1
+        },
+        {
+          "inning": 2,
+          "awayRuns": 0,
+          "homeRuns": 0
         }
       ]
     },
