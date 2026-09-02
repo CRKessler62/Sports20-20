@@ -1,24 +1,24 @@
 {
   "league": "MLB",
-  "lastUpdated": "2026-09-02T18:39:05.369449+00:00",
+  "lastUpdated": "2026-09-02T18:53:56.637612+00:00",
   "games": [
     {
       "gamePk": 824470,
       "awayTeam": "San Diego Padres",
       "homeTeam": "Cincinnati Reds",
       "awayScore": 3,
-      "homeScore": 4,
+      "homeScore": 5,
       "status": "In Progress",
       "gameDate": "2026-09-02T16:40:00Z",
-      "inning": 6,
-      "inningOrdinal": "6th",
-      "inningState": "Bottom",
-      "outs": 1,
-      "battingTeam": "Cincinnati Reds",
+      "inning": 7,
+      "inningOrdinal": "7th",
+      "inningState": "Top",
+      "outs": 2,
+      "battingTeam": "San Diego Padres",
       "runners": {
-        "first": true,
-        "second": true,
-        "third": true
+        "first": false,
+        "second": false,
+        "third": false
       },
       "inningScores": [
         {
@@ -48,6 +48,11 @@
         },
         {
           "inning": 6,
+          "awayRuns": 0,
+          "homeRuns": 1
+        },
+        {
+          "inning": 7,
           "awayRuns": 0,
           "homeRuns": 0
         }
@@ -99,14 +104,14 @@
       "awayTeam": "Athletics",
       "homeTeam": "Texas Rangers",
       "awayScore": 0,
-      "homeScore": 0,
+      "homeScore": 1,
       "status": "In Progress",
       "gameDate": "2026-09-02T18:35:00Z",
       "inning": 1,
       "inningOrdinal": "1st",
-      "inningState": "Top",
-      "outs": 0,
-      "battingTeam": "Athletics",
+      "inningState": "Bottom",
+      "outs": 1,
+      "battingTeam": "Texas Rangers",
       "runners": {
         "first": false,
         "second": false,
@@ -116,7 +121,7 @@
         {
           "inning": 1,
           "awayRuns": 0,
-          "homeRuns": 0
+          "homeRuns": 1
         }
       ]
     },
@@ -126,7 +131,7 @@
       "homeTeam": "Colorado Rockies",
       "awayScore": 0,
       "homeScore": 0,
-      "status": "Pre-Game",
+      "status": "Warmup",
       "gameDate": "2026-09-02T19:10:00Z",
       "inning": 1,
       "inningOrdinal": "1st",
@@ -204,7 +209,7 @@
       "homeTeam": "Pittsburgh Pirates",
       "awayScore": 0,
       "homeScore": 0,
-      "status": "Scheduled",
+      "status": "Pre-Game",
       "gameDate": "2026-09-02T22:40:00Z",
       "inning": null,
       "inningOrdinal": null,
@@ -224,7 +229,7 @@
       "homeTeam": "Tampa Bay Rays",
       "awayScore": 0,
       "homeScore": 0,
-      "status": "Scheduled",
+      "status": "Pre-Game",
       "gameDate": "2026-09-02T22:40:00Z",
       "inning": null,
       "inningOrdinal": null,
@@ -244,7 +249,7 @@
       "homeTeam": "Cleveland Guardians",
       "awayScore": 0,
       "homeScore": 0,
-      "status": "Scheduled",
+      "status": "Pre-Game",
       "gameDate": "2026-09-02T22:40:00Z",
       "inning": null,
       "inningOrdinal": null,
