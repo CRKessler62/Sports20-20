@@ -1,7 +1,7 @@
 {
   "league": "MLB",
   "timezone": "America/New_York",
-  "lastUpdated": "2026-09-02T17:11:53.243494+00:00",
+  "lastUpdated": "2026-09-02T18:15:42.351211+00:00",
   "games": [
     {
       "gamePk": 823431,
@@ -9670,7 +9670,7 @@
         "abbreviation": "CIN"
       },
       "awayScore": 3,
-      "homeScore": 0,
+      "homeScore": 4,
       "venue": "Great American Ball Park",
       "awayPitcher": "Casey Mize",
       "homePitcher": "Brandon Williamson"
@@ -9680,7 +9680,7 @@
       "date": "2026-09-02",
       "gameDate": "2026-09-02T17:05:00Z",
       "localGameTime": "2026-09-02T13:05:00-04:00",
-      "status": "In Progress",
+      "status": "Delayed",
       "abstractGameState": "Live",
       "codedGameState": "I",
       "awayTeam": {
@@ -9704,8 +9704,8 @@
       "date": "2026-09-02",
       "gameDate": "2026-09-02T18:35:00Z",
       "localGameTime": "2026-09-02T14:35:00-04:00",
-      "status": "Pre-Game",
-      "abstractGameState": "Preview",
+      "status": "Warmup",
+      "abstractGameState": "Live",
       "codedGameState": "P",
       "awayTeam": {
         "id": 133,
@@ -9741,8 +9741,8 @@
         "name": "Colorado Rockies",
         "abbreviation": "COL"
       },
-      "awayScore": null,
-      "homeScore": null,
+      "awayScore": 0,
+      "homeScore": 0,
       "venue": "Coors Field",
       "awayPitcher": "Trevor Rogers",
       "homePitcher": "Tomoyuki Sugano"
@@ -9789,8 +9789,8 @@
         "name": "Boston Red Sox",
         "abbreviation": "BOS"
       },
-      "awayScore": null,
-      "homeScore": null,
+      "awayScore": 0,
+      "homeScore": 0,
       "venue": "Fenway Park",
       "awayPitcher": "Bryce Miller",
       "homePitcher": "Patrick Sandoval"
@@ -10104,7 +10104,7 @@
       "awayScore": null,
       "homeScore": null,
       "venue": "Oriole Park at Camden Yards",
-      "awayPitcher": null,
+      "awayPitcher": "Jake Bennett",
       "homePitcher": null
     },
     {
@@ -10201,7 +10201,7 @@
       "homeScore": null,
       "venue": "T-Mobile Park",
       "awayPitcher": "Jack Perkins",
-      "homePitcher": null
+      "homePitcher": "Kade Anderson"
     },
     {
       "gamePk": 823907,
@@ -10321,7 +10321,7 @@
       "homeScore": null,
       "venue": "Citizens Bank Park",
       "awayPitcher": "Chris Sale",
-      "homePitcher": null
+      "homePitcher": "Cristopher S\u00e1nchez"
     },
     {
       "gamePk": 823338,
@@ -10368,7 +10368,7 @@
       "awayScore": null,
       "homeScore": null,
       "venue": "Oriole Park at Camden Yards",
-      "awayPitcher": null,
+      "awayPitcher": "Ranger Suarez",
       "homePitcher": null
     },
     {
@@ -10537,7 +10537,7 @@
       "homeScore": null,
       "venue": "Coors Field",
       "awayPitcher": null,
-      "homePitcher": null
+      "homePitcher": "Ryan Feltner"
     },
     {
       "gamePk": 823256,
@@ -10609,7 +10609,7 @@
       "homeScore": null,
       "venue": "T-Mobile Park",
       "awayPitcher": null,
-      "homePitcher": null
+      "homePitcher": "Logan Gilbert"
     },
     {
       "gamePk": 823577,
@@ -10681,7 +10681,7 @@
       "homeScore": null,
       "venue": "Citizens Bank Park",
       "awayPitcher": "Mart\u00edn P\u00e9rez",
-      "homePitcher": null
+      "homePitcher": "Zack Wheeler"
     },
     {
       "gamePk": 824389,
@@ -10776,7 +10776,7 @@
       "awayScore": null,
       "homeScore": null,
       "venue": "Oriole Park at Camden Yards",
-      "awayPitcher": null,
+      "awayPitcher": "Sonny Gray",
       "homePitcher": null
     },
     {
@@ -10921,7 +10921,7 @@
       "homeScore": null,
       "venue": "Coors Field",
       "awayPitcher": null,
-      "homePitcher": null
+      "homePitcher": "Mason Adams"
     },
     {
       "gamePk": 823904,
@@ -10969,7 +10969,7 @@
       "homeScore": null,
       "venue": "T-Mobile Park",
       "awayPitcher": null,
-      "homePitcher": null
+      "homePitcher": "George Kirby"
     },
     {
       "gamePk": 824469,
@@ -11017,7 +11017,7 @@
       "homeScore": null,
       "venue": "Citizens Bank Park",
       "awayPitcher": "Tyler Mahle",
-      "homePitcher": null
+      "homePitcher": "Aaron Nola"
     },
     {
       "gamePk": 824794,
@@ -11040,7 +11040,7 @@
       "awayScore": null,
       "homeScore": null,
       "venue": "Oriole Park at Camden Yards",
-      "awayPitcher": null,
+      "awayPitcher": "Payton Tolle",
       "homePitcher": null
     },
     {
@@ -11233,7 +11233,7 @@
       "homeScore": null,
       "venue": "Coors Field",
       "awayPitcher": null,
-      "homePitcher": null
+      "homePitcher": "Tanner Gordon"
     },
     {
       "gamePk": 823091,
@@ -11257,7 +11257,7 @@
       "homeScore": null,
       "venue": "T-Mobile Park",
       "awayPitcher": "Gage Jump",
-      "homePitcher": null
+      "homePitcher": "Bryan Woo"
     },
     {
       "gamePk": 823253,
@@ -11353,7 +11353,7 @@
       "homeScore": null,
       "venue": "Citizens Bank Park",
       "awayPitcher": "Bryce Elder",
-      "homePitcher": null
+      "homePitcher": "Jes\u00fas Luzardo"
     },
     {
       "gamePk": 823820,
