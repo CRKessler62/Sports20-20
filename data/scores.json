@@ -1,6 +1,6 @@
 {
   "league": "MLB",
-  "lastUpdated": "2026-09-02T17:28:56.880405+00:00",
+  "lastUpdated": "2026-09-02T17:43:27.155285+00:00",
   "games": [
     {
       "gamePk": 824470,
@@ -10,10 +10,10 @@
       "homeScore": 4,
       "status": "In Progress",
       "gameDate": "2026-09-02T16:40:00Z",
-      "inning": 3,
-      "inningOrdinal": "3rd",
+      "inning": 4,
+      "inningOrdinal": "4th",
       "inningState": "Top",
-      "outs": 2,
+      "outs": 0,
       "battingTeam": "San Diego Padres",
       "runners": {
         "first": false,
@@ -35,6 +35,11 @@
           "inning": 3,
           "awayRuns": 0,
           "homeRuns": 0
+        },
+        {
+          "inning": 4,
+          "awayRuns": 0,
+          "homeRuns": 0
         }
       ]
     },
@@ -46,11 +51,11 @@
       "homeScore": 0,
       "status": "In Progress",
       "gameDate": "2026-09-02T17:05:00Z",
-      "inning": 2,
-      "inningOrdinal": "2nd",
-      "inningState": "Bottom",
-      "outs": 2,
-      "battingTeam": "Washington Nationals",
+      "inning": 3,
+      "inningOrdinal": "3rd",
+      "inningState": "End",
+      "outs": 3,
+      "battingTeam": "Atlanta Braves",
       "runners": {
         "first": false,
         "second": false,
@@ -64,6 +69,11 @@
         },
         {
           "inning": 2,
+          "awayRuns": 0,
+          "homeRuns": 0
+        },
+        {
+          "inning": 3,
           "awayRuns": 0,
           "homeRuns": 0
         }
@@ -103,17 +113,23 @@
       "homeScore": 0,
       "status": "Pre-Game",
       "gameDate": "2026-09-02T19:10:00Z",
-      "inning": null,
-      "inningOrdinal": null,
-      "inningState": null,
-      "outs": null,
-      "battingTeam": null,
+      "inning": 1,
+      "inningOrdinal": "1st",
+      "inningState": "Top",
+      "outs": 0,
+      "battingTeam": "Baltimore Orioles",
       "runners": {
         "first": false,
         "second": false,
         "third": false
       },
-      "inningScores": []
+      "inningScores": [
+        {
+          "inning": 1,
+          "awayRuns": 0,
+          "homeRuns": 0
+        }
+      ]
     },
     {
       "gamePk": 825037,
