@@ -1,6 +1,6 @@
 {
   "season": 2026,
-  "lastUpdated": "2026-09-02T19:21:53.909388+00:00",
+  "lastUpdated": "2026-09-02T20:24:30.515730+00:00",
   "leagues": {
     "AL": {
       "offense": {
@@ -58,17 +58,17 @@
           },
           {
             "rank": 3,
-            "player": "Chandler Simpson",
-            "team": "Tampa Bay Rays",
-            "position": "LF",
+            "player": "Ceddanne Rafaela",
+            "team": "Boston Red Sox",
+            "position": "CF",
             "value": "151"
           },
           {
             "rank": 4,
-            "player": "Ceddanne Rafaela",
-            "team": "Boston Red Sox",
-            "position": "CF",
-            "value": "150"
+            "player": "Chandler Simpson",
+            "team": "Tampa Bay Rays",
+            "position": "LF",
+            "value": "151"
           },
           {
             "rank": 5,
@@ -128,7 +128,7 @@
             "player": "Pete Alonso",
             "team": "Baltimore Orioles",
             "position": "1B",
-            "value": "91"
+            "value": "92"
           },
           {
             "rank": 3,
@@ -669,9 +669,9 @@
           },
           {
             "rank": 5,
-            "player": "Christian V\u00e1zquez",
-            "team": "Houston Astros",
-            "position": "C",
+            "player": "Pete Alonso",
+            "team": "Baltimore Orioles",
+            "position": "1B",
             "value": ".997"
           }
         ],
@@ -695,7 +695,7 @@
             "player": "Pete Alonso",
             "team": "Baltimore Orioles",
             "position": "1B",
-            "value": "897"
+            "value": "900"
           },
           {
             "rank": 4,
@@ -725,7 +725,7 @@
             "player": "Gunnar Henderson",
             "team": "Baltimore Orioles",
             "position": "SS",
-            "value": "318"
+            "value": "319"
           },
           {
             "rank": 3,
@@ -813,7 +813,7 @@
             "player": "Pete Alonso",
             "team": "Baltimore Orioles",
             "position": "1B",
-            "value": "79"
+            "value": "80"
           },
           {
             "rank": 5,
@@ -862,7 +862,7 @@
             "player": "Gabriel Moreno",
             "team": "Arizona Diamondbacks",
             "position": "C",
-            "value": ".300"
+            "value": ".299"
           }
         ],
         "hits": [
@@ -1016,16 +1016,16 @@
         "obp": [
           {
             "rank": 1,
-            "player": "James Wood",
-            "team": "Washington Nationals",
-            "position": "RF",
-            "value": ".392"
-          },
-          {
-            "rank": 2,
             "player": "Bryce Harper",
             "team": "Philadelphia Phillies",
             "position": "1B",
+            "value": ".393"
+          },
+          {
+            "rank": 2,
+            "player": "James Wood",
+            "team": "Washington Nationals",
+            "position": "RF",
             "value": ".392"
           },
           {
@@ -1063,7 +1063,7 @@
             "player": "Hunter Goodman",
             "team": "Colorado Rockies",
             "position": "C",
-            "value": ".538"
+            "value": ".540"
           },
           {
             "rank": 3,
@@ -1084,7 +1084,7 @@
             "player": "Matt Olson",
             "team": "Atlanta Braves",
             "position": "1B",
-            "value": ".521"
+            "value": ".519"
           }
         ],
         "ops": [
@@ -1114,7 +1114,7 @@
             "player": "Bryce Harper",
             "team": "Philadelphia Phillies",
             "position": "1B",
-            "value": ".901"
+            "value": ".902"
           },
           {
             "rank": 5,
@@ -1208,30 +1208,30 @@
           },
           {
             "rank": 2,
+            "player": "Jake McCarthy",
+            "team": "Colorado Rockies",
+            "position": "LF",
+            "value": "8"
+          },
+          {
+            "rank": 3,
             "player": "Luis Arraez",
             "team": "Philadelphia Phillies",
             "position": "2B",
             "value": "7"
           },
           {
-            "rank": 3,
+            "rank": 4,
             "player": "Pete Crow-Armstrong",
             "team": "Chicago Cubs",
             "position": "CF",
             "value": "7"
           },
           {
-            "rank": 4,
+            "rank": 5,
             "player": "Otto Lopez",
             "team": "Miami Marlins",
             "position": "SS",
-            "value": "7"
-          },
-          {
-            "rank": 5,
-            "player": "Jake McCarthy",
-            "team": "Colorado Rockies",
-            "position": "LF",
             "value": "7"
           }
         ]
@@ -1526,14 +1526,14 @@
             "player": "J.T. Realmuto",
             "team": "Philadelphia Phillies",
             "position": "C",
-            "value": "1031"
+            "value": "1034"
           },
           {
             "rank": 5,
             "player": "Matt Olson",
             "team": "Atlanta Braves",
             "position": "1B",
-            "value": "1004"
+            "value": "1006"
           }
         ],
         "assists": [
@@ -1549,14 +1549,14 @@
             "player": "Luis Arraez",
             "team": "Philadelphia Phillies",
             "position": "2B",
-            "value": "334"
+            "value": "336"
           },
           {
             "rank": 3,
             "player": "Ozzie Albies",
             "team": "Atlanta Braves",
             "position": "2B",
-            "value": "329"
+            "value": "330"
           },
           {
             "rank": 4,
