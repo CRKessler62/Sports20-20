@@ -1,6 +1,6 @@
 {
   "league": "MLB",
-  "lastUpdated": "2026-09-02T17:43:27.155285+00:00",
+  "lastUpdated": "2026-09-02T17:55:58.067951+00:00",
   "games": [
     {
       "gamePk": 824470,
@@ -12,8 +12,8 @@
       "gameDate": "2026-09-02T16:40:00Z",
       "inning": 4,
       "inningOrdinal": "4th",
-      "inningState": "Top",
-      "outs": 0,
+      "inningState": "End",
+      "outs": 3,
       "battingTeam": "San Diego Padres",
       "runners": {
         "first": false,
@@ -51,15 +51,15 @@
       "homeScore": 0,
       "status": "In Progress",
       "gameDate": "2026-09-02T17:05:00Z",
-      "inning": 3,
-      "inningOrdinal": "3rd",
-      "inningState": "End",
-      "outs": 3,
+      "inning": 4,
+      "inningOrdinal": "4th",
+      "inningState": "Top",
+      "outs": 1,
       "battingTeam": "Atlanta Braves",
       "runners": {
-        "first": false,
-        "second": false,
-        "third": false
+        "first": true,
+        "second": true,
+        "third": true
       },
       "inningScores": [
         {
@@ -74,6 +74,11 @@
         },
         {
           "inning": 3,
+          "awayRuns": 0,
+          "homeRuns": 0
+        },
+        {
+          "inning": 4,
           "awayRuns": 0,
           "homeRuns": 0
         }
