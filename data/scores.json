@@ -1,6 +1,6 @@
 {
   "league": "MLB",
-  "lastUpdated": "2026-09-03T17:23:36.091803+00:00",
+  "lastUpdated": "2026-09-03T17:41:03.319491+00:00",
   "games": [
     {
       "gamePk": 823337,
@@ -10,8 +10,8 @@
       "homeScore": 2,
       "status": "In Progress",
       "gameDate": "2026-09-03T16:35:00Z",
-      "inning": 3,
-      "inningOrdinal": "3rd",
+      "inning": 4,
+      "inningOrdinal": "4th",
       "inningState": "Top",
       "outs": 1,
       "battingTeam": "San Francisco Giants",
@@ -35,6 +35,11 @@
           "inning": 3,
           "awayRuns": 0,
           "homeRuns": 0
+        },
+        {
+          "inning": 4,
+          "awayRuns": 0,
+          "homeRuns": 0
         }
       ]
     },
@@ -46,19 +51,24 @@
       "homeScore": 0,
       "status": "In Progress",
       "gameDate": "2026-09-03T17:10:00Z",
-      "inning": 1,
-      "inningOrdinal": "1st",
-      "inningState": "Bottom",
-      "outs": 1,
-      "battingTeam": "Cleveland Guardians",
+      "inning": 2,
+      "inningOrdinal": "2nd",
+      "inningState": "Top",
+      "outs": 2,
+      "battingTeam": "Toronto Blue Jays",
       "runners": {
-        "first": false,
+        "first": true,
         "second": true,
-        "third": true
+        "third": false
       },
       "inningScores": [
         {
           "inning": 1,
+          "awayRuns": 0,
+          "homeRuns": 0
+        },
+        {
+          "inning": 2,
           "awayRuns": 0,
           "homeRuns": 0
         }
