@@ -1,7 +1,7 @@
 {
   "league": "MLB",
   "timezone": "America/New_York",
-  "lastUpdated": "2026-09-03T22:12:19.922581+00:00",
+  "lastUpdated": "2026-09-03T23:11:13.889232+00:00",
   "games": [
     {
       "gamePk": 824805,
@@ -9896,8 +9896,8 @@
       "date": "2026-09-03",
       "gameDate": "2026-09-03T23:15:00Z",
       "localGameTime": "2026-09-03T19:15:00-04:00",
-      "status": "Pre-Game",
-      "abstractGameState": "Preview",
+      "status": "Warmup",
+      "abstractGameState": "Live",
       "codedGameState": "P",
       "awayTeam": {
         "id": 111,
@@ -9920,8 +9920,8 @@
       "date": "2026-09-03",
       "gameDate": "2026-09-03T23:15:00Z",
       "localGameTime": "2026-09-03T19:15:00-04:00",
-      "status": "Pre-Game",
-      "abstractGameState": "Preview",
+      "status": "Warmup",
+      "abstractGameState": "Live",
       "codedGameState": "P",
       "awayTeam": {
         "id": 158,
@@ -10029,8 +10029,8 @@
         "name": "Los Angeles Dodgers",
         "abbreviation": "LAD"
       },
-      "awayScore": null,
-      "homeScore": null,
+      "awayScore": 0,
+      "homeScore": 0,
       "venue": "UNIQLO Field at Dodger Stadium",
       "awayPitcher": "Quinn Mathews",
       "homePitcher": "Tarik Skubal"
