@@ -1,7 +1,7 @@
 {
   "league": "MLB",
   "timezone": "America/New_York",
-  "lastUpdated": "2026-09-03T17:12:11.111481+00:00",
+  "lastUpdated": "2026-09-03T18:15:14.512633+00:00",
   "games": [
     {
       "gamePk": 824805,
@@ -9862,7 +9862,7 @@
         "abbreviation": "CLE"
       },
       "awayScore": 0,
-      "homeScore": 0,
+      "homeScore": 1,
       "venue": "Progressive Field",
       "awayPitcher": "Jos\u00e9 Soriano",
       "homePitcher": "Tanner Bibee"
@@ -9872,9 +9872,9 @@
       "date": "2026-09-03",
       "gameDate": "2026-09-03T18:10:00Z",
       "localGameTime": "2026-09-03T14:10:00-04:00",
-      "status": "Pre-Game",
-      "abstractGameState": "Preview",
-      "codedGameState": "P",
+      "status": "In Progress",
+      "abstractGameState": "Live",
+      "codedGameState": "I",
       "awayTeam": {
         "id": 145,
         "name": "Chicago White Sox",
@@ -10104,7 +10104,7 @@
       "awayScore": null,
       "homeScore": null,
       "venue": "Great American Ball Park",
-      "awayPitcher": null,
+      "awayPitcher": "Shane Drohan",
       "homePitcher": "Rhett Lowder"
     },
     {
@@ -10560,7 +10560,7 @@
       "awayScore": null,
       "homeScore": null,
       "venue": "Great American Ball Park",
-      "awayPitcher": null,
+      "awayPitcher": "Dustin May",
       "homePitcher": "Andrew Abbott"
     },
     {
@@ -10800,7 +10800,7 @@
       "awayScore": null,
       "homeScore": null,
       "venue": "Great American Ball Park",
-      "awayPitcher": null,
+      "awayPitcher": "Kyle Harrison",
       "homePitcher": "Brady Singer"
     },
     {
