@@ -1,6 +1,6 @@
 {
   "league": "MLB",
-  "lastUpdated": "2026-09-03T20:23:12.587770+00:00",
+  "lastUpdated": "2026-09-03T20:40:02.074199+00:00",
   "games": [
     {
       "gamePk": 823337,
@@ -72,18 +72,18 @@
       "gamePk": 824388,
       "awayTeam": "Toronto Blue Jays",
       "homeTeam": "Cleveland Guardians",
-      "awayScore": 5,
+      "awayScore": 6,
       "homeScore": 3,
       "status": "In Progress",
       "gameDate": "2026-09-03T17:10:00Z",
       "inning": 9,
       "inningOrdinal": "9th",
-      "inningState": "Top",
-      "outs": 1,
-      "battingTeam": "Toronto Blue Jays",
+      "inningState": "Bottom",
+      "outs": 2,
+      "battingTeam": "Cleveland Guardians",
       "runners": {
-        "first": false,
-        "second": false,
+        "first": true,
+        "second": true,
         "third": false
       },
       "inningScores": [
@@ -129,7 +129,7 @@
         },
         {
           "inning": 9,
-          "awayRuns": 0,
+          "awayRuns": 1,
           "homeRuns": 0
         }
       ]
@@ -140,13 +140,13 @@
       "homeTeam": "Houston Astros",
       "awayScore": 2,
       "homeScore": 6,
-      "status": "In Progress",
+      "status": "Game Over",
       "gameDate": "2026-09-03T18:10:00Z",
-      "inning": 8,
-      "inningOrdinal": "8th",
-      "inningState": "Bottom",
-      "outs": 0,
-      "battingTeam": "Houston Astros",
+      "inning": 9,
+      "inningOrdinal": "9th",
+      "inningState": "Top",
+      "outs": 3,
+      "battingTeam": "Chicago White Sox",
       "runners": {
         "first": false,
         "second": false,
@@ -190,6 +190,11 @@
         },
         {
           "inning": 8,
+          "awayRuns": 0,
+          "homeRuns": 0
+        },
+        {
+          "inning": 9,
           "awayRuns": 0,
           "homeRuns": 0
         }
