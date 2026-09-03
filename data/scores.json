@@ -1,6 +1,6 @@
 {
   "league": "MLB",
-  "lastUpdated": "2026-09-03T18:52:57.938472+00:00",
+  "lastUpdated": "2026-09-03T19:09:12.689917+00:00",
   "games": [
     {
       "gamePk": 823337,
@@ -10,10 +10,10 @@
       "homeScore": 4,
       "status": "In Progress",
       "gameDate": "2026-09-03T16:35:00Z",
-      "inning": 7,
-      "inningOrdinal": "7th",
+      "inning": 8,
+      "inningOrdinal": "8th",
       "inningState": "Bottom",
-      "outs": 2,
+      "outs": 0,
       "battingTeam": "Pittsburgh Pirates",
       "runners": {
         "first": true,
@@ -55,6 +55,11 @@
           "inning": 7,
           "awayRuns": 2,
           "homeRuns": 0
+        },
+        {
+          "inning": 8,
+          "awayRuns": 0,
+          "homeRuns": 0
         }
       ]
     },
@@ -68,9 +73,9 @@
       "gameDate": "2026-09-03T17:10:00Z",
       "inning": 5,
       "inningOrdinal": "5th",
-      "inningState": "Top",
-      "outs": 1,
-      "battingTeam": "Toronto Blue Jays",
+      "inningState": "Bottom",
+      "outs": 2,
+      "battingTeam": "Cleveland Guardians",
       "runners": {
         "first": true,
         "second": true,
@@ -112,14 +117,14 @@
       "homeScore": 2,
       "status": "In Progress",
       "gameDate": "2026-09-03T18:10:00Z",
-      "inning": 2,
-      "inningOrdinal": "2nd",
-      "inningState": "End",
-      "outs": 3,
-      "battingTeam": "Chicago White Sox",
+      "inning": 3,
+      "inningOrdinal": "3rd",
+      "inningState": "Bottom",
+      "outs": 1,
+      "battingTeam": "Houston Astros",
       "runners": {
-        "first": false,
-        "second": false,
+        "first": true,
+        "second": true,
         "third": false
       },
       "inningScores": [
@@ -131,6 +136,11 @@
         {
           "inning": 2,
           "awayRuns": 2,
+          "homeRuns": 0
+        },
+        {
+          "inning": 3,
+          "awayRuns": 0,
           "homeRuns": 0
         }
       ]
