@@ -1,6 +1,6 @@
 {
   "season": 2026,
-  "lastUpdated": "2026-09-03T16:25:09.808718+00:00",
+  "lastUpdated": "2026-09-03T18:27:04.221495+00:00",
   "leagues": {
     "AL": {
       "offense": {
@@ -31,7 +31,7 @@
             "player": "Chase DeLauter",
             "team": "Cleveland Guardians",
             "position": "RF",
-            "value": ".294"
+            "value": ".295"
           },
           {
             "rank": 5,
@@ -195,7 +195,7 @@
             "player": "Yordan Alvarez",
             "team": "Houston Astros",
             "position": "DH",
-            "value": ".433"
+            "value": ".432"
           },
           {
             "rank": 2,
@@ -223,7 +223,7 @@
             "player": "Steven Kwan",
             "team": "Cleveland Guardians",
             "position": "LF",
-            "value": ".374"
+            "value": ".375"
           }
         ],
         "slg": [
@@ -232,7 +232,7 @@
             "player": "Yordan Alvarez",
             "team": "Houston Astros",
             "position": "DH",
-            "value": ".604"
+            "value": ".603"
           },
           {
             "rank": 2,
@@ -269,7 +269,7 @@
             "player": "Yordan Alvarez",
             "team": "Houston Astros",
             "position": "DH",
-            "value": "1.037"
+            "value": "1.035"
           },
           {
             "rank": 2,
@@ -615,17 +615,17 @@
           },
           {
             "rank": 3,
+            "player": "Tanner Bibee",
+            "team": "Cleveland Guardians",
+            "position": "P",
+            "value": "166.1"
+          },
+          {
+            "rank": 4,
             "player": "Gavin Williams",
             "team": "Cleveland Guardians",
             "position": "P",
             "value": "163.0"
-          },
-          {
-            "rank": 4,
-            "player": "Tanner Bibee",
-            "team": "Cleveland Guardians",
-            "position": "P",
-            "value": "162.1"
           },
           {
             "rank": 5,
@@ -841,7 +841,7 @@
             "player": "Nick Gonzales",
             "team": "Pittsburgh Pirates",
             "position": "3B",
-            "value": ".310"
+            "value": ".308"
           },
           {
             "rank": 3,
@@ -993,16 +993,16 @@
           },
           {
             "rank": 3,
-            "player": "Matt Olson",
-            "team": "Atlanta Braves",
-            "position": "1B",
-            "value": "94"
-          },
-          {
-            "rank": 4,
             "player": "Bryan Reynolds",
             "team": "Pittsburgh Pirates",
             "position": "LF",
+            "value": "95"
+          },
+          {
+            "rank": 4,
+            "player": "Matt Olson",
+            "team": "Atlanta Braves",
+            "position": "1B",
             "value": "94"
           },
           {
