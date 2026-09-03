@@ -1,6 +1,6 @@
 {
   "season": 2026,
-  "lastUpdated": "2026-09-03T05:07:07.944568+00:00",
+  "lastUpdated": "2026-09-03T05:42:39.008495+00:00",
   "leagues": {
     "AL": {
       "offense": {
@@ -1077,7 +1077,7 @@
             "player": "Shohei Ohtani",
             "team": "Los Angeles Dodgers",
             "position": "TWP",
-            "value": ".526"
+            "value": ".525"
           },
           {
             "rank": 5,
@@ -1107,7 +1107,7 @@
             "player": "Shohei Ohtani",
             "team": "Los Angeles Dodgers",
             "position": "TWP",
-            "value": ".908"
+            "value": ".906"
           },
           {
             "rank": 4,
@@ -1391,7 +1391,7 @@
             "player": "Riley O'Brien",
             "team": "St. Louis Cardinals",
             "position": "P",
-            "value": "34"
+            "value": "35"
           },
           {
             "rank": 2,
@@ -1505,7 +1505,7 @@
             "player": "Alec Burleson",
             "team": "St. Louis Cardinals",
             "position": "1B",
-            "value": "1050"
+            "value": "1051"
           },
           {
             "rank": 2,
