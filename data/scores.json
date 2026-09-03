@@ -1,23 +1,23 @@
 {
   "league": "MLB",
-  "lastUpdated": "2026-09-03T17:41:03.319491+00:00",
+  "lastUpdated": "2026-09-03T18:17:33.420088+00:00",
   "games": [
     {
       "gamePk": 823337,
       "awayTeam": "San Francisco Giants",
       "homeTeam": "Pittsburgh Pirates",
       "awayScore": 0,
-      "homeScore": 2,
+      "homeScore": 3,
       "status": "In Progress",
       "gameDate": "2026-09-03T16:35:00Z",
-      "inning": 4,
-      "inningOrdinal": "4th",
-      "inningState": "Top",
-      "outs": 1,
-      "battingTeam": "San Francisco Giants",
+      "inning": 6,
+      "inningOrdinal": "6th",
+      "inningState": "Bottom",
+      "outs": 0,
+      "battingTeam": "Pittsburgh Pirates",
       "runners": {
         "first": false,
-        "second": false,
+        "second": true,
         "third": false
       },
       "inningScores": [
@@ -40,6 +40,16 @@
           "inning": 4,
           "awayRuns": 0,
           "homeRuns": 0
+        },
+        {
+          "inning": 5,
+          "awayRuns": 0,
+          "homeRuns": 0
+        },
+        {
+          "inning": 6,
+          "awayRuns": 0,
+          "homeRuns": 1
         }
       ]
     },
@@ -48,16 +58,16 @@
       "awayTeam": "Toronto Blue Jays",
       "homeTeam": "Cleveland Guardians",
       "awayScore": 0,
-      "homeScore": 0,
+      "homeScore": 1,
       "status": "In Progress",
       "gameDate": "2026-09-03T17:10:00Z",
-      "inning": 2,
-      "inningOrdinal": "2nd",
+      "inning": 4,
+      "inningOrdinal": "4th",
       "inningState": "Top",
-      "outs": 2,
+      "outs": 1,
       "battingTeam": "Toronto Blue Jays",
       "runners": {
-        "first": true,
+        "first": false,
         "second": true,
         "third": false
       },
@@ -71,6 +81,16 @@
           "inning": 2,
           "awayRuns": 0,
           "homeRuns": 0
+        },
+        {
+          "inning": 3,
+          "awayRuns": 0,
+          "homeRuns": 1
+        },
+        {
+          "inning": 4,
+          "awayRuns": 0,
+          "homeRuns": 0
         }
       ]
     },
@@ -80,15 +100,15 @@
       "homeTeam": "Houston Astros",
       "awayScore": 0,
       "homeScore": 0,
-      "status": "Pre-Game",
+      "status": "In Progress",
       "gameDate": "2026-09-03T18:10:00Z",
       "inning": 1,
       "inningOrdinal": "1st",
       "inningState": "Top",
-      "outs": 0,
+      "outs": 2,
       "battingTeam": "Chicago White Sox",
       "runners": {
-        "first": false,
+        "first": true,
         "second": false,
         "third": false
       },
