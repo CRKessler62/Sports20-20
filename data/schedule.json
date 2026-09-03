@@ -1,7 +1,7 @@
 {
   "league": "MLB",
   "timezone": "America/New_York",
-  "lastUpdated": "2026-09-03T18:15:14.512633+00:00",
+  "lastUpdated": "2026-09-03T19:10:41.855095+00:00",
   "games": [
     {
       "gamePk": 824805,
@@ -9837,8 +9837,8 @@
         "name": "Pittsburgh Pirates",
         "abbreviation": "PIT"
       },
-      "awayScore": 0,
-      "homeScore": 2,
+      "awayScore": 2,
+      "homeScore": 4,
       "venue": "PNC Park",
       "awayPitcher": "Blade Tidwell",
       "homePitcher": "Lake Bachar"
@@ -9861,7 +9861,7 @@
         "name": "Cleveland Guardians",
         "abbreviation": "CLE"
       },
-      "awayScore": 0,
+      "awayScore": 5,
       "homeScore": 1,
       "venue": "Progressive Field",
       "awayPitcher": "Jos\u00e9 Soriano",
@@ -9885,8 +9885,8 @@
         "name": "Houston Astros",
         "abbreviation": "HOU"
       },
-      "awayScore": 0,
-      "homeScore": 0,
+      "awayScore": 2,
+      "homeScore": 3,
       "venue": "Daikin Park",
       "awayPitcher": "Luis Castillo",
       "homePitcher": "Hunter Brown"
