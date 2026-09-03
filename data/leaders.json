@@ -1,6 +1,6 @@
 {
   "season": 2026,
-  "lastUpdated": "2026-09-03T18:27:04.221495+00:00",
+  "lastUpdated": "2026-09-03T19:20:11.597220+00:00",
   "leagues": {
     "AL": {
       "offense": {
@@ -165,7 +165,7 @@
             "player": "Yordan Alvarez",
             "team": "Houston Astros",
             "position": "DH",
-            "value": "91"
+            "value": "92"
           },
           {
             "rank": 3,
@@ -195,7 +195,7 @@
             "player": "Yordan Alvarez",
             "team": "Houston Astros",
             "position": "DH",
-            "value": ".432"
+            "value": ".433"
           },
           {
             "rank": 2,
@@ -213,16 +213,16 @@
           },
           {
             "rank": 4,
-            "player": "Mike Trout",
-            "team": "Los Angeles Angels",
-            "position": "CF",
-            "value": ".375"
-          },
-          {
-            "rank": 5,
             "player": "Steven Kwan",
             "team": "Cleveland Guardians",
             "position": "LF",
+            "value": ".376"
+          },
+          {
+            "rank": 5,
+            "player": "Mike Trout",
+            "team": "Los Angeles Angels",
+            "position": "CF",
             "value": ".375"
           }
         ],
@@ -269,7 +269,7 @@
             "player": "Yordan Alvarez",
             "team": "Houston Astros",
             "position": "DH",
-            "value": "1.035"
+            "value": "1.036"
           },
           {
             "rank": 2,
@@ -746,7 +746,7 @@
             "player": "Chase Meidroth",
             "team": "Chicago White Sox",
             "position": "2B",
-            "value": "276"
+            "value": "279"
           }
         ],
         "errors": [
@@ -841,7 +841,7 @@
             "player": "Nick Gonzales",
             "team": "Pittsburgh Pirates",
             "position": "3B",
-            "value": ".308"
+            "value": ".310"
           },
           {
             "rank": 3,
@@ -896,9 +896,9 @@
           },
           {
             "rank": 5,
-            "player": "Jordan Walker",
-            "team": "St. Louis Cardinals",
-            "position": "RF",
+            "player": "Nick Gonzales",
+            "team": "Pittsburgh Pirates",
+            "position": "3B",
             "value": "153"
           }
         ],
