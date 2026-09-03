@@ -1,6 +1,6 @@
 {
   "league": "MLB",
-  "lastUpdated": "2026-09-03T19:23:53.529506+00:00",
+  "lastUpdated": "2026-09-03T19:37:54.121583+00:00",
   "games": [
     {
       "gamePk": 823337,
@@ -78,11 +78,11 @@
       "gameDate": "2026-09-03T17:10:00Z",
       "inning": 6,
       "inningOrdinal": "6th",
-      "inningState": "Top",
-      "outs": 1,
-      "battingTeam": "Toronto Blue Jays",
+      "inningState": "Bottom",
+      "outs": 2,
+      "battingTeam": "Cleveland Guardians",
       "runners": {
-        "first": true,
+        "first": false,
         "second": false,
         "third": false
       },
@@ -127,10 +127,10 @@
       "homeScore": 6,
       "status": "In Progress",
       "gameDate": "2026-09-03T18:10:00Z",
-      "inning": 4,
-      "inningOrdinal": "4th",
-      "inningState": "Middle",
-      "outs": 3,
+      "inning": 5,
+      "inningOrdinal": "5th",
+      "inningState": "Top",
+      "outs": 1,
       "battingTeam": "Chicago White Sox",
       "runners": {
         "first": false,
@@ -155,6 +155,11 @@
         },
         {
           "inning": 4,
+          "awayRuns": 0,
+          "homeRuns": 0
+        },
+        {
+          "inning": 5,
           "awayRuns": 0,
           "homeRuns": 0
         }
