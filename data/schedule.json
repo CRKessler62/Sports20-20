@@ -1,7 +1,7 @@
 {
   "league": "MLB",
   "timezone": "America/New_York",
-  "lastUpdated": "2026-09-03T00:21:05.661131+00:00",
+  "lastUpdated": "2026-09-03T01:11:50.015409+00:00",
   "games": [
     {
       "gamePk": 824805,
@@ -9622,7 +9622,7 @@
         "abbreviation": "PIT"
       },
       "awayScore": 3,
-      "homeScore": 1,
+      "homeScore": 3,
       "venue": "PNC Park",
       "awayPitcher": "Landen Roupp",
       "homePitcher": "Bubba Chandler"
@@ -9645,7 +9645,7 @@
         "name": "Tampa Bay Rays",
         "abbreviation": "TB"
       },
-      "awayScore": 6,
+      "awayScore": 10,
       "homeScore": 4,
       "venue": "Tropicana Field",
       "awayPitcher": "Justin Hagenman",
@@ -9669,7 +9669,7 @@
         "name": "Cleveland Guardians",
         "abbreviation": "CLE"
       },
-      "awayScore": 7,
+      "awayScore": 11,
       "homeScore": 0,
       "venue": "Progressive Field",
       "awayPitcher": "Dylan Cease",
@@ -9693,8 +9693,8 @@
         "name": "Minnesota Twins",
         "abbreviation": "MIN"
       },
-      "awayScore": 2,
-      "homeScore": 0,
+      "awayScore": 4,
+      "homeScore": 1,
       "venue": "Target Field",
       "awayPitcher": "Drew Anderson",
       "homePitcher": "Dean Kremer"
@@ -9717,8 +9717,8 @@
         "name": "Kansas City Royals",
         "abbreviation": "KC"
       },
-      "awayScore": 2,
-      "homeScore": 5,
+      "awayScore": 4,
+      "homeScore": 6,
       "venue": "Kauffman Stadium",
       "awayPitcher": "Eury P\u00e9rez",
       "homePitcher": "Noah Cameron"
@@ -9741,8 +9741,8 @@
         "name": "Chicago Cubs",
         "abbreviation": "CHC"
       },
-      "awayScore": 3,
-      "homeScore": 3,
+      "awayScore": 6,
+      "homeScore": 5,
       "venue": "Wrigley Field",
       "awayPitcher": "Jacob Misiorowski",
       "homePitcher": "David Peterson"
@@ -10152,7 +10152,7 @@
       "awayScore": null,
       "homeScore": null,
       "venue": "PNC Park",
-      "awayPitcher": null,
+      "awayPitcher": "Ryan Johnson",
       "homePitcher": "Jared Jones"
     },
     {
@@ -10368,7 +10368,7 @@
       "awayScore": null,
       "homeScore": null,
       "venue": "Petco Park",
-      "awayPitcher": null,
+      "awayPitcher": "Max Fried",
       "homePitcher": "Walker Buehler"
     },
     {
@@ -10536,7 +10536,7 @@
       "awayScore": null,
       "homeScore": null,
       "venue": "PNC Park",
-      "awayPitcher": null,
+      "awayPitcher": "Yusei Kikuchi",
       "homePitcher": null
     },
     {
@@ -10704,7 +10704,7 @@
       "awayScore": null,
       "homeScore": null,
       "venue": "Petco Park",
-      "awayPitcher": null,
+      "awayPitcher": "Carlos Rod\u00f3n",
       "homePitcher": "Robbie Ray"
     },
     {
@@ -10872,7 +10872,7 @@
       "awayScore": null,
       "homeScore": null,
       "venue": "PNC Park",
-      "awayPitcher": null,
+      "awayPitcher": "Walbert Ure\u00f1a",
       "homePitcher": null
     },
     {
