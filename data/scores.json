@@ -1,6 +1,6 @@
 {
   "league": "MLB",
-  "lastUpdated": "2026-09-03T19:37:54.121583+00:00",
+  "lastUpdated": "2026-09-03T19:50:27.385749+00:00",
   "games": [
     {
       "gamePk": 823337,
@@ -76,14 +76,14 @@
       "homeScore": 3,
       "status": "In Progress",
       "gameDate": "2026-09-03T17:10:00Z",
-      "inning": 6,
-      "inningOrdinal": "6th",
-      "inningState": "Bottom",
+      "inning": 7,
+      "inningOrdinal": "7th",
+      "inningState": "Top",
       "outs": 2,
-      "battingTeam": "Cleveland Guardians",
+      "battingTeam": "Toronto Blue Jays",
       "runners": {
         "first": false,
-        "second": false,
+        "second": true,
         "third": false
       },
       "inningScores": [
@@ -116,6 +116,11 @@
           "inning": 6,
           "awayRuns": 0,
           "homeRuns": 0
+        },
+        {
+          "inning": 7,
+          "awayRuns": 0,
+          "homeRuns": 0
         }
       ]
     },
@@ -127,10 +132,10 @@
       "homeScore": 6,
       "status": "In Progress",
       "gameDate": "2026-09-03T18:10:00Z",
-      "inning": 5,
-      "inningOrdinal": "5th",
+      "inning": 6,
+      "inningOrdinal": "6th",
       "inningState": "Top",
-      "outs": 1,
+      "outs": 0,
       "battingTeam": "Chicago White Sox",
       "runners": {
         "first": false,
@@ -162,6 +167,11 @@
           "inning": 5,
           "awayRuns": 0,
           "homeRuns": 0
+        },
+        {
+          "inning": 6,
+          "awayRuns": 0,
+          "homeRuns": 0
         }
       ]
     },
@@ -171,7 +181,7 @@
       "homeTeam": "Baltimore Orioles",
       "awayScore": 0,
       "homeScore": 0,
-      "status": "Scheduled",
+      "status": "Pre-Game",
       "gameDate": "2026-09-03T23:15:00Z",
       "inning": null,
       "inningOrdinal": null,
