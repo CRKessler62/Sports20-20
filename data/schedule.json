@@ -1,7 +1,7 @@
 {
   "league": "MLB",
   "timezone": "America/New_York",
-  "lastUpdated": "2026-09-03T01:11:50.015409+00:00",
+  "lastUpdated": "2026-09-03T02:16:21.870265+00:00",
   "games": [
     {
       "gamePk": 824805,
@@ -9608,9 +9608,9 @@
       "date": "2026-09-02",
       "gameDate": "2026-09-02T22:40:00Z",
       "localGameTime": "2026-09-02T18:40:00-04:00",
-      "status": "In Progress",
-      "abstractGameState": "Live",
-      "codedGameState": "I",
+      "status": "Final",
+      "abstractGameState": "Final",
+      "codedGameState": "F",
       "awayTeam": {
         "id": 137,
         "name": "San Francisco Giants",
@@ -9621,8 +9621,8 @@
         "name": "Pittsburgh Pirates",
         "abbreviation": "PIT"
       },
-      "awayScore": 3,
-      "homeScore": 3,
+      "awayScore": 5,
+      "homeScore": 4,
       "venue": "PNC Park",
       "awayPitcher": "Landen Roupp",
       "homePitcher": "Bubba Chandler"
@@ -9632,9 +9632,9 @@
       "date": "2026-09-02",
       "gameDate": "2026-09-02T22:40:00Z",
       "localGameTime": "2026-09-02T18:40:00-04:00",
-      "status": "In Progress",
-      "abstractGameState": "Live",
-      "codedGameState": "I",
+      "status": "Final",
+      "abstractGameState": "Final",
+      "codedGameState": "F",
       "awayTeam": {
         "id": 121,
         "name": "New York Mets",
@@ -9656,9 +9656,9 @@
       "date": "2026-09-02",
       "gameDate": "2026-09-02T22:40:00Z",
       "localGameTime": "2026-09-02T18:40:00-04:00",
-      "status": "In Progress",
-      "abstractGameState": "Live",
-      "codedGameState": "I",
+      "status": "Final",
+      "abstractGameState": "Final",
+      "codedGameState": "F",
       "awayTeam": {
         "id": 141,
         "name": "Toronto Blue Jays",
@@ -9693,8 +9693,8 @@
         "name": "Minnesota Twins",
         "abbreviation": "MIN"
       },
-      "awayScore": 4,
-      "homeScore": 1,
+      "awayScore": 5,
+      "homeScore": 2,
       "venue": "Target Field",
       "awayPitcher": "Drew Anderson",
       "homePitcher": "Dean Kremer"
@@ -9717,7 +9717,7 @@
         "name": "Kansas City Royals",
         "abbreviation": "KC"
       },
-      "awayScore": 4,
+      "awayScore": 7,
       "homeScore": 6,
       "venue": "Kauffman Stadium",
       "awayPitcher": "Eury P\u00e9rez",
@@ -9741,7 +9741,7 @@
         "name": "Chicago Cubs",
         "abbreviation": "CHC"
       },
-      "awayScore": 6,
+      "awayScore": 7,
       "homeScore": 5,
       "venue": "Wrigley Field",
       "awayPitcher": "Jacob Misiorowski",
@@ -9752,9 +9752,9 @@
       "date": "2026-09-02",
       "gameDate": "2026-09-03T00:10:00Z",
       "localGameTime": "2026-09-02T20:10:00-04:00",
-      "status": "In Progress",
+      "status": "Player challenge",
       "abstractGameState": "Live",
-      "codedGameState": "I",
+      "codedGameState": "M",
       "awayTeam": {
         "id": 145,
         "name": "Chicago White Sox",
@@ -9776,9 +9776,9 @@
       "date": "2026-09-02",
       "gameDate": "2026-09-03T01:38:00Z",
       "localGameTime": "2026-09-02T21:38:00-04:00",
-      "status": "Pre-Game",
-      "abstractGameState": "Preview",
-      "codedGameState": "P",
+      "status": "In Progress",
+      "abstractGameState": "Live",
+      "codedGameState": "I",
       "awayTeam": {
         "id": 147,
         "name": "New York Yankees",
@@ -9800,9 +9800,9 @@
       "date": "2026-09-02",
       "gameDate": "2026-09-03T02:10:00Z",
       "localGameTime": "2026-09-02T22:10:00-04:00",
-      "status": "Pre-Game",
-      "abstractGameState": "Preview",
-      "codedGameState": "P",
+      "status": "In Progress",
+      "abstractGameState": "Live",
+      "codedGameState": "I",
       "awayTeam": {
         "id": 138,
         "name": "St. Louis Cardinals",
@@ -9841,7 +9841,7 @@
       "homeScore": null,
       "venue": "PNC Park",
       "awayPitcher": "Blade Tidwell",
-      "homePitcher": null
+      "homePitcher": "Lake Bachar"
     },
     {
       "gamePk": 824388,
@@ -9913,7 +9913,7 @@
       "homeScore": null,
       "venue": "Oriole Park at Camden Yards",
       "awayPitcher": "Jake Bennett",
-      "homePitcher": null
+      "homePitcher": "Brandon Young"
     },
     {
       "gamePk": 824632,
@@ -10177,7 +10177,7 @@
       "homeScore": null,
       "venue": "Oriole Park at Camden Yards",
       "awayPitcher": "Ranger Suarez",
-      "homePitcher": null
+      "homePitcher": "Shane Baz"
     },
     {
       "gamePk": 823579,
@@ -10585,7 +10585,7 @@
       "homeScore": null,
       "venue": "Oriole Park at Camden Yards",
       "awayPitcher": "Sonny Gray",
-      "homePitcher": null
+      "homePitcher": "Chris Bassitt"
     },
     {
       "gamePk": 822850,
@@ -10849,7 +10849,7 @@
       "homeScore": null,
       "venue": "Oriole Park at Camden Yards",
       "awayPitcher": "Payton Tolle",
-      "homePitcher": null
+      "homePitcher": "Kyle Bradish"
     },
     {
       "gamePk": 823336,
