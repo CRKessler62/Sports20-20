@@ -1,6 +1,6 @@
 {
   "league": "MLB",
-  "lastUpdated": "2026-09-03T23:25:33.015549+00:00",
+  "lastUpdated": "2026-09-03T23:40:38.425002+00:00",
   "games": [
     {
       "gamePk": 823337,
@@ -205,11 +205,11 @@
       "awayTeam": "Boston Red Sox",
       "homeTeam": "Baltimore Orioles",
       "awayScore": 1,
-      "homeScore": 0,
+      "homeScore": 1,
       "status": "In Progress",
       "gameDate": "2026-09-03T23:15:00Z",
-      "inning": 1,
-      "inningOrdinal": "1st",
+      "inning": 2,
+      "inningOrdinal": "2nd",
       "inningState": "Middle",
       "outs": 3,
       "battingTeam": "Boston Red Sox",
@@ -222,6 +222,11 @@
         {
           "inning": 1,
           "awayRuns": 1,
+          "homeRuns": 1
+        },
+        {
+          "inning": 2,
+          "awayRuns": 0,
           "homeRuns": 0
         }
       ]
@@ -234,19 +239,24 @@
       "homeScore": 0,
       "status": "In Progress",
       "gameDate": "2026-09-03T23:15:00Z",
-      "inning": 1,
-      "inningOrdinal": "1st",
+      "inning": 2,
+      "inningOrdinal": "2nd",
       "inningState": "Bottom",
-      "outs": 2,
+      "outs": 1,
       "battingTeam": "Chicago Cubs",
       "runners": {
         "first": false,
-        "second": false,
+        "second": true,
         "third": false
       },
       "inningScores": [
         {
           "inning": 1,
+          "awayRuns": 0,
+          "homeRuns": 0
+        },
+        {
+          "inning": 2,
           "awayRuns": 0,
           "homeRuns": 0
         }
@@ -258,7 +268,7 @@
       "homeTeam": "Kansas City Royals",
       "awayScore": 0,
       "homeScore": 0,
-      "status": "Warmup",
+      "status": "In Progress",
       "gameDate": "2026-09-03T23:40:00Z",
       "inning": 1,
       "inningOrdinal": "1st",
