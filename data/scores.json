@@ -1,24 +1,24 @@
 {
   "league": "MLB",
-  "lastUpdated": "2026-09-03T18:36:19.324466+00:00",
+  "lastUpdated": "2026-09-03T18:52:57.938472+00:00",
   "games": [
     {
       "gamePk": 823337,
       "awayTeam": "San Francisco Giants",
       "homeTeam": "Pittsburgh Pirates",
-      "awayScore": 1,
+      "awayScore": 2,
       "homeScore": 4,
       "status": "In Progress",
       "gameDate": "2026-09-03T16:35:00Z",
       "inning": 7,
       "inningOrdinal": "7th",
-      "inningState": "Top",
-      "outs": 0,
-      "battingTeam": "San Francisco Giants",
+      "inningState": "Bottom",
+      "outs": 2,
+      "battingTeam": "Pittsburgh Pirates",
       "runners": {
-        "first": false,
-        "second": true,
-        "third": true
+        "first": true,
+        "second": false,
+        "third": false
       },
       "inningScores": [
         {
@@ -53,7 +53,7 @@
         },
         {
           "inning": 7,
-          "awayRuns": 1,
+          "awayRuns": 2,
           "homeRuns": 0
         }
       ]
@@ -62,18 +62,18 @@
       "gamePk": 824388,
       "awayTeam": "Toronto Blue Jays",
       "homeTeam": "Cleveland Guardians",
-      "awayScore": 1,
+      "awayScore": 5,
       "homeScore": 1,
       "status": "In Progress",
       "gameDate": "2026-09-03T17:10:00Z",
       "inning": 5,
       "inningOrdinal": "5th",
       "inningState": "Top",
-      "outs": 0,
+      "outs": 1,
       "battingTeam": "Toronto Blue Jays",
       "runners": {
-        "first": false,
-        "second": false,
+        "first": true,
+        "second": true,
         "third": false
       },
       "inningScores": [
@@ -99,7 +99,7 @@
         },
         {
           "inning": 5,
-          "awayRuns": 0,
+          "awayRuns": 4,
           "homeRuns": 0
         }
       ]
@@ -108,17 +108,17 @@
       "gamePk": 824144,
       "awayTeam": "Chicago White Sox",
       "homeTeam": "Houston Astros",
-      "awayScore": 0,
+      "awayScore": 2,
       "homeScore": 2,
       "status": "In Progress",
       "gameDate": "2026-09-03T18:10:00Z",
       "inning": 2,
       "inningOrdinal": "2nd",
-      "inningState": "Top",
-      "outs": 1,
+      "inningState": "End",
+      "outs": 3,
       "battingTeam": "Chicago White Sox",
       "runners": {
-        "first": true,
+        "first": false,
         "second": false,
         "third": false
       },
@@ -130,7 +130,7 @@
         },
         {
           "inning": 2,
-          "awayRuns": 0,
+          "awayRuns": 2,
           "homeRuns": 0
         }
       ]
