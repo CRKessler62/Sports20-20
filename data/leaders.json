@@ -1,6 +1,6 @@
 {
   "season": 2026,
-  "lastUpdated": "2026-09-03T19:20:11.597220+00:00",
+  "lastUpdated": "2026-09-03T21:22:32.831248+00:00",
   "leagues": {
     "AL": {
       "offense": {
@@ -10,7 +10,7 @@
             "player": "Yordan Alvarez",
             "team": "Houston Astros",
             "position": "DH",
-            "value": ".317"
+            "value": ".316"
           },
           {
             "rank": 2,
@@ -31,7 +31,7 @@
             "player": "Chase DeLauter",
             "team": "Cleveland Guardians",
             "position": "RF",
-            "value": ".295"
+            "value": ".293"
           },
           {
             "rank": 5,
@@ -213,17 +213,17 @@
           },
           {
             "rank": 4,
-            "player": "Steven Kwan",
-            "team": "Cleveland Guardians",
-            "position": "LF",
-            "value": ".376"
-          },
-          {
-            "rank": 5,
             "player": "Mike Trout",
             "team": "Los Angeles Angels",
             "position": "CF",
             "value": ".375"
+          },
+          {
+            "rank": 5,
+            "player": "Steven Kwan",
+            "team": "Cleveland Guardians",
+            "position": "LF",
+            "value": ".374"
           }
         ],
         "slg": [
@@ -232,7 +232,7 @@
             "player": "Yordan Alvarez",
             "team": "Houston Astros",
             "position": "DH",
-            "value": ".603"
+            "value": ".602"
           },
           {
             "rank": 2,
@@ -269,7 +269,7 @@
             "player": "Yordan Alvarez",
             "team": "Houston Astros",
             "position": "DH",
-            "value": "1.036"
+            "value": "1.035"
           },
           {
             "rank": 2,
@@ -578,15 +578,15 @@
           },
           {
             "rank": 3,
-            "player": "David Bednar",
-            "team": "New York Yankees",
+            "player": "Louis Varland",
+            "team": "Toronto Blue Jays",
             "position": "P",
-            "value": "31"
+            "value": "32"
           },
           {
             "rank": 4,
-            "player": "Louis Varland",
-            "team": "Toronto Blue Jays",
+            "player": "David Bednar",
+            "team": "New York Yankees",
             "position": "P",
             "value": "31"
           },
@@ -746,7 +746,7 @@
             "player": "Chase Meidroth",
             "team": "Chicago White Sox",
             "position": "2B",
-            "value": "279"
+            "value": "280"
           }
         ],
         "errors": [
@@ -806,7 +806,7 @@
             "player": "Christian Walker",
             "team": "Houston Astros",
             "position": "1B",
-            "value": "91"
+            "value": "92"
           },
           {
             "rank": 4,
