@@ -1,7 +1,7 @@
 {
   "league": "MLB",
   "timezone": "America/New_York",
-  "lastUpdated": "2026-09-03T16:13:58.751181+00:00",
+  "lastUpdated": "2026-09-03T17:12:11.111481+00:00",
   "games": [
     {
       "gamePk": 824805,
@@ -9824,9 +9824,9 @@
       "date": "2026-09-03",
       "gameDate": "2026-09-03T16:35:00Z",
       "localGameTime": "2026-09-03T12:35:00-04:00",
-      "status": "Warmup",
+      "status": "In Progress",
       "abstractGameState": "Live",
-      "codedGameState": "P",
+      "codedGameState": "I",
       "awayTeam": {
         "id": 137,
         "name": "San Francisco Giants",
@@ -9838,7 +9838,7 @@
         "abbreviation": "PIT"
       },
       "awayScore": 0,
-      "homeScore": 0,
+      "homeScore": 2,
       "venue": "PNC Park",
       "awayPitcher": "Blade Tidwell",
       "homePitcher": "Lake Bachar"
@@ -9848,9 +9848,9 @@
       "date": "2026-09-03",
       "gameDate": "2026-09-03T17:10:00Z",
       "localGameTime": "2026-09-03T13:10:00-04:00",
-      "status": "Pre-Game",
-      "abstractGameState": "Preview",
-      "codedGameState": "P",
+      "status": "In Progress",
+      "abstractGameState": "Live",
+      "codedGameState": "I",
       "awayTeam": {
         "id": 141,
         "name": "Toronto Blue Jays",
@@ -10249,7 +10249,7 @@
       "homeScore": null,
       "venue": "Rate Field",
       "awayPitcher": "Zebby Matthews",
-      "homePitcher": null
+      "homePitcher": "Erick Fedde"
     },
     {
       "gamePk": 822852,
@@ -10297,7 +10297,7 @@
       "homeScore": null,
       "venue": "Daikin Park",
       "awayPitcher": "Merrill Kelly",
-      "homePitcher": null
+      "homePitcher": "Cristian Javier"
     },
     {
       "gamePk": 824067,
@@ -10657,7 +10657,7 @@
       "homeScore": null,
       "venue": "Rate Field",
       "awayPitcher": "Taj Bradley",
-      "homePitcher": null
+      "homePitcher": "Anthony Kay"
     },
     {
       "gamePk": 824145,
@@ -10681,7 +10681,7 @@
       "homeScore": null,
       "venue": "Daikin Park",
       "awayPitcher": "Brandon Pfaadt",
-      "homePitcher": null
+      "homePitcher": "Ethan Pecko"
     },
     {
       "gamePk": 823257,
@@ -10969,7 +10969,7 @@
       "homeScore": null,
       "venue": "Daikin Park",
       "awayPitcher": "Eduardo Rodriguez",
-      "homePitcher": null
+      "homePitcher": "Peter Lambert"
     },
     {
       "gamePk": 824065,
@@ -11113,7 +11113,7 @@
       "homeScore": null,
       "venue": "Rate Field",
       "awayPitcher": "Bailey Ober",
-      "homePitcher": null
+      "homePitcher": "Sean Burke"
     },
     {
       "gamePk": 823903,
