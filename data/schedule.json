@@ -1,7 +1,7 @@
 {
   "league": "MLB",
   "timezone": "America/New_York",
-  "lastUpdated": "2026-09-03T20:11:57.232695+00:00",
+  "lastUpdated": "2026-09-03T21:12:40.659054+00:00",
   "games": [
     {
       "gamePk": 824805,
@@ -9848,9 +9848,9 @@
       "date": "2026-09-03",
       "gameDate": "2026-09-03T17:10:00Z",
       "localGameTime": "2026-09-03T13:10:00-04:00",
-      "status": "In Progress",
-      "abstractGameState": "Live",
-      "codedGameState": "I",
+      "status": "Final",
+      "abstractGameState": "Final",
+      "codedGameState": "F",
       "awayTeam": {
         "id": 141,
         "name": "Toronto Blue Jays",
@@ -9861,7 +9861,7 @@
         "name": "Cleveland Guardians",
         "abbreviation": "CLE"
       },
-      "awayScore": 5,
+      "awayScore": 6,
       "homeScore": 3,
       "venue": "Progressive Field",
       "awayPitcher": "Jos\u00e9 Soriano",
@@ -9872,9 +9872,9 @@
       "date": "2026-09-03",
       "gameDate": "2026-09-03T18:10:00Z",
       "localGameTime": "2026-09-03T14:10:00-04:00",
-      "status": "In Progress",
-      "abstractGameState": "Live",
-      "codedGameState": "I",
+      "status": "Final",
+      "abstractGameState": "Final",
+      "codedGameState": "F",
       "awayTeam": {
         "id": 145,
         "name": "Chicago White Sox",
@@ -9933,8 +9933,8 @@
         "name": "Chicago Cubs",
         "abbreviation": "CHC"
       },
-      "awayScore": null,
-      "homeScore": null,
+      "awayScore": 0,
+      "homeScore": 0,
       "venue": "Wrigley Field",
       "awayPitcher": "Logan Henderson",
       "homePitcher": "Kevin Gausman"
@@ -9957,8 +9957,8 @@
         "name": "Kansas City Royals",
         "abbreviation": "KC"
       },
-      "awayScore": null,
-      "homeScore": null,
+      "awayScore": 0,
+      "homeScore": 0,
       "venue": "Kauffman Stadium",
       "awayPitcher": "Sandy Alcantara",
       "homePitcher": "Michael Wacha"
@@ -9981,8 +9981,8 @@
         "name": "Texas Rangers",
         "abbreviation": "TEX"
       },
-      "awayScore": null,
-      "homeScore": null,
+      "awayScore": 0,
+      "homeScore": 0,
       "venue": "Globe Life Field",
       "awayPitcher": "Shane McClanahan",
       "homePitcher": "Cal Quantrill"
@@ -10057,7 +10057,7 @@
       "homeScore": null,
       "venue": "Progressive Field",
       "awayPitcher": "Keider Montero",
-      "homePitcher": null
+      "homePitcher": "Logan Allen"
     },
     {
       "gamePk": 824387,
@@ -10081,7 +10081,7 @@
       "homeScore": null,
       "venue": "Progressive Field",
       "awayPitcher": "Andrew Sears",
-      "homePitcher": null
+      "homePitcher": "Foster Griffin"
     },
     {
       "gamePk": 824471,
@@ -10225,7 +10225,7 @@
       "homeScore": null,
       "venue": "loanDepot park",
       "awayPitcher": "Shota Imanaga",
-      "homePitcher": null
+      "homePitcher": "Janson Junk"
     },
     {
       "gamePk": 824554,
@@ -10321,7 +10321,7 @@
       "homeScore": null,
       "venue": "Kauffman Stadium",
       "awayPitcher": "Jameson Taillon",
-      "homePitcher": null
+      "homePitcher": "Daniel Lynch IV"
     },
     {
       "gamePk": 824311,
@@ -10465,7 +10465,7 @@
       "homeScore": null,
       "venue": "loanDepot park",
       "awayPitcher": null,
-      "homePitcher": null
+      "homePitcher": "Ryan Gusto"
     },
     {
       "gamePk": 823419,
@@ -10633,7 +10633,7 @@
       "homeScore": null,
       "venue": "Kauffman Stadium",
       "awayPitcher": "Max Scherzer",
-      "homePitcher": null
+      "homePitcher": "Seth Lugo"
     },
     {
       "gamePk": 824553,
@@ -10945,7 +10945,7 @@
       "homeScore": null,
       "venue": "loanDepot park",
       "awayPitcher": null,
-      "homePitcher": null
+      "homePitcher": "Tyler Phillips"
     },
     {
       "gamePk": 824142,
@@ -10993,7 +10993,7 @@
       "homeScore": null,
       "venue": "Kauffman Stadium",
       "awayPitcher": null,
-      "homePitcher": null
+      "homePitcher": "Randy Dobnak"
     },
     {
       "gamePk": 822848,
