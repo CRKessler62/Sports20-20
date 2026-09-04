@@ -1,29 +1,29 @@
 {
   "league": "MLB",
-  "lastUpdated": "2026-09-04T19:16:25.098020+00:00",
+  "lastUpdated": "2026-09-04T19:29:10.733164+00:00",
   "games": [
     {
       "gamePk": 824424,
       "awayTeam": "Detroit Tigers",
       "homeTeam": "Cleveland Guardians",
-      "awayScore": 0,
+      "awayScore": 2,
       "homeScore": 0,
       "status": "In Progress",
       "gameDate": "2026-09-04T18:10:00Z",
       "inning": 1,
       "inningOrdinal": "1st",
       "inningState": "Top",
-      "outs": 0,
+      "outs": 2,
       "battingTeam": "Detroit Tigers",
       "runners": {
-        "first": false,
-        "second": false,
-        "third": false
+        "first": true,
+        "second": true,
+        "third": true
       },
       "inningScores": [
         {
           "inning": 1,
-          "awayRuns": 0,
+          "awayRuns": 2,
           "homeRuns": 0
         }
       ]
