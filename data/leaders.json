@@ -1,6 +1,6 @@
 {
   "season": 2026,
-  "lastUpdated": "2026-09-04T20:23:05.856029+00:00",
+  "lastUpdated": "2026-09-04T21:22:06.075746+00:00",
   "leagues": {
     "AL": {
       "offense": {
@@ -31,7 +31,7 @@
             "player": "Chase DeLauter",
             "team": "Cleveland Guardians",
             "position": "RF",
-            "value": ".294"
+            "value": ".296"
           },
           {
             "rank": 5,
@@ -220,10 +220,10 @@
           },
           {
             "rank": 5,
-            "player": "Steven Kwan",
-            "team": "Cleveland Guardians",
-            "position": "LF",
-            "value": ".373"
+            "player": "Yandy D\u00edaz",
+            "team": "Tampa Bay Rays",
+            "position": "DH",
+            "value": ".372"
           }
         ],
         "slg": [
@@ -541,17 +541,17 @@
           },
           {
             "rank": 3,
-            "player": "Keider Montero",
-            "team": "Detroit Tigers",
-            "position": "P",
-            "value": "0.99"
-          },
-          {
-            "rank": 4,
             "player": "Parker Messick",
             "team": "Cleveland Guardians",
             "position": "P",
             "value": "1.02"
+          },
+          {
+            "rank": 4,
+            "player": "Keider Montero",
+            "team": "Detroit Tigers",
+            "position": "P",
+            "value": "1.03"
           },
           {
             "rank": 5,
@@ -681,7 +681,7 @@
             "player": "Spencer Torkelson",
             "team": "Detroit Tigers",
             "position": "1B",
-            "value": "1040"
+            "value": "1042"
           },
           {
             "rank": 2,
@@ -792,7 +792,7 @@
             "player": "Spencer Torkelson",
             "team": "Detroit Tigers",
             "position": "1B",
-            "value": "96"
+            "value": "97"
           },
           {
             "rank": 2,
