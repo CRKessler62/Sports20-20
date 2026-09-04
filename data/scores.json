@@ -1,6 +1,6 @@
 {
   "league": "MLB",
-  "lastUpdated": "2026-09-04T21:16:40.509841+00:00",
+  "lastUpdated": "2026-09-04T21:31:45.003505+00:00",
   "games": [
     {
       "gamePk": 824424,
@@ -8,13 +8,13 @@
       "homeTeam": "Cleveland Guardians",
       "awayScore": 6,
       "homeScore": 6,
-      "status": "In Progress",
+      "status": "Manager challenge",
       "gameDate": "2026-09-04T18:10:00Z",
       "inning": 7,
       "inningOrdinal": "7th",
-      "inningState": "Middle",
+      "inningState": "Bottom",
       "outs": 3,
-      "battingTeam": "Detroit Tigers",
+      "battingTeam": "Cleveland Guardians",
       "runners": {
         "first": false,
         "second": false,
@@ -138,17 +138,23 @@
       "homeScore": 0,
       "status": "Pre-Game",
       "gameDate": "2026-09-04T22:45:00Z",
-      "inning": null,
-      "inningOrdinal": null,
-      "inningState": null,
-      "outs": null,
-      "battingTeam": null,
+      "inning": 1,
+      "inningOrdinal": "1st",
+      "inningState": "Top",
+      "outs": 0,
+      "battingTeam": "Los Angeles Angels",
       "runners": {
         "first": false,
         "second": false,
         "third": false
       },
-      "inningScores": []
+      "inningScores": [
+        {
+          "inning": 1,
+          "awayRuns": 0,
+          "homeRuns": 0
+        }
+      ]
     },
     {
       "gamePk": 824797,
