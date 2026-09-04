@@ -1,7 +1,7 @@
 {
   "league": "MLB",
   "timezone": "America/New_York",
-  "lastUpdated": "2026-09-04T00:19:03.581590+00:00",
+  "lastUpdated": "2026-09-04T01:09:55.484076+00:00",
   "games": [
     {
       "gamePk": 824158,
@@ -9549,7 +9549,7 @@
         "name": "Baltimore Orioles",
         "abbreviation": "BAL"
       },
-      "awayScore": 1,
+      "awayScore": 3,
       "homeScore": 3,
       "venue": "Oriole Park at Camden Yards",
       "awayPitcher": "Jake Bennett",
@@ -9597,8 +9597,8 @@
         "name": "Kansas City Royals",
         "abbreviation": "KC"
       },
-      "awayScore": 2,
-      "homeScore": 0,
+      "awayScore": 3,
+      "homeScore": 4,
       "venue": "Kauffman Stadium",
       "awayPitcher": "Sandy Alcantara",
       "homePitcher": "Michael Wacha"
@@ -9622,7 +9622,7 @@
         "abbreviation": "TEX"
       },
       "awayScore": 0,
-      "homeScore": 0,
+      "homeScore": 1,
       "venue": "Globe Life Field",
       "awayPitcher": "Shane McClanahan",
       "homePitcher": "Cal Quantrill"
@@ -10033,7 +10033,7 @@
       "homeScore": null,
       "venue": "UNIQLO Field at Dodger Stadium",
       "awayPitcher": "Jackson Kent",
-      "homePitcher": null
+      "homePitcher": "Blake Snell"
     },
     {
       "gamePk": 823093,
@@ -10393,7 +10393,7 @@
       "homeScore": null,
       "venue": "UNIQLO Field at Dodger Stadium",
       "awayPitcher": "Cade Cavalli",
-      "homePitcher": null
+      "homePitcher": "Tyler Glasnow"
     },
     {
       "gamePk": 823094,
