@@ -1,6 +1,6 @@
 {
   "league": "MLB",
-  "lastUpdated": "2026-09-04T18:33:27.604371+00:00",
+  "lastUpdated": "2026-09-04T18:48:00.982269+00:00",
   "games": [
     {
       "gamePk": 824424,
@@ -74,7 +74,7 @@
       "homeTeam": "Philadelphia Phillies",
       "awayScore": 0,
       "homeScore": 0,
-      "status": "Scheduled",
+      "status": "Pre-Game",
       "gameDate": "2026-09-04T22:40:00Z",
       "inning": null,
       "inningOrdinal": null,
@@ -254,7 +254,7 @@
       "homeTeam": "Colorado Rockies",
       "awayScore": 0,
       "homeScore": 0,
-      "status": "Scheduled",
+      "status": "Pre-Game",
       "gameDate": "2026-09-05T00:40:00Z",
       "inning": null,
       "inningOrdinal": null,
