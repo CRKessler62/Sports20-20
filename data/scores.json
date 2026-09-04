@@ -1,6 +1,6 @@
 {
   "league": "MLB",
-  "lastUpdated": "2026-09-04T17:42:17.857133+00:00",
+  "lastUpdated": "2026-09-04T17:54:50.180405+00:00",
   "games": [
     {
       "gamePk": 824424,
@@ -54,7 +54,7 @@
       "homeTeam": "Cincinnati Reds",
       "awayScore": 0,
       "homeScore": 0,
-      "status": "Scheduled",
+      "status": "Pre-Game",
       "gameDate": "2026-09-04T22:10:00Z",
       "inning": null,
       "inningOrdinal": null,
