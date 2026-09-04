@@ -1,6 +1,6 @@
 {
   "league": "MLB",
-  "lastUpdated": "2026-09-04T20:44:56.811110+00:00",
+  "lastUpdated": "2026-09-04T20:57:20.188757+00:00",
   "games": [
     {
       "gamePk": 824424,
@@ -10,10 +10,10 @@
       "homeScore": 6,
       "status": "In Progress",
       "gameDate": "2026-09-04T18:10:00Z",
-      "inning": 5,
-      "inningOrdinal": "5th",
+      "inning": 6,
+      "inningOrdinal": "6th",
       "inningState": "Top",
-      "outs": 2,
+      "outs": 1,
       "battingTeam": "Detroit Tigers",
       "runners": {
         "first": false,
@@ -43,6 +43,11 @@
         },
         {
           "inning": 5,
+          "awayRuns": 0,
+          "homeRuns": 0
+        },
+        {
+          "inning": 6,
           "awayRuns": 0,
           "homeRuns": 0
         }
@@ -272,17 +277,23 @@
       "homeScore": 0,
       "status": "Pre-Game",
       "gameDate": "2026-09-05T00:10:00Z",
-      "inning": null,
-      "inningOrdinal": null,
-      "inningState": null,
-      "outs": null,
-      "battingTeam": null,
+      "inning": 1,
+      "inningOrdinal": "1st",
+      "inningState": "Top",
+      "outs": 0,
+      "battingTeam": "Arizona Diamondbacks",
       "runners": {
         "first": false,
         "second": false,
         "third": false
       },
-      "inningScores": []
+      "inningScores": [
+        {
+          "inning": 1,
+          "awayRuns": 0,
+          "homeRuns": 0
+        }
+      ]
     },
     {
       "gamePk": 824067,
