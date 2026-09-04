@@ -1,7 +1,7 @@
 {
   "league": "MLB",
   "timezone": "America/New_York",
-  "lastUpdated": "2026-09-04T05:11:55.972564+00:00",
+  "lastUpdated": "2026-09-04T06:16:34.731218+00:00",
   "games": [
     {
       "gamePk": 824158,
@@ -9632,9 +9632,9 @@
       "date": "2026-09-03",
       "gameDate": "2026-09-04T01:40:00Z",
       "localGameTime": "2026-09-03T21:40:00-04:00",
-      "status": "Game Over",
+      "status": "Final",
       "abstractGameState": "Final",
-      "codedGameState": "O",
+      "codedGameState": "F",
       "awayTeam": {
         "id": 133,
         "name": "Athletics",
@@ -9656,9 +9656,9 @@
       "date": "2026-09-03",
       "gameDate": "2026-09-04T02:10:00Z",
       "localGameTime": "2026-09-03T22:10:00-04:00",
-      "status": "Game Over",
+      "status": "Final",
       "abstractGameState": "Final",
-      "codedGameState": "O",
+      "codedGameState": "F",
       "awayTeam": {
         "id": 138,
         "name": "St. Louis Cardinals",
@@ -10056,7 +10056,7 @@
       "awayScore": null,
       "homeScore": null,
       "venue": "T-Mobile Park",
-      "awayPitcher": null,
+      "awayPitcher": "Kade Morris",
       "homePitcher": "Logan Gilbert"
     },
     {
