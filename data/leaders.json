@@ -1,6 +1,6 @@
 {
   "season": 2026,
-  "lastUpdated": "2026-09-04T22:21:53.436133+00:00",
+  "lastUpdated": "2026-09-04T23:20:12.773855+00:00",
   "leagues": {
     "AL": {
       "offense": {
@@ -209,7 +209,7 @@
             "player": "Mike Trout",
             "team": "Los Angeles Angels",
             "position": "CF",
-            "value": ".375"
+            "value": ".374"
           },
           {
             "rank": 4,
@@ -834,7 +834,7 @@
             "player": "Luis Arraez",
             "team": "Philadelphia Phillies",
             "position": "2B",
-            "value": ".315"
+            "value": ".316"
           },
           {
             "rank": 2,
@@ -871,7 +871,7 @@
             "player": "Luis Arraez",
             "team": "Philadelphia Phillies",
             "position": "2B",
-            "value": "166"
+            "value": "167"
           },
           {
             "rank": 2,
@@ -1019,7 +1019,7 @@
             "player": "Bryce Harper",
             "team": "Philadelphia Phillies",
             "position": "1B",
-            "value": ".394"
+            "value": ".393"
           },
           {
             "rank": 2,
@@ -1033,7 +1033,7 @@
             "player": "Jake Bauers",
             "team": "Milwaukee Brewers",
             "position": "1B",
-            "value": ".389"
+            "value": ".390"
           },
           {
             "rank": 4,
@@ -1056,7 +1056,7 @@
             "player": "Pete Crow-Armstrong",
             "team": "Chicago Cubs",
             "position": "CF",
-            "value": ".571"
+            "value": ".570"
           },
           {
             "rank": 2,
@@ -1084,7 +1084,7 @@
             "player": "Matt Olson",
             "team": "Atlanta Braves",
             "position": "1B",
-            "value": ".518"
+            "value": ".517"
           }
         ],
         "ops": [
@@ -1093,7 +1093,7 @@
             "player": "Pete Crow-Armstrong",
             "team": "Chicago Cubs",
             "position": "CF",
-            "value": ".946"
+            "value": ".944"
           },
           {
             "rank": 2,
@@ -1114,14 +1114,14 @@
             "player": "Bryce Harper",
             "team": "Philadelphia Phillies",
             "position": "1B",
-            "value": ".903"
+            "value": ".901"
           },
           {
             "rank": 5,
             "player": "Jake Bauers",
             "team": "Milwaukee Brewers",
             "position": "1B",
-            "value": ".876"
+            "value": ".877"
           }
         ],
         "stolenBases": [
@@ -1250,21 +1250,21 @@
             "player": "Chris Sale",
             "team": "Atlanta Braves",
             "position": "P",
-            "value": "2.06"
+            "value": "2.10"
           },
           {
             "rank": 3,
-            "player": "Cristopher S\u00e1nchez",
-            "team": "Philadelphia Phillies",
-            "position": "P",
-            "value": "2.52"
-          },
-          {
-            "rank": 4,
             "player": "Eduardo Rodriguez",
             "team": "Arizona Diamondbacks",
             "position": "P",
             "value": "2.59"
+          },
+          {
+            "rank": 4,
+            "player": "Cristopher S\u00e1nchez",
+            "team": "Philadelphia Phillies",
+            "position": "P",
+            "value": "2.64"
           },
           {
             "rank": 5,
@@ -1331,21 +1331,21 @@
             "player": "Cristopher S\u00e1nchez",
             "team": "Philadelphia Phillies",
             "position": "P",
-            "value": "202"
+            "value": "203"
           },
           {
             "rank": 4,
-            "player": "Paul Skenes",
-            "team": "Pittsburgh Pirates",
+            "player": "Chris Sale",
+            "team": "Atlanta Braves",
             "position": "P",
             "value": "179"
           },
           {
             "rank": 5,
-            "player": "Cade Cavalli",
-            "team": "Washington Nationals",
+            "player": "Paul Skenes",
+            "team": "Pittsburgh Pirates",
             "position": "P",
-            "value": "177"
+            "value": "179"
           }
         ],
         "whip": [
@@ -1435,7 +1435,7 @@
             "player": "Cristopher S\u00e1nchez",
             "team": "Philadelphia Phillies",
             "position": "P",
-            "value": "175.1"
+            "value": "177.1"
           },
           {
             "rank": 3,
@@ -1526,14 +1526,14 @@
             "player": "J.T. Realmuto",
             "team": "Philadelphia Phillies",
             "position": "C",
-            "value": "1039"
+            "value": "1040"
           },
           {
             "rank": 5,
             "player": "Matt Olson",
             "team": "Atlanta Braves",
             "position": "1B",
-            "value": "1007"
+            "value": "1010"
           }
         ],
         "assists": [
@@ -1549,14 +1549,14 @@
             "player": "Luis Arraez",
             "team": "Philadelphia Phillies",
             "position": "2B",
-            "value": "338"
+            "value": "340"
           },
           {
             "rank": 3,
             "player": "Ozzie Albies",
             "team": "Atlanta Braves",
             "position": "2B",
-            "value": "330"
+            "value": "331"
           },
           {
             "rank": 4,
@@ -1623,7 +1623,7 @@
             "player": "Matt Olson",
             "team": "Atlanta Braves",
             "position": "1B",
-            "value": "108"
+            "value": "109"
           },
           {
             "rank": 3,
