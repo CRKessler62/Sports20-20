@@ -1,7 +1,7 @@
 {
   "league": "MLB",
   "timezone": "America/New_York",
-  "lastUpdated": "2026-09-04T03:12:46.166373+00:00",
+  "lastUpdated": "2026-09-04T04:12:57.096216+00:00",
   "games": [
     {
       "gamePk": 824158,
@@ -9645,8 +9645,8 @@
         "name": "Seattle Mariners",
         "abbreviation": "SEA"
       },
-      "awayScore": 2,
-      "homeScore": 3,
+      "awayScore": 5,
+      "homeScore": 4,
       "venue": "T-Mobile Park",
       "awayPitcher": "Jack Perkins",
       "homePitcher": "Kade Anderson"
@@ -9670,7 +9670,7 @@
         "abbreviation": "LAD"
       },
       "awayScore": 2,
-      "homeScore": 0,
+      "homeScore": 1,
       "venue": "UNIQLO Field at Dodger Stadium",
       "awayPitcher": "Quinn Mathews",
       "homePitcher": "Tarik Skubal"
@@ -9913,7 +9913,7 @@
       "homeScore": null,
       "venue": "Globe Life Field",
       "awayPitcher": "Nick Martinez",
-      "homePitcher": "Kumar Rocker"
+      "homePitcher": "Trevor Williams"
     },
     {
       "gamePk": 824146,
