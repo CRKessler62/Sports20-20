@@ -1,7 +1,7 @@
 {
   "league": "MLB",
   "timezone": "America/New_York",
-  "lastUpdated": "2026-09-04T18:14:26.329678+00:00",
+  "lastUpdated": "2026-09-04T19:09:59.188701+00:00",
   "games": [
     {
       "gamePk": 824158,
@@ -9680,8 +9680,8 @@
       "date": "2026-09-04",
       "gameDate": "2026-09-04T18:10:00Z",
       "localGameTime": "2026-09-04T14:10:00-04:00",
-      "status": "Delayed Start",
-      "abstractGameState": "Preview",
+      "status": "Warmup",
+      "abstractGameState": "Live",
       "codedGameState": "P",
       "awayTeam": {
         "id": 116,
@@ -9752,9 +9752,9 @@
       "date": "2026-09-04",
       "gameDate": "2026-09-04T22:40:00Z",
       "localGameTime": "2026-09-04T18:40:00-04:00",
-      "status": "Scheduled",
+      "status": "Pre-Game",
       "abstractGameState": "Preview",
-      "codedGameState": "S",
+      "codedGameState": "P",
       "awayTeam": {
         "id": 144,
         "name": "Atlanta Braves",
@@ -9765,8 +9765,8 @@
         "name": "Philadelphia Phillies",
         "abbreviation": "PHI"
       },
-      "awayScore": null,
-      "homeScore": null,
+      "awayScore": 0,
+      "homeScore": 0,
       "venue": "Citizens Bank Park",
       "awayPitcher": "Chris Sale",
       "homePitcher": "Cristopher S\u00e1nchez"
@@ -9824,9 +9824,9 @@
       "date": "2026-09-04",
       "gameDate": "2026-09-04T23:10:00Z",
       "localGameTime": "2026-09-04T19:10:00-04:00",
-      "status": "Scheduled",
+      "status": "Pre-Game",
       "abstractGameState": "Preview",
-      "codedGameState": "S",
+      "codedGameState": "P",
       "awayTeam": {
         "id": 137,
         "name": "San Francisco Giants",
@@ -9968,9 +9968,9 @@
       "date": "2026-09-04",
       "gameDate": "2026-09-05T00:40:00Z",
       "localGameTime": "2026-09-04T20:40:00-04:00",
-      "status": "Scheduled",
+      "status": "Pre-Game",
       "abstractGameState": "Preview",
-      "codedGameState": "S",
+      "codedGameState": "P",
       "awayTeam": {
         "id": 138,
         "name": "St. Louis Cardinals",
