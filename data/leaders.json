@@ -1,6 +1,6 @@
 {
   "season": 2026,
-  "lastUpdated": "2026-09-04T00:31:14.139895+00:00",
+  "lastUpdated": "2026-09-04T01:20:15.866089+00:00",
   "leagues": {
     "AL": {
       "offense": {
@@ -17,14 +17,14 @@
             "player": "Chandler Simpson",
             "team": "Tampa Bay Rays",
             "position": "LF",
-            "value": ".311"
+            "value": ".310"
           },
           {
             "rank": 3,
             "player": "Yandy D\u00edaz",
             "team": "Tampa Bay Rays",
             "position": "DH",
-            "value": ".301"
+            "value": ".303"
           },
           {
             "rank": 4,
@@ -47,7 +47,7 @@
             "player": "Yandy D\u00edaz",
             "team": "Tampa Bay Rays",
             "position": "DH",
-            "value": "160"
+            "value": "161"
           },
           {
             "rank": 2,
@@ -239,7 +239,7 @@
             "player": "Junior Caminero",
             "team": "Tampa Bay Rays",
             "position": "3B",
-            "value": ".530"
+            "value": ".529"
           },
           {
             "rank": 3,
@@ -260,7 +260,7 @@
             "player": "Pete Alonso",
             "team": "Baltimore Orioles",
             "position": "1B",
-            "value": ".504"
+            "value": ".503"
           }
         ],
         "ops": [
@@ -283,7 +283,7 @@
             "player": "Junior Caminero",
             "team": "Tampa Bay Rays",
             "position": "3B",
-            "value": ".896"
+            "value": ".894"
           },
           {
             "rank": 4,
@@ -294,9 +294,9 @@
           },
           {
             "rank": 5,
-            "player": "Pete Alonso",
-            "team": "Baltimore Orioles",
-            "position": "1B",
+            "player": "Ben Rice",
+            "team": "New York Yankees",
+            "position": "DH",
             "value": ".865"
           }
         ],
@@ -604,7 +604,7 @@
             "player": "Michael Wacha",
             "team": "Kansas City Royals",
             "position": "P",
-            "value": "173.2"
+            "value": "176.2"
           },
           {
             "rank": 2,
@@ -688,14 +688,14 @@
             "player": "Jonathan Aranda",
             "team": "Tampa Bay Rays",
             "position": "1B",
-            "value": "936"
+            "value": "941"
           },
           {
             "rank": 3,
             "player": "Pete Alonso",
             "team": "Baltimore Orioles",
             "position": "1B",
-            "value": "907"
+            "value": "908"
           },
           {
             "rank": 4,
@@ -1033,7 +1033,7 @@
             "player": "Jake Bauers",
             "team": "Milwaukee Brewers",
             "position": "1B",
-            "value": ".388"
+            "value": ".389"
           },
           {
             "rank": 4,
@@ -1056,7 +1056,7 @@
             "player": "Pete Crow-Armstrong",
             "team": "Chicago Cubs",
             "position": "CF",
-            "value": ".573"
+            "value": ".572"
           },
           {
             "rank": 2,
@@ -1093,7 +1093,7 @@
             "player": "Pete Crow-Armstrong",
             "team": "Chicago Cubs",
             "position": "CF",
-            "value": ".949"
+            "value": ".947"
           },
           {
             "rank": 2,
@@ -1121,7 +1121,7 @@
             "player": "Jake Bauers",
             "team": "Milwaukee Brewers",
             "position": "1B",
-            "value": ".876"
+            "value": ".877"
           }
         ],
         "stolenBases": [
@@ -1428,7 +1428,7 @@
             "player": "Sandy Alcantara",
             "team": "Miami Marlins",
             "position": "P",
-            "value": "192.2"
+            "value": "195.2"
           },
           {
             "rank": 2,
@@ -1505,21 +1505,21 @@
             "player": "Michael Busch",
             "team": "Chicago Cubs",
             "position": "1B",
-            "value": "1053"
+            "value": "1056"
           },
           {
             "rank": 2,
+            "player": "William Contreras",
+            "team": "Milwaukee Brewers",
+            "position": "C",
+            "value": "1053"
+          },
+          {
+            "rank": 3,
             "player": "Alec Burleson",
             "team": "St. Louis Cardinals",
             "position": "1B",
             "value": "1051"
-          },
-          {
-            "rank": 3,
-            "player": "William Contreras",
-            "team": "Milwaukee Brewers",
-            "position": "C",
-            "value": "1050"
           },
           {
             "rank": 4,
