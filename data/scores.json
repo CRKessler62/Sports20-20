@@ -1,24 +1,24 @@
 {
   "league": "MLB",
-  "lastUpdated": "2026-09-04T20:32:24.051410+00:00",
+  "lastUpdated": "2026-09-04T20:44:56.811110+00:00",
   "games": [
     {
       "gamePk": 824424,
       "awayTeam": "Detroit Tigers",
       "homeTeam": "Cleveland Guardians",
       "awayScore": 6,
-      "homeScore": 2,
+      "homeScore": 6,
       "status": "In Progress",
       "gameDate": "2026-09-04T18:10:00Z",
-      "inning": 4,
-      "inningOrdinal": "4th",
-      "inningState": "Bottom",
-      "outs": 1,
-      "battingTeam": "Cleveland Guardians",
+      "inning": 5,
+      "inningOrdinal": "5th",
+      "inningState": "Top",
+      "outs": 2,
+      "battingTeam": "Detroit Tigers",
       "runners": {
-        "first": true,
-        "second": true,
-        "third": true
+        "first": false,
+        "second": false,
+        "third": false
       },
       "inningScores": [
         {
@@ -39,7 +39,12 @@
         {
           "inning": 4,
           "awayRuns": 0,
-          "homeRuns": 1
+          "homeRuns": 5
+        },
+        {
+          "inning": 5,
+          "awayRuns": 0,
+          "homeRuns": 0
         }
       ]
     },
@@ -265,7 +270,7 @@
       "homeTeam": "Houston Astros",
       "awayScore": 0,
       "homeScore": 0,
-      "status": "Scheduled",
+      "status": "Pre-Game",
       "gameDate": "2026-09-05T00:10:00Z",
       "inning": null,
       "inningOrdinal": null,
