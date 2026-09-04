@@ -1,6 +1,6 @@
 {
   "season": 2026,
-  "lastUpdated": "2026-09-04T02:23:23.653454+00:00",
+  "lastUpdated": "2026-09-04T03:23:18.575588+00:00",
   "leagues": {
     "AL": {
       "offense": {
@@ -702,7 +702,7 @@
             "player": "Josh Naylor",
             "team": "Seattle Mariners",
             "position": "1B",
-            "value": "903"
+            "value": "906"
           },
           {
             "rank": 5,
@@ -718,7 +718,7 @@
             "player": "Cole Young",
             "team": "Seattle Mariners",
             "position": "2B",
-            "value": "354"
+            "value": "355"
           },
           {
             "rank": 2,
@@ -799,7 +799,7 @@
             "player": "Josh Naylor",
             "team": "Seattle Mariners",
             "position": "1B",
-            "value": "94"
+            "value": "95"
           },
           {
             "rank": 3,
@@ -848,7 +848,7 @@
             "player": "Freddie Freeman",
             "team": "Los Angeles Dodgers",
             "position": "1B",
-            "value": ".306"
+            "value": ".305"
           },
           {
             "rank": 4,
@@ -1047,7 +1047,7 @@
             "player": "Freddie Freeman",
             "team": "Los Angeles Dodgers",
             "position": "1B",
-            "value": ".383"
+            "value": ".381"
           }
         ],
         "slg": [
