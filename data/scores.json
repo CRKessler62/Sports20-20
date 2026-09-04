@@ -1,19 +1,19 @@
 {
   "league": "MLB",
-  "lastUpdated": "2026-09-04T21:45:03.097912+00:00",
+  "lastUpdated": "2026-09-04T21:57:40.883708+00:00",
   "games": [
     {
       "gamePk": 824424,
       "awayTeam": "Detroit Tigers",
       "homeTeam": "Cleveland Guardians",
       "awayScore": 6,
-      "homeScore": 6,
-      "status": "In Progress",
+      "homeScore": 7,
+      "status": "Game Over",
       "gameDate": "2026-09-04T18:10:00Z",
-      "inning": 8,
-      "inningOrdinal": "8th",
+      "inning": 9,
+      "inningOrdinal": "9th",
       "inningState": "Bottom",
-      "outs": 2,
+      "outs": 0,
       "battingTeam": "Cleveland Guardians",
       "runners": {
         "first": false,
@@ -60,6 +60,11 @@
           "inning": 8,
           "awayRuns": 0,
           "homeRuns": 0
+        },
+        {
+          "inning": 9,
+          "awayRuns": 0,
+          "homeRuns": 1
         }
       ]
     },
@@ -89,7 +94,7 @@
       "homeTeam": "Cincinnati Reds",
       "awayScore": 0,
       "homeScore": 0,
-      "status": "Pre-Game",
+      "status": "Delayed Start",
       "gameDate": "2026-09-04T22:10:00Z",
       "inning": 1,
       "inningOrdinal": "1st",
@@ -351,17 +356,23 @@
       "homeScore": 0,
       "status": "Pre-Game",
       "gameDate": "2026-09-05T00:40:00Z",
-      "inning": null,
-      "inningOrdinal": null,
-      "inningState": null,
-      "outs": null,
-      "battingTeam": null,
+      "inning": 1,
+      "inningOrdinal": "1st",
+      "inningState": "Top",
+      "outs": 0,
+      "battingTeam": "St. Louis Cardinals",
       "runners": {
         "first": false,
         "second": false,
         "third": false
       },
-      "inningScores": []
+      "inningScores": [
+        {
+          "inning": 1,
+          "awayRuns": 0,
+          "homeRuns": 0
+        }
+      ]
     },
     {
       "gamePk": 823256,
