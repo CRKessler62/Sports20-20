@@ -1,30 +1,30 @@
 {
   "league": "MLB",
-  "lastUpdated": "2026-09-04T19:29:10.733164+00:00",
+  "lastUpdated": "2026-09-04T19:42:55.759812+00:00",
   "games": [
     {
       "gamePk": 824424,
       "awayTeam": "Detroit Tigers",
       "homeTeam": "Cleveland Guardians",
-      "awayScore": 2,
-      "homeScore": 0,
+      "awayScore": 4,
+      "homeScore": 1,
       "status": "In Progress",
       "gameDate": "2026-09-04T18:10:00Z",
       "inning": 1,
       "inningOrdinal": "1st",
-      "inningState": "Top",
-      "outs": 2,
+      "inningState": "End",
+      "outs": 3,
       "battingTeam": "Detroit Tigers",
       "runners": {
-        "first": true,
-        "second": true,
-        "third": true
+        "first": false,
+        "second": false,
+        "third": false
       },
       "inningScores": [
         {
           "inning": 1,
-          "awayRuns": 2,
-          "homeRuns": 0
+          "awayRuns": 4,
+          "homeRuns": 1
         }
       ]
     },
@@ -100,7 +100,7 @@
       "homeTeam": "Pittsburgh Pirates",
       "awayScore": 0,
       "homeScore": 0,
-      "status": "Scheduled",
+      "status": "Pre-Game",
       "gameDate": "2026-09-04T22:45:00Z",
       "inning": null,
       "inningOrdinal": null,
@@ -120,19 +120,25 @@
       "homeTeam": "Baltimore Orioles",
       "awayScore": 0,
       "homeScore": 0,
-      "status": "Scheduled",
+      "status": "Pre-Game",
       "gameDate": "2026-09-04T23:05:00Z",
-      "inning": null,
-      "inningOrdinal": null,
-      "inningState": null,
-      "outs": null,
-      "battingTeam": null,
+      "inning": 1,
+      "inningOrdinal": "1st",
+      "inningState": "Top",
+      "outs": 0,
+      "battingTeam": "Boston Red Sox",
       "runners": {
         "first": false,
         "second": false,
         "third": false
       },
-      "inningScores": []
+      "inningScores": [
+        {
+          "inning": 1,
+          "awayRuns": 0,
+          "homeRuns": 0
+        }
+      ]
     },
     {
       "gamePk": 823579,
