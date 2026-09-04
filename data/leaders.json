@@ -1,6 +1,6 @@
 {
   "season": 2026,
-  "lastUpdated": "2026-09-04T19:19:35.234801+00:00",
+  "lastUpdated": "2026-09-04T20:23:05.856029+00:00",
   "leagues": {
     "AL": {
       "offense": {
@@ -31,7 +31,7 @@
             "player": "Chase DeLauter",
             "team": "Cleveland Guardians",
             "position": "RF",
-            "value": ".293"
+            "value": ".294"
           },
           {
             "rank": 5,
@@ -149,7 +149,7 @@
             "player": "Jo Adell",
             "team": "Cleveland Guardians",
             "position": "RF",
-            "value": "83"
+            "value": "84"
           }
         ],
         "runs": [
@@ -183,10 +183,10 @@
           },
           {
             "rank": 5,
-            "player": "Pete Alonso",
-            "team": "Baltimore Orioles",
-            "position": "1B",
-            "value": "86"
+            "player": "Kevin McGonigle",
+            "team": "Detroit Tigers",
+            "position": "SS",
+            "value": "87"
           }
         ],
         "obp": [
@@ -213,16 +213,16 @@
           },
           {
             "rank": 4,
-            "player": "Steven Kwan",
-            "team": "Cleveland Guardians",
-            "position": "LF",
-            "value": ".374"
-          },
-          {
-            "rank": 5,
             "player": "Kevin McGonigle",
             "team": "Detroit Tigers",
             "position": "SS",
+            "value": ".373"
+          },
+          {
+            "rank": 5,
+            "player": "Steven Kwan",
+            "team": "Cleveland Guardians",
+            "position": "LF",
             "value": ".373"
           }
         ],
@@ -681,7 +681,7 @@
             "player": "Spencer Torkelson",
             "team": "Detroit Tigers",
             "position": "1B",
-            "value": "1038"
+            "value": "1040"
           },
           {
             "rank": 2,
