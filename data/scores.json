@@ -1,6 +1,6 @@
 {
   "league": "MLB",
-  "lastUpdated": "2026-09-04T21:31:45.003505+00:00",
+  "lastUpdated": "2026-09-04T21:45:03.097912+00:00",
   "games": [
     {
       "gamePk": 824424,
@@ -8,12 +8,12 @@
       "homeTeam": "Cleveland Guardians",
       "awayScore": 6,
       "homeScore": 6,
-      "status": "Manager challenge",
+      "status": "In Progress",
       "gameDate": "2026-09-04T18:10:00Z",
-      "inning": 7,
-      "inningOrdinal": "7th",
+      "inning": 8,
+      "inningOrdinal": "8th",
       "inningState": "Bottom",
-      "outs": 3,
+      "outs": 2,
       "battingTeam": "Cleveland Guardians",
       "runners": {
         "first": false,
@@ -53,6 +53,11 @@
         },
         {
           "inning": 7,
+          "awayRuns": 0,
+          "homeRuns": 0
+        },
+        {
+          "inning": 8,
           "awayRuns": 0,
           "homeRuns": 0
         }
@@ -268,17 +273,23 @@
       "homeScore": 0,
       "status": "Pre-Game",
       "gameDate": "2026-09-05T00:05:00Z",
-      "inning": null,
-      "inningOrdinal": null,
-      "inningState": null,
-      "outs": null,
-      "battingTeam": null,
+      "inning": 1,
+      "inningOrdinal": "1st",
+      "inningState": "Top",
+      "outs": 0,
+      "battingTeam": "Tampa Bay Rays",
       "runners": {
         "first": false,
         "second": false,
         "third": false
       },
-      "inningScores": []
+      "inningScores": [
+        {
+          "inning": 1,
+          "awayRuns": 0,
+          "homeRuns": 0
+        }
+      ]
     },
     {
       "gamePk": 824146,
@@ -314,17 +325,23 @@
       "homeScore": 0,
       "status": "Pre-Game",
       "gameDate": "2026-09-05T00:10:00Z",
-      "inning": null,
-      "inningOrdinal": null,
-      "inningState": null,
-      "outs": null,
-      "battingTeam": null,
+      "inning": 1,
+      "inningOrdinal": "1st",
+      "inningState": "Top",
+      "outs": 0,
+      "battingTeam": "Toronto Blue Jays",
       "runners": {
         "first": false,
         "second": false,
         "third": false
       },
-      "inningScores": []
+      "inningScores": [
+        {
+          "inning": 1,
+          "awayRuns": 0,
+          "homeRuns": 0
+        }
+      ]
     },
     {
       "gamePk": 824311,
