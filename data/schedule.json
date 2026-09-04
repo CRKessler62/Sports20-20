@@ -1,7 +1,7 @@
 {
   "league": "MLB",
   "timezone": "America/New_York",
-  "lastUpdated": "2026-09-04T19:09:59.188701+00:00",
+  "lastUpdated": "2026-09-04T20:12:22.664824+00:00",
   "games": [
     {
       "gamePk": 824158,
@@ -9680,9 +9680,9 @@
       "date": "2026-09-04",
       "gameDate": "2026-09-04T18:10:00Z",
       "localGameTime": "2026-09-04T14:10:00-04:00",
-      "status": "Warmup",
+      "status": "In Progress",
       "abstractGameState": "Live",
-      "codedGameState": "P",
+      "codedGameState": "I",
       "awayTeam": {
         "id": 116,
         "name": "Detroit Tigers",
@@ -9693,8 +9693,8 @@
         "name": "Cleveland Guardians",
         "abbreviation": "CLE"
       },
-      "awayScore": 0,
-      "homeScore": 0,
+      "awayScore": 6,
+      "homeScore": 1,
       "venue": "Progressive Field",
       "awayPitcher": "Keider Montero",
       "homePitcher": "Logan Allen"
@@ -9741,8 +9741,8 @@
         "name": "Cincinnati Reds",
         "abbreviation": "CIN"
       },
-      "awayScore": null,
-      "homeScore": null,
+      "awayScore": 0,
+      "homeScore": 0,
       "venue": "Great American Ball Park",
       "awayPitcher": "Shane Drohan",
       "homePitcher": "Rhett Lowder"
@@ -9776,9 +9776,9 @@
       "date": "2026-09-04",
       "gameDate": "2026-09-04T22:45:00Z",
       "localGameTime": "2026-09-04T18:45:00-04:00",
-      "status": "Scheduled",
+      "status": "Pre-Game",
       "abstractGameState": "Preview",
-      "codedGameState": "S",
+      "codedGameState": "P",
       "awayTeam": {
         "id": 108,
         "name": "Los Angeles Angels",
@@ -9800,9 +9800,9 @@
       "date": "2026-09-04",
       "gameDate": "2026-09-04T23:05:00Z",
       "localGameTime": "2026-09-04T19:05:00-04:00",
-      "status": "Scheduled",
+      "status": "Pre-Game",
       "abstractGameState": "Preview",
-      "codedGameState": "S",
+      "codedGameState": "P",
       "awayTeam": {
         "id": 111,
         "name": "Boston Red Sox",
@@ -9813,8 +9813,8 @@
         "name": "Baltimore Orioles",
         "abbreviation": "BAL"
       },
-      "awayScore": null,
-      "homeScore": null,
+      "awayScore": 0,
+      "homeScore": 0,
       "venue": "Oriole Park at Camden Yards",
       "awayPitcher": "Ranger Suarez",
       "homePitcher": "Shane Baz"
@@ -9837,8 +9837,8 @@
         "name": "New York Mets",
         "abbreviation": "NYM"
       },
-      "awayScore": null,
-      "homeScore": null,
+      "awayScore": 0,
+      "homeScore": 0,
       "venue": "Citi Field",
       "awayPitcher": "Matt Wilkinson",
       "homePitcher": "Nolan McLean"
@@ -9848,9 +9848,9 @@
       "date": "2026-09-04",
       "gameDate": "2026-09-04T23:10:00Z",
       "localGameTime": "2026-09-04T19:10:00-04:00",
-      "status": "Scheduled",
+      "status": "Pre-Game",
       "abstractGameState": "Preview",
-      "codedGameState": "S",
+      "codedGameState": "P",
       "awayTeam": {
         "id": 112,
         "name": "Chicago Cubs",
@@ -9872,9 +9872,9 @@
       "date": "2026-09-04",
       "gameDate": "2026-09-04T23:40:00Z",
       "localGameTime": "2026-09-04T19:40:00-04:00",
-      "status": "Scheduled",
+      "status": "Pre-Game",
       "abstractGameState": "Preview",
-      "codedGameState": "S",
+      "codedGameState": "P",
       "awayTeam": {
         "id": 142,
         "name": "Minnesota Twins",
@@ -9896,9 +9896,9 @@
       "date": "2026-09-04",
       "gameDate": "2026-09-05T00:05:00Z",
       "localGameTime": "2026-09-04T20:05:00-04:00",
-      "status": "Scheduled",
+      "status": "Pre-Game",
       "abstractGameState": "Preview",
-      "codedGameState": "S",
+      "codedGameState": "P",
       "awayTeam": {
         "id": 139,
         "name": "Tampa Bay Rays",
@@ -9944,9 +9944,9 @@
       "date": "2026-09-04",
       "gameDate": "2026-09-05T00:10:00Z",
       "localGameTime": "2026-09-04T20:10:00-04:00",
-      "status": "Scheduled",
+      "status": "Pre-Game",
       "abstractGameState": "Preview",
-      "codedGameState": "S",
+      "codedGameState": "P",
       "awayTeam": {
         "id": 141,
         "name": "Toronto Blue Jays",
