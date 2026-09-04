@@ -1,7 +1,7 @@
 {
   "league": "MLB",
   "timezone": "America/New_York",
-  "lastUpdated": "2026-09-04T16:13:18.347125+00:00",
+  "lastUpdated": "2026-09-04T17:11:35.272450+00:00",
   "games": [
     {
       "gamePk": 824158,
@@ -9680,7 +9680,7 @@
       "date": "2026-09-04",
       "gameDate": "2026-09-04T18:10:00Z",
       "localGameTime": "2026-09-04T14:10:00-04:00",
-      "status": "Pre-Game",
+      "status": "Delayed Start",
       "abstractGameState": "Preview",
       "codedGameState": "P",
       "awayTeam": {
