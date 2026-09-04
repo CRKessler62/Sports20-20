@@ -1,7 +1,7 @@
 {
   "league": "MLB",
   "season": 2026,
-  "lastUpdated": "2026-09-04T19:54:20.361006+00:00",
+  "lastUpdated": "2026-09-04T20:01:19.455110+00:00",
   "teamCount": 30,
   "teams": [
     {
@@ -1787,16 +1787,16 @@
           "pct": ".617"
         },
         {
-          "wins": 26,
-          "losses": 19,
+          "wins": 25,
+          "losses": 18,
           "type": "day",
-          "pct": ".578"
+          "pct": ".581"
         },
         {
-          "wins": 57,
-          "losses": 38,
+          "wins": 58,
+          "losses": 39,
           "type": "night",
-          "pct": ".600"
+          "pct": ".598"
         },
         {
           "wins": 78,
@@ -3031,15 +3031,15 @@
         },
         {
           "wins": 29,
-          "losses": 24,
+          "losses": 23,
           "type": "day",
-          "pct": ".547"
+          "pct": ".558"
         },
         {
           "wins": 45,
-          "losses": 43,
+          "losses": 44,
           "type": "night",
-          "pct": ".511"
+          "pct": ".506"
         },
         {
           "wins": 32,
