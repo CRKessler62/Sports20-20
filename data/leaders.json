@@ -1,6 +1,6 @@
 {
   "season": 2026,
-  "lastUpdated": "2026-09-05T21:23:39.457198+00:00",
+  "lastUpdated": "2026-09-05T22:21:36.082360+00:00",
   "leagues": {
     "AL": {
       "offense": {
@@ -213,17 +213,17 @@
           },
           {
             "rank": 4,
-            "player": "Steven Kwan",
-            "team": "Cleveland Guardians",
-            "position": "LF",
-            "value": ".374"
-          },
-          {
-            "rank": 5,
             "player": "Yandy D\u00edaz",
             "team": "Tampa Bay Rays",
             "position": "DH",
             "value": ".374"
+          },
+          {
+            "rank": 5,
+            "player": "Steven Kwan",
+            "team": "Cleveland Guardians",
+            "position": "LF",
+            "value": ".373"
           }
         ],
         "slg": [
@@ -433,7 +433,7 @@
             "player": "Parker Messick",
             "team": "Cleveland Guardians",
             "position": "P",
-            "value": "2.46"
+            "value": "2.50"
           },
           {
             "rank": 4,
@@ -681,7 +681,7 @@
             "player": "Spencer Torkelson",
             "team": "Detroit Tigers",
             "position": "1B",
-            "value": "1050"
+            "value": "1051"
           },
           {
             "rank": 2,
@@ -855,7 +855,7 @@
             "player": "Otto Lopez",
             "team": "Miami Marlins",
             "position": "SS",
-            "value": ".300"
+            "value": ".301"
           },
           {
             "rank": 5,
@@ -878,7 +878,7 @@
             "player": "Otto Lopez",
             "team": "Miami Marlins",
             "position": "SS",
-            "value": "166"
+            "value": "167"
           },
           {
             "rank": 3,
@@ -902,7 +902,43 @@
             "value": "154"
           }
         ],
-        "homeRuns": [],
+        "homeRuns": [
+          {
+            "rank": 1,
+            "player": "Kyle Schwarber",
+            "team": "Philadelphia Phillies",
+            "position": "DH",
+            "value": "40"
+          },
+          {
+            "rank": 2,
+            "player": "Pete Crow-Armstrong",
+            "team": "Chicago Cubs",
+            "position": "CF",
+            "value": "39"
+          },
+          {
+            "rank": 3,
+            "player": "Matt Olson",
+            "team": "Atlanta Braves",
+            "position": "1B",
+            "value": "37"
+          },
+          {
+            "rank": 4,
+            "player": "Hunter Goodman",
+            "team": "Colorado Rockies",
+            "position": "C",
+            "value": "36"
+          },
+          {
+            "rank": 5,
+            "player": "Rafael Devers",
+            "team": "San Francisco Giants",
+            "position": "1B",
+            "value": "35"
+          }
+        ],
         "rbi": [
           {
             "rank": 1,
@@ -1014,7 +1050,43 @@
             "value": ".381"
           }
         ],
-        "slg": [],
+        "slg": [
+          {
+            "rank": 1,
+            "player": "Pete Crow-Armstrong",
+            "team": "Chicago Cubs",
+            "position": "CF",
+            "value": ".570"
+          },
+          {
+            "rank": 2,
+            "player": "James Wood",
+            "team": "Washington Nationals",
+            "position": "RF",
+            "value": ".536"
+          },
+          {
+            "rank": 3,
+            "player": "Hunter Goodman",
+            "team": "Colorado Rockies",
+            "position": "C",
+            "value": ".533"
+          },
+          {
+            "rank": 4,
+            "player": "Shohei Ohtani",
+            "team": "Los Angeles Dodgers",
+            "position": "TWP",
+            "value": ".525"
+          },
+          {
+            "rank": 5,
+            "player": "Rafael Devers",
+            "team": "San Francisco Giants",
+            "position": "1B",
+            "value": ".519"
+          }
+        ],
         "ops": [
           {
             "rank": 1,
@@ -1165,7 +1237,43 @@
         ]
       },
       "pitching": {
-        "era": [],
+        "era": [
+          {
+            "rank": 1,
+            "player": "Jacob Misiorowski",
+            "team": "Milwaukee Brewers",
+            "position": "P",
+            "value": "1.97"
+          },
+          {
+            "rank": 2,
+            "player": "Chris Sale",
+            "team": "Atlanta Braves",
+            "position": "P",
+            "value": "2.10"
+          },
+          {
+            "rank": 3,
+            "player": "Cristopher S\u00e1nchez",
+            "team": "Philadelphia Phillies",
+            "position": "P",
+            "value": "2.58"
+          },
+          {
+            "rank": 4,
+            "player": "Eduardo Rodriguez",
+            "team": "Arizona Diamondbacks",
+            "position": "P",
+            "value": "2.59"
+          },
+          {
+            "rank": 5,
+            "player": "Yoshinobu Yamamoto",
+            "team": "Los Angeles Dodgers",
+            "position": "P",
+            "value": "2.67"
+          }
+        ],
         "wins": [
           {
             "rank": 1,
@@ -1397,7 +1505,7 @@
             "player": "Michael Busch",
             "team": "Chicago Cubs",
             "position": "1B",
-            "value": "1074"
+            "value": "1075"
           },
           {
             "rank": 2,
@@ -1418,7 +1526,7 @@
             "player": "J.T. Realmuto",
             "team": "Philadelphia Phillies",
             "position": "C",
-            "value": "1045"
+            "value": "1046"
           },
           {
             "rank": 5,
