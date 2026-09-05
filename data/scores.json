@@ -1,22 +1,22 @@
 {
   "league": "MLB",
-  "lastUpdated": "2026-09-05T20:31:40.266815+00:00",
+  "lastUpdated": "2026-09-05T20:44:06.335347+00:00",
   "games": [
     {
       "gamePk": 823577,
       "awayTeam": "San Francisco Giants",
       "homeTeam": "New York Mets",
       "awayScore": 1,
-      "homeScore": 0,
+      "homeScore": 2,
       "status": "In Progress",
       "gameDate": "2026-09-05T20:10:00Z",
       "inning": 2,
       "inningOrdinal": "2nd",
-      "inningState": "Top",
-      "outs": 1,
-      "battingTeam": "San Francisco Giants",
+      "inningState": "Bottom",
+      "outs": 2,
+      "battingTeam": "New York Mets",
       "runners": {
-        "first": true,
+        "first": false,
         "second": false,
         "third": false
       },
@@ -29,7 +29,7 @@
         {
           "inning": 2,
           "awayRuns": 0,
-          "homeRuns": 0
+          "homeRuns": 2
         }
       ]
     },
@@ -43,12 +43,12 @@
       "gameDate": "2026-09-05T20:10:00Z",
       "inning": 2,
       "inningOrdinal": "2nd",
-      "inningState": "Top",
-      "outs": 1,
+      "inningState": "End",
+      "outs": 3,
       "battingTeam": "Chicago Cubs",
       "runners": {
         "first": false,
-        "second": true,
+        "second": false,
         "third": false
       },
       "inningScores": [
