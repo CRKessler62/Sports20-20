@@ -1,6 +1,6 @@
 {
   "season": 2026,
-  "lastUpdated": "2026-09-05T20:22:27.690802+00:00",
+  "lastUpdated": "2026-09-05T21:23:39.457198+00:00",
   "leagues": {
     "AL": {
       "offense": {
@@ -896,49 +896,13 @@
           },
           {
             "rank": 5,
-            "player": "Fernando Tatis Jr.",
-            "team": "San Diego Padres",
-            "position": "RF",
-            "value": "154"
-          }
-        ],
-        "homeRuns": [
-          {
-            "rank": 1,
-            "player": "Kyle Schwarber",
-            "team": "Philadelphia Phillies",
-            "position": "DH",
-            "value": "40"
-          },
-          {
-            "rank": 2,
             "player": "Pete Crow-Armstrong",
             "team": "Chicago Cubs",
             "position": "CF",
-            "value": "39"
-          },
-          {
-            "rank": 3,
-            "player": "Matt Olson",
-            "team": "Atlanta Braves",
-            "position": "1B",
-            "value": "37"
-          },
-          {
-            "rank": 4,
-            "player": "Hunter Goodman",
-            "team": "Colorado Rockies",
-            "position": "C",
-            "value": "36"
-          },
-          {
-            "rank": 5,
-            "player": "Rafael Devers",
-            "team": "San Francisco Giants",
-            "position": "1B",
-            "value": "34"
+            "value": "154"
           }
         ],
+        "homeRuns": [],
         "rbi": [
           {
             "rank": 1,
@@ -973,7 +937,7 @@
             "player": "Pete Crow-Armstrong",
             "team": "Chicago Cubs",
             "position": "CF",
-            "value": "93"
+            "value": "94"
           }
         ],
         "runs": [
@@ -1050,43 +1014,7 @@
             "value": ".381"
           }
         ],
-        "slg": [
-          {
-            "rank": 1,
-            "player": "Pete Crow-Armstrong",
-            "team": "Chicago Cubs",
-            "position": "CF",
-            "value": ".570"
-          },
-          {
-            "rank": 2,
-            "player": "James Wood",
-            "team": "Washington Nationals",
-            "position": "RF",
-            "value": ".536"
-          },
-          {
-            "rank": 3,
-            "player": "Hunter Goodman",
-            "team": "Colorado Rockies",
-            "position": "C",
-            "value": ".533"
-          },
-          {
-            "rank": 4,
-            "player": "Shohei Ohtani",
-            "team": "Los Angeles Dodgers",
-            "position": "TWP",
-            "value": ".525"
-          },
-          {
-            "rank": 5,
-            "player": "Rafael Devers",
-            "team": "San Francisco Giants",
-            "position": "1B",
-            "value": ".515"
-          }
-        ],
+        "slg": [],
         "ops": [
           {
             "rank": 1,
@@ -1237,43 +1165,7 @@
         ]
       },
       "pitching": {
-        "era": [
-          {
-            "rank": 1,
-            "player": "Jacob Misiorowski",
-            "team": "Milwaukee Brewers",
-            "position": "P",
-            "value": "1.97"
-          },
-          {
-            "rank": 2,
-            "player": "Chris Sale",
-            "team": "Atlanta Braves",
-            "position": "P",
-            "value": "2.10"
-          },
-          {
-            "rank": 3,
-            "player": "Cristopher S\u00e1nchez",
-            "team": "Philadelphia Phillies",
-            "position": "P",
-            "value": "2.58"
-          },
-          {
-            "rank": 4,
-            "player": "Eduardo Rodriguez",
-            "team": "Arizona Diamondbacks",
-            "position": "P",
-            "value": "2.59"
-          },
-          {
-            "rank": 5,
-            "player": "Yoshinobu Yamamoto",
-            "team": "Los Angeles Dodgers",
-            "position": "P",
-            "value": "2.67"
-          }
-        ],
+        "era": [],
         "wins": [
           {
             "rank": 1,
@@ -1505,7 +1397,7 @@
             "player": "Michael Busch",
             "team": "Chicago Cubs",
             "position": "1B",
-            "value": "1071"
+            "value": "1074"
           },
           {
             "rank": 2,
@@ -1630,7 +1522,7 @@
             "player": "Michael Busch",
             "team": "Chicago Cubs",
             "position": "1B",
-            "value": "99"
+            "value": "101"
           },
           {
             "rank": 4,
