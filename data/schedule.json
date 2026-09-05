@@ -1,7 +1,7 @@
 {
   "league": "MLB",
   "timezone": "America/New_York",
-  "lastUpdated": "2026-09-05T17:11:04.587472+00:00",
+  "lastUpdated": "2026-09-05T18:13:40.674869+00:00",
   "games": [
     {
       "gamePk": 824804,
@@ -9717,8 +9717,8 @@
         "name": "New York Mets",
         "abbreviation": "NYM"
       },
-      "awayScore": null,
-      "homeScore": null,
+      "awayScore": 0,
+      "homeScore": 0,
       "venue": "Citi Field",
       "awayPitcher": "Anthony Molina",
       "homePitcher": "Zac Thornton"
