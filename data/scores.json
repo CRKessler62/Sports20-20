@@ -1,6 +1,6 @@
 {
   "league": "MLB",
-  "lastUpdated": "2026-09-05T18:49:19.262056+00:00",
+  "lastUpdated": "2026-09-05T19:02:47.255929+00:00",
   "games": [
     {
       "gamePk": 823577,
@@ -86,7 +86,7 @@
       "homeTeam": "Cleveland Guardians",
       "awayScore": 0,
       "homeScore": 0,
-      "status": "Scheduled",
+      "status": "Pre-Game",
       "gameDate": "2026-09-05T22:10:00Z",
       "inning": null,
       "inningOrdinal": null,
@@ -106,7 +106,7 @@
       "homeTeam": "Pittsburgh Pirates",
       "awayScore": 0,
       "homeScore": 0,
-      "status": "Scheduled",
+      "status": "Pre-Game",
       "gameDate": "2026-09-05T22:40:00Z",
       "inning": null,
       "inningOrdinal": null,
@@ -186,7 +186,7 @@
       "homeTeam": "Kansas City Royals",
       "awayScore": 0,
       "homeScore": 0,
-      "status": "Scheduled",
+      "status": "Pre-Game",
       "gameDate": "2026-09-05T23:10:00Z",
       "inning": null,
       "inningOrdinal": null,
@@ -206,7 +206,7 @@
       "homeTeam": "Chicago White Sox",
       "awayScore": 0,
       "homeScore": 0,
-      "status": "Scheduled",
+      "status": "Pre-Game",
       "gameDate": "2026-09-05T23:10:00Z",
       "inning": null,
       "inningOrdinal": null,
