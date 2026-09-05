@@ -1,7 +1,7 @@
 {
   "league": "MLB",
   "timezone": "America/New_York",
-  "lastUpdated": "2026-09-05T22:11:36.109324+00:00",
+  "lastUpdated": "2026-09-05T23:11:08.848673+00:00",
   "games": [
     {
       "gamePk": 824804,
@@ -9704,9 +9704,9 @@
       "date": "2026-09-05",
       "gameDate": "2026-09-05T20:10:00Z",
       "localGameTime": "2026-09-05T16:10:00-04:00",
-      "status": "In Progress",
-      "abstractGameState": "Live",
-      "codedGameState": "I",
+      "status": "Final",
+      "abstractGameState": "Final",
+      "codedGameState": "F",
       "awayTeam": {
         "id": 137,
         "name": "San Francisco Giants",
@@ -9717,8 +9717,8 @@
         "name": "New York Mets",
         "abbreviation": "NYM"
       },
-      "awayScore": 6,
-      "homeScore": 3,
+      "awayScore": 9,
+      "homeScore": 5,
       "venue": "Citi Field",
       "awayPitcher": "Anthony Molina",
       "homePitcher": "Zac Thornton"
@@ -9741,8 +9741,8 @@
         "name": "Miami Marlins",
         "abbreviation": "MIA"
       },
-      "awayScore": 5,
-      "homeScore": 4,
+      "awayScore": 6,
+      "homeScore": 5,
       "venue": "loanDepot park",
       "awayPitcher": "Javier Assad",
       "homePitcher": "Ryan Gusto"
@@ -9765,8 +9765,8 @@
         "name": "Philadelphia Phillies",
         "abbreviation": "PHI"
       },
-      "awayScore": 0,
-      "homeScore": 0,
+      "awayScore": 1,
+      "homeScore": 3,
       "venue": "Citizens Bank Park",
       "awayPitcher": "Mart\u00edn P\u00e9rez",
       "homePitcher": "Zack Wheeler"
@@ -9789,7 +9789,7 @@
         "name": "Cleveland Guardians",
         "abbreviation": "CLE"
       },
-      "awayScore": 0,
+      "awayScore": 2,
       "homeScore": 0,
       "venue": "Progressive Field",
       "awayPitcher": "Framber Valdez",
@@ -9800,9 +9800,9 @@
       "date": "2026-09-05",
       "gameDate": "2026-09-05T22:40:00Z",
       "localGameTime": "2026-09-05T18:40:00-04:00",
-      "status": "Warmup",
+      "status": "In Progress",
       "abstractGameState": "Live",
-      "codedGameState": "P",
+      "codedGameState": "I",
       "awayTeam": {
         "id": 108,
         "name": "Los Angeles Angels",
@@ -9824,9 +9824,9 @@
       "date": "2026-09-05",
       "gameDate": "2026-09-05T22:40:00Z",
       "localGameTime": "2026-09-05T18:40:00-04:00",
-      "status": "Warmup",
+      "status": "In Progress",
       "abstractGameState": "Live",
-      "codedGameState": "P",
+      "codedGameState": "I",
       "awayTeam": {
         "id": 158,
         "name": "Milwaukee Brewers",
@@ -9837,8 +9837,8 @@
         "name": "Cincinnati Reds",
         "abbreviation": "CIN"
       },
-      "awayScore": 0,
-      "homeScore": 0,
+      "awayScore": 1,
+      "homeScore": 1,
       "venue": "Great American Ball Park",
       "awayPitcher": "Dustin May",
       "homePitcher": "Andrew Abbott"
@@ -9848,9 +9848,9 @@
       "date": "2026-09-05",
       "gameDate": "2026-09-05T23:05:00Z",
       "localGameTime": "2026-09-05T19:05:00-04:00",
-      "status": "Pre-Game",
-      "abstractGameState": "Preview",
-      "codedGameState": "P",
+      "status": "In Progress",
+      "abstractGameState": "Live",
+      "codedGameState": "I",
       "awayTeam": {
         "id": 111,
         "name": "Boston Red Sox",
@@ -9872,9 +9872,9 @@
       "date": "2026-09-05",
       "gameDate": "2026-09-05T23:05:00Z",
       "localGameTime": "2026-09-05T19:05:00-04:00",
-      "status": "Pre-Game",
-      "abstractGameState": "Preview",
-      "codedGameState": "P",
+      "status": "In Progress",
+      "abstractGameState": "Live",
+      "codedGameState": "I",
       "awayTeam": {
         "id": 139,
         "name": "Tampa Bay Rays",
@@ -9896,9 +9896,9 @@
       "date": "2026-09-05",
       "gameDate": "2026-09-05T23:10:00Z",
       "localGameTime": "2026-09-05T19:10:00-04:00",
-      "status": "Pre-Game",
-      "abstractGameState": "Preview",
-      "codedGameState": "P",
+      "status": "In Progress",
+      "abstractGameState": "Live",
+      "codedGameState": "I",
       "awayTeam": {
         "id": 141,
         "name": "Toronto Blue Jays",
@@ -9920,9 +9920,9 @@
       "date": "2026-09-05",
       "gameDate": "2026-09-05T23:10:00Z",
       "localGameTime": "2026-09-05T19:10:00-04:00",
-      "status": "Pre-Game",
-      "abstractGameState": "Preview",
-      "codedGameState": "P",
+      "status": "In Progress",
+      "abstractGameState": "Live",
+      "codedGameState": "I",
       "awayTeam": {
         "id": 142,
         "name": "Minnesota Twins",
@@ -9944,8 +9944,8 @@
       "date": "2026-09-05",
       "gameDate": "2026-09-05T23:15:00Z",
       "localGameTime": "2026-09-05T19:15:00-04:00",
-      "status": "Pre-Game",
-      "abstractGameState": "Preview",
+      "status": "Warmup",
+      "abstractGameState": "Live",
       "codedGameState": "P",
       "awayTeam": {
         "id": 109,
@@ -9968,8 +9968,8 @@
       "date": "2026-09-05",
       "gameDate": "2026-09-05T23:15:00Z",
       "localGameTime": "2026-09-05T19:15:00-04:00",
-      "status": "Pre-Game",
-      "abstractGameState": "Preview",
+      "status": "Warmup",
+      "abstractGameState": "Live",
       "codedGameState": "P",
       "awayTeam": {
         "id": 147,
@@ -10005,8 +10005,8 @@
         "name": "Colorado Rockies",
         "abbreviation": "COL"
       },
-      "awayScore": null,
-      "homeScore": null,
+      "awayScore": 0,
+      "homeScore": 0,
       "venue": "Coors Field",
       "awayPitcher": "Matthew Liberatore",
       "homePitcher": "Mason Adams"
