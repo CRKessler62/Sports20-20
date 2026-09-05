@@ -1,7 +1,7 @@
 {
   "league": "MLB",
   "timezone": "America/New_York",
-  "lastUpdated": "2026-09-05T04:12:18.647801+00:00",
+  "lastUpdated": "2026-09-05T05:11:22.248057+00:00",
   "games": [
     {
       "gamePk": 824804,
@@ -9632,9 +9632,9 @@
       "date": "2026-09-04",
       "gameDate": "2026-09-05T01:40:00Z",
       "localGameTime": "2026-09-04T21:40:00-04:00",
-      "status": "In Progress",
-      "abstractGameState": "Live",
-      "codedGameState": "I",
+      "status": "Final",
+      "abstractGameState": "Final",
+      "codedGameState": "F",
       "awayTeam": {
         "id": 147,
         "name": "New York Yankees",
@@ -9656,9 +9656,9 @@
       "date": "2026-09-04",
       "gameDate": "2026-09-05T02:10:00Z",
       "localGameTime": "2026-09-04T22:10:00-04:00",
-      "status": "In Progress",
-      "abstractGameState": "Live",
-      "codedGameState": "I",
+      "status": "Final",
+      "abstractGameState": "Final",
+      "codedGameState": "F",
       "awayTeam": {
         "id": 120,
         "name": "Washington Nationals",
@@ -9669,7 +9669,7 @@
         "name": "Los Angeles Dodgers",
         "abbreviation": "LAD"
       },
-      "awayScore": 0,
+      "awayScore": 3,
       "homeScore": 5,
       "venue": "UNIQLO Field at Dodger Stadium",
       "awayPitcher": "Jackson Kent",
@@ -9680,9 +9680,9 @@
       "date": "2026-09-04",
       "gameDate": "2026-09-05T02:10:00Z",
       "localGameTime": "2026-09-04T22:10:00-04:00",
-      "status": "In Progress",
-      "abstractGameState": "Live",
-      "codedGameState": "I",
+      "status": "Final",
+      "abstractGameState": "Final",
+      "codedGameState": "F",
       "awayTeam": {
         "id": 133,
         "name": "Athletics",
@@ -9694,7 +9694,7 @@
         "abbreviation": "SEA"
       },
       "awayScore": 7,
-      "homeScore": 5,
+      "homeScore": 6,
       "venue": "T-Mobile Park",
       "awayPitcher": "Kade Morris",
       "homePitcher": "Logan Gilbert"
