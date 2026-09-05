@@ -1,7 +1,7 @@
 {
   "league": "MLB",
   "timezone": "America/New_York",
-  "lastUpdated": "2026-09-05T20:12:24.364287+00:00",
+  "lastUpdated": "2026-09-05T21:11:15.453184+00:00",
   "games": [
     {
       "gamePk": 824804,
@@ -9717,8 +9717,8 @@
         "name": "New York Mets",
         "abbreviation": "NYM"
       },
-      "awayScore": 1,
-      "homeScore": 0,
+      "awayScore": 3,
+      "homeScore": 2,
       "venue": "Citi Field",
       "awayPitcher": "Anthony Molina",
       "homePitcher": "Zac Thornton"
@@ -9741,7 +9741,7 @@
         "name": "Miami Marlins",
         "abbreviation": "MIA"
       },
-      "awayScore": 0,
+      "awayScore": 3,
       "homeScore": 0,
       "venue": "loanDepot park",
       "awayPitcher": "Javier Assad",
@@ -9885,8 +9885,8 @@
         "name": "Texas Rangers",
         "abbreviation": "TEX"
       },
-      "awayScore": null,
-      "homeScore": null,
+      "awayScore": 0,
+      "homeScore": 0,
       "venue": "Globe Life Field",
       "awayPitcher": "Drew Rasmussen",
       "homePitcher": "Jacob deGrom"
@@ -9909,8 +9909,8 @@
         "name": "Kansas City Royals",
         "abbreviation": "KC"
       },
-      "awayScore": null,
-      "homeScore": null,
+      "awayScore": 0,
+      "homeScore": 0,
       "venue": "Kauffman Stadium",
       "awayPitcher": "Max Scherzer",
       "homePitcher": "Seth Lugo"
@@ -9933,8 +9933,8 @@
         "name": "Chicago White Sox",
         "abbreviation": "CWS"
       },
-      "awayScore": null,
-      "homeScore": null,
+      "awayScore": 0,
+      "homeScore": 0,
       "venue": "Rate Field",
       "awayPitcher": "Taj Bradley",
       "homePitcher": "Anthony Kay"
@@ -9957,8 +9957,8 @@
         "name": "Houston Astros",
         "abbreviation": "HOU"
       },
-      "awayScore": null,
-      "homeScore": null,
+      "awayScore": 0,
+      "homeScore": 0,
       "venue": "Daikin Park",
       "awayPitcher": "Brandon Pfaadt",
       "homePitcher": "Ethan Pecko"
@@ -10016,9 +10016,9 @@
       "date": "2026-09-05",
       "gameDate": "2026-09-06T01:10:00Z",
       "localGameTime": "2026-09-05T21:10:00-04:00",
-      "status": "Scheduled",
+      "status": "Pre-Game",
       "abstractGameState": "Preview",
-      "codedGameState": "S",
+      "codedGameState": "P",
       "awayTeam": {
         "id": 120,
         "name": "Washington Nationals",
