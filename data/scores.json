@@ -1,6 +1,6 @@
 {
   "league": "MLB",
-  "lastUpdated": "2026-09-05T18:33:43.035086+00:00",
+  "lastUpdated": "2026-09-05T18:49:19.262056+00:00",
   "games": [
     {
       "gamePk": 823577,
@@ -62,17 +62,23 @@
       "homeScore": 0,
       "status": "Pre-Game",
       "gameDate": "2026-09-05T22:05:00Z",
-      "inning": null,
-      "inningOrdinal": null,
-      "inningState": null,
-      "outs": null,
-      "battingTeam": null,
+      "inning": 1,
+      "inningOrdinal": "1st",
+      "inningState": "Top",
+      "outs": 0,
+      "battingTeam": "Atlanta Braves",
       "runners": {
         "first": false,
         "second": false,
         "third": false
       },
-      "inningScores": []
+      "inningScores": [
+        {
+          "inning": 1,
+          "awayRuns": 0,
+          "homeRuns": 0
+        }
+      ]
     },
     {
       "gamePk": 824389,
@@ -120,7 +126,7 @@
       "homeTeam": "Cincinnati Reds",
       "awayScore": 0,
       "homeScore": 0,
-      "status": "Scheduled",
+      "status": "Pre-Game",
       "gameDate": "2026-09-05T22:40:00Z",
       "inning": null,
       "inningOrdinal": null,
@@ -220,7 +226,7 @@
       "homeTeam": "Houston Astros",
       "awayScore": 0,
       "homeScore": 0,
-      "status": "Scheduled",
+      "status": "Pre-Game",
       "gameDate": "2026-09-05T23:15:00Z",
       "inning": null,
       "inningOrdinal": null,
@@ -260,7 +266,7 @@
       "homeTeam": "Colorado Rockies",
       "awayScore": 0,
       "homeScore": 0,
-      "status": "Scheduled",
+      "status": "Pre-Game",
       "gameDate": "2026-09-06T00:10:00Z",
       "inning": null,
       "inningOrdinal": null,
