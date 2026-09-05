@@ -1,20 +1,20 @@
 {
   "league": "MLB",
-  "lastUpdated": "2026-09-05T21:15:19.581044+00:00",
+  "lastUpdated": "2026-09-05T21:29:25.623006+00:00",
   "games": [
     {
       "gamePk": 823577,
       "awayTeam": "San Francisco Giants",
       "homeTeam": "New York Mets",
-      "awayScore": 3,
+      "awayScore": 6,
       "homeScore": 2,
-      "status": "In Progress",
+      "status": "Manager challenge",
       "gameDate": "2026-09-05T20:10:00Z",
-      "inning": 4,
-      "inningOrdinal": "4th",
-      "inningState": "End",
-      "outs": 3,
-      "battingTeam": "San Francisco Giants",
+      "inning": 5,
+      "inningOrdinal": "5th",
+      "inningState": "Bottom",
+      "outs": 2,
+      "battingTeam": "New York Mets",
       "runners": {
         "first": false,
         "second": false,
@@ -40,6 +40,11 @@
           "inning": 4,
           "awayRuns": 0,
           "homeRuns": 0
+        },
+        {
+          "inning": 5,
+          "awayRuns": 3,
+          "homeRuns": 0
         }
       ]
     },
@@ -47,19 +52,19 @@
       "gamePk": 823823,
       "awayTeam": "Chicago Cubs",
       "homeTeam": "Miami Marlins",
-      "awayScore": 3,
+      "awayScore": 4,
       "homeScore": 0,
       "status": "In Progress",
       "gameDate": "2026-09-05T20:10:00Z",
       "inning": 4,
       "inningOrdinal": "4th",
-      "inningState": "Top",
+      "inningState": "Bottom",
       "outs": 0,
-      "battingTeam": "Chicago Cubs",
+      "battingTeam": "Miami Marlins",
       "runners": {
         "first": false,
-        "second": false,
-        "third": false
+        "second": true,
+        "third": true
       },
       "inningScores": [
         {
@@ -79,7 +84,7 @@
         },
         {
           "inning": 4,
-          "awayRuns": 0,
+          "awayRuns": 1,
           "homeRuns": 0
         }
       ]
