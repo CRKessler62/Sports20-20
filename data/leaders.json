@@ -1,6 +1,6 @@
 {
   "season": 2026,
-  "lastUpdated": "2026-09-05T19:20:31.371562+00:00",
+  "lastUpdated": "2026-09-05T20:22:27.690802+00:00",
   "leagues": {
     "AL": {
       "offense": {
@@ -936,7 +936,7 @@
             "player": "Rafael Devers",
             "team": "San Francisco Giants",
             "position": "1B",
-            "value": "33"
+            "value": "34"
           }
         ],
         "rbi": [
@@ -1081,8 +1081,8 @@
           },
           {
             "rank": 5,
-            "player": "Matt Olson",
-            "team": "Atlanta Braves",
+            "player": "Rafael Devers",
+            "team": "San Francisco Giants",
             "position": "1B",
             "value": ".515"
           }
@@ -1093,7 +1093,7 @@
             "player": "Pete Crow-Armstrong",
             "team": "Chicago Cubs",
             "position": "CF",
-            "value": ".945"
+            "value": ".946"
           },
           {
             "rank": 2,
@@ -1505,7 +1505,7 @@
             "player": "Michael Busch",
             "team": "Chicago Cubs",
             "position": "1B",
-            "value": "1070"
+            "value": "1071"
           },
           {
             "rank": 2,
