@@ -1,6 +1,6 @@
 {
   "league": "MLB",
-  "lastUpdated": "2026-09-05T19:44:12.893492+00:00",
+  "lastUpdated": "2026-09-05T19:56:35.656463+00:00",
   "games": [
     {
       "gamePk": 823577,
@@ -8,7 +8,7 @@
       "homeTeam": "New York Mets",
       "awayScore": 0,
       "homeScore": 0,
-      "status": "Pre-Game",
+      "status": "Warmup",
       "gameDate": "2026-09-05T20:10:00Z",
       "inning": 1,
       "inningOrdinal": "1st",
@@ -34,7 +34,7 @@
       "homeTeam": "Miami Marlins",
       "awayScore": 0,
       "homeScore": 0,
-      "status": "Pre-Game",
+      "status": "Warmup",
       "gameDate": "2026-09-05T20:10:00Z",
       "inning": 1,
       "inningOrdinal": "1st",
