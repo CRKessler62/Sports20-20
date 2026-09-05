@@ -1,7 +1,7 @@
 {
   "league": "MLB",
   "timezone": "America/New_York",
-  "lastUpdated": "2026-09-05T02:12:17.776457+00:00",
+  "lastUpdated": "2026-09-05T03:12:45.575351+00:00",
   "games": [
     {
       "gamePk": 824804,
@@ -9344,9 +9344,9 @@
       "date": "2026-09-04",
       "gameDate": "2026-09-04T23:15:00Z",
       "localGameTime": "2026-09-04T19:15:00-04:00",
-      "status": "In Progress",
-      "abstractGameState": "Live",
-      "codedGameState": "I",
+      "status": "Final",
+      "abstractGameState": "Final",
+      "codedGameState": "F",
       "awayTeam": {
         "id": 116,
         "name": "Detroit Tigers",
@@ -9358,7 +9358,7 @@
         "abbreviation": "CLE"
       },
       "awayScore": 3,
-      "homeScore": 3,
+      "homeScore": 4,
       "venue": "Progressive Field",
       "awayPitcher": "Andrew Sears",
       "homePitcher": "Foster Griffin"
@@ -9368,9 +9368,9 @@
       "date": "2026-09-04",
       "gameDate": "2026-09-04T22:10:00Z",
       "localGameTime": "2026-09-04T18:10:00-04:00",
-      "status": "In Progress",
-      "abstractGameState": "Live",
-      "codedGameState": "I",
+      "status": "Final",
+      "abstractGameState": "Final",
+      "codedGameState": "F",
       "awayTeam": {
         "id": 158,
         "name": "Milwaukee Brewers",
@@ -9536,9 +9536,9 @@
       "date": "2026-09-04",
       "gameDate": "2026-09-05T00:05:00Z",
       "localGameTime": "2026-09-04T20:05:00-04:00",
-      "status": "In Progress",
-      "abstractGameState": "Live",
-      "codedGameState": "I",
+      "status": "Game Over",
+      "abstractGameState": "Final",
+      "codedGameState": "O",
       "awayTeam": {
         "id": 139,
         "name": "Tampa Bay Rays",
@@ -9549,8 +9549,8 @@
         "name": "Texas Rangers",
         "abbreviation": "TEX"
       },
-      "awayScore": 6,
-      "homeScore": 1,
+      "awayScore": 7,
+      "homeScore": 6,
       "venue": "Globe Life Field",
       "awayPitcher": "Nick Martinez",
       "homePitcher": "Trevor Williams"
@@ -9560,9 +9560,9 @@
       "date": "2026-09-04",
       "gameDate": "2026-09-05T00:10:00Z",
       "localGameTime": "2026-09-04T20:10:00-04:00",
-      "status": "In Progress",
-      "abstractGameState": "Live",
-      "codedGameState": "I",
+      "status": "Final",
+      "abstractGameState": "Final",
+      "codedGameState": "F",
       "awayTeam": {
         "id": 109,
         "name": "Arizona Diamondbacks",
@@ -9584,9 +9584,9 @@
       "date": "2026-09-04",
       "gameDate": "2026-09-05T00:10:00Z",
       "localGameTime": "2026-09-04T20:10:00-04:00",
-      "status": "In Progress",
-      "abstractGameState": "Live",
-      "codedGameState": "I",
+      "status": "Final",
+      "abstractGameState": "Final",
+      "codedGameState": "F",
       "awayTeam": {
         "id": 141,
         "name": "Toronto Blue Jays",
@@ -9597,8 +9597,8 @@
         "name": "Kansas City Royals",
         "abbreviation": "KC"
       },
-      "awayScore": 8,
-      "homeScore": 1,
+      "awayScore": 9,
+      "homeScore": 2,
       "venue": "Kauffman Stadium",
       "awayPitcher": "Jameson Taillon",
       "homePitcher": "Daniel Lynch IV"
@@ -9622,7 +9622,7 @@
         "abbreviation": "COL"
       },
       "awayScore": 4,
-      "homeScore": 1,
+      "homeScore": 6,
       "venue": "Coors Field",
       "awayPitcher": "Andre Pallante",
       "homePitcher": "Ryan Feltner"
@@ -9645,8 +9645,8 @@
         "name": "San Diego Padres",
         "abbreviation": "SD"
       },
-      "awayScore": 0,
-      "homeScore": 0,
+      "awayScore": 1,
+      "homeScore": 1,
       "venue": "Petco Park",
       "awayPitcher": "Max Fried",
       "homePitcher": "Walker Buehler"
@@ -9670,7 +9670,7 @@
         "abbreviation": "LAD"
       },
       "awayScore": 0,
-      "homeScore": 0,
+      "homeScore": 3,
       "venue": "UNIQLO Field at Dodger Stadium",
       "awayPitcher": "Jackson Kent",
       "homePitcher": "Blake Snell"
@@ -9693,8 +9693,8 @@
         "name": "Seattle Mariners",
         "abbreviation": "SEA"
       },
-      "awayScore": 0,
-      "homeScore": 0,
+      "awayScore": 5,
+      "homeScore": 5,
       "venue": "T-Mobile Park",
       "awayPitcher": "Kade Morris",
       "homePitcher": "Logan Gilbert"
@@ -9744,7 +9744,7 @@
       "awayScore": null,
       "homeScore": null,
       "venue": "loanDepot park",
-      "awayPitcher": null,
+      "awayPitcher": "Javier Assad",
       "homePitcher": "Ryan Gusto"
     },
     {
@@ -10368,7 +10368,7 @@
       "awayScore": null,
       "homeScore": null,
       "venue": "Petco Park",
-      "awayPitcher": null,
+      "awayPitcher": "Gerrit Cole",
       "homePitcher": "Michael King"
     },
     {
@@ -10464,7 +10464,7 @@
       "awayScore": null,
       "homeScore": null,
       "venue": "loanDepot park",
-      "awayPitcher": null,
+      "awayPitcher": "Jonah Tong",
       "homePitcher": null
     },
     {
@@ -10776,7 +10776,7 @@
       "awayScore": null,
       "homeScore": null,
       "venue": "loanDepot park",
-      "awayPitcher": null,
+      "awayPitcher": "Sean Manaea",
       "homePitcher": null
     },
     {
