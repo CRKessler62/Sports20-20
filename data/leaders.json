@@ -1,6 +1,6 @@
 {
   "season": 2026,
-  "lastUpdated": "2026-09-05T03:23:24.267127+00:00",
+  "lastUpdated": "2026-09-05T04:23:15.454758+00:00",
   "leagues": {
     "AL": {
       "offense": {
@@ -246,7 +246,7 @@
             "player": "Ben Rice",
             "team": "New York Yankees",
             "position": "DH",
-            "value": ".527"
+            "value": ".526"
           },
           {
             "rank": 4,
@@ -290,7 +290,7 @@
             "player": "Ben Rice",
             "team": "New York Yankees",
             "position": "DH",
-            "value": ".877"
+            "value": ".875"
           },
           {
             "rank": 5,
@@ -625,7 +625,7 @@
             "player": "Logan Gilbert",
             "team": "Seattle Mariners",
             "position": "P",
-            "value": "164.1"
+            "value": "165.0"
           },
           {
             "rank": 5,
@@ -692,17 +692,17 @@
           },
           {
             "rank": 3,
+            "player": "Josh Naylor",
+            "team": "Seattle Mariners",
+            "position": "1B",
+            "value": "917"
+          },
+          {
+            "rank": 4,
             "player": "Pete Alonso",
             "team": "Baltimore Orioles",
             "position": "1B",
             "value": "915"
-          },
-          {
-            "rank": 4,
-            "player": "Josh Naylor",
-            "team": "Seattle Mariners",
-            "position": "1B",
-            "value": "914"
           },
           {
             "rank": 5,
@@ -718,7 +718,7 @@
             "player": "Cole Young",
             "team": "Seattle Mariners",
             "position": "2B",
-            "value": "357"
+            "value": "359"
           },
           {
             "rank": 2,
@@ -732,7 +732,7 @@
             "player": "Jazz Chisholm Jr.",
             "team": "New York Yankees",
             "position": "2B",
-            "value": "305"
+            "value": "306"
           },
           {
             "rank": 4,
@@ -799,7 +799,7 @@
             "player": "Josh Naylor",
             "team": "Seattle Mariners",
             "position": "1B",
-            "value": "95"
+            "value": "96"
           },
           {
             "rank": 3,
@@ -1040,7 +1040,7 @@
             "player": "TJ Rumfield",
             "team": "Colorado Rockies",
             "position": "1B",
-            "value": ".387"
+            "value": ".388"
           },
           {
             "rank": 5,
@@ -1063,14 +1063,14 @@
             "player": "Hunter Goodman",
             "team": "Colorado Rockies",
             "position": "C",
-            "value": ".534"
+            "value": ".533"
           },
           {
             "rank": 3,
             "player": "James Wood",
             "team": "Washington Nationals",
             "position": "RF",
-            "value": ".530"
+            "value": ".533"
           },
           {
             "rank": 4,
@@ -1100,7 +1100,7 @@
             "player": "James Wood",
             "team": "Washington Nationals",
             "position": "RF",
-            "value": ".920"
+            "value": ".923"
           },
           {
             "rank": 3,
@@ -1391,7 +1391,7 @@
             "player": "Riley O'Brien",
             "team": "St. Louis Cardinals",
             "position": "P",
-            "value": "35"
+            "value": "36"
           },
           {
             "rank": 2,
@@ -1509,17 +1509,17 @@
           },
           {
             "rank": 2,
-            "player": "William Contreras",
-            "team": "Milwaukee Brewers",
-            "position": "C",
+            "player": "Alec Burleson",
+            "team": "St. Louis Cardinals",
+            "position": "1B",
             "value": "1063"
           },
           {
             "rank": 3,
-            "player": "Alec Burleson",
-            "team": "St. Louis Cardinals",
-            "position": "1B",
-            "value": "1062"
+            "player": "William Contreras",
+            "team": "Milwaukee Brewers",
+            "position": "C",
+            "value": "1063"
           },
           {
             "rank": 4,
