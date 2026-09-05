@@ -1,7 +1,7 @@
 {
   "league": "MLB",
   "season": 2026,
-  "lastUpdated": "2026-09-05T23:36:30.059821+00:00",
+  "lastUpdated": "2026-09-05T23:43:18.523725+00:00",
   "teamCount": 30,
   "teams": [
     {
@@ -86,10 +86,10 @@
           "pct": ".600"
         },
         {
-          "wins": 42,
-          "losses": 29,
+          "wins": 39,
+          "losses": 26,
           "type": "winners",
-          "pct": ".592"
+          "pct": ".600"
         },
         {
           "wins": 31,
@@ -199,10 +199,10 @@
           "pct": ".459"
         },
         {
-          "wins": 38,
-          "losses": 38,
+          "wins": 36,
+          "losses": 37,
           "type": "winners",
-          "pct": ".500"
+          "pct": ".493"
         },
         {
           "wins": 26,
@@ -312,10 +312,10 @@
           "pct": ".514"
         },
         {
-          "wins": 39,
-          "losses": 39,
+          "wins": 37,
+          "losses": 38,
           "type": "winners",
-          "pct": ".500"
+          "pct": ".493"
         },
         {
           "wins": 24,
@@ -425,10 +425,10 @@
           "pct": ".462"
         },
         {
-          "wins": 40,
-          "losses": 47,
+          "wins": 38,
+          "losses": 46,
           "type": "winners",
-          "pct": ".460"
+          "pct": ".452"
         },
         {
           "wins": 31,
@@ -538,10 +538,10 @@
           "pct": ".421"
         },
         {
-          "wins": 38,
-          "losses": 43,
+          "wins": 36,
+          "losses": 42,
           "type": "winners",
-          "pct": ".469"
+          "pct": ".462"
         },
         {
           "wins": 26,
@@ -651,10 +651,10 @@
           "pct": ".545"
         },
         {
-          "wins": 31,
-          "losses": 38,
+          "wins": 30,
+          "losses": 36,
           "type": "winners",
-          "pct": ".449"
+          "pct": ".455"
         },
         {
           "wins": 30,
@@ -764,10 +764,10 @@
           "pct": ".537"
         },
         {
-          "wins": 26,
+          "wins": 23,
           "losses": 38,
           "type": "winners",
-          "pct": ".406"
+          "pct": ".377"
         },
         {
           "wins": 28,
@@ -877,10 +877,10 @@
           "pct": ".412"
         },
         {
-          "wins": 38,
-          "losses": 41,
+          "wins": 36,
+          "losses": 40,
           "type": "winners",
-          "pct": ".481"
+          "pct": ".474"
         },
         {
           "wins": 27,
@@ -990,10 +990,10 @@
           "pct": ".342"
         },
         {
-          "wins": 32,
+          "wins": 29,
           "losses": 44,
           "type": "winners",
-          "pct": ".421"
+          "pct": ".397"
         },
         {
           "wins": 25,
@@ -1103,8 +1103,8 @@
           "pct": ".450"
         },
         {
-          "wins": 24,
-          "losses": 46,
+          "wins": 23,
+          "losses": 44,
           "type": "winners",
           "pct": ".343"
         },
@@ -1216,10 +1216,10 @@
           "pct": ".500"
         },
         {
-          "wins": 32,
+          "wins": 29,
           "losses": 21,
           "type": "winners",
-          "pct": ".604"
+          "pct": ".580"
         },
         {
           "wins": 23,
@@ -1329,10 +1329,10 @@
           "pct": ".611"
         },
         {
-          "wins": 33,
-          "losses": 37,
+          "wins": 32,
+          "losses": 35,
           "type": "winners",
-          "pct": ".471"
+          "pct": ".478"
         },
         {
           "wins": 22,
@@ -1443,9 +1443,9 @@
         },
         {
           "wins": 37,
-          "losses": 41,
+          "losses": 38,
           "type": "winners",
-          "pct": ".474"
+          "pct": ".493"
         },
         {
           "wins": 27,
@@ -1556,9 +1556,9 @@
         },
         {
           "wins": 23,
-          "losses": 41,
+          "losses": 38,
           "type": "winners",
-          "pct": ".359"
+          "pct": ".377"
         },
         {
           "wins": 17,
@@ -1668,10 +1668,10 @@
           "pct": ".390"
         },
         {
-          "wins": 25,
-          "losses": 52,
+          "wins": 24,
+          "losses": 50,
           "type": "winners",
-          "pct": ".325"
+          "pct": ".324"
         },
         {
           "wins": 18,
