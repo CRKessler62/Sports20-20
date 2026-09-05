@@ -1,6 +1,6 @@
 {
   "league": "MLB",
-  "lastUpdated": "2026-09-05T16:32:26.098808+00:00",
+  "lastUpdated": "2026-09-05T16:44:59.064022+00:00",
   "games": [
     {
       "gamePk": 823577,
@@ -8,7 +8,7 @@
       "homeTeam": "New York Mets",
       "awayScore": 0,
       "homeScore": 0,
-      "status": "Scheduled",
+      "status": "Pre-Game",
       "gameDate": "2026-09-05T20:10:00Z",
       "inning": null,
       "inningOrdinal": null,
