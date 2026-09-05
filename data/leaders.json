@@ -1,6 +1,6 @@
 {
   "season": 2026,
-  "lastUpdated": "2026-09-05T22:21:36.082360+00:00",
+  "lastUpdated": "2026-09-05T23:20:35.665817+00:00",
   "leagues": {
     "AL": {
       "offense": {
@@ -68,7 +68,7 @@
             "player": "Junior Caminero",
             "team": "Tampa Bay Rays",
             "position": "3B",
-            "value": "151"
+            "value": "152"
           },
           {
             "rank": 5,
@@ -81,16 +81,16 @@
         "homeRuns": [
           {
             "rank": 1,
-            "player": "Yordan Alvarez",
-            "team": "Houston Astros",
-            "position": "DH",
-            "value": "37"
-          },
-          {
-            "rank": 2,
             "player": "Junior Caminero",
             "team": "Tampa Bay Rays",
             "position": "3B",
+            "value": "38"
+          },
+          {
+            "rank": 2,
+            "player": "Yordan Alvarez",
+            "team": "Houston Astros",
+            "position": "DH",
             "value": "37"
           },
           {
@@ -135,7 +135,7 @@
             "player": "Junior Caminero",
             "team": "Tampa Bay Rays",
             "position": "3B",
-            "value": "90"
+            "value": "91"
           },
           {
             "rank": 4,
@@ -183,9 +183,9 @@
           },
           {
             "rank": 5,
-            "player": "Kevin McGonigle",
-            "team": "Detroit Tigers",
-            "position": "SS",
+            "player": "Junior Caminero",
+            "team": "Tampa Bay Rays",
+            "position": "3B",
             "value": "87"
           }
         ],
@@ -209,21 +209,21 @@
             "player": "Mike Trout",
             "team": "Los Angeles Angels",
             "position": "CF",
-            "value": ".374"
+            "value": ".373"
           },
           {
             "rank": 4,
             "player": "Yandy D\u00edaz",
             "team": "Tampa Bay Rays",
             "position": "DH",
-            "value": ".374"
+            "value": ".373"
           },
           {
             "rank": 5,
             "player": "Steven Kwan",
             "team": "Cleveland Guardians",
             "position": "LF",
-            "value": ".373"
+            "value": ".372"
           }
         ],
         "slg": [
@@ -239,7 +239,7 @@
             "player": "Junior Caminero",
             "team": "Tampa Bay Rays",
             "position": "3B",
-            "value": ".528"
+            "value": ".534"
           },
           {
             "rank": 3,
@@ -283,7 +283,7 @@
             "player": "Junior Caminero",
             "team": "Tampa Bay Rays",
             "position": "3B",
-            "value": ".892"
+            "value": ".899"
           },
           {
             "rank": 4,
@@ -433,7 +433,7 @@
             "player": "Parker Messick",
             "team": "Cleveland Guardians",
             "position": "P",
-            "value": "2.50"
+            "value": "2.49"
           },
           {
             "rank": 4,
@@ -447,7 +447,7 @@
             "player": "Drew Rasmussen",
             "team": "Tampa Bay Rays",
             "position": "P",
-            "value": "2.95"
+            "value": "2.94"
           }
         ],
         "wins": [
@@ -622,17 +622,17 @@
           },
           {
             "rank": 4,
+            "player": "Parker Messick",
+            "team": "Cleveland Guardians",
+            "position": "P",
+            "value": "166.0"
+          },
+          {
+            "rank": 5,
             "player": "Logan Gilbert",
             "team": "Seattle Mariners",
             "position": "P",
             "value": "165.0"
-          },
-          {
-            "rank": 5,
-            "player": "Shane Baz",
-            "team": "Baltimore Orioles",
-            "position": "P",
-            "value": "163.1"
           }
         ],
         "qualityStarts": []
@@ -681,7 +681,7 @@
             "player": "Spencer Torkelson",
             "team": "Detroit Tigers",
             "position": "1B",
-            "value": "1051"
+            "value": "1056"
           },
           {
             "rank": 2,
@@ -702,14 +702,14 @@
             "player": "Pete Alonso",
             "team": "Baltimore Orioles",
             "position": "1B",
-            "value": "915"
+            "value": "916"
           },
           {
             "rank": 5,
             "player": "Jake Burger",
             "team": "Texas Rangers",
             "position": "1B",
-            "value": "873"
+            "value": "874"
           }
         ],
         "assists": [
@@ -739,7 +739,7 @@
             "player": "Zach Neto",
             "team": "Los Angeles Angels",
             "position": "SS",
-            "value": "284"
+            "value": "286"
           },
           {
             "rank": 5,
@@ -792,7 +792,7 @@
             "player": "Spencer Torkelson",
             "team": "Detroit Tigers",
             "position": "1B",
-            "value": "97"
+            "value": "98"
           },
           {
             "rank": 2,
@@ -834,14 +834,14 @@
             "player": "Luis Arraez",
             "team": "Philadelphia Phillies",
             "position": "2B",
-            "value": ".316"
+            "value": ".318"
           },
           {
             "rank": 2,
             "player": "Nick Gonzales",
             "team": "Pittsburgh Pirates",
             "position": "3B",
-            "value": ".308"
+            "value": ".307"
           },
           {
             "rank": 3,
@@ -871,7 +871,7 @@
             "player": "Luis Arraez",
             "team": "Philadelphia Phillies",
             "position": "2B",
-            "value": "168"
+            "value": "170"
           },
           {
             "rank": 2,
@@ -908,7 +908,7 @@
             "player": "Kyle Schwarber",
             "team": "Philadelphia Phillies",
             "position": "DH",
-            "value": "40"
+            "value": "41"
           },
           {
             "rank": 2,
@@ -1016,17 +1016,17 @@
         "obp": [
           {
             "rank": 1,
+            "player": "Bryce Harper",
+            "team": "Philadelphia Phillies",
+            "position": "1B",
+            "value": ".393"
+          },
+          {
+            "rank": 2,
             "player": "James Wood",
             "team": "Washington Nationals",
             "position": "RF",
             "value": ".392"
-          },
-          {
-            "rank": 2,
-            "player": "Bryce Harper",
-            "team": "Philadelphia Phillies",
-            "position": "1B",
-            "value": ".391"
           },
           {
             "rank": 3,
@@ -1056,7 +1056,7 @@
             "player": "Pete Crow-Armstrong",
             "team": "Chicago Cubs",
             "position": "CF",
-            "value": ".570"
+            "value": ".568"
           },
           {
             "rank": 2,
@@ -1093,7 +1093,7 @@
             "player": "Pete Crow-Armstrong",
             "team": "Chicago Cubs",
             "position": "CF",
-            "value": ".946"
+            "value": ".943"
           },
           {
             "rank": 2,
@@ -1114,7 +1114,7 @@
             "player": "Bryce Harper",
             "team": "Philadelphia Phillies",
             "position": "1B",
-            "value": ".896"
+            "value": ".899"
           },
           {
             "rank": 5,
@@ -1375,7 +1375,7 @@
             "player": "Braxton Ashcraft",
             "team": "Pittsburgh Pirates",
             "position": "P",
-            "value": "1.08"
+            "value": "1.07"
           },
           {
             "rank": 5,
@@ -1505,7 +1505,7 @@
             "player": "Michael Busch",
             "team": "Chicago Cubs",
             "position": "1B",
-            "value": "1075"
+            "value": "1079"
           },
           {
             "rank": 2,
@@ -1526,14 +1526,14 @@
             "player": "J.T. Realmuto",
             "team": "Philadelphia Phillies",
             "position": "C",
-            "value": "1046"
+            "value": "1049"
           },
           {
             "rank": 5,
             "player": "Matt Olson",
             "team": "Atlanta Braves",
             "position": "1B",
-            "value": "1013"
+            "value": "1016"
           }
         ],
         "assists": [
