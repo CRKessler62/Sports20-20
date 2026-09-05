@@ -1,6 +1,6 @@
 {
   "season": 2026,
-  "lastUpdated": "2026-09-05T04:23:15.454758+00:00",
+  "lastUpdated": "2026-09-05T05:22:00.906423+00:00",
   "leagues": {
     "AL": {
       "offense": {
@@ -695,7 +695,7 @@
             "player": "Josh Naylor",
             "team": "Seattle Mariners",
             "position": "1B",
-            "value": "917"
+            "value": "920"
           },
           {
             "rank": 4,
@@ -718,7 +718,7 @@
             "player": "Cole Young",
             "team": "Seattle Mariners",
             "position": "2B",
-            "value": "359"
+            "value": "360"
           },
           {
             "rank": 2,
@@ -1016,24 +1016,24 @@
         "obp": [
           {
             "rank": 1,
+            "player": "James Wood",
+            "team": "Washington Nationals",
+            "position": "RF",
+            "value": ".392"
+          },
+          {
+            "rank": 2,
             "player": "Bryce Harper",
             "team": "Philadelphia Phillies",
             "position": "1B",
             "value": ".391"
           },
           {
-            "rank": 2,
+            "rank": 3,
             "player": "Jake Bauers",
             "team": "Milwaukee Brewers",
             "position": "1B",
             "value": ".391"
-          },
-          {
-            "rank": 3,
-            "player": "James Wood",
-            "team": "Washington Nationals",
-            "position": "RF",
-            "value": ".390"
           },
           {
             "rank": 4,
@@ -1060,16 +1060,16 @@
           },
           {
             "rank": 2,
-            "player": "Hunter Goodman",
-            "team": "Colorado Rockies",
-            "position": "C",
-            "value": ".533"
-          },
-          {
-            "rank": 3,
             "player": "James Wood",
             "team": "Washington Nationals",
             "position": "RF",
+            "value": ".536"
+          },
+          {
+            "rank": 3,
+            "player": "Hunter Goodman",
+            "team": "Colorado Rockies",
+            "position": "C",
             "value": ".533"
           },
           {
@@ -1100,7 +1100,7 @@
             "player": "James Wood",
             "team": "Washington Nationals",
             "position": "RF",
-            "value": ".923"
+            "value": ".928"
           },
           {
             "rank": 3,
