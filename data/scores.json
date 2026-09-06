@@ -1,6 +1,6 @@
 {
   "league": "MLB",
-  "lastUpdated": "2026-09-06T21:43:04.550195+00:00",
+  "lastUpdated": "2026-09-06T21:55:42.965691+00:00",
   "games": [
     {
       "gamePk": 824469,
@@ -607,12 +607,12 @@
       "homeTeam": "Texas Rangers",
       "awayScore": 6,
       "homeScore": 8,
-      "status": "In Progress",
+      "status": "Final",
       "gameDate": "2026-09-06T18:35:00Z",
       "inning": 9,
       "inningOrdinal": "9th",
       "inningState": "Top",
-      "outs": 1,
+      "outs": 3,
       "battingTeam": "Tampa Bay Rays",
       "runners": {
         "first": false,
@@ -672,13 +672,13 @@
       "awayTeam": "St. Louis Cardinals",
       "homeTeam": "Colorado Rockies",
       "awayScore": 10,
-      "homeScore": 5,
+      "homeScore": 6,
       "status": "In Progress",
       "gameDate": "2026-09-06T19:10:00Z",
-      "inning": 8,
-      "inningOrdinal": "8th",
+      "inning": 9,
+      "inningOrdinal": "9th",
       "inningState": "Top",
-      "outs": 2,
+      "outs": 0,
       "battingTeam": "St. Louis Cardinals",
       "runners": {
         "first": true,
@@ -724,6 +724,11 @@
         {
           "inning": 8,
           "awayRuns": 3,
+          "homeRuns": 1
+        },
+        {
+          "inning": 9,
+          "awayRuns": 0,
           "homeRuns": 0
         }
       ]
@@ -736,10 +741,10 @@
       "homeScore": 2,
       "status": "In Progress",
       "gameDate": "2026-09-06T20:10:00Z",
-      "inning": 6,
-      "inningOrdinal": "6th",
+      "inning": 7,
+      "inningOrdinal": "7th",
       "inningState": "Top",
-      "outs": 2,
+      "outs": 1,
       "battingTeam": "Athletics",
       "runners": {
         "first": false,
@@ -776,6 +781,11 @@
           "inning": 6,
           "awayRuns": 0,
           "homeRuns": 0
+        },
+        {
+          "inning": 7,
+          "awayRuns": 0,
+          "homeRuns": 0
         }
       ]
     },
@@ -787,13 +797,13 @@
       "homeScore": 3,
       "status": "In Progress",
       "gameDate": "2026-09-06T20:10:00Z",
-      "inning": 6,
-      "inningOrdinal": "6th",
-      "inningState": "Top",
-      "outs": 2,
+      "inning": 7,
+      "inningOrdinal": "7th",
+      "inningState": "Middle",
+      "outs": 3,
       "battingTeam": "New York Yankees",
       "runners": {
-        "first": true,
+        "first": false,
         "second": false,
         "third": false
       },
@@ -825,6 +835,11 @@
         },
         {
           "inning": 6,
+          "awayRuns": 0,
+          "homeRuns": 0
+        },
+        {
+          "inning": 7,
           "awayRuns": 0,
           "homeRuns": 0
         }
