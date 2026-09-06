@@ -1,7 +1,7 @@
 {
   "league": "MLB",
   "timezone": "America/New_York",
-  "lastUpdated": "2026-09-06T04:12:49.040274+00:00",
+  "lastUpdated": "2026-09-06T05:11:32.168346+00:00",
   "games": [
     {
       "gamePk": 823349,
@@ -9752,9 +9752,9 @@
       "date": "2026-09-05",
       "gameDate": "2026-09-06T01:10:00Z",
       "localGameTime": "2026-09-05T21:10:00-04:00",
-      "status": "Game Over",
+      "status": "Final",
       "abstractGameState": "Final",
-      "codedGameState": "O",
+      "codedGameState": "F",
       "awayTeam": {
         "id": 120,
         "name": "Washington Nationals",
@@ -9776,9 +9776,9 @@
       "date": "2026-09-05",
       "gameDate": "2026-09-06T01:40:00Z",
       "localGameTime": "2026-09-05T21:40:00-04:00",
-      "status": "Game Over",
+      "status": "Final",
       "abstractGameState": "Final",
-      "codedGameState": "O",
+      "codedGameState": "F",
       "awayTeam": {
         "id": 133,
         "name": "Athletics",
@@ -10153,7 +10153,7 @@
       "homeScore": null,
       "venue": "UNIQLO Field at Dodger Stadium",
       "awayPitcher": "Andrew Alvarez",
-      "homePitcher": null
+      "homePitcher": "Justin Wrobleski"
     },
     {
       "gamePk": 823415,
