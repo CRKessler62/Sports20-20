@@ -1,6 +1,6 @@
 {
   "league": "MLB",
-  "lastUpdated": "2026-09-06T23:29:52.559742+00:00",
+  "lastUpdated": "2026-09-06T23:43:15.682129+00:00",
   "games": [
     {
       "gamePk": 824469,
@@ -873,14 +873,14 @@
       "homeScore": 0,
       "status": "In Progress",
       "gameDate": "2026-09-06T22:20:00Z",
-      "inning": 4,
-      "inningOrdinal": "4th",
-      "inningState": "End",
-      "outs": 3,
-      "battingTeam": "Minnesota Twins",
+      "inning": 5,
+      "inningOrdinal": "5th",
+      "inningState": "Bottom",
+      "outs": 1,
+      "battingTeam": "Chicago White Sox",
       "runners": {
         "first": false,
-        "second": false,
+        "second": true,
         "third": false
       },
       "inningScores": [
@@ -901,6 +901,11 @@
         },
         {
           "inning": 4,
+          "awayRuns": 0,
+          "homeRuns": 0
+        },
+        {
+          "inning": 5,
           "awayRuns": 0,
           "homeRuns": 0
         }
