@@ -1,6 +1,6 @@
 {
   "league": "MLB",
-  "lastUpdated": "2026-09-06T21:16:16.256380+00:00",
+  "lastUpdated": "2026-09-06T21:30:30.871237+00:00",
   "games": [
     {
       "gamePk": 824469,
@@ -475,7 +475,7 @@
       "homeTeam": "Houston Astros",
       "awayScore": 3,
       "homeScore": 2,
-      "status": "Game Over",
+      "status": "Final",
       "gameDate": "2026-09-06T18:10:00Z",
       "inning": 9,
       "inningOrdinal": "9th",
@@ -609,14 +609,14 @@
       "homeScore": 7,
       "status": "In Progress",
       "gameDate": "2026-09-06T18:35:00Z",
-      "inning": 7,
-      "inningOrdinal": "7th",
+      "inning": 8,
+      "inningOrdinal": "8th",
       "inningState": "Bottom",
-      "outs": 2,
+      "outs": 0,
       "battingTeam": "Texas Rangers",
       "runners": {
         "first": false,
-        "second": true,
+        "second": false,
         "third": false
       },
       "inningScores": [
@@ -654,6 +654,11 @@
           "inning": 7,
           "awayRuns": 1,
           "homeRuns": 0
+        },
+        {
+          "inning": 8,
+          "awayRuns": 0,
+          "homeRuns": 0
         }
       ]
     },
@@ -665,13 +670,13 @@
       "homeScore": 5,
       "status": "In Progress",
       "gameDate": "2026-09-06T19:10:00Z",
-      "inning": 7,
-      "inningOrdinal": "7th",
+      "inning": 8,
+      "inningOrdinal": "8th",
       "inningState": "Top",
-      "outs": 2,
+      "outs": 1,
       "battingTeam": "St. Louis Cardinals",
       "runners": {
-        "first": true,
+        "first": false,
         "second": false,
         "third": false
       },
@@ -710,6 +715,11 @@
           "inning": 7,
           "awayRuns": 0,
           "homeRuns": 0
+        },
+        {
+          "inning": 8,
+          "awayRuns": 0,
+          "homeRuns": 0
         }
       ]
     },
@@ -721,14 +731,14 @@
       "homeScore": 2,
       "status": "In Progress",
       "gameDate": "2026-09-06T20:10:00Z",
-      "inning": 4,
-      "inningOrdinal": "4th",
-      "inningState": "Bottom",
-      "outs": 0,
-      "battingTeam": "Seattle Mariners",
+      "inning": 5,
+      "inningOrdinal": "5th",
+      "inningState": "Middle",
+      "outs": 3,
+      "battingTeam": "Athletics",
       "runners": {
-        "first": true,
-        "second": true,
+        "first": false,
+        "second": false,
         "third": false
       },
       "inningScores": [
@@ -751,6 +761,11 @@
           "inning": 4,
           "awayRuns": 0,
           "homeRuns": 2
+        },
+        {
+          "inning": 5,
+          "awayRuns": 0,
+          "homeRuns": 0
         }
       ]
     },
@@ -762,9 +777,9 @@
       "homeScore": 3,
       "status": "In Progress",
       "gameDate": "2026-09-06T20:10:00Z",
-      "inning": 4,
-      "inningOrdinal": "4th",
-      "inningState": "End",
+      "inning": 5,
+      "inningOrdinal": "5th",
+      "inningState": "Middle",
       "outs": 3,
       "battingTeam": "New York Yankees",
       "runners": {
@@ -790,6 +805,11 @@
         },
         {
           "inning": 4,
+          "awayRuns": 0,
+          "homeRuns": 0
+        },
+        {
+          "inning": 5,
           "awayRuns": 0,
           "homeRuns": 0
         }
