@@ -1,6 +1,6 @@
 {
   "season": 2026,
-  "lastUpdated": "2026-09-06T16:23:23.345220+00:00",
+  "lastUpdated": "2026-09-06T17:20:43.206381+00:00",
   "leagues": {
     "AL": {
       "offense": {
@@ -945,7 +945,7 @@
             "player": "Sal Stewart",
             "team": "Cincinnati Reds",
             "position": "1B",
-            "value": "106"
+            "value": "107"
           },
           {
             "rank": 2,
@@ -1016,15 +1016,15 @@
         "obp": [
           {
             "rank": 1,
-            "player": "Bryce Harper",
-            "team": "Philadelphia Phillies",
+            "player": "Jake Bauers",
+            "team": "Milwaukee Brewers",
             "position": "1B",
-            "value": ".392"
+            "value": ".394"
           },
           {
             "rank": 2,
-            "player": "Jake Bauers",
-            "team": "Milwaukee Brewers",
+            "player": "Bryce Harper",
+            "team": "Philadelphia Phillies",
             "position": "1B",
             "value": ".392"
           },
@@ -1121,7 +1121,7 @@
             "player": "Jake Bauers",
             "team": "Milwaukee Brewers",
             "position": "1B",
-            "value": ".878"
+            "value": ".888"
           }
         ],
         "stolenBases": [
@@ -1542,7 +1542,7 @@
             "player": "Luis Arraez",
             "team": "Philadelphia Phillies",
             "position": "2B",
-            "value": "346"
+            "value": "347"
           },
           {
             "rank": 2,
