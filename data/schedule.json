@@ -1,7 +1,7 @@
 {
   "league": "MLB",
   "timezone": "America/New_York",
-  "lastUpdated": "2026-09-06T13:12:04.095659+00:00",
+  "lastUpdated": "2026-09-06T14:12:17.492909+00:00",
   "games": [
     {
       "gamePk": 823349,
@@ -9800,9 +9800,9 @@
       "date": "2026-09-06",
       "gameDate": "2026-09-06T16:10:00Z",
       "localGameTime": "2026-09-06T12:10:00-04:00",
-      "status": "Scheduled",
+      "status": "Pre-Game",
       "abstractGameState": "Preview",
-      "codedGameState": "S",
+      "codedGameState": "P",
       "awayTeam": {
         "id": 158,
         "name": "Milwaukee Brewers",
@@ -9848,9 +9848,9 @@
       "date": "2026-09-06",
       "gameDate": "2026-09-06T17:35:00Z",
       "localGameTime": "2026-09-06T13:35:00-04:00",
-      "status": "Scheduled",
+      "status": "Pre-Game",
       "abstractGameState": "Preview",
-      "codedGameState": "S",
+      "codedGameState": "P",
       "awayTeam": {
         "id": 111,
         "name": "Boston Red Sox",
@@ -10297,7 +10297,7 @@
       "homeScore": null,
       "venue": "American Family Field",
       "awayPitcher": null,
-      "homePitcher": null
+      "homePitcher": "Robert Gasser"
     },
     {
       "gamePk": 824229,
@@ -10657,7 +10657,7 @@
       "homeScore": null,
       "venue": "American Family Field",
       "awayPitcher": null,
-      "homePitcher": null
+      "homePitcher": "Jacob Misiorowski"
     },
     {
       "gamePk": 823250,
@@ -11113,7 +11113,7 @@
       "homeScore": null,
       "venue": "American Family Field",
       "awayPitcher": null,
-      "homePitcher": null
+      "homePitcher": "Logan Henderson"
     },
     {
       "gamePk": 823900,
