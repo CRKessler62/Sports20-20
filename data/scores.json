@@ -1,22 +1,22 @@
 {
   "league": "MLB",
-  "lastUpdated": "2026-09-06T17:14:57.499825+00:00",
+  "lastUpdated": "2026-09-06T17:29:10.399360+00:00",
   "games": [
     {
       "gamePk": 824469,
       "awayTeam": "Milwaukee Brewers",
       "homeTeam": "Cincinnati Reds",
-      "awayScore": 2,
-      "homeScore": 4,
+      "awayScore": 3,
+      "homeScore": 6,
       "status": "In Progress",
       "gameDate": "2026-09-06T16:10:00Z",
       "inning": 4,
       "inningOrdinal": "4th",
-      "inningState": "Top",
+      "inningState": "Bottom",
       "outs": 1,
-      "battingTeam": "Milwaukee Brewers",
+      "battingTeam": "Cincinnati Reds",
       "runners": {
-        "first": true,
+        "first": false,
         "second": false,
         "third": true
       },
@@ -38,8 +38,8 @@
         },
         {
           "inning": 4,
-          "awayRuns": 2,
-          "homeRuns": 0
+          "awayRuns": 3,
+          "homeRuns": 2
         }
       ]
     },
@@ -48,13 +48,13 @@
       "awayTeam": "Atlanta Braves",
       "homeTeam": "Philadelphia Phillies",
       "awayScore": 0,
-      "homeScore": 0,
+      "homeScore": 2,
       "status": "In Progress",
       "gameDate": "2026-09-06T17:10:00Z",
       "inning": 1,
       "inningOrdinal": "1st",
-      "inningState": "Top",
-      "outs": 2,
+      "inningState": "End",
+      "outs": 3,
       "battingTeam": "Atlanta Braves",
       "runners": {
         "first": false,
@@ -65,7 +65,7 @@
         {
           "inning": 1,
           "awayRuns": 0,
-          "homeRuns": 0
+          "homeRuns": 2
         }
       ]
     },
@@ -153,7 +153,7 @@
       "homeTeam": "New York Mets",
       "awayScore": 0,
       "homeScore": 0,
-      "status": "Pre-Game",
+      "status": "Warmup",
       "gameDate": "2026-09-06T17:40:00Z",
       "inning": 1,
       "inningOrdinal": "1st",
@@ -179,7 +179,7 @@
       "homeTeam": "Miami Marlins",
       "awayScore": 0,
       "homeScore": 0,
-      "status": "Pre-Game",
+      "status": "Warmup",
       "gameDate": "2026-09-06T17:40:00Z",
       "inning": 1,
       "inningOrdinal": "1st",
@@ -309,7 +309,7 @@
       "homeTeam": "Seattle Mariners",
       "awayScore": 0,
       "homeScore": 0,
-      "status": "Scheduled",
+      "status": "Pre-Game",
       "gameDate": "2026-09-06T20:10:00Z",
       "inning": null,
       "inningOrdinal": null,
@@ -331,17 +331,23 @@
       "homeScore": 0,
       "status": "Pre-Game",
       "gameDate": "2026-09-06T20:10:00Z",
-      "inning": null,
-      "inningOrdinal": null,
-      "inningState": null,
-      "outs": null,
-      "battingTeam": null,
+      "inning": 1,
+      "inningOrdinal": "1st",
+      "inningState": "Top",
+      "outs": 0,
+      "battingTeam": "New York Yankees",
       "runners": {
         "first": false,
         "second": false,
         "third": false
       },
-      "inningScores": []
+      "inningScores": [
+        {
+          "inning": 1,
+          "awayRuns": 0,
+          "homeRuns": 0
+        }
+      ]
     },
     {
       "gamePk": 824552,
