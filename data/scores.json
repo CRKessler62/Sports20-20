@@ -1,20 +1,20 @@
 {
   "league": "MLB",
-  "lastUpdated": "2026-09-06T18:58:58.864434+00:00",
+  "lastUpdated": "2026-09-06T19:16:33.419216+00:00",
   "games": [
     {
       "gamePk": 824469,
       "awayTeam": "Milwaukee Brewers",
       "homeTeam": "Cincinnati Reds",
       "awayScore": 7,
-      "homeScore": 9,
+      "homeScore": 12,
       "status": "In Progress",
       "gameDate": "2026-09-06T16:10:00Z",
-      "inning": 8,
-      "inningOrdinal": "8th",
-      "inningState": "Bottom",
+      "inning": 9,
+      "inningOrdinal": "9th",
+      "inningState": "Top",
       "outs": 1,
-      "battingTeam": "Cincinnati Reds",
+      "battingTeam": "Milwaukee Brewers",
       "runners": {
         "first": false,
         "second": false,
@@ -59,6 +59,11 @@
         {
           "inning": 8,
           "awayRuns": 1,
+          "homeRuns": 3
+        },
+        {
+          "inning": 9,
+          "awayRuns": 0,
           "homeRuns": 0
         }
       ]
@@ -68,18 +73,18 @@
       "awayTeam": "Atlanta Braves",
       "homeTeam": "Philadelphia Phillies",
       "awayScore": 1,
-      "homeScore": 2,
+      "homeScore": 4,
       "status": "In Progress",
       "gameDate": "2026-09-06T17:10:00Z",
-      "inning": 7,
-      "inningOrdinal": "7th",
+      "inning": 8,
+      "inningOrdinal": "8th",
       "inningState": "Top",
-      "outs": 2,
+      "outs": 0,
       "battingTeam": "Atlanta Braves",
       "runners": {
         "first": false,
         "second": false,
-        "third": true
+        "third": false
       },
       "inningScores": [
         {
@@ -115,6 +120,11 @@
         {
           "inning": 7,
           "awayRuns": 0,
+          "homeRuns": 2
+        },
+        {
+          "inning": 8,
+          "awayRuns": 0,
           "homeRuns": 0
         }
       ]
@@ -127,8 +137,8 @@
       "homeScore": 1,
       "status": "In Progress",
       "gameDate": "2026-09-06T17:35:00Z",
-      "inning": 4,
-      "inningOrdinal": "4th",
+      "inning": 5,
+      "inningOrdinal": "5th",
       "inningState": "End",
       "outs": 3,
       "battingTeam": "Boston Red Sox",
@@ -157,6 +167,11 @@
           "inning": 4,
           "awayRuns": 0,
           "homeRuns": 0
+        },
+        {
+          "inning": 5,
+          "awayRuns": 0,
+          "homeRuns": 0
         }
       ]
     },
@@ -168,8 +183,8 @@
       "homeScore": 1,
       "status": "In Progress",
       "gameDate": "2026-09-06T17:35:00Z",
-      "inning": 5,
-      "inningOrdinal": "5th",
+      "inning": 6,
+      "inningOrdinal": "6th",
       "inningState": "End",
       "outs": 3,
       "battingTeam": "Los Angeles Angels",
@@ -203,6 +218,11 @@
           "inning": 5,
           "awayRuns": 0,
           "homeRuns": 0
+        },
+        {
+          "inning": 6,
+          "awayRuns": 0,
+          "homeRuns": 0
         }
       ]
     },
@@ -211,16 +231,16 @@
       "awayTeam": "Detroit Tigers",
       "homeTeam": "Cleveland Guardians",
       "awayScore": 2,
-      "homeScore": 1,
+      "homeScore": 2,
       "status": "In Progress",
       "gameDate": "2026-09-06T17:40:00Z",
-      "inning": 5,
-      "inningOrdinal": "5th",
+      "inning": 6,
+      "inningOrdinal": "6th",
       "inningState": "Top",
-      "outs": 0,
+      "outs": 2,
       "battingTeam": "Detroit Tigers",
       "runners": {
-        "first": true,
+        "first": false,
         "second": false,
         "third": false
       },
@@ -248,6 +268,11 @@
         {
           "inning": 5,
           "awayRuns": 0,
+          "homeRuns": 1
+        },
+        {
+          "inning": 6,
+          "awayRuns": 0,
           "homeRuns": 0
         }
       ]
@@ -260,13 +285,13 @@
       "homeScore": 0,
       "status": "In Progress",
       "gameDate": "2026-09-06T17:40:00Z",
-      "inning": 5,
-      "inningOrdinal": "5th",
-      "inningState": "Middle",
-      "outs": 3,
-      "battingTeam": "San Francisco Giants",
+      "inning": 6,
+      "inningOrdinal": "6th",
+      "inningState": "Bottom",
+      "outs": 1,
+      "battingTeam": "New York Mets",
       "runners": {
-        "first": false,
+        "first": true,
         "second": false,
         "third": false
       },
@@ -295,6 +320,11 @@
           "inning": 5,
           "awayRuns": 0,
           "homeRuns": 0
+        },
+        {
+          "inning": 6,
+          "awayRuns": 0,
+          "homeRuns": 0
         }
       ]
     },
@@ -303,13 +333,13 @@
       "awayTeam": "Chicago Cubs",
       "homeTeam": "Miami Marlins",
       "awayScore": 3,
-      "homeScore": 3,
+      "homeScore": 8,
       "status": "In Progress",
       "gameDate": "2026-09-06T17:40:00Z",
       "inning": 5,
       "inningOrdinal": "5th",
       "inningState": "Bottom",
-      "outs": 0,
+      "outs": 2,
       "battingTeam": "Miami Marlins",
       "runners": {
         "first": true,
@@ -340,7 +370,7 @@
         {
           "inning": 5,
           "awayRuns": 1,
-          "homeRuns": 0
+          "homeRuns": 5
         }
       ]
     },
@@ -348,17 +378,17 @@
       "gamePk": 824142,
       "awayTeam": "Arizona Diamondbacks",
       "homeTeam": "Houston Astros",
-      "awayScore": 1,
+      "awayScore": 3,
       "homeScore": 1,
       "status": "In Progress",
       "gameDate": "2026-09-06T18:10:00Z",
-      "inning": 3,
-      "inningOrdinal": "3rd",
+      "inning": 4,
+      "inningOrdinal": "4th",
       "inningState": "Top",
       "outs": 1,
       "battingTeam": "Arizona Diamondbacks",
       "runners": {
-        "first": true,
+        "first": false,
         "second": false,
         "third": false
       },
@@ -375,6 +405,11 @@
         },
         {
           "inning": 3,
+          "awayRuns": 2,
+          "homeRuns": 0
+        },
+        {
+          "inning": 4,
           "awayRuns": 0,
           "homeRuns": 0
         }
@@ -388,11 +423,11 @@
       "homeScore": 5,
       "status": "In Progress",
       "gameDate": "2026-09-06T18:10:00Z",
-      "inning": 3,
-      "inningOrdinal": "3rd",
-      "inningState": "Bottom",
-      "outs": 2,
-      "battingTeam": "Kansas City Royals",
+      "inning": 5,
+      "inningOrdinal": "5th",
+      "inningState": "Top",
+      "outs": 0,
+      "battingTeam": "Toronto Blue Jays",
       "runners": {
         "first": false,
         "second": false,
@@ -413,6 +448,16 @@
           "inning": 3,
           "awayRuns": 0,
           "homeRuns": 2
+        },
+        {
+          "inning": 4,
+          "awayRuns": 0,
+          "homeRuns": 0
+        },
+        {
+          "inning": 5,
+          "awayRuns": 0,
+          "homeRuns": 0
         }
       ]
     },
@@ -420,24 +465,29 @@
       "gamePk": 822848,
       "awayTeam": "Tampa Bay Rays",
       "homeTeam": "Texas Rangers",
-      "awayScore": 0,
+      "awayScore": 4,
       "homeScore": 0,
       "status": "In Progress",
       "gameDate": "2026-09-06T18:35:00Z",
-      "inning": 1,
-      "inningOrdinal": "1st",
-      "inningState": "Bottom",
+      "inning": 2,
+      "inningOrdinal": "2nd",
+      "inningState": "Top",
       "outs": 2,
-      "battingTeam": "Texas Rangers",
+      "battingTeam": "Tampa Bay Rays",
       "runners": {
         "first": true,
         "second": true,
-        "third": false
+        "third": true
       },
       "inningScores": [
         {
           "inning": 1,
           "awayRuns": 0,
+          "homeRuns": 0
+        },
+        {
+          "inning": 2,
+          "awayRuns": 4,
           "homeRuns": 0
         }
       ]
@@ -448,17 +498,17 @@
       "homeTeam": "Colorado Rockies",
       "awayScore": 0,
       "homeScore": 0,
-      "status": "Warmup",
+      "status": "In Progress",
       "gameDate": "2026-09-06T19:10:00Z",
       "inning": 1,
       "inningOrdinal": "1st",
       "inningState": "Top",
-      "outs": 0,
+      "outs": 2,
       "battingTeam": "St. Louis Cardinals",
       "runners": {
-        "first": false,
+        "first": true,
         "second": false,
-        "third": false
+        "third": true
       },
       "inningScores": [
         {
