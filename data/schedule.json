@@ -1,7 +1,7 @@
 {
   "league": "MLB",
   "timezone": "America/New_York",
-  "lastUpdated": "2026-09-06T18:13:58.118382+00:00",
+  "lastUpdated": "2026-09-06T19:10:47.905494+00:00",
   "games": [
     {
       "gamePk": 823349,
@@ -9813,8 +9813,8 @@
         "name": "Cincinnati Reds",
         "abbreviation": "CIN"
       },
-      "awayScore": 6,
-      "homeScore": 9,
+      "awayScore": 7,
+      "homeScore": 12,
       "venue": "Great American Ball Park",
       "awayPitcher": "Kyle Harrison",
       "homePitcher": "Brady Singer"
@@ -9837,8 +9837,8 @@
         "name": "Philadelphia Phillies",
         "abbreviation": "PHI"
       },
-      "awayScore": 0,
-      "homeScore": 2,
+      "awayScore": 1,
+      "homeScore": 3,
       "venue": "Citizens Bank Park",
       "awayPitcher": "Tyler Mahle",
       "homePitcher": "Aaron Nola"
@@ -9848,9 +9848,9 @@
       "date": "2026-09-06",
       "gameDate": "2026-09-06T17:35:00Z",
       "localGameTime": "2026-09-06T13:35:00-04:00",
-      "status": "In Progress",
+      "status": "Manager challenge",
       "abstractGameState": "Live",
-      "codedGameState": "I",
+      "codedGameState": "M",
       "awayTeam": {
         "id": 111,
         "name": "Boston Red Sox",
@@ -9886,7 +9886,7 @@
         "abbreviation": "PIT"
       },
       "awayScore": 0,
-      "homeScore": 0,
+      "homeScore": 1,
       "venue": "PNC Park",
       "awayPitcher": "Walbert Ure\u00f1a",
       "homePitcher": "Paul Skenes"
@@ -9910,7 +9910,7 @@
         "abbreviation": "CLE"
       },
       "awayScore": 2,
-      "homeScore": 1,
+      "homeScore": 2,
       "venue": "Progressive Field",
       "awayPitcher": "Jackson Jobe",
       "homePitcher": "Gavin Williams"
@@ -9933,7 +9933,7 @@
         "name": "New York Mets",
         "abbreviation": "NYM"
       },
-      "awayScore": 0,
+      "awayScore": 2,
       "homeScore": 0,
       "venue": "Citi Field",
       "awayPitcher": "Cesar Perdomo",
@@ -9957,8 +9957,8 @@
         "name": "Miami Marlins",
         "abbreviation": "MIA"
       },
-      "awayScore": 0,
-      "homeScore": 2,
+      "awayScore": 3,
+      "homeScore": 8,
       "venue": "loanDepot park",
       "awayPitcher": "Clay Holmes",
       "homePitcher": "Tyler Phillips"
@@ -9981,8 +9981,8 @@
         "name": "Houston Astros",
         "abbreviation": "HOU"
       },
-      "awayScore": 0,
-      "homeScore": 0,
+      "awayScore": 3,
+      "homeScore": 1,
       "venue": "Daikin Park",
       "awayPitcher": "Eduardo Rodriguez",
       "homePitcher": "Peter Lambert"
@@ -10006,7 +10006,7 @@
         "abbreviation": "KC"
       },
       "awayScore": 0,
-      "homeScore": 0,
+      "homeScore": 5,
       "venue": "Kauffman Stadium",
       "awayPitcher": "Spencer Arrighetti",
       "homePitcher": "Randy Dobnak"
@@ -10016,9 +10016,9 @@
       "date": "2026-09-06",
       "gameDate": "2026-09-06T18:35:00Z",
       "localGameTime": "2026-09-06T14:35:00-04:00",
-      "status": "Warmup",
+      "status": "In Progress",
       "abstractGameState": "Live",
-      "codedGameState": "P",
+      "codedGameState": "I",
       "awayTeam": {
         "id": 139,
         "name": "Tampa Bay Rays",
@@ -10029,7 +10029,7 @@
         "name": "Texas Rangers",
         "abbreviation": "TEX"
       },
-      "awayScore": 0,
+      "awayScore": 2,
       "homeScore": 0,
       "venue": "Globe Life Field",
       "awayPitcher": "Ian Seymour",
@@ -10040,9 +10040,9 @@
       "date": "2026-09-06",
       "gameDate": "2026-09-06T19:10:00Z",
       "localGameTime": "2026-09-06T15:10:00-04:00",
-      "status": "Pre-Game",
-      "abstractGameState": "Preview",
-      "codedGameState": "P",
+      "status": "In Progress",
+      "abstractGameState": "Live",
+      "codedGameState": "I",
       "awayTeam": {
         "id": 138,
         "name": "St. Louis Cardinals",
@@ -10560,7 +10560,7 @@
       "awayScore": null,
       "homeScore": null,
       "venue": "Yankee Stadium",
-      "awayPitcher": null,
+      "awayPitcher": "Gabriel Hughes",
       "homePitcher": "Cam Schlittler"
     },
     {
@@ -11016,7 +11016,7 @@
       "awayScore": null,
       "homeScore": null,
       "venue": "Yankee Stadium",
-      "awayPitcher": null,
+      "awayPitcher": "Tomoyuki Sugano",
       "homePitcher": "Will Warren"
     },
     {
@@ -11232,7 +11232,7 @@
       "awayScore": null,
       "homeScore": null,
       "venue": "Yankee Stadium",
-      "awayPitcher": null,
+      "awayPitcher": "Ryan Feltner",
       "homePitcher": "Max Fried"
     },
     {
