@@ -1,6 +1,6 @@
 {
   "season": 2026,
-  "lastUpdated": "2026-09-06T20:23:12.029907+00:00",
+  "lastUpdated": "2026-09-06T21:21:34.288221+00:00",
   "leagues": {
     "AL": {
       "offense": {
@@ -10,21 +10,21 @@
             "player": "Yordan Alvarez",
             "team": "Houston Astros",
             "position": "DH",
-            "value": ".315"
+            "value": ".314"
           },
           {
             "rank": 2,
             "player": "Chandler Simpson",
             "team": "Tampa Bay Rays",
             "position": "LF",
-            "value": ".308"
+            "value": ".309"
           },
           {
             "rank": 3,
             "player": "Yandy D\u00edaz",
             "team": "Tampa Bay Rays",
             "position": "DH",
-            "value": ".306"
+            "value": ".305"
           },
           {
             "rank": 4,
@@ -61,7 +61,7 @@
             "player": "Chandler Simpson",
             "team": "Tampa Bay Rays",
             "position": "LF",
-            "value": "156"
+            "value": "157"
           },
           {
             "rank": 4,
@@ -213,16 +213,16 @@
           },
           {
             "rank": 4,
-            "player": "Yandy D\u00edaz",
-            "team": "Tampa Bay Rays",
-            "position": "DH",
-            "value": ".374"
-          },
-          {
-            "rank": 5,
             "player": "Kevin McGonigle",
             "team": "Detroit Tigers",
             "position": "SS",
+            "value": ".373"
+          },
+          {
+            "rank": 5,
+            "player": "Yandy D\u00edaz",
+            "team": "Tampa Bay Rays",
+            "position": "DH",
             "value": ".373"
           }
         ],
@@ -232,21 +232,21 @@
             "player": "Yordan Alvarez",
             "team": "Houston Astros",
             "position": "DH",
-            "value": ".600"
+            "value": ".599"
           },
           {
             "rank": 2,
             "player": "Junior Caminero",
             "team": "Tampa Bay Rays",
             "position": "3B",
-            "value": ".532"
+            "value": ".531"
           },
           {
             "rank": 3,
             "player": "Ben Rice",
             "team": "New York Yankees",
             "position": "DH",
-            "value": ".527"
+            "value": ".526"
           },
           {
             "rank": 4,
@@ -269,7 +269,7 @@
             "player": "Yordan Alvarez",
             "team": "Houston Astros",
             "position": "DH",
-            "value": "1.032"
+            "value": "1.031"
           },
           {
             "rank": 2,
@@ -283,14 +283,14 @@
             "player": "Junior Caminero",
             "team": "Tampa Bay Rays",
             "position": "3B",
-            "value": ".898"
+            "value": ".896"
           },
           {
             "rank": 4,
             "player": "Ben Rice",
             "team": "New York Yankees",
             "position": "DH",
-            "value": ".881"
+            "value": ".880"
           },
           {
             "rank": 5,
@@ -688,19 +688,19 @@
             "player": "Jonathan Aranda",
             "team": "Tampa Bay Rays",
             "position": "1B",
-            "value": "962"
+            "value": "966"
           },
           {
             "rank": 3,
-            "player": "Pete Alonso",
-            "team": "Baltimore Orioles",
+            "player": "Josh Naylor",
+            "team": "Seattle Mariners",
             "position": "1B",
-            "value": "930"
+            "value": "932"
           },
           {
             "rank": 4,
-            "player": "Josh Naylor",
-            "team": "Seattle Mariners",
+            "player": "Pete Alonso",
+            "team": "Baltimore Orioles",
             "position": "1B",
             "value": "930"
           },
@@ -709,7 +709,7 @@
             "player": "Jake Burger",
             "team": "Texas Rangers",
             "position": "1B",
-            "value": "889"
+            "value": "891"
           }
         ],
         "assists": [
@@ -862,7 +862,7 @@
             "player": "Gabriel Moreno",
             "team": "Arizona Diamondbacks",
             "position": "C",
-            "value": ".298"
+            "value": ".300"
           }
         ],
         "hits": [
@@ -1040,7 +1040,7 @@
             "player": "TJ Rumfield",
             "team": "Colorado Rockies",
             "position": "1B",
-            "value": ".389"
+            "value": ".388"
           },
           {
             "rank": 5,
@@ -1070,7 +1070,7 @@
             "player": "Hunter Goodman",
             "team": "Colorado Rockies",
             "position": "C",
-            "value": ".530"
+            "value": ".528"
           },
           {
             "rank": 4,
@@ -1164,24 +1164,24 @@
         "doubles": [
           {
             "rank": 1,
+            "player": "Alec Burleson",
+            "team": "St. Louis Cardinals",
+            "position": "1B",
+            "value": "34"
+          },
+          {
+            "rank": 2,
             "player": "Rafael Devers",
             "team": "San Francisco Giants",
             "position": "1B",
             "value": "34"
           },
           {
-            "rank": 2,
+            "rank": 3,
             "player": "Bryan Reynolds",
             "team": "Pittsburgh Pirates",
             "position": "LF",
             "value": "34"
-          },
-          {
-            "rank": 3,
-            "player": "Alec Burleson",
-            "team": "St. Louis Cardinals",
-            "position": "1B",
-            "value": "33"
           },
           {
             "rank": 4,
@@ -1291,22 +1291,22 @@
           },
           {
             "rank": 3,
+            "player": "Eduardo Rodriguez",
+            "team": "Arizona Diamondbacks",
+            "position": "P",
+            "value": "15"
+          },
+          {
+            "rank": 4,
             "player": "Braxton Ashcraft",
             "team": "Pittsburgh Pirates",
             "position": "P",
             "value": "14"
           },
           {
-            "rank": 4,
+            "rank": 5,
             "player": "Jacob Misiorowski",
             "team": "Milwaukee Brewers",
-            "position": "P",
-            "value": "14"
-          },
-          {
-            "rank": 5,
-            "player": "Eduardo Rodriguez",
-            "team": "Arizona Diamondbacks",
             "position": "P",
             "value": "14"
           }
@@ -1453,10 +1453,10 @@
           },
           {
             "rank": 5,
-            "player": "Braxton Ashcraft",
-            "team": "Pittsburgh Pirates",
+            "player": "Michael King",
+            "team": "San Diego Padres",
             "position": "P",
-            "value": "165.1"
+            "value": "166.1"
           }
         ],
         "qualityStarts": []
@@ -1512,7 +1512,7 @@
             "player": "Alec Burleson",
             "team": "St. Louis Cardinals",
             "position": "1B",
-            "value": "1075"
+            "value": "1078"
           },
           {
             "rank": 3,
