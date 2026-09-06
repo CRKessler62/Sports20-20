@@ -1,6 +1,6 @@
 {
   "league": "MLB",
-  "lastUpdated": "2026-09-06T17:29:10.399360+00:00",
+  "lastUpdated": "2026-09-06T17:42:20.836153+00:00",
   "games": [
     {
       "gamePk": 824469,
@@ -10,15 +10,15 @@
       "homeScore": 6,
       "status": "In Progress",
       "gameDate": "2026-09-06T16:10:00Z",
-      "inning": 4,
-      "inningOrdinal": "4th",
-      "inningState": "Bottom",
-      "outs": 1,
-      "battingTeam": "Cincinnati Reds",
+      "inning": 5,
+      "inningOrdinal": "5th",
+      "inningState": "Top",
+      "outs": 2,
+      "battingTeam": "Milwaukee Brewers",
       "runners": {
-        "first": false,
+        "first": true,
         "second": false,
-        "third": true
+        "third": false
       },
       "inningScores": [
         {
@@ -40,6 +40,11 @@
           "inning": 4,
           "awayRuns": 3,
           "homeRuns": 2
+        },
+        {
+          "inning": 5,
+          "awayRuns": 0,
+          "homeRuns": 0
         }
       ]
     },
@@ -51,8 +56,8 @@
       "homeScore": 2,
       "status": "In Progress",
       "gameDate": "2026-09-06T17:10:00Z",
-      "inning": 1,
-      "inningOrdinal": "1st",
+      "inning": 2,
+      "inningOrdinal": "2nd",
       "inningState": "End",
       "outs": 3,
       "battingTeam": "Atlanta Braves",
@@ -66,6 +71,11 @@
           "inning": 1,
           "awayRuns": 0,
           "homeRuns": 2
+        },
+        {
+          "inning": 2,
+          "awayRuns": 0,
+          "homeRuns": 0
         }
       ]
     },
@@ -75,12 +85,12 @@
       "homeTeam": "Baltimore Orioles",
       "awayScore": 0,
       "homeScore": 0,
-      "status": "Warmup",
+      "status": "In Progress",
       "gameDate": "2026-09-06T17:35:00Z",
       "inning": 1,
       "inningOrdinal": "1st",
       "inningState": "Top",
-      "outs": 0,
+      "outs": 1,
       "battingTeam": "Boston Red Sox",
       "runners": {
         "first": false,
@@ -101,15 +111,15 @@
       "homeTeam": "Pittsburgh Pirates",
       "awayScore": 0,
       "homeScore": 0,
-      "status": "Warmup",
+      "status": "In Progress",
       "gameDate": "2026-09-06T17:35:00Z",
       "inning": 1,
       "inningOrdinal": "1st",
       "inningState": "Top",
-      "outs": 0,
+      "outs": 2,
       "battingTeam": "Los Angeles Angels",
       "runners": {
-        "first": false,
+        "first": true,
         "second": false,
         "third": false
       },
@@ -127,7 +137,7 @@
       "homeTeam": "Cleveland Guardians",
       "awayScore": 0,
       "homeScore": 0,
-      "status": "Warmup",
+      "status": "In Progress",
       "gameDate": "2026-09-06T17:40:00Z",
       "inning": 1,
       "inningOrdinal": "1st",
@@ -153,7 +163,7 @@
       "homeTeam": "New York Mets",
       "awayScore": 0,
       "homeScore": 0,
-      "status": "Warmup",
+      "status": "In Progress",
       "gameDate": "2026-09-06T17:40:00Z",
       "inning": 1,
       "inningOrdinal": "1st",
@@ -179,7 +189,7 @@
       "homeTeam": "Miami Marlins",
       "awayScore": 0,
       "homeScore": 0,
-      "status": "Warmup",
+      "status": "In Progress",
       "gameDate": "2026-09-06T17:40:00Z",
       "inning": 1,
       "inningOrdinal": "1st",
