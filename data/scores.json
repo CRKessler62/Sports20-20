@@ -1,6 +1,6 @@
 {
   "league": "MLB",
-  "lastUpdated": "2026-09-06T20:31:50.786349+00:00",
+  "lastUpdated": "2026-09-06T20:45:07.970699+00:00",
   "games": [
     {
       "gamePk": 824469,
@@ -409,7 +409,7 @@
       "homeTeam": "Miami Marlins",
       "awayScore": 3,
       "homeScore": 10,
-      "status": "Game Over",
+      "status": "Final",
       "gameDate": "2026-09-06T17:40:00Z",
       "inning": 9,
       "inningOrdinal": "9th",
@@ -474,17 +474,17 @@
       "awayTeam": "Arizona Diamondbacks",
       "homeTeam": "Houston Astros",
       "awayScore": 3,
-      "homeScore": 1,
+      "homeScore": 2,
       "status": "In Progress",
       "gameDate": "2026-09-06T18:10:00Z",
       "inning": 8,
       "inningOrdinal": "8th",
-      "inningState": "Middle",
-      "outs": 3,
-      "battingTeam": "Arizona Diamondbacks",
+      "inningState": "Bottom",
+      "outs": 2,
+      "battingTeam": "Houston Astros",
       "runners": {
-        "first": false,
-        "second": false,
+        "first": true,
+        "second": true,
         "third": false
       },
       "inningScores": [
@@ -526,7 +526,7 @@
         {
           "inning": 8,
           "awayRuns": 0,
-          "homeRuns": 0
+          "homeRuns": 1
         }
       ]
     },
@@ -540,8 +540,8 @@
       "gameDate": "2026-09-06T18:10:00Z",
       "inning": 8,
       "inningOrdinal": "8th",
-      "inningState": "Top",
-      "outs": 1,
+      "inningState": "End",
+      "outs": 3,
       "battingTeam": "Toronto Blue Jays",
       "runners": {
         "first": false,
@@ -596,14 +596,14 @@
       "awayTeam": "Tampa Bay Rays",
       "homeTeam": "Texas Rangers",
       "awayScore": 5,
-      "homeScore": 5,
+      "homeScore": 7,
       "status": "In Progress",
       "gameDate": "2026-09-06T18:35:00Z",
-      "inning": 5,
-      "inningOrdinal": "5th",
-      "inningState": "Bottom",
+      "inning": 6,
+      "inningOrdinal": "6th",
+      "inningState": "Top",
       "outs": 0,
-      "battingTeam": "Texas Rangers",
+      "battingTeam": "Tampa Bay Rays",
       "runners": {
         "first": false,
         "second": false,
@@ -633,6 +633,11 @@
         {
           "inning": 5,
           "awayRuns": 0,
+          "homeRuns": 2
+        },
+        {
+          "inning": 6,
+          "awayRuns": 0,
           "homeRuns": 0
         }
       ]
@@ -641,19 +646,19 @@
       "gamePk": 824309,
       "awayTeam": "St. Louis Cardinals",
       "homeTeam": "Colorado Rockies",
-      "awayScore": 1,
+      "awayScore": 7,
       "homeScore": 5,
       "status": "In Progress",
       "gameDate": "2026-09-06T19:10:00Z",
       "inning": 5,
       "inningOrdinal": "5th",
-      "inningState": "Top",
-      "outs": 2,
-      "battingTeam": "St. Louis Cardinals",
+      "inningState": "Bottom",
+      "outs": 1,
+      "battingTeam": "Colorado Rockies",
       "runners": {
         "first": false,
-        "second": true,
-        "third": true
+        "second": false,
+        "third": false
       },
       "inningScores": [
         {
@@ -678,7 +683,7 @@
         },
         {
           "inning": 5,
-          "awayRuns": 0,
+          "awayRuns": 6,
           "homeRuns": 0
         }
       ]
@@ -691,10 +696,10 @@
       "homeScore": 0,
       "status": "In Progress",
       "gameDate": "2026-09-06T20:10:00Z",
-      "inning": 2,
-      "inningOrdinal": "2nd",
+      "inning": 3,
+      "inningOrdinal": "3rd",
       "inningState": "Top",
-      "outs": 1,
+      "outs": 2,
       "battingTeam": "Athletics",
       "runners": {
         "first": false,
@@ -711,6 +716,11 @@
           "inning": 2,
           "awayRuns": 0,
           "homeRuns": 0
+        },
+        {
+          "inning": 3,
+          "awayRuns": 0,
+          "homeRuns": 0
         }
       ]
     },
@@ -724,13 +734,13 @@
       "gameDate": "2026-09-06T20:10:00Z",
       "inning": 2,
       "inningOrdinal": "2nd",
-      "inningState": "Top",
-      "outs": 0,
-      "battingTeam": "New York Yankees",
+      "inningState": "Bottom",
+      "outs": 1,
+      "battingTeam": "San Diego Padres",
       "runners": {
         "first": false,
         "second": false,
-        "third": false
+        "third": true
       },
       "inningScores": [
         {
