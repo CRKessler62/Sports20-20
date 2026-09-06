@@ -1,7 +1,7 @@
 {
   "league": "MLB",
   "season": 2026,
-  "lastUpdated": "2026-09-06T22:18:07.041938+00:00",
+  "lastUpdated": "2026-09-06T22:28:02.103976+00:00",
   "teamCount": 30,
   "teams": [
     {
@@ -86,10 +86,10 @@
           "pct": ".600"
         },
         {
-          "wins": 41,
-          "losses": 27,
+          "wins": 42,
+          "losses": 29,
           "type": "winners",
-          "pct": ".603"
+          "pct": ".592"
         },
         {
           "wins": 31,
@@ -199,10 +199,10 @@
           "pct": ".459"
         },
         {
-          "wins": 38,
-          "losses": 36,
+          "wins": 39,
+          "losses": 38,
           "type": "winners",
-          "pct": ".514"
+          "pct": ".506"
         },
         {
           "wins": 27,
@@ -312,10 +312,10 @@
           "pct": ".514"
         },
         {
-          "wins": 37,
-          "losses": 38,
+          "wins": 39,
+          "losses": 39,
           "type": "winners",
-          "pct": ".493"
+          "pct": ".500"
         },
         {
           "wins": 25,
@@ -425,10 +425,10 @@
           "pct": ".475"
         },
         {
-          "wins": 38,
-          "losses": 46,
+          "wins": 40,
+          "losses": 47,
           "type": "winners",
-          "pct": ".452"
+          "pct": ".460"
         },
         {
           "wins": 31,
@@ -538,10 +538,10 @@
           "pct": ".421"
         },
         {
-          "wins": 36,
-          "losses": 44,
+          "wins": 38,
+          "losses": 45,
           "type": "winners",
-          "pct": ".450"
+          "pct": ".458"
         },
         {
           "wins": 26,
@@ -764,10 +764,10 @@
           "pct": ".548"
         },
         {
-          "wins": 25,
-          "losses": 36,
+          "wins": 26,
+          "losses": 38,
           "type": "winners",
-          "pct": ".410"
+          "pct": ".406"
         },
         {
           "wins": 29,
@@ -877,10 +877,10 @@
           "pct": ".412"
         },
         {
-          "wins": 37,
-          "losses": 40,
+          "wins": 39,
+          "losses": 41,
           "type": "winners",
-          "pct": ".481"
+          "pct": ".488"
         },
         {
           "wins": 27,
@@ -990,10 +990,10 @@
           "pct": ".333"
         },
         {
-          "wins": 31,
-          "losses": 44,
+          "wins": 33,
+          "losses": 45,
           "type": "winners",
-          "pct": ".413"
+          "pct": ".423"
         },
         {
           "wins": 25,
@@ -1103,10 +1103,10 @@
           "pct": ".439"
         },
         {
-          "wins": 22,
-          "losses": 44,
+          "wins": 25,
+          "losses": 47,
           "type": "winners",
-          "pct": ".333"
+          "pct": ".347"
         },
         {
           "wins": 24,
@@ -1217,9 +1217,9 @@
         },
         {
           "wins": 32,
-          "losses": 20,
+          "losses": 23,
           "type": "winners",
-          "pct": ".615"
+          "pct": ".582"
         },
         {
           "wins": 23,
@@ -1329,10 +1329,10 @@
           "pct": ".611"
         },
         {
-          "wins": 32,
-          "losses": 37,
+          "wins": 34,
+          "losses": 38,
           "type": "winners",
-          "pct": ".464"
+          "pct": ".472"
         },
         {
           "wins": 23,
@@ -1442,10 +1442,10 @@
           "pct": ".488"
         },
         {
-          "wins": 34,
+          "wins": 37,
           "losses": 41,
           "type": "winners",
-          "pct": ".453"
+          "pct": ".474"
         },
         {
           "wins": 27,
@@ -1555,10 +1555,10 @@
           "pct": ".487"
         },
         {
-          "wins": 22,
-          "losses": 39,
+          "wins": 23,
+          "losses": 41,
           "type": "winners",
-          "pct": ".361"
+          "pct": ".359"
         },
         {
           "wins": 17,
@@ -1668,10 +1668,10 @@
           "pct": ".381"
         },
         {
-          "wins": 23,
-          "losses": 51,
+          "wins": 25,
+          "losses": 52,
           "type": "winners",
-          "pct": ".311"
+          "pct": ".325"
         },
         {
           "wins": 18,
