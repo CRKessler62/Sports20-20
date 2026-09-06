@@ -1,6 +1,6 @@
 {
   "season": 2026,
-  "lastUpdated": "2026-09-06T02:22:48.483291+00:00",
+  "lastUpdated": "2026-09-06T03:23:10.398430+00:00",
   "leagues": {
     "AL": {
       "offense": {
@@ -10,7 +10,7 @@
             "player": "Yordan Alvarez",
             "team": "Houston Astros",
             "position": "DH",
-            "value": ".316"
+            "value": ".315"
           },
           {
             "rank": 2,
@@ -232,7 +232,7 @@
             "player": "Yordan Alvarez",
             "team": "Houston Astros",
             "position": "DH",
-            "value": ".598"
+            "value": ".597"
           },
           {
             "rank": 2,
@@ -269,7 +269,7 @@
             "player": "Yordan Alvarez",
             "team": "Houston Astros",
             "position": "DH",
-            "value": "1.032"
+            "value": "1.031"
           },
           {
             "rank": 2,
@@ -320,7 +320,7 @@
             "player": "George Kirby",
             "team": "Seattle Mariners",
             "position": "P",
-            "value": "20"
+            "value": "21"
           },
           {
             "rank": 4,
@@ -692,15 +692,15 @@
           },
           {
             "rank": 3,
-            "player": "Pete Alonso",
-            "team": "Baltimore Orioles",
+            "player": "Josh Naylor",
+            "team": "Seattle Mariners",
             "position": "1B",
-            "value": "923"
+            "value": "927"
           },
           {
             "rank": 4,
-            "player": "Josh Naylor",
-            "team": "Seattle Mariners",
+            "player": "Pete Alonso",
+            "team": "Baltimore Orioles",
             "position": "1B",
             "value": "923"
           },
@@ -718,7 +718,7 @@
             "player": "Cole Young",
             "team": "Seattle Mariners",
             "position": "2B",
-            "value": "361"
+            "value": "364"
           },
           {
             "rank": 2,
@@ -848,7 +848,7 @@
             "player": "Freddie Freeman",
             "team": "Los Angeles Dodgers",
             "position": "1B",
-            "value": ".303"
+            "value": ".302"
           },
           {
             "rank": 4,
@@ -862,7 +862,7 @@
             "player": "Gabriel Moreno",
             "team": "Arizona Diamondbacks",
             "position": "C",
-            "value": ".299"
+            "value": ".300"
           }
         ],
         "hits": [
@@ -1023,16 +1023,16 @@
           },
           {
             "rank": 2,
-            "player": "James Wood",
-            "team": "Washington Nationals",
-            "position": "RF",
+            "player": "Jake Bauers",
+            "team": "Milwaukee Brewers",
+            "position": "1B",
             "value": ".391"
           },
           {
             "rank": 3,
-            "player": "Jake Bauers",
-            "team": "Milwaukee Brewers",
-            "position": "1B",
+            "player": "James Wood",
+            "team": "Washington Nationals",
+            "position": "RF",
             "value": ".391"
           },
           {
@@ -1040,7 +1040,7 @@
             "player": "TJ Rumfield",
             "team": "Colorado Rockies",
             "position": "1B",
-            "value": ".388"
+            "value": ".387"
           },
           {
             "rank": 5,
@@ -1063,7 +1063,7 @@
             "player": "James Wood",
             "team": "Washington Nationals",
             "position": "RF",
-            "value": ".533"
+            "value": ".532"
           },
           {
             "rank": 3,
@@ -1100,7 +1100,7 @@
             "player": "James Wood",
             "team": "Washington Nationals",
             "position": "RF",
-            "value": ".924"
+            "value": ".923"
           },
           {
             "rank": 3,
@@ -1335,17 +1335,17 @@
           },
           {
             "rank": 4,
+            "player": "Cade Cavalli",
+            "team": "Washington Nationals",
+            "position": "P",
+            "value": "185"
+          },
+          {
+            "rank": 5,
             "player": "Chris Sale",
             "team": "Atlanta Braves",
             "position": "P",
             "value": "184"
-          },
-          {
-            "rank": 5,
-            "player": "Cade Cavalli",
-            "team": "Washington Nationals",
-            "position": "P",
-            "value": "181"
           }
         ],
         "whip": [
@@ -1512,7 +1512,7 @@
             "player": "Alec Burleson",
             "team": "St. Louis Cardinals",
             "position": "1B",
-            "value": "1070"
+            "value": "1073"
           },
           {
             "rank": 3,
@@ -1616,7 +1616,7 @@
             "player": "Alec Burleson",
             "team": "St. Louis Cardinals",
             "position": "1B",
-            "value": "116"
+            "value": "117"
           },
           {
             "rank": 2,
