@@ -1,6 +1,6 @@
 {
   "league": "MLB",
-  "lastUpdated": "2026-09-06T22:43:29.503164+00:00",
+  "lastUpdated": "2026-09-06T22:56:11.646280+00:00",
   "games": [
     {
       "gamePk": 824469,
@@ -805,7 +805,7 @@
       "homeTeam": "San Diego Padres",
       "awayScore": 3,
       "homeScore": 4,
-      "status": "Game Over",
+      "status": "Final",
       "gameDate": "2026-09-06T20:10:00Z",
       "inning": 9,
       "inningOrdinal": "9th",
@@ -875,7 +875,7 @@
       "gameDate": "2026-09-06T22:20:00Z",
       "inning": 2,
       "inningOrdinal": "2nd",
-      "inningState": "Middle",
+      "inningState": "End",
       "outs": 3,
       "battingTeam": "Minnesota Twins",
       "runners": {
