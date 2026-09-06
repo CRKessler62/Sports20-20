@@ -1,6 +1,6 @@
 {
   "league": "MLB",
-  "lastUpdated": "2026-09-06T15:41:32.055685+00:00",
+  "lastUpdated": "2026-09-06T15:54:00.011687+00:00",
   "games": [
     {
       "gamePk": 824469,
@@ -8,7 +8,7 @@
       "homeTeam": "Cincinnati Reds",
       "awayScore": 0,
       "homeScore": 0,
-      "status": "Pre-Game",
+      "status": "Warmup",
       "gameDate": "2026-09-06T16:10:00Z",
       "inning": 1,
       "inningOrdinal": "1st",
@@ -262,7 +262,7 @@
       "homeTeam": "Colorado Rockies",
       "awayScore": 0,
       "homeScore": 0,
-      "status": "Scheduled",
+      "status": "Pre-Game",
       "gameDate": "2026-09-06T19:10:00Z",
       "inning": null,
       "inningOrdinal": null,
