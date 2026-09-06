@@ -1,6 +1,6 @@
 {
   "league": "MLB",
-  "lastUpdated": "2026-09-06T22:30:43.099582+00:00",
+  "lastUpdated": "2026-09-06T22:43:29.503164+00:00",
   "games": [
     {
       "gamePk": 824469,
@@ -739,16 +739,16 @@
       "homeTeam": "Seattle Mariners",
       "awayScore": 0,
       "homeScore": 2,
-      "status": "In Progress",
+      "status": "Final",
       "gameDate": "2026-09-06T20:10:00Z",
-      "inning": 8,
-      "inningOrdinal": "8th",
-      "inningState": "Bottom",
-      "outs": 2,
-      "battingTeam": "Seattle Mariners",
+      "inning": 9,
+      "inningOrdinal": "9th",
+      "inningState": "Top",
+      "outs": 3,
+      "battingTeam": "Athletics",
       "runners": {
-        "first": true,
-        "second": true,
+        "first": false,
+        "second": false,
         "third": false
       },
       "inningScores": [
@@ -791,6 +791,11 @@
           "inning": 8,
           "awayRuns": 0,
           "homeRuns": 0
+        },
+        {
+          "inning": 9,
+          "awayRuns": 0,
+          "homeRuns": 0
         }
       ]
     },
@@ -800,12 +805,12 @@
       "homeTeam": "San Diego Padres",
       "awayScore": 3,
       "homeScore": 4,
-      "status": "In Progress",
+      "status": "Game Over",
       "gameDate": "2026-09-06T20:10:00Z",
       "inning": 9,
       "inningOrdinal": "9th",
       "inningState": "Top",
-      "outs": 0,
+      "outs": 3,
       "battingTeam": "New York Yankees",
       "runners": {
         "first": false,
@@ -868,19 +873,24 @@
       "homeScore": 0,
       "status": "In Progress",
       "gameDate": "2026-09-06T22:20:00Z",
-      "inning": 1,
-      "inningOrdinal": "1st",
-      "inningState": "Bottom",
-      "outs": 1,
-      "battingTeam": "Chicago White Sox",
+      "inning": 2,
+      "inningOrdinal": "2nd",
+      "inningState": "Middle",
+      "outs": 3,
+      "battingTeam": "Minnesota Twins",
       "runners": {
         "first": false,
-        "second": true,
+        "second": false,
         "third": false
       },
       "inningScores": [
         {
           "inning": 1,
+          "awayRuns": 0,
+          "homeRuns": 0
+        },
+        {
+          "inning": 2,
           "awayRuns": 0,
           "homeRuns": 0
         }
