@@ -1,7 +1,7 @@
 {
   "league": "MLB",
   "timezone": "America/New_York",
-  "lastUpdated": "2026-09-06T21:11:35.610991+00:00",
+  "lastUpdated": "2026-09-06T22:12:21.079164+00:00",
   "games": [
     {
       "gamePk": 823349,
@@ -9968,9 +9968,9 @@
       "date": "2026-09-06",
       "gameDate": "2026-09-06T18:10:00Z",
       "localGameTime": "2026-09-06T14:10:00-04:00",
-      "status": "Game Over",
+      "status": "Final",
       "abstractGameState": "Final",
-      "codedGameState": "O",
+      "codedGameState": "F",
       "awayTeam": {
         "id": 109,
         "name": "Arizona Diamondbacks",
@@ -10016,9 +10016,9 @@
       "date": "2026-09-06",
       "gameDate": "2026-09-06T18:35:00Z",
       "localGameTime": "2026-09-06T14:35:00-04:00",
-      "status": "In Progress",
-      "abstractGameState": "Live",
-      "codedGameState": "I",
+      "status": "Final",
+      "abstractGameState": "Final",
+      "codedGameState": "F",
       "awayTeam": {
         "id": 139,
         "name": "Tampa Bay Rays",
@@ -10030,7 +10030,7 @@
         "abbreviation": "TEX"
       },
       "awayScore": 6,
-      "homeScore": 7,
+      "homeScore": 8,
       "venue": "Globe Life Field",
       "awayPitcher": "Ian Seymour",
       "homePitcher": "MacKenzie Gore"
@@ -10053,8 +10053,8 @@
         "name": "Colorado Rockies",
         "abbreviation": "COL"
       },
-      "awayScore": 7,
-      "homeScore": 5,
+      "awayScore": 10,
+      "homeScore": 6,
       "venue": "Coors Field",
       "awayPitcher": "Kyle Leahy",
       "homePitcher": "Tanner Gordon"
@@ -10078,7 +10078,7 @@
         "abbreviation": "SEA"
       },
       "awayScore": 0,
-      "homeScore": 0,
+      "homeScore": 2,
       "venue": "T-Mobile Park",
       "awayPitcher": "Gage Jump",
       "homePitcher": "Bryan Woo"
@@ -10101,8 +10101,8 @@
         "name": "San Diego Padres",
         "abbreviation": "SD"
       },
-      "awayScore": 0,
-      "homeScore": 3,
+      "awayScore": 1,
+      "homeScore": 4,
       "venue": "Petco Park",
       "awayPitcher": "Gerrit Cole",
       "homePitcher": "Michael King"
@@ -10112,8 +10112,8 @@
       "date": "2026-09-06",
       "gameDate": "2026-09-06T22:20:00Z",
       "localGameTime": "2026-09-06T18:20:00-04:00",
-      "status": "Pre-Game",
-      "abstractGameState": "Preview",
+      "status": "Warmup",
+      "abstractGameState": "Live",
       "codedGameState": "P",
       "awayTeam": {
         "id": 142,
@@ -10136,9 +10136,9 @@
       "date": "2026-09-06",
       "gameDate": "2026-09-07T02:10:00Z",
       "localGameTime": "2026-09-06T22:10:00-04:00",
-      "status": "Scheduled",
+      "status": "Pre-Game",
       "abstractGameState": "Preview",
-      "codedGameState": "S",
+      "codedGameState": "P",
       "awayTeam": {
         "id": 120,
         "name": "Washington Nationals",
@@ -10464,7 +10464,7 @@
       "awayScore": null,
       "homeScore": null,
       "venue": "Comerica Park",
-      "awayPitcher": null,
+      "awayPitcher": "Dean Kremer",
       "homePitcher": "Drew Anderson"
     },
     {
@@ -10800,7 +10800,7 @@
       "awayScore": null,
       "homeScore": null,
       "venue": "Comerica Park",
-      "awayPitcher": null,
+      "awayPitcher": "Zebby Matthews",
       "homePitcher": "Keider Montero"
     },
     {
