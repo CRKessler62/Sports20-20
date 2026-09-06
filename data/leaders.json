@@ -1,6 +1,6 @@
 {
   "season": 2026,
-  "lastUpdated": "2026-09-06T03:23:10.398430+00:00",
+  "lastUpdated": "2026-09-06T04:23:22.136832+00:00",
   "leagues": {
     "AL": {
       "offense": {
@@ -695,7 +695,7 @@
             "player": "Josh Naylor",
             "team": "Seattle Mariners",
             "position": "1B",
-            "value": "927"
+            "value": "928"
           },
           {
             "rank": 4,
@@ -718,7 +718,7 @@
             "player": "Cole Young",
             "team": "Seattle Mariners",
             "position": "2B",
-            "value": "364"
+            "value": "365"
           },
           {
             "rank": 2,
@@ -989,7 +989,7 @@
             "player": "James Wood",
             "team": "Washington Nationals",
             "position": "RF",
-            "value": "100"
+            "value": "101"
           },
           {
             "rank": 3,
@@ -1026,14 +1026,14 @@
             "player": "Jake Bauers",
             "team": "Milwaukee Brewers",
             "position": "1B",
-            "value": ".391"
+            "value": ".392"
           },
           {
             "rank": 3,
             "player": "James Wood",
             "team": "Washington Nationals",
             "position": "RF",
-            "value": ".391"
+            "value": ".392"
           },
           {
             "rank": 4,
@@ -1063,7 +1063,7 @@
             "player": "James Wood",
             "team": "Washington Nationals",
             "position": "RF",
-            "value": ".532"
+            "value": ".533"
           },
           {
             "rank": 3,
@@ -1100,7 +1100,7 @@
             "player": "James Wood",
             "team": "Washington Nationals",
             "position": "RF",
-            "value": ".923"
+            "value": ".925"
           },
           {
             "rank": 3,
@@ -1121,7 +1121,7 @@
             "player": "Jake Bauers",
             "team": "Milwaukee Brewers",
             "position": "1B",
-            "value": ".877"
+            "value": ".878"
           }
         ],
         "stolenBases": [
