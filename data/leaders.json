@@ -1,6 +1,6 @@
 {
   "season": 2026,
-  "lastUpdated": "2026-09-06T22:22:18.462083+00:00",
+  "lastUpdated": "2026-09-06T23:21:53.962617+00:00",
   "leagues": {
     "AL": {
       "offense": {
@@ -78,43 +78,7 @@
             "value": "151"
           }
         ],
-        "homeRuns": [
-          {
-            "rank": 1,
-            "player": "Yordan Alvarez",
-            "team": "Houston Astros",
-            "position": "DH",
-            "value": "38"
-          },
-          {
-            "rank": 2,
-            "player": "Junior Caminero",
-            "team": "Tampa Bay Rays",
-            "position": "3B",
-            "value": "38"
-          },
-          {
-            "rank": 3,
-            "player": "Ben Rice",
-            "team": "New York Yankees",
-            "position": "DH",
-            "value": "36"
-          },
-          {
-            "rank": 4,
-            "player": "Pete Alonso",
-            "team": "Baltimore Orioles",
-            "position": "1B",
-            "value": "33"
-          },
-          {
-            "rank": 5,
-            "player": "Colson Montgomery",
-            "team": "Chicago White Sox",
-            "position": "SS",
-            "value": "31"
-          }
-        ],
+        "homeRuns": [],
         "rbi": [
           {
             "rank": 1,
@@ -246,7 +210,7 @@
             "player": "Ben Rice",
             "team": "New York Yankees",
             "position": "DH",
-            "value": ".525"
+            "value": ".524"
           },
           {
             "rank": 4,
@@ -290,7 +254,7 @@
             "player": "Ben Rice",
             "team": "New York Yankees",
             "position": "DH",
-            "value": ".879"
+            "value": ".878"
           },
           {
             "rank": 5,
@@ -695,7 +659,7 @@
             "player": "Josh Naylor",
             "team": "Seattle Mariners",
             "position": "1B",
-            "value": "935"
+            "value": "937"
           },
           {
             "rank": 4,
@@ -746,7 +710,7 @@
             "player": "Chase Meidroth",
             "team": "Chicago White Sox",
             "position": "2B",
-            "value": "286"
+            "value": "288"
           }
         ],
         "errors": [
@@ -1398,7 +1362,7 @@
             "player": "Mason Miller",
             "team": "San Diego Padres",
             "position": "P",
-            "value": "32"
+            "value": "33"
           },
           {
             "rank": 3,
