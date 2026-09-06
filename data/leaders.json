@@ -1,6 +1,6 @@
 {
   "season": 2026,
-  "lastUpdated": "2026-09-06T21:21:34.288221+00:00",
+  "lastUpdated": "2026-09-06T22:22:18.462083+00:00",
   "leagues": {
     "AL": {
       "offense": {
@@ -17,7 +17,7 @@
             "player": "Chandler Simpson",
             "team": "Tampa Bay Rays",
             "position": "LF",
-            "value": ".309"
+            "value": ".308"
           },
           {
             "rank": 3,
@@ -223,7 +223,7 @@
             "player": "Yandy D\u00edaz",
             "team": "Tampa Bay Rays",
             "position": "DH",
-            "value": ".373"
+            "value": ".372"
           }
         ],
         "slg": [
@@ -239,14 +239,14 @@
             "player": "Junior Caminero",
             "team": "Tampa Bay Rays",
             "position": "3B",
-            "value": ".531"
+            "value": ".530"
           },
           {
             "rank": 3,
             "player": "Ben Rice",
             "team": "New York Yankees",
             "position": "DH",
-            "value": ".526"
+            "value": ".525"
           },
           {
             "rank": 4,
@@ -283,14 +283,14 @@
             "player": "Junior Caminero",
             "team": "Tampa Bay Rays",
             "position": "3B",
-            "value": ".896"
+            "value": ".895"
           },
           {
             "rank": 4,
             "player": "Ben Rice",
             "team": "New York Yankees",
             "position": "DH",
-            "value": ".880"
+            "value": ".879"
           },
           {
             "rank": 5,
@@ -695,7 +695,7 @@
             "player": "Josh Naylor",
             "team": "Seattle Mariners",
             "position": "1B",
-            "value": "932"
+            "value": "935"
           },
           {
             "rank": 4,
@@ -889,16 +889,16 @@
           },
           {
             "rank": 4,
-            "player": "Pete Crow-Armstrong",
-            "team": "Chicago Cubs",
-            "position": "CF",
+            "player": "Alec Burleson",
+            "team": "St. Louis Cardinals",
+            "position": "1B",
             "value": "155"
           },
           {
             "rank": 5,
-            "player": "Freddie Freeman",
-            "team": "Los Angeles Dodgers",
-            "position": "1B",
+            "player": "Pete Crow-Armstrong",
+            "team": "Chicago Cubs",
+            "position": "CF",
             "value": "155"
           }
         ],
@@ -952,7 +952,7 @@
             "player": "Alec Burleson",
             "team": "St. Louis Cardinals",
             "position": "1B",
-            "value": "102"
+            "value": "103"
           },
           {
             "rank": 3,
@@ -1040,7 +1040,7 @@
             "player": "TJ Rumfield",
             "team": "Colorado Rockies",
             "position": "1B",
-            "value": ".388"
+            "value": ".389"
           },
           {
             "rank": 5,
@@ -1456,7 +1456,7 @@
             "player": "Michael King",
             "team": "San Diego Padres",
             "position": "P",
-            "value": "166.1"
+            "value": "168.0"
           }
         ],
         "qualityStarts": []
@@ -1512,7 +1512,7 @@
             "player": "Alec Burleson",
             "team": "St. Louis Cardinals",
             "position": "1B",
-            "value": "1078"
+            "value": "1079"
           },
           {
             "rank": 3,
