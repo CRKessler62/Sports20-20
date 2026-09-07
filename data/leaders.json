@@ -1,6 +1,6 @@
 {
   "season": 2026,
-  "lastUpdated": "2026-09-07T19:21:55.414514+00:00",
+  "lastUpdated": "2026-09-07T20:24:02.302899+00:00",
   "leagues": {
     "AL": {
       "offense": {
@@ -35,10 +35,10 @@
           },
           {
             "rank": 5,
-            "player": "Bobby Witt Jr.",
+            "player": "Jac Caglianone",
             "team": "Kansas City Royals",
-            "position": "SS",
-            "value": ".284"
+            "position": "RF",
+            "value": ".283"
           }
         ],
         "hits": [
@@ -209,7 +209,7 @@
             "player": "Mike Trout",
             "team": "Los Angeles Angels",
             "position": "CF",
-            "value": ".377"
+            "value": ".376"
           },
           {
             "rank": 4,
@@ -220,10 +220,10 @@
           },
           {
             "rank": 5,
-            "player": "Yandy D\u00edaz",
-            "team": "Tampa Bay Rays",
-            "position": "DH",
-            "value": ".372"
+            "player": "Steven Kwan",
+            "team": "Cleveland Guardians",
+            "position": "LF",
+            "value": ".373"
           }
         ],
         "slg": [
@@ -257,10 +257,10 @@
           },
           {
             "rank": 5,
-            "player": "Pete Alonso",
-            "team": "Baltimore Orioles",
-            "position": "1B",
-            "value": ".495"
+            "player": "Jac Caglianone",
+            "team": "Kansas City Royals",
+            "position": "RF",
+            "value": ".494"
           }
         ],
         "ops": [
@@ -297,7 +297,7 @@
             "player": "Pete Alonso",
             "team": "Baltimore Orioles",
             "position": "1B",
-            "value": ".856"
+            "value": ".854"
           }
         ],
         "stolenBases": [
@@ -681,7 +681,7 @@
             "player": "Spencer Torkelson",
             "team": "Detroit Tigers",
             "position": "1B",
-            "value": "1061"
+            "value": "1063"
           },
           {
             "rank": 2,
@@ -702,7 +702,7 @@
             "player": "Pete Alonso",
             "team": "Baltimore Orioles",
             "position": "1B",
-            "value": "933"
+            "value": "936"
           },
           {
             "rank": 5,
@@ -739,7 +739,7 @@
             "player": "Zach Neto",
             "team": "Los Angeles Angels",
             "position": "SS",
-            "value": "295"
+            "value": "297"
           },
           {
             "rank": 5,
@@ -792,7 +792,7 @@
             "player": "Spencer Torkelson",
             "team": "Detroit Tigers",
             "position": "1B",
-            "value": "99"
+            "value": "100"
           },
           {
             "rank": 2,
@@ -810,15 +810,15 @@
           },
           {
             "rank": 4,
-            "player": "Jake Burger",
-            "team": "Texas Rangers",
+            "player": "Pete Alonso",
+            "team": "Baltimore Orioles",
             "position": "1B",
             "value": "82"
           },
           {
             "rank": 5,
-            "player": "Vinnie Pasquantino",
-            "team": "Kansas City Royals",
+            "player": "Jake Burger",
+            "team": "Texas Rangers",
             "position": "1B",
             "value": "82"
           }
@@ -845,16 +845,16 @@
           },
           {
             "rank": 3,
-            "player": "Freddie Freeman",
-            "team": "Los Angeles Dodgers",
-            "position": "1B",
+            "player": "Otto Lopez",
+            "team": "Miami Marlins",
+            "position": "SS",
             "value": ".301"
           },
           {
             "rank": 4,
-            "player": "Otto Lopez",
-            "team": "Miami Marlins",
-            "position": "SS",
+            "player": "Freddie Freeman",
+            "team": "Los Angeles Dodgers",
+            "position": "1B",
             "value": ".301"
           },
           {
@@ -878,28 +878,28 @@
             "player": "Otto Lopez",
             "team": "Miami Marlins",
             "position": "SS",
-            "value": "169"
+            "value": "170"
           },
           {
             "rank": 3,
+            "player": "Pete Crow-Armstrong",
+            "team": "Chicago Cubs",
+            "position": "CF",
+            "value": "156"
+          },
+          {
+            "rank": 4,
             "player": "Freddie Freeman",
             "team": "Los Angeles Dodgers",
             "position": "1B",
             "value": "156"
           },
           {
-            "rank": 4,
+            "rank": 5,
             "player": "Jordan Walker",
             "team": "St. Louis Cardinals",
             "position": "RF",
             "value": "156"
-          },
-          {
-            "rank": 5,
-            "player": "Alec Burleson",
-            "team": "St. Louis Cardinals",
-            "position": "1B",
-            "value": "155"
           }
         ],
         "homeRuns": [
@@ -982,7 +982,7 @@
             "player": "Pete Crow-Armstrong",
             "team": "Chicago Cubs",
             "position": "CF",
-            "value": "106"
+            "value": "107"
           },
           {
             "rank": 2,
@@ -1056,7 +1056,7 @@
             "player": "Pete Crow-Armstrong",
             "team": "Chicago Cubs",
             "position": "CF",
-            "value": ".570"
+            "value": ".571"
           },
           {
             "rank": 2,
@@ -1093,7 +1093,7 @@
             "player": "Pete Crow-Armstrong",
             "team": "Chicago Cubs",
             "position": "CF",
-            "value": ".944"
+            "value": ".946"
           },
           {
             "rank": 2,
@@ -1519,7 +1519,7 @@
             "player": "William Contreras",
             "team": "Milwaukee Brewers",
             "position": "C",
-            "value": "1068"
+            "value": "1069"
           },
           {
             "rank": 4,
@@ -1563,7 +1563,7 @@
             "player": "Geraldo Perdomo",
             "team": "Arizona Diamondbacks",
             "position": "SS",
-            "value": "331"
+            "value": "332"
           },
           {
             "rank": 5,
