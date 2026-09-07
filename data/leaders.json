@@ -1,6 +1,6 @@
 {
   "season": 2026,
-  "lastUpdated": "2026-09-07T22:22:54.576548+00:00",
+  "lastUpdated": "2026-09-07T23:22:18.726932+00:00",
   "leagues": {
     "AL": {
       "offense": {
@@ -1026,7 +1026,7 @@
             "player": "James Wood",
             "team": "Washington Nationals",
             "position": "RF",
-            "value": ".396"
+            "value": ".394"
           },
           {
             "rank": 3,
@@ -1063,7 +1063,7 @@
             "player": "James Wood",
             "team": "Washington Nationals",
             "position": "RF",
-            "value": ".535"
+            "value": ".533"
           },
           {
             "rank": 3,
@@ -1100,7 +1100,7 @@
             "player": "James Wood",
             "team": "Washington Nationals",
             "position": "RF",
-            "value": ".931"
+            "value": ".927"
           },
           {
             "rank": 3,
