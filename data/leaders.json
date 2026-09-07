@@ -1,6 +1,6 @@
 {
   "season": 2026,
-  "lastUpdated": "2026-09-07T02:24:44.458534+00:00",
+  "lastUpdated": "2026-09-07T03:25:05.085743+00:00",
   "leagues": {
     "AL": {
       "offense": {
@@ -855,7 +855,7 @@
             "player": "Freddie Freeman",
             "team": "Los Angeles Dodgers",
             "position": "1B",
-            "value": ".302"
+            "value": ".300"
           },
           {
             "rank": 5,
@@ -973,7 +973,7 @@
             "player": "CJ Abrams",
             "team": "Washington Nationals",
             "position": "SS",
-            "value": "94"
+            "value": "95"
           }
         ],
         "runs": [
@@ -1063,7 +1063,7 @@
             "player": "James Wood",
             "team": "Washington Nationals",
             "position": "RF",
-            "value": ".534"
+            "value": ".533"
           },
           {
             "rank": 3,
@@ -1100,7 +1100,7 @@
             "player": "James Wood",
             "team": "Washington Nationals",
             "position": "RF",
-            "value": ".927"
+            "value": ".926"
           },
           {
             "rank": 3,
