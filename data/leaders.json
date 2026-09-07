@@ -1,6 +1,6 @@
 {
   "season": 2026,
-  "lastUpdated": "2026-09-07T00:35:56.047543+00:00",
+  "lastUpdated": "2026-09-07T01:22:44.144607+00:00",
   "leagues": {
     "AL": {
       "offense": {
@@ -368,9 +368,9 @@
           },
           {
             "rank": 5,
-            "player": "Miguel Vargas",
+            "player": "Tristan Peters",
             "team": "Chicago White Sox",
-            "position": "3B",
+            "position": "CF",
             "value": "30"
           }
         ],
