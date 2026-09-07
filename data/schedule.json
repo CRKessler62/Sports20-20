@@ -1,7 +1,7 @@
 {
   "league": "MLB",
   "timezone": "America/New_York",
-  "lastUpdated": "2026-09-07T03:13:37.137832+00:00",
+  "lastUpdated": "2026-09-07T04:13:10.136854+00:00",
   "games": [
     {
       "gamePk": 823514,
@@ -9789,8 +9789,8 @@
         "name": "Los Angeles Dodgers",
         "abbreviation": "LAD"
       },
-      "awayScore": 4,
-      "homeScore": 1,
+      "awayScore": 5,
+      "homeScore": 4,
       "venue": "UNIQLO Field at Dodger Stadium",
       "awayPitcher": "Andrew Alvarez",
       "homePitcher": "Justin Wrobleski"
