@@ -1,6 +1,6 @@
 {
   "league": "MLB",
-  "lastUpdated": "2026-09-07T23:16:19.360485+00:00",
+  "lastUpdated": "2026-09-07T23:30:33.404940+00:00",
   "games": [
     {
       "gamePk": 823415,
@@ -479,8 +479,8 @@
       "gameDate": "2026-09-07T21:10:00Z",
       "inning": 8,
       "inningOrdinal": "8th",
-      "inningState": "Top",
-      "outs": 0,
+      "inningState": "End",
+      "outs": 3,
       "battingTeam": "Washington Nationals",
       "runners": {
         "first": false,
@@ -590,17 +590,23 @@
       "homeScore": 0,
       "status": "Pre-Game",
       "gameDate": "2026-09-08T02:05:00Z",
-      "inning": null,
-      "inningOrdinal": null,
-      "inningState": null,
-      "outs": null,
-      "battingTeam": null,
+      "inning": 1,
+      "inningOrdinal": "1st",
+      "inningState": "Top",
+      "outs": 0,
+      "battingTeam": "Toronto Blue Jays",
       "runners": {
         "first": false,
         "second": false,
         "third": false
       },
-      "inningScores": []
+      "inningScores": [
+        {
+          "inning": 1,
+          "awayRuns": 0,
+          "homeRuns": 0
+        }
+      ]
     }
   ]
 }
