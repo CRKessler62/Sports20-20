@@ -1,929 +1,215 @@
 {
   "league": "MLB",
-  "lastUpdated": "2026-09-06T23:55:44.674258+00:00",
+  "lastUpdated": "2026-09-07T00:28:03.739104+00:00",
   "games": [
     {
-      "gamePk": 824469,
-      "awayTeam": "Milwaukee Brewers",
-      "homeTeam": "Cincinnati Reds",
-      "awayScore": 8,
-      "homeScore": 12,
-      "status": "Final",
-      "gameDate": "2026-09-06T16:10:00Z",
-      "inning": 9,
-      "inningOrdinal": "9th",
-      "inningState": "Top",
-      "outs": 3,
-      "battingTeam": "Milwaukee Brewers",
-      "runners": {
-        "first": false,
-        "second": false,
-        "third": false
-      },
-      "inningScores": [
-        {
-          "inning": 1,
-          "awayRuns": 0,
-          "homeRuns": 1
-        },
-        {
-          "inning": 2,
-          "awayRuns": 0,
-          "homeRuns": 2
-        },
-        {
-          "inning": 3,
-          "awayRuns": 0,
-          "homeRuns": 1
-        },
-        {
-          "inning": 4,
-          "awayRuns": 3,
-          "homeRuns": 2
-        },
-        {
-          "inning": 5,
-          "awayRuns": 3,
-          "homeRuns": 3
-        },
-        {
-          "inning": 6,
-          "awayRuns": 0,
-          "homeRuns": 0
-        },
-        {
-          "inning": 7,
-          "awayRuns": 0,
-          "homeRuns": 0
-        },
-        {
-          "inning": 8,
-          "awayRuns": 1,
-          "homeRuns": 3
-        },
-        {
-          "inning": 9,
-          "awayRuns": 1,
-          "homeRuns": 0
-        }
-      ]
-    },
-    {
-      "gamePk": 823417,
+      "gamePk": 823415,
       "awayTeam": "Atlanta Braves",
       "homeTeam": "Philadelphia Phillies",
-      "awayScore": 5,
-      "homeScore": 4,
-      "status": "Final",
-      "gameDate": "2026-09-06T17:10:00Z",
-      "inning": 9,
-      "inningOrdinal": "9th",
-      "inningState": "Bottom",
-      "outs": 3,
-      "battingTeam": "Philadelphia Phillies",
-      "runners": {
-        "first": false,
-        "second": false,
-        "third": false
-      },
-      "inningScores": [
-        {
-          "inning": 1,
-          "awayRuns": 0,
-          "homeRuns": 2
-        },
-        {
-          "inning": 2,
-          "awayRuns": 0,
-          "homeRuns": 0
-        },
-        {
-          "inning": 3,
-          "awayRuns": 0,
-          "homeRuns": 0
-        },
-        {
-          "inning": 4,
-          "awayRuns": 0,
-          "homeRuns": 0
-        },
-        {
-          "inning": 5,
-          "awayRuns": 0,
-          "homeRuns": 0
-        },
-        {
-          "inning": 6,
-          "awayRuns": 1,
-          "homeRuns": 0
-        },
-        {
-          "inning": 7,
-          "awayRuns": 0,
-          "homeRuns": 2
-        },
-        {
-          "inning": 8,
-          "awayRuns": 3,
-          "homeRuns": 0
-        },
-        {
-          "inning": 9,
-          "awayRuns": 1,
-          "homeRuns": 0
-        }
-      ]
-    },
-    {
-      "gamePk": 824794,
-      "awayTeam": "Boston Red Sox",
-      "homeTeam": "Baltimore Orioles",
-      "awayScore": 3,
-      "homeScore": 1,
-      "status": "Final",
-      "gameDate": "2026-09-06T17:35:00Z",
-      "inning": 9,
-      "inningOrdinal": "9th",
-      "inningState": "Bottom",
-      "outs": 3,
-      "battingTeam": "Baltimore Orioles",
-      "runners": {
-        "first": false,
-        "second": false,
-        "third": false
-      },
-      "inningScores": [
-        {
-          "inning": 1,
-          "awayRuns": 0,
-          "homeRuns": 1
-        },
-        {
-          "inning": 2,
-          "awayRuns": 3,
-          "homeRuns": 0
-        },
-        {
-          "inning": 3,
-          "awayRuns": 0,
-          "homeRuns": 0
-        },
-        {
-          "inning": 4,
-          "awayRuns": 0,
-          "homeRuns": 0
-        },
-        {
-          "inning": 5,
-          "awayRuns": 0,
-          "homeRuns": 0
-        },
-        {
-          "inning": 6,
-          "awayRuns": 0,
-          "homeRuns": 0
-        },
-        {
-          "inning": 7,
-          "awayRuns": 0,
-          "homeRuns": 0
-        },
-        {
-          "inning": 8,
-          "awayRuns": 0,
-          "homeRuns": 0
-        },
-        {
-          "inning": 9,
-          "awayRuns": 0,
-          "homeRuns": 0
-        }
-      ]
-    },
-    {
-      "gamePk": 823336,
-      "awayTeam": "Los Angeles Angels",
-      "homeTeam": "Pittsburgh Pirates",
       "awayScore": 0,
-      "homeScore": 1,
-      "status": "Final",
-      "gameDate": "2026-09-06T17:35:00Z",
-      "inning": 9,
-      "inningOrdinal": "9th",
-      "inningState": "Top",
-      "outs": 3,
-      "battingTeam": "Los Angeles Angels",
+      "homeScore": 0,
+      "status": "Scheduled",
+      "gameDate": "2026-09-07T17:05:00Z",
+      "inning": null,
+      "inningOrdinal": null,
+      "inningState": null,
+      "outs": null,
+      "battingTeam": null,
       "runners": {
         "first": false,
         "second": false,
         "third": false
       },
-      "inningScores": [
-        {
-          "inning": 1,
-          "awayRuns": 0,
-          "homeRuns": 0
-        },
-        {
-          "inning": 2,
-          "awayRuns": 0,
-          "homeRuns": 0
-        },
-        {
-          "inning": 3,
-          "awayRuns": 0,
-          "homeRuns": 1
-        },
-        {
-          "inning": 4,
-          "awayRuns": 0,
-          "homeRuns": 0
-        },
-        {
-          "inning": 5,
-          "awayRuns": 0,
-          "homeRuns": 0
-        },
-        {
-          "inning": 6,
-          "awayRuns": 0,
-          "homeRuns": 0
-        },
-        {
-          "inning": 7,
-          "awayRuns": 0,
-          "homeRuns": 0
-        },
-        {
-          "inning": 8,
-          "awayRuns": 0,
-          "homeRuns": 0
-        },
-        {
-          "inning": 9,
-          "awayRuns": 0,
-          "homeRuns": 0
-        }
-      ]
+      "inningScores": []
     },
     {
-      "gamePk": 824385,
-      "awayTeam": "Detroit Tigers",
-      "homeTeam": "Cleveland Guardians",
-      "awayScore": 2,
-      "homeScore": 3,
-      "status": "Final",
-      "gameDate": "2026-09-06T17:40:00Z",
-      "inning": 10,
-      "inningOrdinal": "10th",
-      "inningState": "Bottom",
-      "outs": 0,
-      "battingTeam": "Cleveland Guardians",
-      "runners": {
-        "first": true,
-        "second": true,
-        "third": false
-      },
-      "inningScores": [
-        {
-          "inning": 1,
-          "awayRuns": 2,
-          "homeRuns": 1
-        },
-        {
-          "inning": 2,
-          "awayRuns": 0,
-          "homeRuns": 0
-        },
-        {
-          "inning": 3,
-          "awayRuns": 0,
-          "homeRuns": 0
-        },
-        {
-          "inning": 4,
-          "awayRuns": 0,
-          "homeRuns": 0
-        },
-        {
-          "inning": 5,
-          "awayRuns": 0,
-          "homeRuns": 1
-        },
-        {
-          "inning": 6,
-          "awayRuns": 0,
-          "homeRuns": 0
-        },
-        {
-          "inning": 7,
-          "awayRuns": 0,
-          "homeRuns": 0
-        },
-        {
-          "inning": 8,
-          "awayRuns": 0,
-          "homeRuns": 0
-        },
-        {
-          "inning": 9,
-          "awayRuns": 0,
-          "homeRuns": 0
-        },
-        {
-          "inning": 10,
-          "awayRuns": 0,
-          "homeRuns": 1
-        }
-      ]
-    },
-    {
-      "gamePk": 823578,
-      "awayTeam": "San Francisco Giants",
-      "homeTeam": "New York Mets",
-      "awayScore": 2,
-      "homeScore": 4,
-      "status": "Final",
-      "gameDate": "2026-09-06T17:40:00Z",
-      "inning": 9,
-      "inningOrdinal": "9th",
-      "inningState": "Top",
-      "outs": 3,
-      "battingTeam": "San Francisco Giants",
-      "runners": {
-        "first": false,
-        "second": false,
-        "third": false
-      },
-      "inningScores": [
-        {
-          "inning": 1,
-          "awayRuns": 0,
-          "homeRuns": 0
-        },
-        {
-          "inning": 2,
-          "awayRuns": 0,
-          "homeRuns": 0
-        },
-        {
-          "inning": 3,
-          "awayRuns": 0,
-          "homeRuns": 0
-        },
-        {
-          "inning": 4,
-          "awayRuns": 2,
-          "homeRuns": 0
-        },
-        {
-          "inning": 5,
-          "awayRuns": 0,
-          "homeRuns": 0
-        },
-        {
-          "inning": 6,
-          "awayRuns": 0,
-          "homeRuns": 0
-        },
-        {
-          "inning": 7,
-          "awayRuns": 0,
-          "homeRuns": 0
-        },
-        {
-          "inning": 8,
-          "awayRuns": 0,
-          "homeRuns": 4
-        },
-        {
-          "inning": 9,
-          "awayRuns": 0,
-          "homeRuns": 0
-        }
-      ]
-    },
-    {
-      "gamePk": 823822,
-      "awayTeam": "Chicago Cubs",
+      "gamePk": 823820,
+      "awayTeam": "New York Mets",
       "homeTeam": "Miami Marlins",
-      "awayScore": 3,
-      "homeScore": 10,
-      "status": "Final",
-      "gameDate": "2026-09-06T17:40:00Z",
-      "inning": 9,
-      "inningOrdinal": "9th",
-      "inningState": "Top",
-      "outs": 3,
-      "battingTeam": "Chicago Cubs",
+      "awayScore": 0,
+      "homeScore": 0,
+      "status": "Scheduled",
+      "gameDate": "2026-09-07T17:10:00Z",
+      "inning": null,
+      "inningOrdinal": null,
+      "inningState": null,
+      "outs": null,
+      "battingTeam": null,
       "runners": {
         "first": false,
         "second": false,
         "third": false
       },
-      "inningScores": [
-        {
-          "inning": 1,
-          "awayRuns": 0,
-          "homeRuns": 0
-        },
-        {
-          "inning": 2,
-          "awayRuns": 0,
-          "homeRuns": 2
-        },
-        {
-          "inning": 3,
-          "awayRuns": 1,
-          "homeRuns": 0
-        },
-        {
-          "inning": 4,
-          "awayRuns": 1,
-          "homeRuns": 1
-        },
-        {
-          "inning": 5,
-          "awayRuns": 1,
-          "homeRuns": 5
-        },
-        {
-          "inning": 6,
-          "awayRuns": 0,
-          "homeRuns": 0
-        },
-        {
-          "inning": 7,
-          "awayRuns": 0,
-          "homeRuns": 2
-        },
-        {
-          "inning": 8,
-          "awayRuns": 0,
-          "homeRuns": 0
-        },
-        {
-          "inning": 9,
-          "awayRuns": 0,
-          "homeRuns": 0
-        }
-      ]
+      "inningScores": []
     },
     {
-      "gamePk": 824142,
+      "gamePk": 824715,
+      "awayTeam": "Los Angeles Angels",
+      "homeTeam": "Boston Red Sox",
+      "awayScore": 0,
+      "homeScore": 0,
+      "status": "Scheduled",
+      "gameDate": "2026-09-07T17:35:00Z",
+      "inning": null,
+      "inningOrdinal": null,
+      "inningState": null,
+      "outs": null,
+      "battingTeam": null,
+      "runners": {
+        "first": false,
+        "second": false,
+        "third": false
+      },
+      "inningScores": []
+    },
+    {
+      "gamePk": 824793,
+      "awayTeam": "Cleveland Guardians",
+      "homeTeam": "Baltimore Orioles",
+      "awayScore": 0,
+      "homeScore": 0,
+      "status": "Scheduled",
+      "gameDate": "2026-09-07T17:35:00Z",
+      "inning": null,
+      "inningOrdinal": null,
+      "inningState": null,
+      "outs": null,
+      "battingTeam": null,
+      "runners": {
+        "first": false,
+        "second": false,
+        "third": false
+      },
+      "inningScores": []
+    },
+    {
+      "gamePk": 824062,
       "awayTeam": "Arizona Diamondbacks",
-      "homeTeam": "Houston Astros",
-      "awayScore": 3,
-      "homeScore": 2,
-      "status": "Final",
-      "gameDate": "2026-09-06T18:10:00Z",
-      "inning": 9,
-      "inningOrdinal": "9th",
-      "inningState": "Bottom",
-      "outs": 3,
-      "battingTeam": "Houston Astros",
-      "runners": {
-        "first": false,
-        "second": false,
-        "third": false
-      },
-      "inningScores": [
-        {
-          "inning": 1,
-          "awayRuns": 0,
-          "homeRuns": 1
-        },
-        {
-          "inning": 2,
-          "awayRuns": 1,
-          "homeRuns": 0
-        },
-        {
-          "inning": 3,
-          "awayRuns": 2,
-          "homeRuns": 0
-        },
-        {
-          "inning": 4,
-          "awayRuns": 0,
-          "homeRuns": 0
-        },
-        {
-          "inning": 5,
-          "awayRuns": 0,
-          "homeRuns": 0
-        },
-        {
-          "inning": 6,
-          "awayRuns": 0,
-          "homeRuns": 0
-        },
-        {
-          "inning": 7,
-          "awayRuns": 0,
-          "homeRuns": 0
-        },
-        {
-          "inning": 8,
-          "awayRuns": 0,
-          "homeRuns": 1
-        },
-        {
-          "inning": 9,
-          "awayRuns": 0,
-          "homeRuns": 0
-        }
-      ]
-    },
-    {
-      "gamePk": 824065,
-      "awayTeam": "Toronto Blue Jays",
       "homeTeam": "Kansas City Royals",
-      "awayScore": 1,
-      "homeScore": 6,
-      "status": "Final",
-      "gameDate": "2026-09-06T18:10:00Z",
-      "inning": 9,
-      "inningOrdinal": "9th",
-      "inningState": "Top",
-      "outs": 3,
-      "battingTeam": "Toronto Blue Jays",
-      "runners": {
-        "first": false,
-        "second": false,
-        "third": false
-      },
-      "inningScores": [
-        {
-          "inning": 1,
-          "awayRuns": 0,
-          "homeRuns": 3
-        },
-        {
-          "inning": 2,
-          "awayRuns": 0,
-          "homeRuns": 0
-        },
-        {
-          "inning": 3,
-          "awayRuns": 0,
-          "homeRuns": 2
-        },
-        {
-          "inning": 4,
-          "awayRuns": 0,
-          "homeRuns": 0
-        },
-        {
-          "inning": 5,
-          "awayRuns": 0,
-          "homeRuns": 1
-        },
-        {
-          "inning": 6,
-          "awayRuns": 1,
-          "homeRuns": 0
-        },
-        {
-          "inning": 7,
-          "awayRuns": 0,
-          "homeRuns": 0
-        },
-        {
-          "inning": 8,
-          "awayRuns": 0,
-          "homeRuns": 0
-        },
-        {
-          "inning": 9,
-          "awayRuns": 0,
-          "homeRuns": 0
-        }
-      ]
-    },
-    {
-      "gamePk": 822848,
-      "awayTeam": "Tampa Bay Rays",
-      "homeTeam": "Texas Rangers",
-      "awayScore": 6,
-      "homeScore": 8,
-      "status": "Final",
-      "gameDate": "2026-09-06T18:35:00Z",
-      "inning": 9,
-      "inningOrdinal": "9th",
-      "inningState": "Top",
-      "outs": 3,
-      "battingTeam": "Tampa Bay Rays",
-      "runners": {
-        "first": false,
-        "second": false,
-        "third": false
-      },
-      "inningScores": [
-        {
-          "inning": 1,
-          "awayRuns": 0,
-          "homeRuns": 0
-        },
-        {
-          "inning": 2,
-          "awayRuns": 4,
-          "homeRuns": 1
-        },
-        {
-          "inning": 3,
-          "awayRuns": 0,
-          "homeRuns": 0
-        },
-        {
-          "inning": 4,
-          "awayRuns": 1,
-          "homeRuns": 4
-        },
-        {
-          "inning": 5,
-          "awayRuns": 0,
-          "homeRuns": 2
-        },
-        {
-          "inning": 6,
-          "awayRuns": 0,
-          "homeRuns": 0
-        },
-        {
-          "inning": 7,
-          "awayRuns": 1,
-          "homeRuns": 0
-        },
-        {
-          "inning": 8,
-          "awayRuns": 0,
-          "homeRuns": 1
-        },
-        {
-          "inning": 9,
-          "awayRuns": 0,
-          "homeRuns": 0
-        }
-      ]
-    },
-    {
-      "gamePk": 824309,
-      "awayTeam": "St. Louis Cardinals",
-      "homeTeam": "Colorado Rockies",
-      "awayScore": 10,
-      "homeScore": 8,
-      "status": "Final",
-      "gameDate": "2026-09-06T19:10:00Z",
-      "inning": 9,
-      "inningOrdinal": "9th",
-      "inningState": "Bottom",
-      "outs": 3,
-      "battingTeam": "Colorado Rockies",
-      "runners": {
-        "first": false,
-        "second": false,
-        "third": false
-      },
-      "inningScores": [
-        {
-          "inning": 1,
-          "awayRuns": 0,
-          "homeRuns": 2
-        },
-        {
-          "inning": 2,
-          "awayRuns": 1,
-          "homeRuns": 0
-        },
-        {
-          "inning": 3,
-          "awayRuns": 0,
-          "homeRuns": 3
-        },
-        {
-          "inning": 4,
-          "awayRuns": 0,
-          "homeRuns": 0
-        },
-        {
-          "inning": 5,
-          "awayRuns": 6,
-          "homeRuns": 0
-        },
-        {
-          "inning": 6,
-          "awayRuns": 0,
-          "homeRuns": 0
-        },
-        {
-          "inning": 7,
-          "awayRuns": 0,
-          "homeRuns": 0
-        },
-        {
-          "inning": 8,
-          "awayRuns": 3,
-          "homeRuns": 1
-        },
-        {
-          "inning": 9,
-          "awayRuns": 0,
-          "homeRuns": 2
-        }
-      ]
-    },
-    {
-      "gamePk": 823091,
-      "awayTeam": "Athletics",
-      "homeTeam": "Seattle Mariners",
       "awayScore": 0,
-      "homeScore": 2,
-      "status": "Final",
-      "gameDate": "2026-09-06T20:10:00Z",
-      "inning": 9,
-      "inningOrdinal": "9th",
-      "inningState": "Top",
-      "outs": 3,
-      "battingTeam": "Athletics",
+      "homeScore": 0,
+      "status": "Scheduled",
+      "gameDate": "2026-09-07T18:10:00Z",
+      "inning": null,
+      "inningOrdinal": null,
+      "inningState": null,
+      "outs": null,
+      "battingTeam": null,
       "runners": {
         "first": false,
         "second": false,
         "third": false
       },
-      "inningScores": [
-        {
-          "inning": 1,
-          "awayRuns": 0,
-          "homeRuns": 0
-        },
-        {
-          "inning": 2,
-          "awayRuns": 0,
-          "homeRuns": 0
-        },
-        {
-          "inning": 3,
-          "awayRuns": 0,
-          "homeRuns": 0
-        },
-        {
-          "inning": 4,
-          "awayRuns": 0,
-          "homeRuns": 2
-        },
-        {
-          "inning": 5,
-          "awayRuns": 0,
-          "homeRuns": 0
-        },
-        {
-          "inning": 6,
-          "awayRuns": 0,
-          "homeRuns": 0
-        },
-        {
-          "inning": 7,
-          "awayRuns": 0,
-          "homeRuns": 0
-        },
-        {
-          "inning": 8,
-          "awayRuns": 0,
-          "homeRuns": 0
-        },
-        {
-          "inning": 9,
-          "awayRuns": 0,
-          "homeRuns": 0
-        }
-      ]
+      "inningScores": []
     },
     {
-      "gamePk": 823253,
-      "awayTeam": "New York Yankees",
-      "homeTeam": "San Diego Padres",
-      "awayScore": 3,
-      "homeScore": 4,
-      "status": "Final",
-      "gameDate": "2026-09-06T20:10:00Z",
-      "inning": 9,
-      "inningOrdinal": "9th",
-      "inningState": "Top",
-      "outs": 3,
-      "battingTeam": "New York Yankees",
+      "gamePk": 823742,
+      "awayTeam": "Chicago Cubs",
+      "homeTeam": "Milwaukee Brewers",
+      "awayScore": 0,
+      "homeScore": 0,
+      "status": "Scheduled",
+      "gameDate": "2026-09-07T18:10:00Z",
+      "inning": null,
+      "inningOrdinal": null,
+      "inningState": null,
+      "outs": null,
+      "battingTeam": null,
       "runners": {
         "first": false,
         "second": false,
         "third": false
       },
-      "inningScores": [
-        {
-          "inning": 1,
-          "awayRuns": 0,
-          "homeRuns": 3
-        },
-        {
-          "inning": 2,
-          "awayRuns": 0,
-          "homeRuns": 0
-        },
-        {
-          "inning": 3,
-          "awayRuns": 0,
-          "homeRuns": 0
-        },
-        {
-          "inning": 4,
-          "awayRuns": 0,
-          "homeRuns": 0
-        },
-        {
-          "inning": 5,
-          "awayRuns": 0,
-          "homeRuns": 0
-        },
-        {
-          "inning": 6,
-          "awayRuns": 0,
-          "homeRuns": 0
-        },
-        {
-          "inning": 7,
-          "awayRuns": 0,
-          "homeRuns": 1
-        },
-        {
-          "inning": 8,
-          "awayRuns": 3,
-          "homeRuns": 0
-        },
-        {
-          "inning": 9,
-          "awayRuns": 0,
-          "homeRuns": 0
-        }
-      ]
+      "inningScores": []
     },
     {
-      "gamePk": 824552,
+      "gamePk": 824229,
       "awayTeam": "Minnesota Twins",
-      "homeTeam": "Chicago White Sox",
+      "homeTeam": "Detroit Tigers",
       "awayScore": 0,
-      "homeScore": 1,
-      "status": "In Progress",
-      "gameDate": "2026-09-06T22:20:00Z",
-      "inning": 6,
-      "inningOrdinal": "6th",
-      "inningState": "Top",
-      "outs": 1,
-      "battingTeam": "Minnesota Twins",
+      "homeScore": 0,
+      "status": "Scheduled",
+      "gameDate": "2026-09-07T19:10:00Z",
+      "inning": null,
+      "inningOrdinal": null,
+      "inningState": null,
+      "outs": null,
+      "battingTeam": null,
       "runners": {
         "first": false,
         "second": false,
         "third": false
       },
-      "inningScores": [
-        {
-          "inning": 1,
-          "awayRuns": 0,
-          "homeRuns": 0
-        },
-        {
-          "inning": 2,
-          "awayRuns": 0,
-          "homeRuns": 0
-        },
-        {
-          "inning": 3,
-          "awayRuns": 0,
-          "homeRuns": 0
-        },
-        {
-          "inning": 4,
-          "awayRuns": 0,
-          "homeRuns": 0
-        },
-        {
-          "inning": 5,
-          "awayRuns": 0,
-          "homeRuns": 1
-        },
-        {
-          "inning": 6,
-          "awayRuns": 0,
-          "homeRuns": 0
-        }
-      ]
+      "inningScores": []
     },
     {
-      "gamePk": 823903,
+      "gamePk": 823254,
       "awayTeam": "Washington Nationals",
+      "homeTeam": "San Diego Padres",
+      "awayScore": 0,
+      "homeScore": 0,
+      "status": "Scheduled",
+      "gameDate": "2026-09-07T21:10:00Z",
+      "inning": null,
+      "inningOrdinal": null,
+      "inningState": null,
+      "outs": null,
+      "battingTeam": null,
+      "runners": {
+        "first": false,
+        "second": false,
+        "third": false
+      },
+      "inningScores": []
+    },
+    {
+      "gamePk": 823175,
+      "awayTeam": "St. Louis Cardinals",
+      "homeTeam": "San Francisco Giants",
+      "awayScore": 0,
+      "homeScore": 0,
+      "status": "Scheduled",
+      "gameDate": "2026-09-08T00:10:00Z",
+      "inning": null,
+      "inningOrdinal": null,
+      "inningState": null,
+      "outs": null,
+      "battingTeam": null,
+      "runners": {
+        "first": false,
+        "second": false,
+        "third": false
+      },
+      "inningScores": []
+    },
+    {
+      "gamePk": 823902,
+      "awayTeam": "Cincinnati Reds",
       "homeTeam": "Los Angeles Dodgers",
       "awayScore": 0,
       "homeScore": 0,
-      "status": "Pre-Game",
-      "gameDate": "2026-09-07T02:10:00Z",
+      "status": "Scheduled",
+      "gameDate": "2026-09-08T01:10:00Z",
+      "inning": null,
+      "inningOrdinal": null,
+      "inningState": null,
+      "outs": null,
+      "battingTeam": null,
+      "runners": {
+        "first": false,
+        "second": false,
+        "third": false
+      },
+      "inningScores": []
+    },
+    {
+      "gamePk": 824958,
+      "awayTeam": "Toronto Blue Jays",
+      "homeTeam": "Athletics",
+      "awayScore": 0,
+      "homeScore": 0,
+      "status": "Scheduled",
+      "gameDate": "2026-09-08T02:05:00Z",
       "inning": null,
       "inningOrdinal": null,
       "inningState": null,
