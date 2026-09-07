@@ -1,6 +1,6 @@
 {
   "league": "MLB",
-  "lastUpdated": "2026-09-07T20:50:26.975495+00:00",
+  "lastUpdated": "2026-09-07T21:05:42.349151+00:00",
   "games": [
     {
       "gamePk": 823415,
@@ -270,19 +270,19 @@
       "gamePk": 824062,
       "awayTeam": "Arizona Diamondbacks",
       "homeTeam": "Kansas City Royals",
-      "awayScore": 4,
-      "homeScore": 0,
+      "awayScore": 5,
+      "homeScore": 4,
       "status": "In Progress",
       "gameDate": "2026-09-07T18:10:00Z",
       "inning": 10,
       "inningOrdinal": "10th",
-      "inningState": "Top",
-      "outs": 2,
-      "battingTeam": "Arizona Diamondbacks",
+      "inningState": "Bottom",
+      "outs": 1,
+      "battingTeam": "Kansas City Royals",
       "runners": {
-        "first": true,
-        "second": false,
-        "third": true
+        "first": false,
+        "second": true,
+        "third": false
       },
       "inningScores": [
         {
@@ -332,8 +332,8 @@
         },
         {
           "inning": 10,
-          "awayRuns": 4,
-          "homeRuns": 0
+          "awayRuns": 5,
+          "homeRuns": 4
         }
       ]
     },
@@ -343,7 +343,7 @@
       "homeTeam": "Milwaukee Brewers",
       "awayScore": 3,
       "homeScore": 4,
-      "status": "Game Over",
+      "status": "Final",
       "gameDate": "2026-09-07T18:10:00Z",
       "inning": 9,
       "inningOrdinal": "9th",
@@ -411,14 +411,14 @@
       "homeScore": 5,
       "status": "In Progress",
       "gameDate": "2026-09-07T19:10:00Z",
-      "inning": 6,
-      "inningOrdinal": "6th",
+      "inning": 7,
+      "inningOrdinal": "7th",
       "inningState": "Top",
-      "outs": 2,
+      "outs": 0,
       "battingTeam": "Minnesota Twins",
       "runners": {
-        "first": true,
-        "second": true,
+        "first": false,
+        "second": false,
         "third": false
       },
       "inningScores": [
@@ -450,6 +450,11 @@
         {
           "inning": 6,
           "awayRuns": 2,
+          "homeRuns": 0
+        },
+        {
+          "inning": 7,
+          "awayRuns": 0,
           "homeRuns": 0
         }
       ]
@@ -488,17 +493,23 @@
       "homeScore": 0,
       "status": "Pre-Game",
       "gameDate": "2026-09-08T00:10:00Z",
-      "inning": null,
-      "inningOrdinal": null,
-      "inningState": null,
-      "outs": null,
-      "battingTeam": null,
+      "inning": 1,
+      "inningOrdinal": "1st",
+      "inningState": "Top",
+      "outs": 0,
+      "battingTeam": "St. Louis Cardinals",
       "runners": {
         "first": false,
         "second": false,
         "third": false
       },
-      "inningScores": []
+      "inningScores": [
+        {
+          "inning": 1,
+          "awayRuns": 0,
+          "homeRuns": 0
+        }
+      ]
     },
     {
       "gamePk": 823902,
@@ -506,7 +517,7 @@
       "homeTeam": "Los Angeles Dodgers",
       "awayScore": 0,
       "homeScore": 0,
-      "status": "Scheduled",
+      "status": "Pre-Game",
       "gameDate": "2026-09-08T01:10:00Z",
       "inning": null,
       "inningOrdinal": null,
