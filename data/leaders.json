@@ -1,6 +1,6 @@
 {
   "season": 2026,
-  "lastUpdated": "2026-09-07T03:25:05.085743+00:00",
+  "lastUpdated": "2026-09-07T04:24:50.634525+00:00",
   "leagues": {
     "AL": {
       "offense": {
@@ -855,7 +855,7 @@
             "player": "Freddie Freeman",
             "team": "Los Angeles Dodgers",
             "position": "1B",
-            "value": ".300"
+            "value": ".302"
           },
           {
             "rank": 5,
@@ -882,23 +882,23 @@
           },
           {
             "rank": 3,
+            "player": "Freddie Freeman",
+            "team": "Los Angeles Dodgers",
+            "position": "1B",
+            "value": "156"
+          },
+          {
+            "rank": 4,
             "player": "Jordan Walker",
             "team": "St. Louis Cardinals",
             "position": "RF",
             "value": "156"
           },
           {
-            "rank": 4,
+            "rank": 5,
             "player": "Alec Burleson",
             "team": "St. Louis Cardinals",
             "position": "1B",
-            "value": "155"
-          },
-          {
-            "rank": 5,
-            "player": "Pete Crow-Armstrong",
-            "team": "Chicago Cubs",
-            "position": "CF",
             "value": "155"
           }
         ],
@@ -1026,7 +1026,7 @@
             "player": "James Wood",
             "team": "Washington Nationals",
             "position": "RF",
-            "value": ".393"
+            "value": ".394"
           },
           {
             "rank": 3,
@@ -1100,7 +1100,7 @@
             "player": "James Wood",
             "team": "Washington Nationals",
             "position": "RF",
-            "value": ".926"
+            "value": ".927"
           },
           {
             "rank": 3,
