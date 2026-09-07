@@ -1,6 +1,6 @@
 {
   "league": "MLB",
-  "lastUpdated": "2026-09-07T17:11:10.819670+00:00",
+  "lastUpdated": "2026-09-07T17:28:34.697199+00:00",
   "games": [
     {
       "gamePk": 823415,
@@ -10,8 +10,8 @@
       "homeScore": 0,
       "status": "In Progress",
       "gameDate": "2026-09-07T17:05:00Z",
-      "inning": 1,
-      "inningOrdinal": "1st",
+      "inning": 2,
+      "inningOrdinal": "2nd",
       "inningState": "Middle",
       "outs": 3,
       "battingTeam": "Atlanta Braves",
@@ -25,6 +25,11 @@
           "inning": 1,
           "awayRuns": 0,
           "homeRuns": 0
+        },
+        {
+          "inning": 2,
+          "awayRuns": 0,
+          "homeRuns": 0
         }
       ]
     },
@@ -32,15 +37,15 @@
       "gamePk": 823820,
       "awayTeam": "New York Mets",
       "homeTeam": "Miami Marlins",
-      "awayScore": 0,
+      "awayScore": 2,
       "homeScore": 0,
       "status": "In Progress",
       "gameDate": "2026-09-07T17:10:00Z",
       "inning": 1,
       "inningOrdinal": "1st",
-      "inningState": "Top",
-      "outs": 0,
-      "battingTeam": "New York Mets",
+      "inningState": "Bottom",
+      "outs": 2,
+      "battingTeam": "Miami Marlins",
       "runners": {
         "first": false,
         "second": false,
@@ -49,7 +54,7 @@
       "inningScores": [
         {
           "inning": 1,
-          "awayRuns": 0,
+          "awayRuns": 2,
           "homeRuns": 0
         }
       ]
@@ -60,7 +65,7 @@
       "homeTeam": "Boston Red Sox",
       "awayScore": 0,
       "homeScore": 0,
-      "status": "Pre-Game",
+      "status": "Warmup",
       "gameDate": "2026-09-07T17:35:00Z",
       "inning": 1,
       "inningOrdinal": "1st",
@@ -86,7 +91,7 @@
       "homeTeam": "Baltimore Orioles",
       "awayScore": 0,
       "homeScore": 0,
-      "status": "Pre-Game",
+      "status": "Warmup",
       "gameDate": "2026-09-07T17:35:00Z",
       "inning": 1,
       "inningOrdinal": "1st",
