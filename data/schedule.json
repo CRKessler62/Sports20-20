@@ -1,7 +1,7 @@
 {
   "league": "MLB",
   "timezone": "America/New_York",
-  "lastUpdated": "2026-09-07T20:13:12.601675+00:00",
+  "lastUpdated": "2026-09-07T21:12:26.970151+00:00",
   "games": [
     {
       "gamePk": 823514,
@@ -9824,9 +9824,9 @@
       "date": "2026-09-07",
       "gameDate": "2026-09-07T17:10:00Z",
       "localGameTime": "2026-09-07T13:10:00-04:00",
-      "status": "In Progress",
-      "abstractGameState": "Live",
-      "codedGameState": "I",
+      "status": "Final",
+      "abstractGameState": "Final",
+      "codedGameState": "F",
       "awayTeam": {
         "id": 121,
         "name": "New York Mets",
@@ -9848,9 +9848,9 @@
       "date": "2026-09-07",
       "gameDate": "2026-09-07T17:35:00Z",
       "localGameTime": "2026-09-07T13:35:00-04:00",
-      "status": "In Progress",
-      "abstractGameState": "Live",
-      "codedGameState": "I",
+      "status": "Final",
+      "abstractGameState": "Final",
+      "codedGameState": "F",
       "awayTeam": {
         "id": 108,
         "name": "Los Angeles Angels",
@@ -9872,9 +9872,9 @@
       "date": "2026-09-07",
       "gameDate": "2026-09-07T17:35:00Z",
       "localGameTime": "2026-09-07T13:35:00-04:00",
-      "status": "In Progress",
-      "abstractGameState": "Live",
-      "codedGameState": "I",
+      "status": "Final",
+      "abstractGameState": "Final",
+      "codedGameState": "F",
       "awayTeam": {
         "id": 114,
         "name": "Cleveland Guardians",
@@ -9885,7 +9885,7 @@
         "name": "Baltimore Orioles",
         "abbreviation": "BAL"
       },
-      "awayScore": 1,
+      "awayScore": 4,
       "homeScore": 6,
       "venue": "Oriole Park at Camden Yards",
       "awayPitcher": "Joey Cantillo",
@@ -9909,8 +9909,8 @@
         "name": "Kansas City Royals",
         "abbreviation": "KC"
       },
-      "awayScore": 0,
-      "homeScore": 0,
+      "awayScore": 5,
+      "homeScore": 4,
       "venue": "Kauffman Stadium",
       "awayPitcher": "Derek Law",
       "homePitcher": "Noah Cameron"
@@ -9920,9 +9920,9 @@
       "date": "2026-09-07",
       "gameDate": "2026-09-07T18:10:00Z",
       "localGameTime": "2026-09-07T14:10:00-04:00",
-      "status": "In Progress",
-      "abstractGameState": "Live",
-      "codedGameState": "I",
+      "status": "Final",
+      "abstractGameState": "Final",
+      "codedGameState": "F",
       "awayTeam": {
         "id": 112,
         "name": "Chicago Cubs",
@@ -9933,8 +9933,8 @@
         "name": "Milwaukee Brewers",
         "abbreviation": "MIL"
       },
-      "awayScore": 2,
-      "homeScore": 1,
+      "awayScore": 3,
+      "homeScore": 4,
       "venue": "American Family Field",
       "awayPitcher": "Matthew Boyd",
       "homePitcher": "Robert Gasser"
@@ -9957,8 +9957,8 @@
         "name": "Detroit Tigers",
         "abbreviation": "DET"
       },
-      "awayScore": 2,
-      "homeScore": 3,
+      "awayScore": 4,
+      "homeScore": 5,
       "venue": "Comerica Park",
       "awayPitcher": "Joe Ryan",
       "homePitcher": "Troy Melton"
@@ -9968,9 +9968,9 @@
       "date": "2026-09-07",
       "gameDate": "2026-09-07T21:10:00Z",
       "localGameTime": "2026-09-07T17:10:00-04:00",
-      "status": "Pre-Game",
-      "abstractGameState": "Preview",
-      "codedGameState": "P",
+      "status": "In Progress",
+      "abstractGameState": "Live",
+      "codedGameState": "I",
       "awayTeam": {
         "id": 120,
         "name": "Washington Nationals",
@@ -10005,8 +10005,8 @@
         "name": "San Francisco Giants",
         "abbreviation": "SF"
       },
-      "awayScore": null,
-      "homeScore": null,
+      "awayScore": 0,
+      "homeScore": 0,
       "venue": "Oracle Park",
       "awayPitcher": "Michael McGreevy",
       "homePitcher": "Logan Webb"
@@ -10016,9 +10016,9 @@
       "date": "2026-09-07",
       "gameDate": "2026-09-08T01:10:00Z",
       "localGameTime": "2026-09-07T21:10:00-04:00",
-      "status": "Scheduled",
+      "status": "Pre-Game",
       "abstractGameState": "Preview",
-      "codedGameState": "S",
+      "codedGameState": "P",
       "awayTeam": {
         "id": 113,
         "name": "Cincinnati Reds",
