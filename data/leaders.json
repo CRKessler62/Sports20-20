@@ -1,6 +1,6 @@
 {
   "season": 2026,
-  "lastUpdated": "2026-09-07T16:24:32.601720+00:00",
+  "lastUpdated": "2026-09-07T17:23:27.708132+00:00",
   "leagues": {
     "AL": {
       "offense": {
@@ -834,7 +834,7 @@
             "player": "Luis Arraez",
             "team": "Philadelphia Phillies",
             "position": "2B",
-            "value": ".318"
+            "value": ".317"
           },
           {
             "rank": 2,
@@ -1033,7 +1033,7 @@
             "player": "Bryce Harper",
             "team": "Philadelphia Phillies",
             "position": "1B",
-            "value": ".390"
+            "value": ".391"
           },
           {
             "rank": 4,
@@ -1074,17 +1074,17 @@
           },
           {
             "rank": 4,
-            "player": "Shohei Ohtani",
-            "team": "Los Angeles Dodgers",
-            "position": "TWP",
+            "player": "Kyle Schwarber",
+            "team": "Philadelphia Phillies",
+            "position": "DH",
             "value": ".525"
           },
           {
             "rank": 5,
-            "player": "Kyle Schwarber",
-            "team": "Philadelphia Phillies",
-            "position": "DH",
-            "value": ".524"
+            "player": "Shohei Ohtani",
+            "team": "Los Angeles Dodgers",
+            "position": "TWP",
+            "value": ".525"
           }
         ],
         "ops": [
@@ -1114,7 +1114,7 @@
             "player": "Bryce Harper",
             "team": "Philadelphia Phillies",
             "position": "1B",
-            "value": ".891"
+            "value": ".892"
           },
           {
             "rank": 5,
@@ -1130,7 +1130,7 @@
             "player": "Eury P\u00e9rez",
             "team": "Miami Marlins",
             "position": "P",
-            "value": "28"
+            "value": "29"
           },
           {
             "rank": 2,
@@ -1324,7 +1324,7 @@
             "player": "Jes\u00fas Luzardo",
             "team": "Philadelphia Phillies",
             "position": "P",
-            "value": "209"
+            "value": "210"
           },
           {
             "rank": 3,
@@ -1379,10 +1379,10 @@
           },
           {
             "rank": 5,
-            "player": "Shota Imanaga",
-            "team": "Chicago Cubs",
+            "player": "Jes\u00fas Luzardo",
+            "team": "Philadelphia Phillies",
             "position": "P",
-            "value": "1.12"
+            "value": "1.11"
           }
         ],
         "saves": [
@@ -1449,7 +1449,7 @@
             "player": "Jes\u00fas Luzardo",
             "team": "Philadelphia Phillies",
             "position": "P",
-            "value": "169.2"
+            "value": "170.2"
           },
           {
             "rank": 5,
@@ -1526,7 +1526,7 @@
             "player": "J.T. Realmuto",
             "team": "Philadelphia Phillies",
             "position": "C",
-            "value": "1056"
+            "value": "1057"
           },
           {
             "rank": 5,
