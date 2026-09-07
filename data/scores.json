@@ -1,6 +1,6 @@
 {
   "league": "MLB",
-  "lastUpdated": "2026-09-07T22:43:50.012649+00:00",
+  "lastUpdated": "2026-09-07T22:56:12.547171+00:00",
   "games": [
     {
       "gamePk": 823415,
@@ -473,15 +473,15 @@
       "gamePk": 823254,
       "awayTeam": "Washington Nationals",
       "homeTeam": "San Diego Padres",
-      "awayScore": 0,
+      "awayScore": 2,
       "homeScore": 3,
       "status": "In Progress",
       "gameDate": "2026-09-07T21:10:00Z",
       "inning": 6,
       "inningOrdinal": "6th",
-      "inningState": "Top",
+      "inningState": "Bottom",
       "outs": 2,
-      "battingTeam": "Washington Nationals",
+      "battingTeam": "San Diego Padres",
       "runners": {
         "first": true,
         "second": false,
@@ -515,7 +515,7 @@
         },
         {
           "inning": 6,
-          "awayRuns": 0,
+          "awayRuns": 2,
           "homeRuns": 0
         }
       ]
