@@ -1,7 +1,7 @@
 {
   "league": "MLB",
   "timezone": "America/New_York",
-  "lastUpdated": "2026-09-07T17:11:52.373597+00:00",
+  "lastUpdated": "2026-09-07T18:15:20.088618+00:00",
   "games": [
     {
       "gamePk": 823514,
@@ -9837,8 +9837,8 @@
         "name": "Miami Marlins",
         "abbreviation": "MIA"
       },
-      "awayScore": 0,
-      "homeScore": 0,
+      "awayScore": 4,
+      "homeScore": 4,
       "venue": "loanDepot park",
       "awayPitcher": "Jonah Tong",
       "homePitcher": "Eury P\u00e9rez"
@@ -9848,9 +9848,9 @@
       "date": "2026-09-07",
       "gameDate": "2026-09-07T17:35:00Z",
       "localGameTime": "2026-09-07T13:35:00-04:00",
-      "status": "Pre-Game",
-      "abstractGameState": "Preview",
-      "codedGameState": "P",
+      "status": "In Progress",
+      "abstractGameState": "Live",
+      "codedGameState": "I",
       "awayTeam": {
         "id": 108,
         "name": "Los Angeles Angels",
@@ -9862,7 +9862,7 @@
         "abbreviation": "BOS"
       },
       "awayScore": 0,
-      "homeScore": 0,
+      "homeScore": 1,
       "venue": "Fenway Park",
       "awayPitcher": "Grayson Rodriguez",
       "homePitcher": "Brayan Bello"
@@ -9872,9 +9872,9 @@
       "date": "2026-09-07",
       "gameDate": "2026-09-07T17:35:00Z",
       "localGameTime": "2026-09-07T13:35:00-04:00",
-      "status": "Pre-Game",
-      "abstractGameState": "Preview",
-      "codedGameState": "P",
+      "status": "In Progress",
+      "abstractGameState": "Live",
+      "codedGameState": "I",
       "awayTeam": {
         "id": 114,
         "name": "Cleveland Guardians",
@@ -9896,9 +9896,9 @@
       "date": "2026-09-07",
       "gameDate": "2026-09-07T18:10:00Z",
       "localGameTime": "2026-09-07T14:10:00-04:00",
-      "status": "Pre-Game",
-      "abstractGameState": "Preview",
-      "codedGameState": "P",
+      "status": "In Progress",
+      "abstractGameState": "Live",
+      "codedGameState": "I",
       "awayTeam": {
         "id": 109,
         "name": "Arizona Diamondbacks",
@@ -9920,9 +9920,9 @@
       "date": "2026-09-07",
       "gameDate": "2026-09-07T18:10:00Z",
       "localGameTime": "2026-09-07T14:10:00-04:00",
-      "status": "Pre-Game",
-      "abstractGameState": "Preview",
-      "codedGameState": "P",
+      "status": "In Progress",
+      "abstractGameState": "Live",
+      "codedGameState": "I",
       "awayTeam": {
         "id": 112,
         "name": "Chicago Cubs",
@@ -10248,7 +10248,7 @@
       "awayScore": null,
       "homeScore": null,
       "venue": "Kauffman Stadium",
-      "awayPitcher": null,
+      "awayPitcher": "Corbin Burnes",
       "homePitcher": "Michael Wacha"
     },
     {
