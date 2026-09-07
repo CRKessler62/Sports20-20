@@ -1,7 +1,7 @@
 {
   "league": "MLB",
   "timezone": "America/New_York",
-  "lastUpdated": "2026-09-07T14:13:40.025008+00:00",
+  "lastUpdated": "2026-09-07T15:13:06.699084+00:00",
   "games": [
     {
       "gamePk": 823514,
@@ -9800,9 +9800,9 @@
       "date": "2026-09-07",
       "gameDate": "2026-09-07T17:05:00Z",
       "localGameTime": "2026-09-07T13:05:00-04:00",
-      "status": "Scheduled",
+      "status": "Pre-Game",
       "abstractGameState": "Preview",
-      "codedGameState": "S",
+      "codedGameState": "P",
       "awayTeam": {
         "id": 144,
         "name": "Atlanta Braves",
@@ -9813,8 +9813,8 @@
         "name": "Philadelphia Phillies",
         "abbreviation": "PHI"
       },
-      "awayScore": null,
-      "homeScore": null,
+      "awayScore": 0,
+      "homeScore": 0,
       "venue": "Citizens Bank Park",
       "awayPitcher": "Grant Holmes",
       "homePitcher": "Jes\u00fas Luzardo"
@@ -9861,20 +9861,20 @@
         "name": "Boston Red Sox",
         "abbreviation": "BOS"
       },
-      "awayScore": null,
-      "homeScore": null,
+      "awayScore": 0,
+      "homeScore": 0,
       "venue": "Fenway Park",
       "awayPitcher": "Grayson Rodriguez",
-      "homePitcher": null
+      "homePitcher": "Brayan Bello"
     },
     {
       "gamePk": 824793,
       "date": "2026-09-07",
       "gameDate": "2026-09-07T17:35:00Z",
       "localGameTime": "2026-09-07T13:35:00-04:00",
-      "status": "Scheduled",
+      "status": "Pre-Game",
       "abstractGameState": "Preview",
-      "codedGameState": "S",
+      "codedGameState": "P",
       "awayTeam": {
         "id": 114,
         "name": "Cleveland Guardians",
@@ -9885,8 +9885,8 @@
         "name": "Baltimore Orioles",
         "abbreviation": "BAL"
       },
-      "awayScore": null,
-      "homeScore": null,
+      "awayScore": 0,
+      "homeScore": 0,
       "venue": "Oriole Park at Camden Yards",
       "awayPitcher": "Joey Cantillo",
       "homePitcher": "Trevor Rogers"
@@ -9909,8 +9909,8 @@
         "name": "Kansas City Royals",
         "abbreviation": "KC"
       },
-      "awayScore": null,
-      "homeScore": null,
+      "awayScore": 0,
+      "homeScore": 0,
       "venue": "Kauffman Stadium",
       "awayPitcher": "Derek Law",
       "homePitcher": "Noah Cameron"
@@ -9944,9 +9944,9 @@
       "date": "2026-09-07",
       "gameDate": "2026-09-07T19:10:00Z",
       "localGameTime": "2026-09-07T15:10:00-04:00",
-      "status": "Scheduled",
+      "status": "Pre-Game",
       "abstractGameState": "Preview",
-      "codedGameState": "S",
+      "codedGameState": "P",
       "awayTeam": {
         "id": 142,
         "name": "Minnesota Twins",
@@ -9960,7 +9960,7 @@
       "awayScore": null,
       "homeScore": null,
       "venue": "Comerica Park",
-      "awayPitcher": null,
+      "awayPitcher": "Joe Ryan",
       "homePitcher": "Troy Melton"
     },
     {
@@ -10225,7 +10225,7 @@
       "homeScore": null,
       "venue": "Truist Park",
       "awayPitcher": "Freddy Peralta",
-      "homePitcher": null
+      "homePitcher": "AJ Smith-Shawver"
     },
     {
       "gamePk": 824063,
@@ -10801,7 +10801,7 @@
       "homeScore": null,
       "venue": "Truist Park",
       "awayPitcher": "Nick Martinez",
-      "homePitcher": null
+      "homePitcher": "Mart\u00edn P\u00e9rez"
     },
     {
       "gamePk": 823413,
@@ -11160,7 +11160,7 @@
       "awayScore": null,
       "homeScore": null,
       "venue": "Target Field",
-      "awayPitcher": null,
+      "awayPitcher": "Parker Messick",
       "homePitcher": null
     },
     {
