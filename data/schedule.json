@@ -1,7 +1,7 @@
 {
   "league": "MLB",
   "timezone": "America/New_York",
-  "lastUpdated": "2026-09-07T13:14:19.977262+00:00",
+  "lastUpdated": "2026-09-07T14:13:40.025008+00:00",
   "games": [
     {
       "gamePk": 823514,
@@ -9824,9 +9824,9 @@
       "date": "2026-09-07",
       "gameDate": "2026-09-07T17:10:00Z",
       "localGameTime": "2026-09-07T13:10:00-04:00",
-      "status": "Scheduled",
+      "status": "Pre-Game",
       "abstractGameState": "Preview",
-      "codedGameState": "S",
+      "codedGameState": "P",
       "awayTeam": {
         "id": 121,
         "name": "New York Mets",
@@ -9837,8 +9837,8 @@
         "name": "Miami Marlins",
         "abbreviation": "MIA"
       },
-      "awayScore": null,
-      "homeScore": null,
+      "awayScore": 0,
+      "homeScore": 0,
       "venue": "loanDepot park",
       "awayPitcher": "Jonah Tong",
       "homePitcher": "Eury P\u00e9rez"
@@ -9848,9 +9848,9 @@
       "date": "2026-09-07",
       "gameDate": "2026-09-07T17:35:00Z",
       "localGameTime": "2026-09-07T13:35:00-04:00",
-      "status": "Scheduled",
+      "status": "Pre-Game",
       "abstractGameState": "Preview",
-      "codedGameState": "S",
+      "codedGameState": "P",
       "awayTeam": {
         "id": 108,
         "name": "Los Angeles Angels",
@@ -9896,9 +9896,9 @@
       "date": "2026-09-07",
       "gameDate": "2026-09-07T18:10:00Z",
       "localGameTime": "2026-09-07T14:10:00-04:00",
-      "status": "Scheduled",
+      "status": "Pre-Game",
       "abstractGameState": "Preview",
-      "codedGameState": "S",
+      "codedGameState": "P",
       "awayTeam": {
         "id": 109,
         "name": "Arizona Diamondbacks",
@@ -9912,7 +9912,7 @@
       "awayScore": null,
       "homeScore": null,
       "venue": "Kauffman Stadium",
-      "awayPitcher": null,
+      "awayPitcher": "Derek Law",
       "homePitcher": "Noah Cameron"
     },
     {
