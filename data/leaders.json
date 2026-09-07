@@ -1,6 +1,6 @@
 {
   "season": 2026,
-  "lastUpdated": "2026-09-07T21:23:25.294938+00:00",
+  "lastUpdated": "2026-09-07T22:22:54.576548+00:00",
   "leagues": {
     "AL": {
       "offense": {
@@ -681,7 +681,7 @@
             "player": "Spencer Torkelson",
             "team": "Detroit Tigers",
             "position": "1B",
-            "value": "1066"
+            "value": "1068"
           },
           {
             "rank": 2,
@@ -792,7 +792,7 @@
             "player": "Spencer Torkelson",
             "team": "Detroit Tigers",
             "position": "1B",
-            "value": "101"
+            "value": "103"
           },
           {
             "rank": 2,
@@ -882,23 +882,23 @@
           },
           {
             "rank": 3,
+            "player": "Fernando Tatis Jr.",
+            "team": "San Diego Padres",
+            "position": "RF",
+            "value": "158"
+          },
+          {
+            "rank": 4,
             "player": "Pete Crow-Armstrong",
             "team": "Chicago Cubs",
             "position": "CF",
             "value": "157"
           },
           {
-            "rank": 4,
+            "rank": 5,
             "player": "Freddie Freeman",
             "team": "Los Angeles Dodgers",
             "position": "1B",
-            "value": "156"
-          },
-          {
-            "rank": 5,
-            "player": "Fernando Tatis Jr.",
-            "team": "San Diego Padres",
-            "position": "RF",
             "value": "156"
           }
         ],
@@ -1026,7 +1026,7 @@
             "player": "James Wood",
             "team": "Washington Nationals",
             "position": "RF",
-            "value": ".395"
+            "value": ".396"
           },
           {
             "rank": 3,
@@ -1063,7 +1063,7 @@
             "player": "James Wood",
             "team": "Washington Nationals",
             "position": "RF",
-            "value": ".532"
+            "value": ".535"
           },
           {
             "rank": 3,
@@ -1100,7 +1100,7 @@
             "player": "James Wood",
             "team": "Washington Nationals",
             "position": "RF",
-            "value": ".927"
+            "value": ".931"
           },
           {
             "rank": 3,
