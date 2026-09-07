@@ -1,6 +1,6 @@
 {
   "league": "MLB",
-  "lastUpdated": "2026-09-07T21:05:42.349151+00:00",
+  "lastUpdated": "2026-09-07T21:24:14.854023+00:00",
   "games": [
     {
       "gamePk": 823415,
@@ -272,16 +272,16 @@
       "homeTeam": "Kansas City Royals",
       "awayScore": 5,
       "homeScore": 4,
-      "status": "In Progress",
+      "status": "Game Over",
       "gameDate": "2026-09-07T18:10:00Z",
       "inning": 10,
       "inningOrdinal": "10th",
       "inningState": "Bottom",
-      "outs": 1,
+      "outs": 3,
       "battingTeam": "Kansas City Royals",
       "runners": {
         "first": false,
-        "second": true,
+        "second": false,
         "third": false
       },
       "inningScores": [
@@ -411,13 +411,13 @@
       "homeScore": 5,
       "status": "In Progress",
       "gameDate": "2026-09-07T19:10:00Z",
-      "inning": 7,
-      "inningOrdinal": "7th",
+      "inning": 8,
+      "inningOrdinal": "8th",
       "inningState": "Top",
       "outs": 0,
       "battingTeam": "Minnesota Twins",
       "runners": {
-        "first": false,
+        "first": true,
         "second": false,
         "third": false
       },
@@ -456,6 +456,11 @@
           "inning": 7,
           "awayRuns": 0,
           "homeRuns": 0
+        },
+        {
+          "inning": 8,
+          "awayRuns": 0,
+          "homeRuns": 0
         }
       ]
     },
@@ -465,16 +470,16 @@
       "homeTeam": "San Diego Padres",
       "awayScore": 0,
       "homeScore": 0,
-      "status": "Warmup",
+      "status": "In Progress",
       "gameDate": "2026-09-07T21:10:00Z",
       "inning": 1,
       "inningOrdinal": "1st",
-      "inningState": "Top",
-      "outs": 0,
-      "battingTeam": "Washington Nationals",
+      "inningState": "Bottom",
+      "outs": 2,
+      "battingTeam": "San Diego Padres",
       "runners": {
         "first": false,
-        "second": false,
+        "second": true,
         "third": false
       },
       "inningScores": [
