@@ -1,6 +1,6 @@
 {
   "season": 2026,
-  "lastUpdated": "2026-09-07T20:24:02.302899+00:00",
+  "lastUpdated": "2026-09-07T21:23:25.294938+00:00",
   "leagues": {
     "AL": {
       "offense": {
@@ -213,17 +213,17 @@
           },
           {
             "rank": 4,
-            "player": "Kevin McGonigle",
-            "team": "Detroit Tigers",
-            "position": "SS",
-            "value": ".373"
-          },
-          {
-            "rank": 5,
             "player": "Steven Kwan",
             "team": "Cleveland Guardians",
             "position": "LF",
             "value": ".373"
+          },
+          {
+            "rank": 5,
+            "player": "Yandy D\u00edaz",
+            "team": "Tampa Bay Rays",
+            "position": "DH",
+            "value": ".372"
           }
         ],
         "slg": [
@@ -681,7 +681,7 @@
             "player": "Spencer Torkelson",
             "team": "Detroit Tigers",
             "position": "1B",
-            "value": "1063"
+            "value": "1066"
           },
           {
             "rank": 2,
@@ -692,17 +692,17 @@
           },
           {
             "rank": 3,
-            "player": "Josh Naylor",
-            "team": "Seattle Mariners",
+            "player": "Pete Alonso",
+            "team": "Baltimore Orioles",
             "position": "1B",
             "value": "937"
           },
           {
             "rank": 4,
-            "player": "Pete Alonso",
-            "team": "Baltimore Orioles",
+            "player": "Josh Naylor",
+            "team": "Seattle Mariners",
             "position": "1B",
-            "value": "936"
+            "value": "937"
           },
           {
             "rank": 5,
@@ -792,7 +792,7 @@
             "player": "Spencer Torkelson",
             "team": "Detroit Tigers",
             "position": "1B",
-            "value": "100"
+            "value": "101"
           },
           {
             "rank": 2,
@@ -859,10 +859,10 @@
           },
           {
             "rank": 5,
-            "player": "TJ Rumfield",
-            "team": "Colorado Rockies",
-            "position": "1B",
-            "value": ".299"
+            "player": "Gabriel Moreno",
+            "team": "Arizona Diamondbacks",
+            "position": "C",
+            "value": ".301"
           }
         ],
         "hits": [
@@ -885,7 +885,7 @@
             "player": "Pete Crow-Armstrong",
             "team": "Chicago Cubs",
             "position": "CF",
-            "value": "156"
+            "value": "157"
           },
           {
             "rank": 4,
@@ -896,8 +896,8 @@
           },
           {
             "rank": 5,
-            "player": "Jordan Walker",
-            "team": "St. Louis Cardinals",
+            "player": "Fernando Tatis Jr.",
+            "team": "San Diego Padres",
             "position": "RF",
             "value": "156"
           }
@@ -915,7 +915,7 @@
             "player": "Pete Crow-Armstrong",
             "team": "Chicago Cubs",
             "position": "CF",
-            "value": "40"
+            "value": "41"
           },
           {
             "rank": 3,
@@ -966,7 +966,7 @@
             "player": "Pete Crow-Armstrong",
             "team": "Chicago Cubs",
             "position": "CF",
-            "value": "96"
+            "value": "97"
           },
           {
             "rank": 5,
@@ -982,7 +982,7 @@
             "player": "Pete Crow-Armstrong",
             "team": "Chicago Cubs",
             "position": "CF",
-            "value": "107"
+            "value": "108"
           },
           {
             "rank": 2,
@@ -1019,7 +1019,7 @@
             "player": "Jake Bauers",
             "team": "Milwaukee Brewers",
             "position": "1B",
-            "value": ".396"
+            "value": ".397"
           },
           {
             "rank": 2,
@@ -1056,14 +1056,14 @@
             "player": "Pete Crow-Armstrong",
             "team": "Chicago Cubs",
             "position": "CF",
-            "value": ".571"
+            "value": ".577"
           },
           {
             "rank": 2,
             "player": "James Wood",
             "team": "Washington Nationals",
             "position": "RF",
-            "value": ".533"
+            "value": ".532"
           },
           {
             "rank": 3,
@@ -1093,14 +1093,14 @@
             "player": "Pete Crow-Armstrong",
             "team": "Chicago Cubs",
             "position": "CF",
-            "value": ".946"
+            "value": ".953"
           },
           {
             "rank": 2,
             "player": "James Wood",
             "team": "Washington Nationals",
             "position": "RF",
-            "value": ".928"
+            "value": ".927"
           },
           {
             "rank": 3,
@@ -1114,7 +1114,7 @@
             "player": "Jake Bauers",
             "team": "Milwaukee Brewers",
             "position": "1B",
-            "value": ".889"
+            "value": ".890"
           },
           {
             "rank": 5,
@@ -1419,7 +1419,7 @@
             "player": "Trevor Megill",
             "team": "Milwaukee Brewers",
             "position": "P",
-            "value": "26"
+            "value": "27"
           }
         ],
         "innings": [
