@@ -1,6 +1,6 @@
 {
   "season": 2026,
-  "lastUpdated": "2026-09-07T04:24:50.634525+00:00",
+  "lastUpdated": "2026-09-07T05:23:30.350768+00:00",
   "leagues": {
     "AL": {
       "offense": {
@@ -855,7 +855,7 @@
             "player": "Freddie Freeman",
             "team": "Los Angeles Dodgers",
             "position": "1B",
-            "value": ".302"
+            "value": ".301"
           },
           {
             "rank": 5,
@@ -1026,7 +1026,7 @@
             "player": "James Wood",
             "team": "Washington Nationals",
             "position": "RF",
-            "value": ".394"
+            "value": ".395"
           },
           {
             "rank": 3,
@@ -1100,7 +1100,7 @@
             "player": "James Wood",
             "team": "Washington Nationals",
             "position": "RF",
-            "value": ".927"
+            "value": ".928"
           },
           {
             "rank": 3,
