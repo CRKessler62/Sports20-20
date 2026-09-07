@@ -1,6 +1,6 @@
 {
   "league": "MLB",
-  "lastUpdated": "2026-09-07T22:13:52.206461+00:00",
+  "lastUpdated": "2026-09-07T22:30:07.444909+00:00",
   "games": [
     {
       "gamePk": 823415,
@@ -477,11 +477,11 @@
       "homeScore": 3,
       "status": "In Progress",
       "gameDate": "2026-09-07T21:10:00Z",
-      "inning": 4,
-      "inningOrdinal": "4th",
-      "inningState": "Middle",
-      "outs": 3,
-      "battingTeam": "Washington Nationals",
+      "inning": 5,
+      "inningOrdinal": "5th",
+      "inningState": "Bottom",
+      "outs": 0,
+      "battingTeam": "San Diego Padres",
       "runners": {
         "first": false,
         "second": false,
@@ -505,6 +505,11 @@
         },
         {
           "inning": 4,
+          "awayRuns": 0,
+          "homeRuns": 0
+        },
+        {
+          "inning": 5,
           "awayRuns": 0,
           "homeRuns": 0
         }
@@ -544,17 +549,23 @@
       "homeScore": 0,
       "status": "Pre-Game",
       "gameDate": "2026-09-08T01:10:00Z",
-      "inning": null,
-      "inningOrdinal": null,
-      "inningState": null,
-      "outs": null,
-      "battingTeam": null,
+      "inning": 1,
+      "inningOrdinal": "1st",
+      "inningState": "Top",
+      "outs": 0,
+      "battingTeam": "Cincinnati Reds",
       "runners": {
         "first": false,
         "second": false,
         "third": false
       },
-      "inningScores": []
+      "inningScores": [
+        {
+          "inning": 1,
+          "awayRuns": 0,
+          "homeRuns": 0
+        }
+      ]
     },
     {
       "gamePk": 824958,
