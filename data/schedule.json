@@ -1,7 +1,7 @@
 {
   "league": "MLB",
   "timezone": "America/New_York",
-  "lastUpdated": "2026-09-07T15:13:06.699084+00:00",
+  "lastUpdated": "2026-09-07T17:11:52.373597+00:00",
   "games": [
     {
       "gamePk": 823514,
@@ -9800,9 +9800,9 @@
       "date": "2026-09-07",
       "gameDate": "2026-09-07T17:05:00Z",
       "localGameTime": "2026-09-07T13:05:00-04:00",
-      "status": "Pre-Game",
-      "abstractGameState": "Preview",
-      "codedGameState": "P",
+      "status": "In Progress",
+      "abstractGameState": "Live",
+      "codedGameState": "I",
       "awayTeam": {
         "id": 144,
         "name": "Atlanta Braves",
@@ -9824,9 +9824,9 @@
       "date": "2026-09-07",
       "gameDate": "2026-09-07T17:10:00Z",
       "localGameTime": "2026-09-07T13:10:00-04:00",
-      "status": "Pre-Game",
-      "abstractGameState": "Preview",
-      "codedGameState": "P",
+      "status": "In Progress",
+      "abstractGameState": "Live",
+      "codedGameState": "I",
       "awayTeam": {
         "id": 121,
         "name": "New York Mets",
@@ -9920,9 +9920,9 @@
       "date": "2026-09-07",
       "gameDate": "2026-09-07T18:10:00Z",
       "localGameTime": "2026-09-07T14:10:00-04:00",
-      "status": "Scheduled",
+      "status": "Pre-Game",
       "abstractGameState": "Preview",
-      "codedGameState": "S",
+      "codedGameState": "P",
       "awayTeam": {
         "id": 112,
         "name": "Chicago Cubs",
@@ -9933,8 +9933,8 @@
         "name": "Milwaukee Brewers",
         "abbreviation": "MIL"
       },
-      "awayScore": null,
-      "homeScore": null,
+      "awayScore": 0,
+      "homeScore": 0,
       "venue": "American Family Field",
       "awayPitcher": "Matthew Boyd",
       "homePitcher": "Robert Gasser"
@@ -9957,8 +9957,8 @@
         "name": "Detroit Tigers",
         "abbreviation": "DET"
       },
-      "awayScore": null,
-      "homeScore": null,
+      "awayScore": 0,
+      "homeScore": 0,
       "venue": "Comerica Park",
       "awayPitcher": "Joe Ryan",
       "homePitcher": "Troy Melton"
@@ -10608,7 +10608,7 @@
       "awayScore": null,
       "homeScore": null,
       "venue": "loanDepot park",
-      "awayPitcher": null,
+      "awayPitcher": "Robert Stock",
       "homePitcher": "Janson Junk"
     },
     {
@@ -11113,7 +11113,7 @@
       "homeScore": null,
       "venue": "Truist Park",
       "awayPitcher": null,
-      "homePitcher": null
+      "homePitcher": "Chris Sale"
     },
     {
       "gamePk": 823736,
@@ -11137,7 +11137,7 @@
       "homeScore": null,
       "venue": "American Family Field",
       "awayPitcher": null,
-      "homePitcher": null
+      "homePitcher": "Kyle Harrison"
     },
     {
       "gamePk": 823659,
