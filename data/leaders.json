@@ -1,6 +1,6 @@
 {
   "season": 2026,
-  "lastUpdated": "2026-09-08T03:24:35.949584+00:00",
+  "lastUpdated": "2026-09-08T04:25:05.445965+00:00",
   "leagues": {
     "AL": {
       "offense": {
@@ -426,7 +426,7 @@
             "player": "Dylan Cease",
             "team": "Toronto Blue Jays",
             "position": "P",
-            "value": "2.36"
+            "value": "2.40"
           },
           {
             "rank": 3,
@@ -500,7 +500,7 @@
             "player": "Dylan Cease",
             "team": "Toronto Blue Jays",
             "position": "P",
-            "value": "226"
+            "value": "227"
           },
           {
             "rank": 3,
