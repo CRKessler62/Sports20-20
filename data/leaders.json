@@ -1,6 +1,6 @@
 {
   "season": 2026,
-  "lastUpdated": "2026-09-07T23:22:18.726932+00:00",
+  "lastUpdated": "2026-09-08T00:34:56.212525+00:00",
   "leagues": {
     "AL": {
       "offense": {
@@ -1164,15 +1164,15 @@
         "doubles": [
           {
             "rank": 1,
-            "player": "Alec Burleson",
-            "team": "St. Louis Cardinals",
+            "player": "Rafael Devers",
+            "team": "San Francisco Giants",
             "position": "1B",
-            "value": "34"
+            "value": "35"
           },
           {
             "rank": 2,
-            "player": "Rafael Devers",
-            "team": "San Francisco Giants",
+            "player": "Alec Burleson",
+            "team": "St. Louis Cardinals",
             "position": "1B",
             "value": "34"
           },
@@ -1398,7 +1398,7 @@
             "player": "Mason Miller",
             "team": "San Diego Padres",
             "position": "P",
-            "value": "33"
+            "value": "34"
           },
           {
             "rank": 3,
@@ -1512,7 +1512,7 @@
             "player": "Alec Burleson",
             "team": "St. Louis Cardinals",
             "position": "1B",
-            "value": "1079"
+            "value": "1080"
           },
           {
             "rank": 3,
