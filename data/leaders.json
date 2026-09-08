@@ -1,6 +1,6 @@
 {
   "season": 2026,
-  "lastUpdated": "2026-09-08T00:34:56.212525+00:00",
+  "lastUpdated": "2026-09-08T01:24:01.164426+00:00",
   "leagues": {
     "AL": {
       "offense": {
@@ -1084,7 +1084,7 @@
             "player": "Shohei Ohtani",
             "team": "Los Angeles Dodgers",
             "position": "TWP",
-            "value": ".525"
+            "value": ".524"
           }
         ],
         "ops": [
@@ -1107,7 +1107,7 @@
             "player": "Shohei Ohtani",
             "team": "Los Angeles Dodgers",
             "position": "TWP",
-            "value": ".906"
+            "value": ".905"
           },
           {
             "rank": 4,
@@ -1512,7 +1512,7 @@
             "player": "Alec Burleson",
             "team": "St. Louis Cardinals",
             "position": "1B",
-            "value": "1080"
+            "value": "1082"
           },
           {
             "rank": 3,
@@ -1616,7 +1616,7 @@
             "player": "Alec Burleson",
             "team": "St. Louis Cardinals",
             "position": "1B",
-            "value": "117"
+            "value": "118"
           },
           {
             "rank": 2,
