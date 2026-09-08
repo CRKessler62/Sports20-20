@@ -1,7 +1,7 @@
 {
   "league": "MLB",
   "timezone": "America/New_York",
-  "lastUpdated": "2026-09-08T02:12:48.566731+00:00",
+  "lastUpdated": "2026-09-08T03:13:11.902444+00:00",
   "games": [
     {
       "gamePk": 822700,
@@ -9645,7 +9645,7 @@
         "name": "San Francisco Giants",
         "abbreviation": "SF"
       },
-      "awayScore": 2,
+      "awayScore": 4,
       "homeScore": 3,
       "venue": "Oracle Park",
       "awayPitcher": "Michael McGreevy",
@@ -9669,8 +9669,8 @@
         "name": "Los Angeles Dodgers",
         "abbreviation": "LAD"
       },
-      "awayScore": 1,
-      "homeScore": 0,
+      "awayScore": 2,
+      "homeScore": 5,
       "venue": "UNIQLO Field at Dodger Stadium",
       "awayPitcher": "Chase Burns",
       "homePitcher": "Emmet Sheehan"
@@ -9693,8 +9693,8 @@
         "name": "Athletics",
         "abbreviation": "ATH"
       },
-      "awayScore": 0,
-      "homeScore": 0,
+      "awayScore": 1,
+      "homeScore": 4,
       "venue": "Sutter Health Park",
       "awayPitcher": "Dylan Cease",
       "homePitcher": "Jacob Lopez"
