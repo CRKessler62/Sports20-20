@@ -1,6 +1,6 @@
 {
   "season": 2026,
-  "lastUpdated": "2026-09-08T01:24:01.164426+00:00",
+  "lastUpdated": "2026-09-08T02:24:38.150379+00:00",
   "leagues": {
     "AL": {
       "offense": {
@@ -306,7 +306,7 @@
             "player": "Dylan Cease",
             "team": "Toronto Blue Jays",
             "position": "P",
-            "value": "26"
+            "value": "27"
           },
           {
             "rank": 2,
@@ -426,7 +426,7 @@
             "player": "Dylan Cease",
             "team": "Toronto Blue Jays",
             "position": "P",
-            "value": "2.25"
+            "value": "2.24"
           },
           {
             "rank": 3,
@@ -852,17 +852,17 @@
           },
           {
             "rank": 4,
-            "player": "Freddie Freeman",
-            "team": "Los Angeles Dodgers",
-            "position": "1B",
-            "value": ".301"
-          },
-          {
-            "rank": 5,
             "player": "Gabriel Moreno",
             "team": "Arizona Diamondbacks",
             "position": "C",
             "value": ".301"
+          },
+          {
+            "rank": 5,
+            "player": "Freddie Freeman",
+            "team": "Los Angeles Dodgers",
+            "position": "1B",
+            "value": ".300"
           }
         ],
         "hits": [
@@ -896,8 +896,8 @@
           },
           {
             "rank": 5,
-            "player": "Freddie Freeman",
-            "team": "Los Angeles Dodgers",
+            "player": "Alec Burleson",
+            "team": "St. Louis Cardinals",
             "position": "1B",
             "value": "156"
           }
@@ -952,7 +952,7 @@
             "player": "Alec Burleson",
             "team": "St. Louis Cardinals",
             "position": "1B",
-            "value": "103"
+            "value": "104"
           },
           {
             "rank": 3,
@@ -1047,7 +1047,7 @@
             "player": "Shohei Ohtani",
             "team": "Los Angeles Dodgers",
             "position": "TWP",
-            "value": ".381"
+            "value": ".380"
           }
         ],
         "slg": [
@@ -1084,7 +1084,7 @@
             "player": "Shohei Ohtani",
             "team": "Los Angeles Dodgers",
             "position": "TWP",
-            "value": ".524"
+            "value": ".523"
           }
         ],
         "ops": [
@@ -1107,7 +1107,7 @@
             "player": "Shohei Ohtani",
             "team": "Los Angeles Dodgers",
             "position": "TWP",
-            "value": ".905"
+            "value": ".903"
           },
           {
             "rank": 4,
@@ -1167,7 +1167,7 @@
             "player": "Rafael Devers",
             "team": "San Francisco Giants",
             "position": "1B",
-            "value": "35"
+            "value": "36"
           },
           {
             "rank": 2,
@@ -1502,17 +1502,17 @@
         "putouts": [
           {
             "rank": 1,
-            "player": "Michael Busch",
-            "team": "Chicago Cubs",
+            "player": "Alec Burleson",
+            "team": "St. Louis Cardinals",
             "position": "1B",
             "value": "1086"
           },
           {
             "rank": 2,
-            "player": "Alec Burleson",
-            "team": "St. Louis Cardinals",
+            "player": "Michael Busch",
+            "team": "Chicago Cubs",
             "position": "1B",
-            "value": "1082"
+            "value": "1086"
           },
           {
             "rank": 3,
