@@ -1,7 +1,7 @@
 {
   "league": "MLB",
   "timezone": "America/New_York",
-  "lastUpdated": "2026-09-08T22:13:09.807916+00:00",
+  "lastUpdated": "2026-09-08T23:12:15.041134+00:00",
   "games": [
     {
       "gamePk": 822700,
@@ -9704,9 +9704,9 @@
       "date": "2026-09-08",
       "gameDate": "2026-09-08T22:35:00Z",
       "localGameTime": "2026-09-08T18:35:00-04:00",
-      "status": "Warmup",
+      "status": "In Progress",
       "abstractGameState": "Live",
-      "codedGameState": "P",
+      "codedGameState": "I",
       "awayTeam": {
         "id": 114,
         "name": "Cleveland Guardians",
@@ -9717,7 +9717,7 @@
         "name": "Baltimore Orioles",
         "abbreviation": "BAL"
       },
-      "awayScore": 0,
+      "awayScore": 5,
       "homeScore": 0,
       "venue": "Oriole Park at Camden Yards",
       "awayPitcher": "Tanner Bibee",
@@ -9728,9 +9728,9 @@
       "date": "2026-09-08",
       "gameDate": "2026-09-08T22:40:00Z",
       "localGameTime": "2026-09-08T18:40:00-04:00",
-      "status": "Pre-Game",
-      "abstractGameState": "Preview",
-      "codedGameState": "P",
+      "status": "In Progress",
+      "abstractGameState": "Live",
+      "codedGameState": "I",
       "awayTeam": {
         "id": 142,
         "name": "Minnesota Twins",
@@ -9741,7 +9741,7 @@
         "name": "Detroit Tigers",
         "abbreviation": "DET"
       },
-      "awayScore": 0,
+      "awayScore": 1,
       "homeScore": 0,
       "venue": "Comerica Park",
       "awayPitcher": "Dean Kremer",
@@ -9752,9 +9752,9 @@
       "date": "2026-09-08",
       "gameDate": "2026-09-08T22:40:00Z",
       "localGameTime": "2026-09-08T18:40:00-04:00",
-      "status": "Pre-Game",
-      "abstractGameState": "Preview",
-      "codedGameState": "P",
+      "status": "In Progress",
+      "abstractGameState": "Live",
+      "codedGameState": "I",
       "awayTeam": {
         "id": 117,
         "name": "Houston Astros",
@@ -9765,7 +9765,7 @@
         "name": "Philadelphia Phillies",
         "abbreviation": "PHI"
       },
-      "awayScore": 0,
+      "awayScore": 4,
       "homeScore": 0,
       "venue": "Citizens Bank Park",
       "awayPitcher": "Hayden Wesneski",
@@ -9776,9 +9776,9 @@
       "date": "2026-09-08",
       "gameDate": "2026-09-08T22:40:00Z",
       "localGameTime": "2026-09-08T18:40:00-04:00",
-      "status": "Pre-Game",
-      "abstractGameState": "Preview",
-      "codedGameState": "P",
+      "status": "In Progress",
+      "abstractGameState": "Live",
+      "codedGameState": "I",
       "awayTeam": {
         "id": 121,
         "name": "New York Mets",
@@ -9789,7 +9789,7 @@
         "name": "Miami Marlins",
         "abbreviation": "MIA"
       },
-      "awayScore": 0,
+      "awayScore": 5,
       "homeScore": 0,
       "venue": "loanDepot park",
       "awayPitcher": "Sean Manaea",
@@ -9800,9 +9800,9 @@
       "date": "2026-09-08",
       "gameDate": "2026-09-08T22:45:00Z",
       "localGameTime": "2026-09-08T18:45:00-04:00",
-      "status": "Pre-Game",
-      "abstractGameState": "Preview",
-      "codedGameState": "P",
+      "status": "In Progress",
+      "abstractGameState": "Live",
+      "codedGameState": "I",
       "awayTeam": {
         "id": 108,
         "name": "Los Angeles Angels",
@@ -9813,7 +9813,7 @@
         "name": "Boston Red Sox",
         "abbreviation": "BOS"
       },
-      "awayScore": 0,
+      "awayScore": 1,
       "homeScore": 0,
       "venue": "Fenway Park",
       "awayPitcher": "Reid Detmers",
@@ -9824,9 +9824,9 @@
       "date": "2026-09-08",
       "gameDate": "2026-09-08T23:05:00Z",
       "localGameTime": "2026-09-08T19:05:00-04:00",
-      "status": "Pre-Game",
-      "abstractGameState": "Preview",
-      "codedGameState": "P",
+      "status": "In Progress",
+      "abstractGameState": "Live",
+      "codedGameState": "I",
       "awayTeam": {
         "id": 115,
         "name": "Colorado Rockies",
@@ -9848,8 +9848,8 @@
       "date": "2026-09-08",
       "gameDate": "2026-09-08T23:15:00Z",
       "localGameTime": "2026-09-08T19:15:00-04:00",
-      "status": "Pre-Game",
-      "abstractGameState": "Preview",
+      "status": "Warmup",
+      "abstractGameState": "Live",
       "codedGameState": "P",
       "awayTeam": {
         "id": 139,
@@ -9896,8 +9896,8 @@
       "date": "2026-09-08",
       "gameDate": "2026-09-08T23:40:00Z",
       "localGameTime": "2026-09-08T19:40:00-04:00",
-      "status": "Pre-Game",
-      "abstractGameState": "Preview",
+      "status": "Warmup",
+      "abstractGameState": "Live",
       "codedGameState": "P",
       "awayTeam": {
         "id": 134,
@@ -9981,8 +9981,8 @@
         "name": "Seattle Mariners",
         "abbreviation": "SEA"
       },
-      "awayScore": null,
-      "homeScore": null,
+      "awayScore": 0,
+      "homeScore": 0,
       "venue": "T-Mobile Park",
       "awayPitcher": "Cal Quantrill",
       "homePitcher": "Bryce Miller"
@@ -10005,8 +10005,8 @@
         "name": "Athletics",
         "abbreviation": "ATH"
       },
-      "awayScore": null,
-      "homeScore": null,
+      "awayScore": 0,
+      "homeScore": 0,
       "venue": "Sutter Health Park",
       "awayPitcher": "Jos\u00e9 Soriano",
       "homePitcher": "Jack Perkins"
@@ -10029,8 +10029,8 @@
         "name": "San Francisco Giants",
         "abbreviation": "SF"
       },
-      "awayScore": null,
-      "homeScore": null,
+      "awayScore": 0,
+      "homeScore": 0,
       "venue": "Oracle Park",
       "awayPitcher": "Quinn Mathews",
       "homePitcher": "Landen Roupp"
@@ -10053,8 +10053,8 @@
         "name": "Los Angeles Dodgers",
         "abbreviation": "LAD"
       },
-      "awayScore": null,
-      "homeScore": null,
+      "awayScore": 0,
+      "homeScore": 0,
       "venue": "UNIQLO Field at Dodger Stadium",
       "awayPitcher": "Nick Lodolo",
       "homePitcher": "Tarik Skubal"
