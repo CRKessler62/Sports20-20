@@ -1,6 +1,6 @@
 {
   "league": "MLB",
-  "lastUpdated": "2026-09-08T19:33:42.594705+00:00",
+  "lastUpdated": "2026-09-08T19:47:25.683072+00:00",
   "games": [
     {
       "gamePk": 824792,
@@ -82,17 +82,23 @@
       "homeScore": 0,
       "status": "Pre-Game",
       "gameDate": "2026-09-08T22:40:00Z",
-      "inning": null,
-      "inningOrdinal": null,
-      "inningState": null,
-      "outs": null,
-      "battingTeam": null,
+      "inning": 1,
+      "inningOrdinal": "1st",
+      "inningState": "Top",
+      "outs": 0,
+      "battingTeam": "New York Mets",
       "runners": {
         "first": false,
         "second": false,
         "third": false
       },
-      "inningScores": []
+      "inningScores": [
+        {
+          "inning": 1,
+          "awayRuns": 0,
+          "homeRuns": 0
+        }
+      ]
     },
     {
       "gamePk": 824714,
@@ -186,7 +192,7 @@
       "homeTeam": "Chicago White Sox",
       "awayScore": 0,
       "homeScore": 0,
-      "status": "Scheduled",
+      "status": "Pre-Game",
       "gameDate": "2026-09-08T23:40:00Z",
       "inning": null,
       "inningOrdinal": null,
