@@ -1,6 +1,6 @@
 {
   "league": "MLB",
-  "lastUpdated": "2026-09-08T23:31:12.845319+00:00",
+  "lastUpdated": "2026-09-08T23:45:06.098569+00:00",
   "games": [
     {
       "gamePk": 824792,
@@ -12,12 +12,12 @@
       "gameDate": "2026-09-08T22:35:00Z",
       "inning": 4,
       "inningOrdinal": "4th",
-      "inningState": "Top",
-      "outs": 1,
-      "battingTeam": "Cleveland Guardians",
+      "inningState": "Bottom",
+      "outs": 0,
+      "battingTeam": "Baltimore Orioles",
       "runners": {
         "first": false,
-        "second": false,
+        "second": true,
         "third": false
       },
       "inningScores": [
@@ -51,11 +51,11 @@
       "homeScore": 0,
       "status": "In Progress",
       "gameDate": "2026-09-08T22:40:00Z",
-      "inning": 3,
-      "inningOrdinal": "3rd",
-      "inningState": "Bottom",
-      "outs": 2,
-      "battingTeam": "Detroit Tigers",
+      "inning": 4,
+      "inningOrdinal": "4th",
+      "inningState": "End",
+      "outs": 3,
+      "battingTeam": "Minnesota Twins",
       "runners": {
         "first": false,
         "second": false,
@@ -76,6 +76,11 @@
           "inning": 3,
           "awayRuns": 0,
           "homeRuns": 0
+        },
+        {
+          "inning": 4,
+          "awayRuns": 0,
+          "homeRuns": 0
         }
       ]
     },
@@ -83,12 +88,12 @@
       "gamePk": 823414,
       "awayTeam": "Houston Astros",
       "homeTeam": "Philadelphia Phillies",
-      "awayScore": 4,
+      "awayScore": 5,
       "homeScore": 0,
       "status": "In Progress",
       "gameDate": "2026-09-08T22:40:00Z",
-      "inning": 3,
-      "inningOrdinal": "3rd",
+      "inning": 4,
+      "inningOrdinal": "4th",
       "inningState": "Middle",
       "outs": 3,
       "battingTeam": "Houston Astros",
@@ -112,6 +117,11 @@
           "inning": 3,
           "awayRuns": 0,
           "homeRuns": 0
+        },
+        {
+          "inning": 4,
+          "awayRuns": 1,
+          "homeRuns": 0
         }
       ]
     },
@@ -125,8 +135,8 @@
       "gameDate": "2026-09-08T22:40:00Z",
       "inning": 4,
       "inningOrdinal": "4th",
-      "inningState": "Top",
-      "outs": 0,
+      "inningState": "End",
+      "outs": 3,
       "battingTeam": "New York Mets",
       "runners": {
         "first": false,
@@ -160,18 +170,18 @@
       "gamePk": 824714,
       "awayTeam": "Los Angeles Angels",
       "homeTeam": "Boston Red Sox",
-      "awayScore": 2,
+      "awayScore": 3,
       "homeScore": 0,
       "status": "In Progress",
       "gameDate": "2026-09-08T22:45:00Z",
       "inning": 3,
       "inningOrdinal": "3rd",
-      "inningState": "Top",
-      "outs": 2,
+      "inningState": "End",
+      "outs": 3,
       "battingTeam": "Los Angeles Angels",
       "runners": {
-        "first": true,
-        "second": true,
+        "first": false,
+        "second": false,
         "third": false
       },
       "inningScores": [
@@ -187,7 +197,7 @@
         },
         {
           "inning": 3,
-          "awayRuns": 1,
+          "awayRuns": 2,
           "homeRuns": 0
         }
       ]
@@ -196,14 +206,14 @@
       "gamePk": 823500,
       "awayTeam": "Colorado Rockies",
       "homeTeam": "New York Yankees",
-      "awayScore": 0,
+      "awayScore": 1,
       "homeScore": 1,
       "status": "In Progress",
       "gameDate": "2026-09-08T23:05:00Z",
-      "inning": 2,
-      "inningOrdinal": "2nd",
+      "inning": 3,
+      "inningOrdinal": "3rd",
       "inningState": "Top",
-      "outs": 2,
+      "outs": 0,
       "battingTeam": "Colorado Rockies",
       "runners": {
         "first": false,
@@ -220,6 +230,11 @@
           "inning": 2,
           "awayRuns": 0,
           "homeRuns": 0
+        },
+        {
+          "inning": 3,
+          "awayRuns": 1,
+          "homeRuns": 0
         }
       ]
     },
@@ -228,16 +243,16 @@
       "awayTeam": "Tampa Bay Rays",
       "homeTeam": "Atlanta Braves",
       "awayScore": 1,
-      "homeScore": 0,
+      "homeScore": 1,
       "status": "In Progress",
       "gameDate": "2026-09-08T23:15:00Z",
-      "inning": 1,
-      "inningOrdinal": "1st",
-      "inningState": "Bottom",
-      "outs": 1,
-      "battingTeam": "Atlanta Braves",
+      "inning": 2,
+      "inningOrdinal": "2nd",
+      "inningState": "Top",
+      "outs": 0,
+      "battingTeam": "Tampa Bay Rays",
       "runners": {
-        "first": true,
+        "first": false,
         "second": true,
         "third": false
       },
@@ -245,6 +260,11 @@
         {
           "inning": 1,
           "awayRuns": 1,
+          "homeRuns": 1
+        },
+        {
+          "inning": 2,
+          "awayRuns": 0,
           "homeRuns": 0
         }
       ]
@@ -255,12 +275,12 @@
       "homeTeam": "Kansas City Royals",
       "awayScore": 0,
       "homeScore": 0,
-      "status": "Warmup",
+      "status": "In Progress",
       "gameDate": "2026-09-08T23:40:00Z",
       "inning": 1,
       "inningOrdinal": "1st",
       "inningState": "Top",
-      "outs": 0,
+      "outs": 2,
       "battingTeam": "Arizona Diamondbacks",
       "runners": {
         "first": false,
@@ -281,7 +301,7 @@
       "homeTeam": "Chicago White Sox",
       "awayScore": 0,
       "homeScore": 0,
-      "status": "Warmup",
+      "status": "In Progress",
       "gameDate": "2026-09-08T23:40:00Z",
       "inning": 1,
       "inningOrdinal": "1st",
@@ -290,7 +310,7 @@
       "battingTeam": "Pittsburgh Pirates",
       "runners": {
         "first": false,
-        "second": false,
+        "second": true,
         "third": false
       },
       "inningScores": [
@@ -307,16 +327,16 @@
       "homeTeam": "Milwaukee Brewers",
       "awayScore": 0,
       "homeScore": 0,
-      "status": "Warmup",
+      "status": "In Progress",
       "gameDate": "2026-09-08T23:40:00Z",
       "inning": 1,
       "inningOrdinal": "1st",
       "inningState": "Top",
-      "outs": 0,
+      "outs": 1,
       "battingTeam": "Chicago Cubs",
       "runners": {
         "first": false,
-        "second": false,
+        "second": true,
         "third": false
       },
       "inningScores": [
