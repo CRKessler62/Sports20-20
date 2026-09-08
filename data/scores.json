@@ -1,6 +1,6 @@
 {
   "league": "MLB",
-  "lastUpdated": "2026-09-08T21:10:12.014904+00:00",
+  "lastUpdated": "2026-09-08T21:26:09.439565+00:00",
   "games": [
     {
       "gamePk": 824792,
@@ -268,7 +268,7 @@
       "homeTeam": "San Diego Padres",
       "awayScore": 0,
       "homeScore": 0,
-      "status": "Scheduled",
+      "status": "Pre-Game",
       "gameDate": "2026-09-09T01:40:00Z",
       "inning": null,
       "inningOrdinal": null,
@@ -288,7 +288,7 @@
       "homeTeam": "Seattle Mariners",
       "awayScore": 0,
       "homeScore": 0,
-      "status": "Scheduled",
+      "status": "Pre-Game",
       "gameDate": "2026-09-09T01:40:00Z",
       "inning": null,
       "inningOrdinal": null,
