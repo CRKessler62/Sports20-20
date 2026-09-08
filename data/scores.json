@@ -1,6 +1,6 @@
 {
   "league": "MLB",
-  "lastUpdated": "2026-09-08T22:14:26.242809+00:00",
+  "lastUpdated": "2026-09-08T22:31:06.809376+00:00",
   "games": [
     {
       "gamePk": 824792,
@@ -34,7 +34,7 @@
       "homeTeam": "Detroit Tigers",
       "awayScore": 0,
       "homeScore": 0,
-      "status": "Pre-Game",
+      "status": "Warmup",
       "gameDate": "2026-09-08T22:40:00Z",
       "inning": 1,
       "inningOrdinal": "1st",
@@ -60,7 +60,7 @@
       "homeTeam": "Philadelphia Phillies",
       "awayScore": 0,
       "homeScore": 0,
-      "status": "Pre-Game",
+      "status": "Warmup",
       "gameDate": "2026-09-08T22:40:00Z",
       "inning": 1,
       "inningOrdinal": "1st",
@@ -86,7 +86,7 @@
       "homeTeam": "Miami Marlins",
       "awayScore": 0,
       "homeScore": 0,
-      "status": "Pre-Game",
+      "status": "Warmup",
       "gameDate": "2026-09-08T22:40:00Z",
       "inning": 1,
       "inningOrdinal": "1st",
@@ -112,7 +112,7 @@
       "homeTeam": "Boston Red Sox",
       "awayScore": 0,
       "homeScore": 0,
-      "status": "Pre-Game",
+      "status": "Warmup",
       "gameDate": "2026-09-08T22:45:00Z",
       "inning": 1,
       "inningOrdinal": "1st",
