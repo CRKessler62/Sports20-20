@@ -1,7 +1,7 @@
 {
   "league": "MLB",
   "timezone": "America/New_York",
-  "lastUpdated": "2026-09-08T00:21:30.761487+00:00",
+  "lastUpdated": "2026-09-08T01:12:15.498982+00:00",
   "games": [
     {
       "gamePk": 822700,
@@ -9646,7 +9646,7 @@
         "abbreviation": "SF"
       },
       "awayScore": 0,
-      "homeScore": 0,
+      "homeScore": 2,
       "venue": "Oracle Park",
       "awayPitcher": "Michael McGreevy",
       "homePitcher": "Logan Webb"
@@ -9656,9 +9656,9 @@
       "date": "2026-09-07",
       "gameDate": "2026-09-08T01:10:00Z",
       "localGameTime": "2026-09-07T21:10:00-04:00",
-      "status": "Pre-Game",
-      "abstractGameState": "Preview",
-      "codedGameState": "P",
+      "status": "In Progress",
+      "abstractGameState": "Live",
+      "codedGameState": "I",
       "awayTeam": {
         "id": 113,
         "name": "Cincinnati Reds",
