@@ -1,7 +1,7 @@
 {
   "league": "MLB",
   "timezone": "America/New_York",
-  "lastUpdated": "2026-09-08T21:11:29.539240+00:00",
+  "lastUpdated": "2026-09-08T22:13:09.807916+00:00",
   "games": [
     {
       "gamePk": 822700,
@@ -9704,8 +9704,8 @@
       "date": "2026-09-08",
       "gameDate": "2026-09-08T22:35:00Z",
       "localGameTime": "2026-09-08T18:35:00-04:00",
-      "status": "Pre-Game",
-      "abstractGameState": "Preview",
+      "status": "Warmup",
+      "abstractGameState": "Live",
       "codedGameState": "P",
       "awayTeam": {
         "id": 114,
@@ -9957,8 +9957,8 @@
         "name": "San Diego Padres",
         "abbreviation": "SD"
       },
-      "awayScore": null,
-      "homeScore": null,
+      "awayScore": 0,
+      "homeScore": 0,
       "venue": "Petco Park",
       "awayPitcher": "Riley Cornelio",
       "homePitcher": "Casey Mize"
@@ -9968,9 +9968,9 @@
       "date": "2026-09-08",
       "gameDate": "2026-09-09T01:40:00Z",
       "localGameTime": "2026-09-08T21:40:00-04:00",
-      "status": "Scheduled",
+      "status": "Pre-Game",
       "abstractGameState": "Preview",
-      "codedGameState": "S",
+      "codedGameState": "P",
       "awayTeam": {
         "id": 140,
         "name": "Texas Rangers",
@@ -9985,16 +9985,16 @@
       "homeScore": null,
       "venue": "T-Mobile Park",
       "awayPitcher": "Cal Quantrill",
-      "homePitcher": null
+      "homePitcher": "Bryce Miller"
     },
     {
       "gamePk": 824957,
       "date": "2026-09-08",
       "gameDate": "2026-09-09T01:40:00Z",
       "localGameTime": "2026-09-08T21:40:00-04:00",
-      "status": "Scheduled",
+      "status": "Pre-Game",
       "abstractGameState": "Preview",
-      "codedGameState": "S",
+      "codedGameState": "P",
       "awayTeam": {
         "id": 141,
         "name": "Toronto Blue Jays",
@@ -10016,9 +10016,9 @@
       "date": "2026-09-08",
       "gameDate": "2026-09-09T01:45:00Z",
       "localGameTime": "2026-09-08T21:45:00-04:00",
-      "status": "Scheduled",
+      "status": "Pre-Game",
       "abstractGameState": "Preview",
-      "codedGameState": "S",
+      "codedGameState": "P",
       "awayTeam": {
         "id": 138,
         "name": "St. Louis Cardinals",
@@ -10040,9 +10040,9 @@
       "date": "2026-09-08",
       "gameDate": "2026-09-09T02:10:00Z",
       "localGameTime": "2026-09-08T22:10:00-04:00",
-      "status": "Scheduled",
+      "status": "Pre-Game",
       "abstractGameState": "Preview",
-      "codedGameState": "S",
+      "codedGameState": "P",
       "awayTeam": {
         "id": 113,
         "name": "Cincinnati Reds",
@@ -10177,7 +10177,7 @@
       "homeScore": null,
       "venue": "T-Mobile Park",
       "awayPitcher": "Cody Bradford",
-      "homePitcher": null
+      "homePitcher": "Kade Anderson"
     },
     {
       "gamePk": 824791,
@@ -10489,7 +10489,7 @@
       "homeScore": null,
       "venue": "T-Mobile Park",
       "awayPitcher": "Jacob deGrom",
-      "homePitcher": null
+      "homePitcher": "Logan Gilbert"
     },
     {
       "gamePk": 823499,
@@ -10944,7 +10944,7 @@
       "awayScore": null,
       "homeScore": null,
       "venue": "Yankee Stadium",
-      "awayPitcher": null,
+      "awayPitcher": "Zac Thornton",
       "homePitcher": null
     },
     {
@@ -11088,7 +11088,7 @@
       "awayScore": null,
       "homeScore": null,
       "venue": "Target Field",
-      "awayPitcher": null,
+      "awayPitcher": "Gavin Williams",
       "homePitcher": null
     },
     {
@@ -11376,7 +11376,7 @@
       "awayScore": null,
       "homeScore": null,
       "venue": "Yankee Stadium",
-      "awayPitcher": null,
+      "awayPitcher": "Christian Scott",
       "homePitcher": null
     },
     {
