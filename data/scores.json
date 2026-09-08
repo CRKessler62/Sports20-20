@@ -1,6 +1,6 @@
 {
   "league": "MLB",
-  "lastUpdated": "2026-09-08T21:54:50.765316+00:00",
+  "lastUpdated": "2026-09-08T22:14:26.242809+00:00",
   "games": [
     {
       "gamePk": 824792,
@@ -8,7 +8,7 @@
       "homeTeam": "Baltimore Orioles",
       "awayScore": 0,
       "homeScore": 0,
-      "status": "Pre-Game",
+      "status": "Warmup",
       "gameDate": "2026-09-08T22:35:00Z",
       "inning": 1,
       "inningOrdinal": "1st",
@@ -270,17 +270,23 @@
       "homeScore": 0,
       "status": "Pre-Game",
       "gameDate": "2026-09-09T01:40:00Z",
-      "inning": null,
-      "inningOrdinal": null,
-      "inningState": null,
-      "outs": null,
-      "battingTeam": null,
+      "inning": 1,
+      "inningOrdinal": "1st",
+      "inningState": "Top",
+      "outs": 0,
+      "battingTeam": "Washington Nationals",
       "runners": {
         "first": false,
         "second": false,
         "third": false
       },
-      "inningScores": []
+      "inningScores": [
+        {
+          "inning": 1,
+          "awayRuns": 0,
+          "homeRuns": 0
+        }
+      ]
     },
     {
       "gamePk": 823092,
@@ -308,7 +314,7 @@
       "homeTeam": "Athletics",
       "awayScore": 0,
       "homeScore": 0,
-      "status": "Scheduled",
+      "status": "Pre-Game",
       "gameDate": "2026-09-09T01:40:00Z",
       "inning": null,
       "inningOrdinal": null,
@@ -348,7 +354,7 @@
       "homeTeam": "Los Angeles Dodgers",
       "awayScore": 0,
       "homeScore": 0,
-      "status": "Scheduled",
+      "status": "Pre-Game",
       "gameDate": "2026-09-09T02:10:00Z",
       "inning": null,
       "inningOrdinal": null,
