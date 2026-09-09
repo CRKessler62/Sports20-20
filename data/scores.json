@@ -1,6 +1,6 @@
 {
   "league": "MLB",
-  "lastUpdated": "2026-09-09T20:18:40.172016+00:00",
+  "lastUpdated": "2026-09-09T20:35:25.717596+00:00",
   "games": [
     {
       "gamePk": 824226,
@@ -10,10 +10,10 @@
       "homeScore": 5,
       "status": "In Progress",
       "gameDate": "2026-09-09T17:10:00Z",
-      "inning": 5,
-      "inningOrdinal": "5th",
+      "inning": 6,
+      "inningOrdinal": "6th",
       "inningState": "Top",
-      "outs": 0,
+      "outs": 1,
       "battingTeam": "Minnesota Twins",
       "runners": {
         "first": false,
@@ -45,6 +45,11 @@
           "inning": 5,
           "awayRuns": 0,
           "homeRuns": 0
+        },
+        {
+          "inning": 6,
+          "awayRuns": 0,
+          "homeRuns": 0
         }
       ]
     },
@@ -56,10 +61,10 @@
       "homeScore": 2,
       "status": "In Progress",
       "gameDate": "2026-09-09T19:05:00Z",
-      "inning": 5,
-      "inningOrdinal": "5th",
+      "inning": 6,
+      "inningOrdinal": "6th",
       "inningState": "Top",
-      "outs": 0,
+      "outs": 2,
       "battingTeam": "Toronto Blue Jays",
       "runners": {
         "first": false,
@@ -91,6 +96,11 @@
           "inning": 5,
           "awayRuns": 0,
           "homeRuns": 0
+        },
+        {
+          "inning": 6,
+          "awayRuns": 0,
+          "homeRuns": 0
         }
       ]
     },
@@ -98,15 +108,15 @@
       "gamePk": 823172,
       "awayTeam": "St. Louis Cardinals",
       "homeTeam": "San Francisco Giants",
-      "awayScore": 1,
+      "awayScore": 4,
       "homeScore": 1,
       "status": "In Progress",
       "gameDate": "2026-09-09T19:45:00Z",
-      "inning": 2,
-      "inningOrdinal": "2nd",
-      "inningState": "Bottom",
-      "outs": 0,
-      "battingTeam": "San Francisco Giants",
+      "inning": 3,
+      "inningOrdinal": "3rd",
+      "inningState": "Middle",
+      "outs": 3,
+      "battingTeam": "St. Louis Cardinals",
       "runners": {
         "first": false,
         "second": false,
@@ -122,6 +132,11 @@
           "inning": 2,
           "awayRuns": 1,
           "homeRuns": 0
+        },
+        {
+          "inning": 3,
+          "awayRuns": 3,
+          "homeRuns": 0
         }
       ]
     },
@@ -133,10 +148,10 @@
       "homeScore": 0,
       "status": "In Progress",
       "gameDate": "2026-09-09T20:10:00Z",
-      "inning": 1,
-      "inningOrdinal": "1st",
+      "inning": 2,
+      "inningOrdinal": "2nd",
       "inningState": "Bottom",
-      "outs": 0,
+      "outs": 1,
       "battingTeam": "San Diego Padres",
       "runners": {
         "first": false,
@@ -148,6 +163,11 @@
           "inning": 1,
           "awayRuns": 0,
           "homeRuns": 0
+        },
+        {
+          "inning": 2,
+          "awayRuns": 0,
+          "homeRuns": 0
         }
       ]
     },
@@ -155,15 +175,15 @@
       "gamePk": 823090,
       "awayTeam": "Texas Rangers",
       "homeTeam": "Seattle Mariners",
-      "awayScore": 0,
+      "awayScore": 1,
       "homeScore": 0,
       "status": "In Progress",
       "gameDate": "2026-09-09T20:10:00Z",
-      "inning": 1,
-      "inningOrdinal": "1st",
-      "inningState": "Middle",
-      "outs": 3,
-      "battingTeam": "Texas Rangers",
+      "inning": 2,
+      "inningOrdinal": "2nd",
+      "inningState": "Bottom",
+      "outs": 0,
+      "battingTeam": "Seattle Mariners",
       "runners": {
         "first": false,
         "second": false,
@@ -173,6 +193,11 @@
         {
           "inning": 1,
           "awayRuns": 0,
+          "homeRuns": 0
+        },
+        {
+          "inning": 2,
+          "awayRuns": 1,
           "homeRuns": 0
         }
       ]
