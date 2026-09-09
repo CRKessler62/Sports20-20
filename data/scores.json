@@ -1,6 +1,6 @@
 {
   "league": "MLB",
-  "lastUpdated": "2026-09-09T17:59:43.997103+00:00",
+  "lastUpdated": "2026-09-09T18:24:12.712905+00:00",
   "games": [
     {
       "gamePk": 824226,
@@ -88,17 +88,23 @@
       "homeScore": 0,
       "status": "Pre-Game",
       "gameDate": "2026-09-09T20:10:00Z",
-      "inning": null,
-      "inningOrdinal": null,
-      "inningState": null,
-      "outs": null,
-      "battingTeam": null,
+      "inning": 1,
+      "inningOrdinal": "1st",
+      "inningState": "Top",
+      "outs": 0,
+      "battingTeam": "Washington Nationals",
       "runners": {
         "first": false,
         "second": false,
         "third": false
       },
-      "inningScores": []
+      "inningScores": [
+        {
+          "inning": 1,
+          "awayRuns": 0,
+          "homeRuns": 0
+        }
+      ]
     },
     {
       "gamePk": 823090,
@@ -192,7 +198,7 @@
       "homeTeam": "Boston Red Sox",
       "awayScore": 0,
       "homeScore": 0,
-      "status": "Scheduled",
+      "status": "Pre-Game",
       "gameDate": "2026-09-09T22:45:00Z",
       "inning": null,
       "inningOrdinal": null,
