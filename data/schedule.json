@@ -1,7 +1,7 @@
 {
   "league": "MLB",
   "timezone": "America/New_York",
-  "lastUpdated": "2026-09-09T20:13:33.804447+00:00",
+  "lastUpdated": "2026-09-09T21:11:19.571258+00:00",
   "games": [
     {
       "gamePk": 822780,
@@ -9765,7 +9765,7 @@
         "name": "San Francisco Giants",
         "abbreviation": "SF"
       },
-      "awayScore": 1,
+      "awayScore": 5,
       "homeScore": 1,
       "venue": "Oracle Park",
       "awayPitcher": "Andre Pallante",
@@ -9789,7 +9789,7 @@
         "name": "San Diego Padres",
         "abbreviation": "SD"
       },
-      "awayScore": 0,
+      "awayScore": 2,
       "homeScore": 0,
       "venue": "Petco Park",
       "awayPitcher": "Jackson Kent",
@@ -9813,8 +9813,8 @@
         "name": "Seattle Mariners",
         "abbreviation": "SEA"
       },
-      "awayScore": 0,
-      "homeScore": 0,
+      "awayScore": 1,
+      "homeScore": 1,
       "venue": "T-Mobile Park",
       "awayPitcher": "Cody Bradford",
       "homePitcher": "Kade Anderson"
@@ -10016,9 +10016,9 @@
       "date": "2026-09-09",
       "gameDate": "2026-09-09T23:40:00Z",
       "localGameTime": "2026-09-09T19:40:00-04:00",
-      "status": "Scheduled",
+      "status": "Pre-Game",
       "abstractGameState": "Preview",
-      "codedGameState": "S",
+      "codedGameState": "P",
       "awayTeam": {
         "id": 112,
         "name": "Chicago Cubs",
@@ -10029,8 +10029,8 @@
         "name": "Milwaukee Brewers",
         "abbreviation": "MIL"
       },
-      "awayScore": null,
-      "homeScore": null,
+      "awayScore": 0,
+      "homeScore": 0,
       "venue": "American Family Field",
       "awayPitcher": "Kevin Gausman",
       "homePitcher": "Logan Henderson"
@@ -10104,7 +10104,7 @@
       "awayScore": null,
       "homeScore": null,
       "venue": "Citizens Bank Park",
-      "awayPitcher": null,
+      "awayPitcher": "Cristian Javier",
       "homePitcher": "Zack Wheeler"
     },
     {
