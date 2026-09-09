@@ -1,6 +1,6 @@
 {
   "league": "MLB",
-  "lastUpdated": "2026-09-09T18:44:24.621371+00:00",
+  "lastUpdated": "2026-09-09T18:56:50.209402+00:00",
   "games": [
     {
       "gamePk": 824226,
@@ -8,15 +8,15 @@
       "homeTeam": "Detroit Tigers",
       "awayScore": 0,
       "homeScore": 0,
-      "status": "Warmup",
+      "status": "In Progress",
       "gameDate": "2026-09-09T17:10:00Z",
       "inning": 1,
       "inningOrdinal": "1st",
       "inningState": "Top",
-      "outs": 0,
+      "outs": 1,
       "battingTeam": "Minnesota Twins",
       "runners": {
-        "first": false,
+        "first": true,
         "second": false,
         "third": false
       },
@@ -34,7 +34,7 @@
       "homeTeam": "Athletics",
       "awayScore": 0,
       "homeScore": 0,
-      "status": "Pre-Game",
+      "status": "Warmup",
       "gameDate": "2026-09-09T19:05:00Z",
       "inning": 1,
       "inningOrdinal": "1st",
@@ -158,7 +158,7 @@
       "homeTeam": "Philadelphia Phillies",
       "awayScore": 0,
       "homeScore": 0,
-      "status": "Scheduled",
+      "status": "Pre-Game",
       "gameDate": "2026-09-09T22:40:00Z",
       "inning": null,
       "inningOrdinal": null,
