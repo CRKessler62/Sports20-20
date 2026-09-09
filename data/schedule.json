@@ -1,7 +1,7 @@
 {
   "league": "MLB",
   "timezone": "America/New_York",
-  "lastUpdated": "2026-09-09T02:13:08.156255+00:00",
+  "lastUpdated": "2026-09-09T03:13:24.146999+00:00",
   "games": [
     {
       "gamePk": 822780,
@@ -9512,9 +9512,9 @@
       "date": "2026-09-08",
       "gameDate": "2026-09-08T23:40:00Z",
       "localGameTime": "2026-09-08T19:40:00-04:00",
-      "status": "In Progress",
-      "abstractGameState": "Live",
-      "codedGameState": "I",
+      "status": "Game Over",
+      "abstractGameState": "Final",
+      "codedGameState": "O",
       "awayTeam": {
         "id": 109,
         "name": "Arizona Diamondbacks",
@@ -9525,8 +9525,8 @@
         "name": "Kansas City Royals",
         "abbreviation": "KC"
       },
-      "awayScore": 2,
-      "homeScore": 0,
+      "awayScore": 5,
+      "homeScore": 3,
       "venue": "Kauffman Stadium",
       "awayPitcher": "Corbin Burnes",
       "homePitcher": "Michael Wacha"
@@ -9536,9 +9536,9 @@
       "date": "2026-09-08",
       "gameDate": "2026-09-08T23:40:00Z",
       "localGameTime": "2026-09-08T19:40:00-04:00",
-      "status": "In Progress",
-      "abstractGameState": "Live",
-      "codedGameState": "I",
+      "status": "Final",
+      "abstractGameState": "Final",
+      "codedGameState": "F",
       "awayTeam": {
         "id": 134,
         "name": "Pittsburgh Pirates",
@@ -9560,9 +9560,9 @@
       "date": "2026-09-08",
       "gameDate": "2026-09-08T23:40:00Z",
       "localGameTime": "2026-09-08T19:40:00-04:00",
-      "status": "In Progress",
-      "abstractGameState": "Live",
-      "codedGameState": "I",
+      "status": "Final",
+      "abstractGameState": "Final",
+      "codedGameState": "F",
       "awayTeam": {
         "id": 112,
         "name": "Chicago Cubs",
@@ -9573,8 +9573,8 @@
         "name": "Milwaukee Brewers",
         "abbreviation": "MIL"
       },
-      "awayScore": 1,
-      "homeScore": 1,
+      "awayScore": 3,
+      "homeScore": 4,
       "venue": "American Family Field",
       "awayPitcher": "David Peterson",
       "homePitcher": "Jacob Misiorowski"
@@ -9597,7 +9597,7 @@
         "name": "San Diego Padres",
         "abbreviation": "SD"
       },
-      "awayScore": 1,
+      "awayScore": 3,
       "homeScore": 0,
       "venue": "Petco Park",
       "awayPitcher": "Riley Cornelio",
@@ -9621,8 +9621,8 @@
         "name": "Seattle Mariners",
         "abbreviation": "SEA"
       },
-      "awayScore": 2,
-      "homeScore": 0,
+      "awayScore": 4,
+      "homeScore": 3,
       "venue": "T-Mobile Park",
       "awayPitcher": "Cal Quantrill",
       "homePitcher": "Bryce Miller"
@@ -9632,9 +9632,9 @@
       "date": "2026-09-08",
       "gameDate": "2026-09-09T01:40:00Z",
       "localGameTime": "2026-09-08T21:40:00-04:00",
-      "status": "In Progress",
+      "status": "Player challenge",
       "abstractGameState": "Live",
-      "codedGameState": "I",
+      "codedGameState": "M",
       "awayTeam": {
         "id": 141,
         "name": "Toronto Blue Jays",
@@ -9645,8 +9645,8 @@
         "name": "Athletics",
         "abbreviation": "ATH"
       },
-      "awayScore": 2,
-      "homeScore": 0,
+      "awayScore": 4,
+      "homeScore": 1,
       "venue": "Sutter Health Park",
       "awayPitcher": "Jos\u00e9 Soriano",
       "homePitcher": "Jack Perkins"
@@ -9670,7 +9670,7 @@
         "abbreviation": "SF"
       },
       "awayScore": 0,
-      "homeScore": 1,
+      "homeScore": 2,
       "venue": "Oracle Park",
       "awayPitcher": "Quinn Mathews",
       "homePitcher": "Landen Roupp"
@@ -9693,8 +9693,8 @@
         "name": "Los Angeles Dodgers",
         "abbreviation": "LAD"
       },
-      "awayScore": 0,
-      "homeScore": 0,
+      "awayScore": 2,
+      "homeScore": 2,
       "venue": "UNIQLO Field at Dodger Stadium",
       "awayPitcher": "Nick Lodolo",
       "homePitcher": "Tarik Skubal"
@@ -10008,7 +10008,7 @@
       "awayScore": null,
       "homeScore": null,
       "venue": "Rate Field",
-      "awayPitcher": null,
+      "awayPitcher": "Lake Bachar",
       "homePitcher": "Davis Martin"
     },
     {
