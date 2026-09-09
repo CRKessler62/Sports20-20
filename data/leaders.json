@@ -1,6 +1,6 @@
 {
   "season": 2026,
-  "lastUpdated": "2026-09-09T21:22:18.197573+00:00",
+  "lastUpdated": "2026-09-09T22:22:50.153367+00:00",
   "leagues": {
     "AL": {
       "offense": {
@@ -216,7 +216,7 @@
             "player": "Kevin McGonigle",
             "team": "Detroit Tigers",
             "position": "SS",
-            "value": ".374"
+            "value": ".373"
           },
           {
             "rank": 5,
@@ -681,7 +681,7 @@
             "player": "Spencer Torkelson",
             "team": "Detroit Tigers",
             "position": "1B",
-            "value": "1073"
+            "value": "1074"
           },
           {
             "rank": 2,
@@ -695,7 +695,7 @@
             "player": "Josh Naylor",
             "team": "Seattle Mariners",
             "position": "1B",
-            "value": "949"
+            "value": "950"
           },
           {
             "rank": 4,
@@ -709,7 +709,7 @@
             "player": "Jake Burger",
             "team": "Texas Rangers",
             "position": "1B",
-            "value": "899"
+            "value": "904"
           }
         ],
         "assists": [
@@ -792,7 +792,7 @@
             "player": "Spencer Torkelson",
             "team": "Detroit Tigers",
             "position": "1B",
-            "value": "103"
+            "value": "104"
           },
           {
             "rank": 2,
@@ -885,7 +885,7 @@
             "player": "Fernando Tatis Jr.",
             "team": "San Diego Padres",
             "position": "RF",
-            "value": "160"
+            "value": "161"
           },
           {
             "rank": 4,
@@ -1026,7 +1026,7 @@
             "player": "James Wood",
             "team": "Washington Nationals",
             "position": "RF",
-            "value": ".392"
+            "value": ".391"
           },
           {
             "rank": 3,
@@ -1067,17 +1067,17 @@
           },
           {
             "rank": 3,
-            "player": "James Wood",
-            "team": "Washington Nationals",
-            "position": "RF",
-            "value": ".527"
-          },
-          {
-            "rank": 4,
             "player": "Kyle Schwarber",
             "team": "Philadelphia Phillies",
             "position": "DH",
             "value": ".527"
+          },
+          {
+            "rank": 4,
+            "player": "James Wood",
+            "team": "Washington Nationals",
+            "position": "RF",
+            "value": ".526"
           },
           {
             "rank": 5,
@@ -1100,7 +1100,7 @@
             "player": "James Wood",
             "team": "Washington Nationals",
             "position": "RF",
-            "value": ".919"
+            "value": ".917"
           },
           {
             "rank": 3,
@@ -1505,7 +1505,7 @@
             "player": "Alec Burleson",
             "team": "St. Louis Cardinals",
             "position": "1B",
-            "value": "1100"
+            "value": "1102"
           },
           {
             "rank": 2,
