@@ -1,7 +1,7 @@
 {
   "league": "MLB",
   "timezone": "America/New_York",
-  "lastUpdated": "2026-09-09T17:12:19.770642+00:00",
+  "lastUpdated": "2026-09-09T18:16:15.230781+00:00",
   "games": [
     {
       "gamePk": 822780,
@@ -9800,9 +9800,9 @@
       "date": "2026-09-09",
       "gameDate": "2026-09-09T20:10:00Z",
       "localGameTime": "2026-09-09T16:10:00-04:00",
-      "status": "Scheduled",
+      "status": "Pre-Game",
       "abstractGameState": "Preview",
-      "codedGameState": "S",
+      "codedGameState": "P",
       "awayTeam": {
         "id": 140,
         "name": "Texas Rangers",
@@ -9813,8 +9813,8 @@
         "name": "Seattle Mariners",
         "abbreviation": "SEA"
       },
-      "awayScore": null,
-      "homeScore": null,
+      "awayScore": 0,
+      "homeScore": 0,
       "venue": "T-Mobile Park",
       "awayPitcher": "Cody Bradford",
       "homePitcher": "Kade Anderson"
@@ -9896,9 +9896,9 @@
       "date": "2026-09-09",
       "gameDate": "2026-09-09T22:45:00Z",
       "localGameTime": "2026-09-09T18:45:00-04:00",
-      "status": "Scheduled",
+      "status": "Pre-Game",
       "abstractGameState": "Preview",
-      "codedGameState": "S",
+      "codedGameState": "P",
       "awayTeam": {
         "id": 108,
         "name": "Los Angeles Angels",
@@ -10465,7 +10465,7 @@
       "homeScore": null,
       "venue": "Busch Stadium",
       "awayPitcher": null,
-      "homePitcher": null
+      "homePitcher": "Matthew Liberatore"
     },
     {
       "gamePk": 824954,
@@ -10849,7 +10849,7 @@
       "homeScore": null,
       "venue": "Busch Stadium",
       "awayPitcher": null,
-      "homePitcher": null
+      "homePitcher": "Kyle Leahy"
     },
     {
       "gamePk": 825035,
@@ -11161,7 +11161,7 @@
       "homeScore": null,
       "venue": "Busch Stadium",
       "awayPitcher": null,
-      "homePitcher": null
+      "homePitcher": "Michael McGreevy"
     },
     {
       "gamePk": 824628,
