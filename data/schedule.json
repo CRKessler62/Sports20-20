@@ -1,7 +1,7 @@
 {
   "league": "MLB",
   "timezone": "America/New_York",
-  "lastUpdated": "2026-09-09T21:11:19.571258+00:00",
+  "lastUpdated": "2026-09-09T22:12:11.531005+00:00",
   "games": [
     {
       "gamePk": 822780,
@@ -9704,9 +9704,9 @@
       "date": "2026-09-09",
       "gameDate": "2026-09-09T17:10:00Z",
       "localGameTime": "2026-09-09T13:10:00-04:00",
-      "status": "In Progress",
-      "abstractGameState": "Live",
-      "codedGameState": "I",
+      "status": "Final",
+      "abstractGameState": "Final",
+      "codedGameState": "F",
       "awayTeam": {
         "id": 142,
         "name": "Minnesota Twins",
@@ -9718,7 +9718,7 @@
         "abbreviation": "DET"
       },
       "awayScore": 2,
-      "homeScore": 5,
+      "homeScore": 7,
       "venue": "Comerica Park",
       "awayPitcher": "Zebby Matthews",
       "homePitcher": "Keider Montero"
@@ -9728,9 +9728,9 @@
       "date": "2026-09-09",
       "gameDate": "2026-09-09T19:05:00Z",
       "localGameTime": "2026-09-09T15:05:00-04:00",
-      "status": "In Progress",
-      "abstractGameState": "Live",
-      "codedGameState": "I",
+      "status": "Final",
+      "abstractGameState": "Final",
+      "codedGameState": "F",
       "awayTeam": {
         "id": 141,
         "name": "Toronto Blue Jays",
@@ -9765,8 +9765,8 @@
         "name": "San Francisco Giants",
         "abbreviation": "SF"
       },
-      "awayScore": 5,
-      "homeScore": 1,
+      "awayScore": 6,
+      "homeScore": 6,
       "venue": "Oracle Park",
       "awayPitcher": "Andre Pallante",
       "homePitcher": "Blade Tidwell"
@@ -9790,7 +9790,7 @@
         "abbreviation": "SD"
       },
       "awayScore": 2,
-      "homeScore": 0,
+      "homeScore": 7,
       "venue": "Petco Park",
       "awayPitcher": "Jackson Kent",
       "homePitcher": "Walker Buehler"
@@ -9813,8 +9813,8 @@
         "name": "Seattle Mariners",
         "abbreviation": "SEA"
       },
-      "awayScore": 1,
-      "homeScore": 1,
+      "awayScore": 2,
+      "homeScore": 3,
       "venue": "T-Mobile Park",
       "awayPitcher": "Cody Bradford",
       "homePitcher": "Kade Anderson"
@@ -9837,8 +9837,8 @@
         "name": "Baltimore Orioles",
         "abbreviation": "BAL"
       },
-      "awayScore": null,
-      "homeScore": null,
+      "awayScore": 0,
+      "homeScore": 0,
       "venue": "Oriole Park at Camden Yards",
       "awayPitcher": "Foster Griffin",
       "homePitcher": "Shane Baz"
@@ -10040,9 +10040,9 @@
       "date": "2026-09-09",
       "gameDate": "2026-09-10T02:10:00Z",
       "localGameTime": "2026-09-09T22:10:00-04:00",
-      "status": "Scheduled",
+      "status": "Pre-Game",
       "abstractGameState": "Preview",
-      "codedGameState": "S",
+      "codedGameState": "P",
       "awayTeam": {
         "id": 113,
         "name": "Cincinnati Reds",
@@ -10296,7 +10296,7 @@
       "awayScore": null,
       "homeScore": null,
       "venue": "Rogers Centre",
-      "awayPitcher": null,
+      "awayPitcher": "Chris Bassitt",
       "homePitcher": null
     },
     {
@@ -10321,7 +10321,7 @@
       "homeScore": null,
       "venue": "Fenway Park",
       "awayPitcher": null,
-      "homePitcher": null
+      "homePitcher": "Sonny Gray"
     },
     {
       "gamePk": 822930,
@@ -10632,7 +10632,7 @@
       "awayScore": null,
       "homeScore": null,
       "venue": "Rogers Centre",
-      "awayPitcher": null,
+      "awayPitcher": "Kyle Bradish",
       "homePitcher": null
     },
     {
@@ -10705,7 +10705,7 @@
       "homeScore": null,
       "venue": "Fenway Park",
       "awayPitcher": null,
-      "homePitcher": null
+      "homePitcher": "Ranger Suarez"
     },
     {
       "gamePk": 823657,
@@ -10728,7 +10728,7 @@
       "awayScore": null,
       "homeScore": null,
       "venue": "Target Field",
-      "awayPitcher": "Gavin Williams",
+      "awayPitcher": null,
       "homePitcher": null
     },
     {
@@ -10945,7 +10945,7 @@
       "homeScore": null,
       "venue": "Fenway Park",
       "awayPitcher": null,
-      "homePitcher": null
+      "homePitcher": "Payton Tolle"
     },
     {
       "gamePk": 822682,
@@ -11040,7 +11040,7 @@
       "awayScore": null,
       "homeScore": null,
       "venue": "Rogers Centre",
-      "awayPitcher": null,
+      "awayPitcher": "Trevor Rogers",
       "homePitcher": null
     },
     {
