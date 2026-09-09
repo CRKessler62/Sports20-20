@@ -1,6 +1,6 @@
 {
   "league": "MLB",
-  "lastUpdated": "2026-09-09T21:51:06.856203+00:00",
+  "lastUpdated": "2026-09-09T22:06:53.529795+00:00",
   "games": [
     {
       "gamePk": 824226,
@@ -139,16 +139,16 @@
       "awayTeam": "St. Louis Cardinals",
       "homeTeam": "San Francisco Giants",
       "awayScore": 6,
-      "homeScore": 1,
+      "homeScore": 3,
       "status": "In Progress",
       "gameDate": "2026-09-09T19:45:00Z",
       "inning": 8,
       "inningOrdinal": "8th",
-      "inningState": "Top",
+      "inningState": "Bottom",
       "outs": 2,
-      "battingTeam": "St. Louis Cardinals",
+      "battingTeam": "San Francisco Giants",
       "runners": {
-        "first": false,
+        "first": true,
         "second": false,
         "third": true
       },
@@ -191,7 +191,7 @@
         {
           "inning": 8,
           "awayRuns": 0,
-          "homeRuns": 0
+          "homeRuns": 2
         }
       ]
     },
@@ -200,16 +200,16 @@
       "awayTeam": "Washington Nationals",
       "homeTeam": "San Diego Padres",
       "awayScore": 2,
-      "homeScore": 5,
+      "homeScore": 7,
       "status": "In Progress",
       "gameDate": "2026-09-09T20:10:00Z",
-      "inning": 5,
-      "inningOrdinal": "5th",
+      "inning": 6,
+      "inningOrdinal": "6th",
       "inningState": "Top",
       "outs": 2,
       "battingTeam": "Washington Nationals",
       "runners": {
-        "first": true,
+        "first": false,
         "second": false,
         "third": false
       },
@@ -237,6 +237,11 @@
         {
           "inning": 5,
           "awayRuns": 0,
+          "homeRuns": 2
+        },
+        {
+          "inning": 6,
+          "awayRuns": 0,
           "homeRuns": 0
         }
       ]
@@ -245,17 +250,17 @@
       "gamePk": 823090,
       "awayTeam": "Texas Rangers",
       "homeTeam": "Seattle Mariners",
-      "awayScore": 1,
+      "awayScore": 2,
       "homeScore": 3,
       "status": "In Progress",
       "gameDate": "2026-09-09T20:10:00Z",
-      "inning": 7,
-      "inningOrdinal": "7th",
+      "inning": 8,
+      "inningOrdinal": "8th",
       "inningState": "Top",
-      "outs": 1,
+      "outs": 0,
       "battingTeam": "Texas Rangers",
       "runners": {
-        "first": true,
+        "first": false,
         "second": false,
         "third": false
       },
@@ -293,6 +298,11 @@
         {
           "inning": 7,
           "awayRuns": 0,
+          "homeRuns": 0
+        },
+        {
+          "inning": 8,
+          "awayRuns": 1,
           "homeRuns": 0
         }
       ]
@@ -537,7 +547,7 @@
       "homeTeam": "Los Angeles Dodgers",
       "awayScore": 0,
       "homeScore": 0,
-      "status": "Scheduled",
+      "status": "Pre-Game",
       "gameDate": "2026-09-10T02:10:00Z",
       "inning": null,
       "inningOrdinal": null,
