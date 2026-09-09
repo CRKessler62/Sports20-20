@@ -1,7 +1,7 @@
 {
   "league": "MLB",
   "timezone": "America/New_York",
-  "lastUpdated": "2026-09-09T19:11:35.385126+00:00",
+  "lastUpdated": "2026-09-09T20:13:33.804447+00:00",
   "games": [
     {
       "gamePk": 822780,
@@ -9717,8 +9717,8 @@
         "name": "Detroit Tigers",
         "abbreviation": "DET"
       },
-      "awayScore": 0,
-      "homeScore": 2,
+      "awayScore": 2,
+      "homeScore": 5,
       "venue": "Comerica Park",
       "awayPitcher": "Zebby Matthews",
       "homePitcher": "Keider Montero"
@@ -9742,7 +9742,7 @@
         "abbreviation": "ATH"
       },
       "awayScore": 0,
-      "homeScore": 0,
+      "homeScore": 2,
       "venue": "Sutter Health Park",
       "awayPitcher": "Braydon Fisher",
       "homePitcher": "Brady Basso"
@@ -9752,9 +9752,9 @@
       "date": "2026-09-09",
       "gameDate": "2026-09-09T19:45:00Z",
       "localGameTime": "2026-09-09T15:45:00-04:00",
-      "status": "Pre-Game",
-      "abstractGameState": "Preview",
-      "codedGameState": "P",
+      "status": "In Progress",
+      "abstractGameState": "Live",
+      "codedGameState": "I",
       "awayTeam": {
         "id": 138,
         "name": "St. Louis Cardinals",
@@ -9765,8 +9765,8 @@
         "name": "San Francisco Giants",
         "abbreviation": "SF"
       },
-      "awayScore": 0,
-      "homeScore": 0,
+      "awayScore": 1,
+      "homeScore": 1,
       "venue": "Oracle Park",
       "awayPitcher": "Andre Pallante",
       "homePitcher": "Blade Tidwell"
@@ -9776,9 +9776,9 @@
       "date": "2026-09-09",
       "gameDate": "2026-09-09T20:10:00Z",
       "localGameTime": "2026-09-09T16:10:00-04:00",
-      "status": "Pre-Game",
-      "abstractGameState": "Preview",
-      "codedGameState": "P",
+      "status": "In Progress",
+      "abstractGameState": "Live",
+      "codedGameState": "I",
       "awayTeam": {
         "id": 120,
         "name": "Washington Nationals",
@@ -9800,9 +9800,9 @@
       "date": "2026-09-09",
       "gameDate": "2026-09-09T20:10:00Z",
       "localGameTime": "2026-09-09T16:10:00-04:00",
-      "status": "Pre-Game",
-      "abstractGameState": "Preview",
-      "codedGameState": "P",
+      "status": "In Progress",
+      "abstractGameState": "Live",
+      "codedGameState": "I",
       "awayTeam": {
         "id": 140,
         "name": "Texas Rangers",
@@ -9824,9 +9824,9 @@
       "date": "2026-09-09",
       "gameDate": "2026-09-09T22:35:00Z",
       "localGameTime": "2026-09-09T18:35:00-04:00",
-      "status": "Scheduled",
+      "status": "Pre-Game",
       "abstractGameState": "Preview",
-      "codedGameState": "S",
+      "codedGameState": "P",
       "awayTeam": {
         "id": 114,
         "name": "Cleveland Guardians",
@@ -9861,8 +9861,8 @@
         "name": "Philadelphia Phillies",
         "abbreviation": "PHI"
       },
-      "awayScore": null,
-      "homeScore": null,
+      "awayScore": 0,
+      "homeScore": 0,
       "venue": "Citizens Bank Park",
       "awayPitcher": "Hunter Brown",
       "homePitcher": "Cristopher S\u00e1nchez"
@@ -9872,9 +9872,9 @@
       "date": "2026-09-09",
       "gameDate": "2026-09-09T22:40:00Z",
       "localGameTime": "2026-09-09T18:40:00-04:00",
-      "status": "Scheduled",
+      "status": "Pre-Game",
       "abstractGameState": "Preview",
-      "codedGameState": "S",
+      "codedGameState": "P",
       "awayTeam": {
         "id": 121,
         "name": "New York Mets",
@@ -9885,8 +9885,8 @@
         "name": "Miami Marlins",
         "abbreviation": "MIA"
       },
-      "awayScore": null,
-      "homeScore": null,
+      "awayScore": 0,
+      "homeScore": 0,
       "venue": "loanDepot park",
       "awayPitcher": "Robert Stock",
       "homePitcher": "Janson Junk"
@@ -9909,8 +9909,8 @@
         "name": "Boston Red Sox",
         "abbreviation": "BOS"
       },
-      "awayScore": null,
-      "homeScore": null,
+      "awayScore": 0,
+      "homeScore": 0,
       "venue": "Fenway Park",
       "awayPitcher": "Ryan Johnson",
       "homePitcher": "Jake Bennett"
@@ -9920,9 +9920,9 @@
       "date": "2026-09-09",
       "gameDate": "2026-09-09T23:05:00Z",
       "localGameTime": "2026-09-09T19:05:00-04:00",
-      "status": "Scheduled",
+      "status": "Pre-Game",
       "abstractGameState": "Preview",
-      "codedGameState": "S",
+      "codedGameState": "P",
       "awayTeam": {
         "id": 115,
         "name": "Colorado Rockies",
@@ -9933,8 +9933,8 @@
         "name": "New York Yankees",
         "abbreviation": "NYY"
       },
-      "awayScore": null,
-      "homeScore": null,
+      "awayScore": 0,
+      "homeScore": 0,
       "venue": "Yankee Stadium",
       "awayPitcher": "Tomoyuki Sugano",
       "homePitcher": "Will Warren"
@@ -9944,9 +9944,9 @@
       "date": "2026-09-09",
       "gameDate": "2026-09-09T23:15:00Z",
       "localGameTime": "2026-09-09T19:15:00-04:00",
-      "status": "Scheduled",
+      "status": "Pre-Game",
       "abstractGameState": "Preview",
-      "codedGameState": "S",
+      "codedGameState": "P",
       "awayTeam": {
         "id": 139,
         "name": "Tampa Bay Rays",
@@ -9957,20 +9957,20 @@
         "name": "Atlanta Braves",
         "abbreviation": "ATL"
       },
-      "awayScore": null,
-      "homeScore": null,
+      "awayScore": 0,
+      "homeScore": 0,
       "venue": "Truist Park",
       "awayPitcher": "Griffin Jax",
-      "homePitcher": null
+      "homePitcher": "Reynaldo L\u00f3pez"
     },
     {
       "gamePk": 824064,
       "date": "2026-09-09",
       "gameDate": "2026-09-09T23:40:00Z",
       "localGameTime": "2026-09-09T19:40:00-04:00",
-      "status": "Scheduled",
+      "status": "Pre-Game",
       "abstractGameState": "Preview",
-      "codedGameState": "S",
+      "codedGameState": "P",
       "awayTeam": {
         "id": 109,
         "name": "Arizona Diamondbacks",
@@ -9981,8 +9981,8 @@
         "name": "Kansas City Royals",
         "abbreviation": "KC"
       },
-      "awayScore": null,
-      "homeScore": null,
+      "awayScore": 0,
+      "homeScore": 0,
       "venue": "Kauffman Stadium",
       "awayPitcher": "Zac Gallen",
       "homePitcher": "Daniel Lynch IV"
@@ -9992,9 +9992,9 @@
       "date": "2026-09-09",
       "gameDate": "2026-09-09T23:40:00Z",
       "localGameTime": "2026-09-09T19:40:00-04:00",
-      "status": "Scheduled",
+      "status": "Pre-Game",
       "abstractGameState": "Preview",
-      "codedGameState": "S",
+      "codedGameState": "P",
       "awayTeam": {
         "id": 134,
         "name": "Pittsburgh Pirates",
@@ -10005,8 +10005,8 @@
         "name": "Chicago White Sox",
         "abbreviation": "CWS"
       },
-      "awayScore": null,
-      "homeScore": null,
+      "awayScore": 0,
+      "homeScore": 0,
       "venue": "Rate Field",
       "awayPitcher": "Lake Bachar",
       "homePitcher": "Davis Martin"
@@ -10248,7 +10248,7 @@
       "awayScore": null,
       "homeScore": null,
       "venue": "Nationals Park",
-      "awayPitcher": null,
+      "awayPitcher": "Yusei Kikuchi",
       "homePitcher": "Cade Cavalli"
     },
     {
@@ -10656,7 +10656,7 @@
       "awayScore": null,
       "homeScore": null,
       "venue": "Nationals Park",
-      "awayPitcher": null,
+      "awayPitcher": "Walbert Ure\u00f1a",
       "homePitcher": "Andrew Alvarez"
     },
     {
@@ -10968,7 +10968,7 @@
       "awayScore": null,
       "homeScore": null,
       "venue": "Nationals Park",
-      "awayPitcher": null,
+      "awayPitcher": "Grayson Rodriguez",
       "homePitcher": "Jake Irvin"
     },
     {
