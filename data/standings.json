@@ -1,7 +1,7 @@
 {
   "league": "MLB",
   "season": 2026,
-  "lastUpdated": "2026-09-09T23:03:29.125228+00:00",
+  "lastUpdated": "2026-09-09T23:16:24.502959+00:00",
   "teamCount": 30,
   "teams": [
     {
@@ -2158,13 +2158,13 @@
       "league": "",
       "division": "",
       "wins": 67,
-      "losses": 80,
-      "winPct": ".456",
-      "gamesBack": "19.0",
+      "losses": 81,
+      "winPct": ".453",
+      "gamesBack": "19.5",
       "divisionRank": "5",
       "leagueRank": "13",
-      "wildCardGamesBack": "11.5",
-      "streak": "L6",
+      "wildCardGamesBack": "12.0",
+      "streak": "L7",
       "lastTen": [
         {
           "wins": 33,
@@ -2174,9 +2174,9 @@
         },
         {
           "wins": 34,
-          "losses": 40,
+          "losses": 41,
           "type": "away",
-          "pct": ".459"
+          "pct": ".453"
         },
         {
           "wins": 23,
@@ -2204,21 +2204,21 @@
         },
         {
           "wins": 16,
-          "losses": 28,
+          "losses": 29,
           "type": "rightAway",
-          "pct": ".364"
+          "pct": ".356"
         },
         {
           "wins": 44,
-          "losses": 59,
+          "losses": 60,
           "type": "right",
-          "pct": ".427"
+          "pct": ".423"
         },
         {
-          "wins": 3,
-          "losses": 7,
+          "wins": 2,
+          "losses": 8,
           "type": "lastTen",
-          "pct": ".300"
+          "pct": ".200"
         },
         {
           "wins": 7,
@@ -2234,15 +2234,15 @@
         },
         {
           "wins": 29,
-          "losses": 42,
+          "losses": 43,
           "type": "winners",
-          "pct": ".408"
+          "pct": ".403"
         },
         {
           "wins": 29,
-          "losses": 33,
+          "losses": 34,
           "type": "day",
-          "pct": ".468"
+          "pct": ".460"
         },
         {
           "wins": 38,
@@ -2252,9 +2252,9 @@
         },
         {
           "wins": 62,
-          "losses": 70,
+          "losses": 71,
           "type": "grass",
-          "pct": ".470"
+          "pct": ".466"
         },
         {
           "wins": 5,
@@ -3061,20 +3061,20 @@
       "abbreviation": null,
       "league": "",
       "division": "",
-      "wins": 77,
+      "wins": 78,
       "losses": 68,
-      "winPct": ".531",
-      "gamesBack": "11.0",
+      "winPct": ".534",
+      "gamesBack": "10.5",
       "divisionRank": "3",
       "leagueRank": "7",
-      "wildCardGamesBack": "0.5",
-      "streak": "W3",
+      "wildCardGamesBack": "-",
+      "streak": "W4",
       "lastTen": [
         {
-          "wins": 45,
+          "wins": 46,
           "losses": 29,
           "type": "home",
-          "pct": ".608"
+          "pct": ".613"
         },
         {
           "wins": 32,
@@ -3083,16 +3083,16 @@
           "pct": ".451"
         },
         {
-          "wins": 18,
+          "wins": 19,
           "losses": 20,
           "type": "left",
-          "pct": ".474"
+          "pct": ".487"
         },
         {
-          "wins": 9,
+          "wins": 10,
           "losses": 8,
           "type": "leftHome",
-          "pct": ".529"
+          "pct": ".556"
         },
         {
           "wins": 9,
@@ -3119,10 +3119,10 @@
           "pct": ".551"
         },
         {
-          "wins": 5,
-          "losses": 5,
+          "wins": 6,
+          "losses": 4,
           "type": "lastTen",
-          "pct": ".500"
+          "pct": ".600"
         },
         {
           "wins": 6,
@@ -3143,10 +3143,10 @@
           "pct": ".413"
         },
         {
-          "wins": 33,
+          "wins": 34,
           "losses": 22,
           "type": "day",
-          "pct": ".600"
+          "pct": ".607"
         },
         {
           "wins": 44,
@@ -3155,10 +3155,10 @@
           "pct": ".489"
         },
         {
-          "wins": 70,
+          "wins": 71,
           "losses": 60,
           "type": "grass",
-          "pct": ".538"
+          "pct": ".542"
         },
         {
           "wins": 7,
