@@ -1,6 +1,6 @@
 {
   "league": "MLB",
-  "lastUpdated": "2026-09-09T13:20:28.475477+00:00",
+  "lastUpdated": "2026-09-09T13:39:28.832906+00:00",
   "games": [
     {
       "gamePk": 824226,
@@ -8,7 +8,7 @@
       "homeTeam": "Detroit Tigers",
       "awayScore": 0,
       "homeScore": 0,
-      "status": "Scheduled",
+      "status": "Pre-Game",
       "gameDate": "2026-09-09T17:10:00Z",
       "inning": null,
       "inningOrdinal": null,
