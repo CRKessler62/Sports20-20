@@ -1,6 +1,6 @@
 {
   "league": "MLB",
-  "lastUpdated": "2026-09-09T21:37:12.447104+00:00",
+  "lastUpdated": "2026-09-09T21:51:06.856203+00:00",
   "games": [
     {
       "gamePk": 824226,
@@ -8,15 +8,15 @@
       "homeTeam": "Detroit Tigers",
       "awayScore": 2,
       "homeScore": 7,
-      "status": "In Progress",
+      "status": "Final",
       "gameDate": "2026-09-09T17:10:00Z",
       "inning": 9,
       "inningOrdinal": "9th",
       "inningState": "Top",
-      "outs": 0,
+      "outs": 3,
       "battingTeam": "Minnesota Twins",
       "runners": {
-        "first": true,
+        "first": false,
         "second": false,
         "third": false
       },
@@ -142,15 +142,15 @@
       "homeScore": 1,
       "status": "In Progress",
       "gameDate": "2026-09-09T19:45:00Z",
-      "inning": 7,
-      "inningOrdinal": "7th",
-      "inningState": "Bottom",
-      "outs": 0,
-      "battingTeam": "San Francisco Giants",
+      "inning": 8,
+      "inningOrdinal": "8th",
+      "inningState": "Top",
+      "outs": 2,
+      "battingTeam": "St. Louis Cardinals",
       "runners": {
         "first": false,
         "second": false,
-        "third": false
+        "third": true
       },
       "inningScores": [
         {
@@ -187,6 +187,11 @@
           "inning": 7,
           "awayRuns": 0,
           "homeRuns": 0
+        },
+        {
+          "inning": 8,
+          "awayRuns": 0,
+          "homeRuns": 0
         }
       ]
     },
@@ -195,18 +200,18 @@
       "awayTeam": "Washington Nationals",
       "homeTeam": "San Diego Padres",
       "awayScore": 2,
-      "homeScore": 4,
+      "homeScore": 5,
       "status": "In Progress",
       "gameDate": "2026-09-09T20:10:00Z",
-      "inning": 4,
-      "inningOrdinal": "4th",
-      "inningState": "Bottom",
-      "outs": 1,
-      "battingTeam": "San Diego Padres",
+      "inning": 5,
+      "inningOrdinal": "5th",
+      "inningState": "Top",
+      "outs": 2,
+      "battingTeam": "Washington Nationals",
       "runners": {
-        "first": false,
+        "first": true,
         "second": false,
-        "third": true
+        "third": false
       },
       "inningScores": [
         {
@@ -227,7 +232,12 @@
         {
           "inning": 4,
           "awayRuns": 0,
-          "homeRuns": 1
+          "homeRuns": 2
+        },
+        {
+          "inning": 5,
+          "awayRuns": 0,
+          "homeRuns": 0
         }
       ]
     },
@@ -239,13 +249,13 @@
       "homeScore": 3,
       "status": "In Progress",
       "gameDate": "2026-09-09T20:10:00Z",
-      "inning": 6,
-      "inningOrdinal": "6th",
-      "inningState": "Middle",
-      "outs": 3,
+      "inning": 7,
+      "inningOrdinal": "7th",
+      "inningState": "Top",
+      "outs": 1,
       "battingTeam": "Texas Rangers",
       "runners": {
-        "first": false,
+        "first": true,
         "second": false,
         "third": false
       },
@@ -277,6 +287,11 @@
         },
         {
           "inning": 6,
+          "awayRuns": 0,
+          "homeRuns": 0
+        },
+        {
+          "inning": 7,
           "awayRuns": 0,
           "homeRuns": 0
         }
