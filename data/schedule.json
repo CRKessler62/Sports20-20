@@ -1,7 +1,7 @@
 {
   "league": "MLB",
   "timezone": "America/New_York",
-  "lastUpdated": "2026-09-09T18:16:15.230781+00:00",
+  "lastUpdated": "2026-09-09T19:11:35.385126+00:00",
   "games": [
     {
       "gamePk": 822780,
@@ -9704,9 +9704,9 @@
       "date": "2026-09-09",
       "gameDate": "2026-09-09T17:10:00Z",
       "localGameTime": "2026-09-09T13:10:00-04:00",
-      "status": "Delayed Start",
-      "abstractGameState": "Preview",
-      "codedGameState": "P",
+      "status": "In Progress",
+      "abstractGameState": "Live",
+      "codedGameState": "I",
       "awayTeam": {
         "id": 142,
         "name": "Minnesota Twins",
@@ -9718,7 +9718,7 @@
         "abbreviation": "DET"
       },
       "awayScore": 0,
-      "homeScore": 0,
+      "homeScore": 2,
       "venue": "Comerica Park",
       "awayPitcher": "Zebby Matthews",
       "homePitcher": "Keider Montero"
@@ -9728,9 +9728,9 @@
       "date": "2026-09-09",
       "gameDate": "2026-09-09T19:05:00Z",
       "localGameTime": "2026-09-09T15:05:00-04:00",
-      "status": "Pre-Game",
-      "abstractGameState": "Preview",
-      "codedGameState": "P",
+      "status": "In Progress",
+      "abstractGameState": "Live",
+      "codedGameState": "I",
       "awayTeam": {
         "id": 141,
         "name": "Toronto Blue Jays",
@@ -9789,8 +9789,8 @@
         "name": "San Diego Padres",
         "abbreviation": "SD"
       },
-      "awayScore": null,
-      "homeScore": null,
+      "awayScore": 0,
+      "homeScore": 0,
       "venue": "Petco Park",
       "awayPitcher": "Jackson Kent",
       "homePitcher": "Walker Buehler"
@@ -9848,9 +9848,9 @@
       "date": "2026-09-09",
       "gameDate": "2026-09-09T22:40:00Z",
       "localGameTime": "2026-09-09T18:40:00-04:00",
-      "status": "Scheduled",
+      "status": "Pre-Game",
       "abstractGameState": "Preview",
-      "codedGameState": "S",
+      "codedGameState": "P",
       "awayTeam": {
         "id": 117,
         "name": "Houston Astros",
@@ -10249,7 +10249,7 @@
       "homeScore": null,
       "venue": "Nationals Park",
       "awayPitcher": null,
-      "homePitcher": null
+      "homePitcher": "Cade Cavalli"
     },
     {
       "gamePk": 823498,
@@ -10536,8 +10536,8 @@
       "awayScore": null,
       "homeScore": null,
       "venue": "Oracle Park",
-      "awayPitcher": null,
-      "homePitcher": null
+      "awayPitcher": "Robbie Ray",
+      "homePitcher": "Anthony Molina"
     },
     {
       "gamePk": 824224,
@@ -10657,7 +10657,7 @@
       "homeScore": null,
       "venue": "Nationals Park",
       "awayPitcher": null,
-      "homePitcher": null
+      "homePitcher": "Andrew Alvarez"
     },
     {
       "gamePk": 823170,
@@ -10680,8 +10680,8 @@
       "awayScore": null,
       "homeScore": null,
       "venue": "Oracle Park",
-      "awayPitcher": null,
-      "homePitcher": null
+      "awayPitcher": "Michael King",
+      "homePitcher": "Cesar Perdomo"
     },
     {
       "gamePk": 824712,
@@ -10969,7 +10969,7 @@
       "homeScore": null,
       "venue": "Nationals Park",
       "awayPitcher": null,
-      "homePitcher": null
+      "homePitcher": "Jake Irvin"
     },
     {
       "gamePk": 824869,
@@ -11256,8 +11256,8 @@
       "awayScore": null,
       "homeScore": null,
       "venue": "Oracle Park",
-      "awayPitcher": null,
-      "homePitcher": null
+      "awayPitcher": "Nick Pivetta",
+      "homePitcher": "Logan Webb"
     },
     {
       "gamePk": 824465,
