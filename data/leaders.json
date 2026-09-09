@@ -1,6 +1,6 @@
 {
   "season": 2026,
-  "lastUpdated": "2026-09-09T19:22:31.159791+00:00",
+  "lastUpdated": "2026-09-09T20:24:21.261088+00:00",
   "leagues": {
     "AL": {
       "offense": {
@@ -176,16 +176,16 @@
           },
           {
             "rank": 4,
-            "player": "Zach Neto",
-            "team": "Los Angeles Angels",
+            "player": "Kevin McGonigle",
+            "team": "Detroit Tigers",
             "position": "SS",
             "value": "90"
           },
           {
             "rank": 5,
-            "player": "Ben Rice",
-            "team": "New York Yankees",
-            "position": "DH",
+            "player": "Zach Neto",
+            "team": "Los Angeles Angels",
+            "position": "SS",
             "value": "90"
           }
         ],
@@ -213,17 +213,17 @@
           },
           {
             "rank": 4,
+            "player": "Kevin McGonigle",
+            "team": "Detroit Tigers",
+            "position": "SS",
+            "value": ".374"
+          },
+          {
+            "rank": 5,
             "player": "Yandy D\u00edaz",
             "team": "Tampa Bay Rays",
             "position": "DH",
             "value": ".373"
-          },
-          {
-            "rank": 5,
-            "player": "Kevin McGonigle",
-            "team": "Detroit Tigers",
-            "position": "SS",
-            "value": ".372"
           }
         ],
         "slg": [
@@ -541,22 +541,22 @@
           },
           {
             "rank": 3,
+            "player": "Keider Montero",
+            "team": "Detroit Tigers",
+            "position": "P",
+            "value": "1.03"
+          },
+          {
+            "rank": 4,
             "player": "Reid Detmers",
             "team": "Los Angeles Angels",
             "position": "P",
             "value": "1.04"
           },
           {
-            "rank": 4,
+            "rank": 5,
             "player": "Parker Messick",
             "team": "Cleveland Guardians",
-            "position": "P",
-            "value": "1.04"
-          },
-          {
-            "rank": 5,
-            "player": "Dylan Cease",
-            "team": "Toronto Blue Jays",
             "position": "P",
             "value": "1.04"
           }
@@ -702,7 +702,7 @@
             "player": "Josh Naylor",
             "team": "Seattle Mariners",
             "position": "1B",
-            "value": "944"
+            "value": "945"
           },
           {
             "rank": 5,
@@ -882,16 +882,16 @@
           },
           {
             "rank": 3,
-            "player": "Pete Crow-Armstrong",
-            "team": "Chicago Cubs",
-            "position": "CF",
-            "value": "158"
-          },
-          {
-            "rank": 4,
             "player": "Fernando Tatis Jr.",
             "team": "San Diego Padres",
             "position": "RF",
+            "value": "159"
+          },
+          {
+            "rank": 4,
+            "player": "Pete Crow-Armstrong",
+            "team": "Chicago Cubs",
+            "position": "CF",
             "value": "158"
           },
           {
@@ -1070,7 +1070,7 @@
             "player": "James Wood",
             "team": "Washington Nationals",
             "position": "RF",
-            "value": ".528"
+            "value": ".527"
           },
           {
             "rank": 4,
@@ -1100,7 +1100,7 @@
             "player": "James Wood",
             "team": "Washington Nationals",
             "position": "RF",
-            "value": ".919"
+            "value": ".918"
           },
           {
             "rank": 3,
@@ -1505,7 +1505,7 @@
             "player": "Alec Burleson",
             "team": "St. Louis Cardinals",
             "position": "1B",
-            "value": "1094"
+            "value": "1095"
           },
           {
             "rank": 2,
