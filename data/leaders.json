@@ -1,6 +1,6 @@
 {
   "season": 2026,
-  "lastUpdated": "2026-09-09T04:25:10.403908+00:00",
+  "lastUpdated": "2026-09-09T05:24:02.230210+00:00",
   "leagues": {
     "AL": {
       "offense": {
@@ -220,9 +220,9 @@
           },
           {
             "rank": 5,
-            "player": "Randy Arozarena",
-            "team": "Seattle Mariners",
-            "position": "LF",
+            "player": "Yandy D\u00edaz",
+            "team": "Tampa Bay Rays",
+            "position": "DH",
             "value": ".373"
           }
         ],
@@ -702,14 +702,14 @@
             "player": "Josh Naylor",
             "team": "Seattle Mariners",
             "position": "1B",
-            "value": "943"
+            "value": "944"
           },
           {
             "rank": 5,
             "player": "Jake Burger",
             "team": "Texas Rangers",
             "position": "1B",
-            "value": "895"
+            "value": "896"
           }
         ],
         "assists": [
