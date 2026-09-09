@@ -1,6 +1,6 @@
 {
   "season": 2026,
-  "lastUpdated": "2026-09-09T18:27:44.044026+00:00",
+  "lastUpdated": "2026-09-09T19:22:31.159791+00:00",
   "leagues": {
     "AL": {
       "offense": {
@@ -213,17 +213,17 @@
           },
           {
             "rank": 4,
-            "player": "Kevin McGonigle",
-            "team": "Detroit Tigers",
-            "position": "SS",
-            "value": ".373"
-          },
-          {
-            "rank": 5,
             "player": "Yandy D\u00edaz",
             "team": "Tampa Bay Rays",
             "position": "DH",
             "value": ".373"
+          },
+          {
+            "rank": 5,
+            "player": "Kevin McGonigle",
+            "team": "Detroit Tigers",
+            "position": "SS",
+            "value": ".372"
           }
         ],
         "slg": [
