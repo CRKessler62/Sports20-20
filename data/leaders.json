@@ -1,6 +1,6 @@
 {
   "season": 2026,
-  "lastUpdated": "2026-09-09T20:24:21.261088+00:00",
+  "lastUpdated": "2026-09-09T21:22:18.197573+00:00",
   "leagues": {
     "AL": {
       "offense": {
@@ -681,7 +681,7 @@
             "player": "Spencer Torkelson",
             "team": "Detroit Tigers",
             "position": "1B",
-            "value": "1072"
+            "value": "1073"
           },
           {
             "rank": 2,
@@ -692,24 +692,24 @@
           },
           {
             "rank": 3,
+            "player": "Josh Naylor",
+            "team": "Seattle Mariners",
+            "position": "1B",
+            "value": "949"
+          },
+          {
+            "rank": 4,
             "player": "Pete Alonso",
             "team": "Baltimore Orioles",
             "position": "1B",
             "value": "947"
           },
           {
-            "rank": 4,
-            "player": "Josh Naylor",
-            "team": "Seattle Mariners",
-            "position": "1B",
-            "value": "945"
-          },
-          {
             "rank": 5,
             "player": "Jake Burger",
             "team": "Texas Rangers",
             "position": "1B",
-            "value": "896"
+            "value": "899"
           }
         ],
         "assists": [
@@ -718,7 +718,7 @@
             "player": "Cole Young",
             "team": "Seattle Mariners",
             "position": "2B",
-            "value": "367"
+            "value": "368"
           },
           {
             "rank": 2,
@@ -799,7 +799,7 @@
             "player": "Josh Naylor",
             "team": "Seattle Mariners",
             "position": "1B",
-            "value": "96"
+            "value": "97"
           },
           {
             "rank": 3,
@@ -885,7 +885,7 @@
             "player": "Fernando Tatis Jr.",
             "team": "San Diego Padres",
             "position": "RF",
-            "value": "159"
+            "value": "160"
           },
           {
             "rank": 4,
@@ -1026,7 +1026,7 @@
             "player": "James Wood",
             "team": "Washington Nationals",
             "position": "RF",
-            "value": ".391"
+            "value": ".392"
           },
           {
             "rank": 3,
@@ -1100,7 +1100,7 @@
             "player": "James Wood",
             "team": "Washington Nationals",
             "position": "RF",
-            "value": ".918"
+            "value": ".919"
           },
           {
             "rank": 3,
@@ -1505,7 +1505,7 @@
             "player": "Alec Burleson",
             "team": "St. Louis Cardinals",
             "position": "1B",
-            "value": "1095"
+            "value": "1100"
           },
           {
             "rank": 2,
@@ -1616,7 +1616,7 @@
             "player": "Alec Burleson",
             "team": "St. Louis Cardinals",
             "position": "1B",
-            "value": "119"
+            "value": "120"
           },
           {
             "rank": 2,
