@@ -1,6 +1,6 @@
 {
   "season": 2026,
-  "lastUpdated": "2026-09-10T21:21:45.092937+00:00",
+  "lastUpdated": "2026-09-10T22:22:26.654589+00:00",
   "leagues": {
     "AL": {
       "offense": {
@@ -172,7 +172,7 @@
             "player": "Randy Arozarena",
             "team": "Seattle Mariners",
             "position": "LF",
-            "value": "93"
+            "value": "94"
           },
           {
             "rank": 4,
@@ -521,7 +521,7 @@
             "player": "Logan Gilbert",
             "team": "Seattle Mariners",
             "position": "P",
-            "value": "185"
+            "value": "187"
           }
         ],
         "whip": [
@@ -615,17 +615,17 @@
           },
           {
             "rank": 3,
+            "player": "Logan Gilbert",
+            "team": "Seattle Mariners",
+            "position": "P",
+            "value": "172.0"
+          },
+          {
+            "rank": 4,
             "player": "Tanner Bibee",
             "team": "Cleveland Guardians",
             "position": "P",
             "value": "170.2"
-          },
-          {
-            "rank": 4,
-            "player": "Logan Gilbert",
-            "team": "Seattle Mariners",
-            "position": "P",
-            "value": "170.0"
           },
           {
             "rank": 5,
@@ -692,24 +692,24 @@
           },
           {
             "rank": 3,
+            "player": "Josh Naylor",
+            "team": "Seattle Mariners",
+            "position": "1B",
+            "value": "956"
+          },
+          {
+            "rank": 4,
             "player": "Pete Alonso",
             "team": "Baltimore Orioles",
             "position": "1B",
             "value": "955"
           },
           {
-            "rank": 4,
-            "player": "Josh Naylor",
-            "team": "Seattle Mariners",
-            "position": "1B",
-            "value": "953"
-          },
-          {
             "rank": 5,
             "player": "Jake Burger",
             "team": "Texas Rangers",
             "position": "1B",
-            "value": "906"
+            "value": "907"
           }
         ],
         "assists": [
@@ -718,7 +718,7 @@
             "player": "Cole Young",
             "team": "Seattle Mariners",
             "position": "2B",
-            "value": "369"
+            "value": "370"
           },
           {
             "rank": 2,
