@@ -1,6 +1,6 @@
 {
   "league": "MLB",
-  "lastUpdated": "2026-09-10T21:46:20.579966+00:00",
+  "lastUpdated": "2026-09-10T21:58:45.128928+00:00",
   "games": [
     {
       "gamePk": 824872,
@@ -144,11 +144,11 @@
       "gameDate": "2026-09-10T20:10:00Z",
       "inning": 7,
       "inningOrdinal": "7th",
-      "inningState": "Top",
+      "inningState": "Bottom",
       "outs": 0,
-      "battingTeam": "Texas Rangers",
+      "battingTeam": "Seattle Mariners",
       "runners": {
-        "first": false,
+        "first": true,
         "second": false,
         "third": false
       },
