@@ -1,7 +1,7 @@
 {
   "league": "MLB",
   "timezone": "America/New_York",
-  "lastUpdated": "2026-09-10T00:17:36.237132+00:00",
+  "lastUpdated": "2026-09-10T01:12:20.931341+00:00",
   "games": [
     {
       "gamePk": 824240,
@@ -9597,8 +9597,8 @@
         "name": "Baltimore Orioles",
         "abbreviation": "BAL"
       },
-      "awayScore": 2,
-      "homeScore": 8,
+      "awayScore": 5,
+      "homeScore": 9,
       "venue": "Oriole Park at Camden Yards",
       "awayPitcher": "Foster Griffin",
       "homePitcher": "Shane Baz"
@@ -9621,8 +9621,8 @@
         "name": "Philadelphia Phillies",
         "abbreviation": "PHI"
       },
-      "awayScore": 6,
-      "homeScore": 5,
+      "awayScore": 7,
+      "homeScore": 11,
       "venue": "Citizens Bank Park",
       "awayPitcher": "Hunter Brown",
       "homePitcher": "Cristopher S\u00e1nchez"
@@ -9645,8 +9645,8 @@
         "name": "Miami Marlins",
         "abbreviation": "MIA"
       },
-      "awayScore": 8,
-      "homeScore": 3,
+      "awayScore": 10,
+      "homeScore": 8,
       "venue": "loanDepot park",
       "awayPitcher": "Robert Stock",
       "homePitcher": "Janson Junk"
@@ -9670,7 +9670,7 @@
         "abbreviation": "BOS"
       },
       "awayScore": 6,
-      "homeScore": 2,
+      "homeScore": 3,
       "venue": "Fenway Park",
       "awayPitcher": "Ryan Johnson",
       "homePitcher": "Jake Bennett"
@@ -9693,7 +9693,7 @@
         "name": "New York Yankees",
         "abbreviation": "NYY"
       },
-      "awayScore": 0,
+      "awayScore": 1,
       "homeScore": 5,
       "venue": "Yankee Stadium",
       "awayPitcher": "Tomoyuki Sugano",
@@ -9718,7 +9718,7 @@
         "abbreviation": "ATL"
       },
       "awayScore": 6,
-      "homeScore": 0,
+      "homeScore": 2,
       "venue": "Truist Park",
       "awayPitcher": "Griffin Jax",
       "homePitcher": "Reynaldo L\u00f3pez"
@@ -9728,9 +9728,9 @@
       "date": "2026-09-09",
       "gameDate": "2026-09-09T23:40:00Z",
       "localGameTime": "2026-09-09T19:40:00-04:00",
-      "status": "Warmup",
+      "status": "In Progress",
       "abstractGameState": "Live",
-      "codedGameState": "P",
+      "codedGameState": "I",
       "awayTeam": {
         "id": 109,
         "name": "Arizona Diamondbacks",
@@ -9742,7 +9742,7 @@
         "abbreviation": "KC"
       },
       "awayScore": 0,
-      "homeScore": 0,
+      "homeScore": 1,
       "venue": "Kauffman Stadium",
       "awayPitcher": "Zac Gallen",
       "homePitcher": "Daniel Lynch IV"
@@ -9765,7 +9765,7 @@
         "name": "Chicago White Sox",
         "abbreviation": "CWS"
       },
-      "awayScore": 0,
+      "awayScore": 1,
       "homeScore": 0,
       "venue": "Rate Field",
       "awayPitcher": "Lake Bachar",
@@ -9789,8 +9789,8 @@
         "name": "Milwaukee Brewers",
         "abbreviation": "MIL"
       },
-      "awayScore": 0,
-      "homeScore": 3,
+      "awayScore": 1,
+      "homeScore": 7,
       "venue": "American Family Field",
       "awayPitcher": "Kevin Gausman",
       "homePitcher": "Logan Henderson"
@@ -10176,7 +10176,7 @@
       "awayScore": null,
       "homeScore": null,
       "venue": "American Family Field",
-      "awayPitcher": null,
+      "awayPitcher": "Andrew Abbott",
       "homePitcher": null
     },
     {
@@ -10560,7 +10560,7 @@
       "awayScore": null,
       "homeScore": null,
       "venue": "American Family Field",
-      "awayPitcher": null,
+      "awayPitcher": "Brady Singer",
       "homePitcher": null
     },
     {
@@ -10896,7 +10896,7 @@
       "awayScore": null,
       "homeScore": null,
       "venue": "American Family Field",
-      "awayPitcher": null,
+      "awayPitcher": "Chase Burns",
       "homePitcher": null
     },
     {
