@@ -1,7 +1,7 @@
 {
   "league": "MLB",
   "timezone": "America/New_York",
-  "lastUpdated": "2026-09-10T20:11:57.053337+00:00",
+  "lastUpdated": "2026-09-10T21:11:32.110027+00:00",
   "games": [
     {
       "gamePk": 824240,
@@ -9885,7 +9885,7 @@
         "name": "Seattle Mariners",
         "abbreviation": "SEA"
       },
-      "awayScore": 0,
+      "awayScore": 2,
       "homeScore": 0,
       "venue": "T-Mobile Park",
       "awayPitcher": "Jacob deGrom",
@@ -9933,8 +9933,8 @@
         "name": "Chicago White Sox",
         "abbreviation": "CWS"
       },
-      "awayScore": null,
-      "homeScore": null,
+      "awayScore": 0,
+      "homeScore": 0,
       "venue": "Rate Field",
       "awayPitcher": "Jared Jones",
       "homePitcher": "Hagen Smith"
@@ -10033,7 +10033,7 @@
       "homeScore": null,
       "venue": "Yankee Stadium",
       "awayPitcher": "Nolan McLean",
-      "homePitcher": null
+      "homePitcher": "Carlos Rod\u00f3n"
     },
     {
       "gamePk": 822767,
@@ -10104,7 +10104,7 @@
       "awayScore": null,
       "homeScore": null,
       "venue": "Tropicana Field",
-      "awayPitcher": null,
+      "awayPitcher": "Miguel Ullola",
       "homePitcher": "Drew Rasmussen"
     },
     {
@@ -10224,7 +10224,7 @@
       "awayScore": null,
       "homeScore": null,
       "venue": "Busch Stadium",
-      "awayPitcher": null,
+      "awayPitcher": "Anthony Kay",
       "homePitcher": "Matthew Liberatore"
     },
     {
@@ -10345,7 +10345,7 @@
       "homeScore": null,
       "venue": "Yankee Stadium",
       "awayPitcher": "Zac Thornton",
-      "homePitcher": null
+      "homePitcher": "Gerrit Cole"
     },
     {
       "gamePk": 824630,
@@ -10608,7 +10608,7 @@
       "awayScore": null,
       "homeScore": null,
       "venue": "Busch Stadium",
-      "awayPitcher": null,
+      "awayPitcher": "Luis Castillo",
       "homePitcher": "Kyle Leahy"
     },
     {
@@ -10777,7 +10777,7 @@
       "homeScore": null,
       "venue": "Yankee Stadium",
       "awayPitcher": "Christian Scott",
-      "homePitcher": null
+      "homePitcher": "Cam Schlittler"
     },
     {
       "gamePk": 822764,
