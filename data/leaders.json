@@ -1,6 +1,6 @@
 {
   "season": 2026,
-  "lastUpdated": "2026-09-10T03:24:50.204008+00:00",
+  "lastUpdated": "2026-09-10T04:25:12.131047+00:00",
   "leagues": {
     "AL": {
       "offense": {
@@ -1264,7 +1264,7 @@
             "player": "Yoshinobu Yamamoto",
             "team": "Los Angeles Dodgers",
             "position": "P",
-            "value": "2.66"
+            "value": "2.62"
           },
           {
             "rank": 5,
@@ -1361,7 +1361,7 @@
             "player": "Yoshinobu Yamamoto",
             "team": "Los Angeles Dodgers",
             "position": "P",
-            "value": "0.89"
+            "value": "0.88"
           },
           {
             "rank": 3,
@@ -1456,7 +1456,7 @@
             "player": "Yoshinobu Yamamoto",
             "team": "Los Angeles Dodgers",
             "position": "P",
-            "value": "169.0"
+            "value": "172.0"
           }
         ],
         "qualityStarts": []
