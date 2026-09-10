@@ -1,6 +1,6 @@
 {
   "season": 2026,
-  "lastUpdated": "2026-09-10T17:23:25.145351+00:00",
+  "lastUpdated": "2026-09-10T18:25:44.822718+00:00",
   "leagues": {
     "AL": {
       "offense": {
@@ -10,7 +10,7 @@
             "player": "Yordan Alvarez",
             "team": "Houston Astros",
             "position": "DH",
-            "value": ".312"
+            "value": ".310"
           },
           {
             "rank": 2,
@@ -24,7 +24,7 @@
             "player": "Yandy D\u00edaz",
             "team": "Tampa Bay Rays",
             "position": "DH",
-            "value": ".306"
+            "value": ".305"
           },
           {
             "rank": 4,
@@ -195,7 +195,7 @@
             "player": "Yordan Alvarez",
             "team": "Houston Astros",
             "position": "DH",
-            "value": ".427"
+            "value": ".426"
           },
           {
             "rank": 2,
@@ -232,14 +232,14 @@
             "player": "Yordan Alvarez",
             "team": "Houston Astros",
             "position": "DH",
-            "value": ".592"
+            "value": ".590"
           },
           {
             "rank": 2,
             "player": "Junior Caminero",
             "team": "Tampa Bay Rays",
             "position": "3B",
-            "value": ".531"
+            "value": ".530"
           },
           {
             "rank": 3,
@@ -269,7 +269,7 @@
             "player": "Yordan Alvarez",
             "team": "Houston Astros",
             "position": "DH",
-            "value": "1.019"
+            "value": "1.016"
           },
           {
             "rank": 2,
@@ -283,7 +283,7 @@
             "player": "Junior Caminero",
             "team": "Tampa Bay Rays",
             "position": "3B",
-            "value": ".897"
+            "value": ".896"
           },
           {
             "rank": 4,
@@ -806,7 +806,7 @@
             "player": "Christian Walker",
             "team": "Houston Astros",
             "position": "1B",
-            "value": "96"
+            "value": "97"
           },
           {
             "rank": 4,
@@ -871,7 +871,7 @@
             "player": "Luis Arraez",
             "team": "Philadelphia Phillies",
             "position": "2B",
-            "value": "174"
+            "value": "175"
           },
           {
             "rank": 2,
@@ -1040,7 +1040,7 @@
             "player": "Bryce Harper",
             "team": "Philadelphia Phillies",
             "position": "1B",
-            "value": ".388"
+            "value": ".387"
           },
           {
             "rank": 5,
@@ -1063,7 +1063,7 @@
             "player": "Kyle Schwarber",
             "team": "Philadelphia Phillies",
             "position": "DH",
-            "value": ".530"
+            "value": ".529"
           },
           {
             "rank": 3,
@@ -1111,16 +1111,16 @@
           },
           {
             "rank": 4,
-            "player": "Kyle Schwarber",
-            "team": "Philadelphia Phillies",
-            "position": "DH",
-            "value": ".887"
-          },
-          {
-            "rank": 5,
             "player": "Jake Bauers",
             "team": "Milwaukee Brewers",
             "position": "1B",
+            "value": ".885"
+          },
+          {
+            "rank": 5,
+            "player": "Kyle Schwarber",
+            "team": "Philadelphia Phillies",
+            "position": "DH",
             "value": ".885"
           }
         ],
@@ -1405,7 +1405,7 @@
             "player": "Raisel Iglesias",
             "team": "Atlanta Braves",
             "position": "P",
-            "value": "31"
+            "value": "32"
           },
           {
             "rank": 4,
@@ -1533,7 +1533,7 @@
             "player": "Matt Olson",
             "team": "Atlanta Braves",
             "position": "1B",
-            "value": "1065"
+            "value": "1070"
           }
         ],
         "assists": [
@@ -1542,7 +1542,7 @@
             "player": "Luis Arraez",
             "team": "Philadelphia Phillies",
             "position": "2B",
-            "value": "361"
+            "value": "362"
           },
           {
             "rank": 2,
