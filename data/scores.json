@@ -1,6 +1,6 @@
 {
   "league": "MLB",
-  "lastUpdated": "2026-09-10T17:35:09.968315+00:00",
+  "lastUpdated": "2026-09-10T17:49:26.741629+00:00",
   "games": [
     {
       "gamePk": 824872,
@@ -10,11 +10,11 @@
       "homeScore": 0,
       "status": "In Progress",
       "gameDate": "2026-09-10T16:15:00Z",
-      "inning": 6,
-      "inningOrdinal": "6th",
-      "inningState": "Bottom",
-      "outs": 2,
-      "battingTeam": "Atlanta Braves",
+      "inning": 7,
+      "inningOrdinal": "7th",
+      "inningState": "End",
+      "outs": 3,
+      "battingTeam": "Tampa Bay Rays",
       "runners": {
         "first": false,
         "second": false,
@@ -50,6 +50,11 @@
           "inning": 6,
           "awayRuns": 0,
           "homeRuns": 0
+        },
+        {
+          "inning": 7,
+          "awayRuns": 0,
+          "homeRuns": 0
         }
       ]
     },
@@ -61,8 +66,8 @@
       "homeScore": 0,
       "status": "In Progress",
       "gameDate": "2026-09-10T17:05:00Z",
-      "inning": 2,
-      "inningOrdinal": "2nd",
+      "inning": 3,
+      "inningOrdinal": "3rd",
       "inningState": "Bottom",
       "outs": 2,
       "battingTeam": "Philadelphia Phillies",
@@ -81,6 +86,11 @@
           "inning": 2,
           "awayRuns": 1,
           "homeRuns": 0
+        },
+        {
+          "inning": 3,
+          "awayRuns": 0,
+          "homeRuns": 0
         }
       ]
     },
@@ -92,17 +102,23 @@
       "homeScore": 0,
       "status": "Pre-Game",
       "gameDate": "2026-09-10T20:10:00Z",
-      "inning": null,
-      "inningOrdinal": null,
-      "inningState": null,
-      "outs": null,
-      "battingTeam": null,
+      "inning": 1,
+      "inningOrdinal": "1st",
+      "inningState": "Top",
+      "outs": 0,
+      "battingTeam": "Texas Rangers",
       "runners": {
         "first": false,
         "second": false,
         "third": false
       },
-      "inningScores": []
+      "inningScores": [
+        {
+          "inning": 1,
+          "awayRuns": 0,
+          "homeRuns": 0
+        }
+      ]
     },
     {
       "gamePk": 823499,
