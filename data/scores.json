@@ -1,6 +1,6 @@
 {
   "league": "MLB",
-  "lastUpdated": "2026-09-10T23:43:34.174435+00:00",
+  "lastUpdated": "2026-09-10T23:56:01.478869+00:00",
   "games": [
     {
       "gamePk": 824872,
@@ -205,17 +205,17 @@
       "awayTeam": "Colorado Rockies",
       "homeTeam": "New York Yankees",
       "awayScore": 1,
-      "homeScore": 2,
+      "homeScore": 4,
       "status": "In Progress",
       "gameDate": "2026-09-10T23:05:00Z",
-      "inning": 2,
-      "inningOrdinal": "2nd",
-      "inningState": "Bottom",
+      "inning": 3,
+      "inningOrdinal": "3rd",
+      "inningState": "Top",
       "outs": 0,
-      "battingTeam": "New York Yankees",
+      "battingTeam": "Colorado Rockies",
       "runners": {
         "first": true,
-        "second": true,
+        "second": false,
         "third": false
       },
       "inningScores": [
@@ -227,6 +227,11 @@
         {
           "inning": 2,
           "awayRuns": 1,
+          "homeRuns": 2
+        },
+        {
+          "inning": 3,
+          "awayRuns": 0,
           "homeRuns": 0
         }
       ]
@@ -239,19 +244,24 @@
       "homeScore": 0,
       "status": "In Progress",
       "gameDate": "2026-09-10T23:40:00Z",
-      "inning": 1,
-      "inningOrdinal": "1st",
+      "inning": 2,
+      "inningOrdinal": "2nd",
       "inningState": "Top",
-      "outs": 1,
+      "outs": 0,
       "battingTeam": "Pittsburgh Pirates",
       "runners": {
-        "first": true,
+        "first": false,
         "second": false,
         "third": false
       },
       "inningScores": [
         {
           "inning": 1,
+          "awayRuns": 0,
+          "homeRuns": 0
+        },
+        {
+          "inning": 2,
           "awayRuns": 0,
           "homeRuns": 0
         }
