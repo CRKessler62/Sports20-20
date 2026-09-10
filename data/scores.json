@@ -1,6 +1,6 @@
 {
   "league": "MLB",
-  "lastUpdated": "2026-09-10T22:32:50.403340+00:00",
+  "lastUpdated": "2026-09-10T22:46:08.207999+00:00",
   "games": [
     {
       "gamePk": 824872,
@@ -140,12 +140,12 @@
       "homeTeam": "Seattle Mariners",
       "awayScore": 3,
       "homeScore": 4,
-      "status": "In Progress",
+      "status": "Game Over",
       "gameDate": "2026-09-10T20:10:00Z",
       "inning": 9,
       "inningOrdinal": "9th",
       "inningState": "Top",
-      "outs": 1,
+      "outs": 3,
       "battingTeam": "Texas Rangers",
       "runners": {
         "first": false,
@@ -206,7 +206,7 @@
       "homeTeam": "New York Yankees",
       "awayScore": 0,
       "homeScore": 0,
-      "status": "Pre-Game",
+      "status": "Warmup",
       "gameDate": "2026-09-10T23:05:00Z",
       "inning": 1,
       "inningOrdinal": "1st",
