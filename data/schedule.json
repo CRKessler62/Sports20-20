@@ -1,7 +1,7 @@
 {
   "league": "MLB",
   "timezone": "America/New_York",
-  "lastUpdated": "2026-09-10T14:12:40.527541+00:00",
+  "lastUpdated": "2026-09-10T16:13:10.697294+00:00",
   "games": [
     {
       "gamePk": 824240,
@@ -9824,8 +9824,8 @@
       "date": "2026-09-10",
       "gameDate": "2026-09-10T16:15:00Z",
       "localGameTime": "2026-09-10T12:15:00-04:00",
-      "status": "Pre-Game",
-      "abstractGameState": "Preview",
+      "status": "Warmup",
+      "abstractGameState": "Live",
       "codedGameState": "P",
       "awayTeam": {
         "id": 139,
@@ -9848,9 +9848,9 @@
       "date": "2026-09-10",
       "gameDate": "2026-09-10T17:05:00Z",
       "localGameTime": "2026-09-10T13:05:00-04:00",
-      "status": "Scheduled",
+      "status": "Pre-Game",
       "abstractGameState": "Preview",
-      "codedGameState": "S",
+      "codedGameState": "P",
       "awayTeam": {
         "id": 117,
         "name": "Houston Astros",
@@ -9861,8 +9861,8 @@
         "name": "Philadelphia Phillies",
         "abbreviation": "PHI"
       },
-      "awayScore": null,
-      "homeScore": null,
+      "awayScore": 0,
+      "homeScore": 0,
       "venue": "Citizens Bank Park",
       "awayPitcher": "Cristian Javier",
       "homePitcher": "Zack Wheeler"
@@ -10105,7 +10105,7 @@
       "homeScore": null,
       "venue": "Tropicana Field",
       "awayPitcher": null,
-      "homePitcher": null
+      "homePitcher": "Drew Rasmussen"
     },
     {
       "gamePk": 823817,
@@ -10152,7 +10152,7 @@
       "awayScore": null,
       "homeScore": null,
       "venue": "Truist Park",
-      "awayPitcher": null,
+      "awayPitcher": "Aaron Nola",
       "homePitcher": "Chris Sale"
     },
     {
@@ -10537,7 +10537,7 @@
       "homeScore": null,
       "venue": "Tropicana Field",
       "awayPitcher": null,
-      "homePitcher": null
+      "homePitcher": "Ian Seymour"
     },
     {
       "gamePk": 823737,
@@ -10584,8 +10584,8 @@
       "awayScore": null,
       "homeScore": null,
       "venue": "Truist Park",
-      "awayPitcher": null,
-      "homePitcher": null
+      "awayPitcher": "Jes\u00fas Luzardo",
+      "homePitcher": "Tyler Mahle"
     },
     {
       "gamePk": 823009,
@@ -10752,8 +10752,8 @@
       "awayScore": null,
       "homeScore": null,
       "venue": "Truist Park",
-      "awayPitcher": null,
-      "homePitcher": null
+      "awayPitcher": "Andrew Painter",
+      "homePitcher": "Grant Holmes"
     },
     {
       "gamePk": 823495,
@@ -10825,7 +10825,7 @@
       "homeScore": null,
       "venue": "Tropicana Field",
       "awayPitcher": null,
-      "homePitcher": null
+      "homePitcher": "Freddy Peralta"
     },
     {
       "gamePk": 823815,
