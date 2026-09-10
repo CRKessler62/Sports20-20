@@ -1,7 +1,7 @@
 {
   "league": "MLB",
   "timezone": "America/New_York",
-  "lastUpdated": "2026-09-10T02:13:18.010252+00:00",
+  "lastUpdated": "2026-09-10T03:13:18.617747+00:00",
   "games": [
     {
       "gamePk": 824240,
@@ -9632,9 +9632,9 @@
       "date": "2026-09-09",
       "gameDate": "2026-09-09T22:40:00Z",
       "localGameTime": "2026-09-09T18:40:00-04:00",
-      "status": "In Progress",
-      "abstractGameState": "Live",
-      "codedGameState": "I",
+      "status": "Final",
+      "abstractGameState": "Final",
+      "codedGameState": "F",
       "awayTeam": {
         "id": 121,
         "name": "New York Mets",
@@ -9728,9 +9728,9 @@
       "date": "2026-09-09",
       "gameDate": "2026-09-09T23:40:00Z",
       "localGameTime": "2026-09-09T19:40:00-04:00",
-      "status": "In Progress",
-      "abstractGameState": "Live",
-      "codedGameState": "I",
+      "status": "Game Over",
+      "abstractGameState": "Final",
+      "codedGameState": "O",
       "awayTeam": {
         "id": 109,
         "name": "Arizona Diamondbacks",
@@ -9752,9 +9752,9 @@
       "date": "2026-09-09",
       "gameDate": "2026-09-09T23:40:00Z",
       "localGameTime": "2026-09-09T19:40:00-04:00",
-      "status": "In Progress",
-      "abstractGameState": "Live",
-      "codedGameState": "I",
+      "status": "Final",
+      "abstractGameState": "Final",
+      "codedGameState": "F",
       "awayTeam": {
         "id": 134,
         "name": "Pittsburgh Pirates",
@@ -9766,7 +9766,7 @@
         "abbreviation": "CWS"
       },
       "awayScore": 4,
-      "homeScore": 1,
+      "homeScore": 2,
       "venue": "Rate Field",
       "awayPitcher": "Lake Bachar",
       "homePitcher": "Davis Martin"
@@ -9776,9 +9776,9 @@
       "date": "2026-09-09",
       "gameDate": "2026-09-09T23:40:00Z",
       "localGameTime": "2026-09-09T19:40:00-04:00",
-      "status": "In Progress",
-      "abstractGameState": "Live",
-      "codedGameState": "I",
+      "status": "Final",
+      "abstractGameState": "Final",
+      "codedGameState": "F",
       "awayTeam": {
         "id": 112,
         "name": "Chicago Cubs",
@@ -9789,7 +9789,7 @@
         "name": "Milwaukee Brewers",
         "abbreviation": "MIL"
       },
-      "awayScore": 1,
+      "awayScore": 6,
       "homeScore": 8,
       "venue": "American Family Field",
       "awayPitcher": "Kevin Gausman",
@@ -9813,8 +9813,8 @@
         "name": "Los Angeles Dodgers",
         "abbreviation": "LAD"
       },
-      "awayScore": 0,
-      "homeScore": 0,
+      "awayScore": 1,
+      "homeScore": 3,
       "venue": "UNIQLO Field at Dodger Stadium",
       "awayPitcher": "Rhett Lowder",
       "homePitcher": "Yoshinobu Yamamoto"
@@ -10080,7 +10080,7 @@
       "awayScore": null,
       "homeScore": null,
       "venue": "Fenway Park",
-      "awayPitcher": null,
+      "awayPitcher": "Seth Lugo",
       "homePitcher": "Sonny Gray"
     },
     {
@@ -10129,7 +10129,7 @@
       "homeScore": null,
       "venue": "loanDepot park",
       "awayPitcher": null,
-      "homePitcher": null
+      "homePitcher": "Ryan Gusto"
     },
     {
       "gamePk": 824873,
@@ -10464,7 +10464,7 @@
       "awayScore": null,
       "homeScore": null,
       "venue": "Fenway Park",
-      "awayPitcher": null,
+      "awayPitcher": "Randy Dobnak",
       "homePitcher": "Ranger Suarez"
     },
     {
@@ -10513,7 +10513,7 @@
       "homeScore": null,
       "venue": "loanDepot park",
       "awayPitcher": null,
-      "homePitcher": null
+      "homePitcher": "Tyler Phillips"
     },
     {
       "gamePk": 822927,
@@ -10704,7 +10704,7 @@
       "awayScore": null,
       "homeScore": null,
       "venue": "Fenway Park",
-      "awayPitcher": null,
+      "awayPitcher": "Noah Cameron",
       "homePitcher": "Payton Tolle"
     },
     {
@@ -10849,7 +10849,7 @@
       "homeScore": null,
       "venue": "loanDepot park",
       "awayPitcher": null,
-      "homePitcher": null
+      "homePitcher": "Eury P\u00e9rez"
     },
     {
       "gamePk": 823658,
