@@ -1,6 +1,6 @@
 {
   "league": "MLB",
-  "lastUpdated": "2026-09-10T13:20:16.306262+00:00",
+  "lastUpdated": "2026-09-10T13:37:41.742184+00:00",
   "games": [
     {
       "gamePk": 824872,
@@ -8,7 +8,7 @@
       "homeTeam": "Atlanta Braves",
       "awayScore": 0,
       "homeScore": 0,
-      "status": "Scheduled",
+      "status": "Pre-Game",
       "gameDate": "2026-09-10T16:15:00Z",
       "inning": null,
       "inningOrdinal": null,
