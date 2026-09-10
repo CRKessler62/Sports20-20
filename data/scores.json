@@ -1,6 +1,6 @@
 {
   "league": "MLB",
-  "lastUpdated": "2026-09-10T18:44:39.953613+00:00",
+  "lastUpdated": "2026-09-10T18:58:17.495835+00:00",
   "games": [
     {
       "gamePk": 824872,
@@ -78,11 +78,11 @@
       "gameDate": "2026-09-10T17:05:00Z",
       "inning": 7,
       "inningOrdinal": "7th",
-      "inningState": "Top",
+      "inningState": "Bottom",
       "outs": 0,
-      "battingTeam": "Houston Astros",
+      "battingTeam": "Philadelphia Phillies",
       "runners": {
-        "first": true,
+        "first": false,
         "second": false,
         "third": false
       },
