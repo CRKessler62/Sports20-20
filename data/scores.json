@@ -1,6 +1,6 @@
 {
   "league": "MLB",
-  "lastUpdated": "2026-09-10T20:31:20.385069+00:00",
+  "lastUpdated": "2026-09-10T20:46:21.676334+00:00",
   "games": [
     {
       "gamePk": 824872,
@@ -142,13 +142,13 @@
       "homeScore": 0,
       "status": "In Progress",
       "gameDate": "2026-09-10T20:10:00Z",
-      "inning": 2,
-      "inningOrdinal": "2nd",
+      "inning": 3,
+      "inningOrdinal": "3rd",
       "inningState": "Top",
-      "outs": 2,
+      "outs": 1,
       "battingTeam": "Texas Rangers",
       "runners": {
-        "first": false,
+        "first": true,
         "second": false,
         "third": false
       },
@@ -160,6 +160,11 @@
         },
         {
           "inning": 2,
+          "awayRuns": 0,
+          "homeRuns": 0
+        },
+        {
+          "inning": 3,
           "awayRuns": 0,
           "homeRuns": 0
         }
