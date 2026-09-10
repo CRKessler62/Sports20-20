@@ -1,6 +1,6 @@
 {
   "league": "MLB",
-  "lastUpdated": "2026-09-10T18:24:49.829110+00:00",
+  "lastUpdated": "2026-09-10T18:44:39.953613+00:00",
   "games": [
     {
       "gamePk": 824872,
@@ -8,7 +8,7 @@
       "homeTeam": "Atlanta Braves",
       "awayScore": 1,
       "homeScore": 3,
-      "status": "Game Over",
+      "status": "Final",
       "gameDate": "2026-09-10T16:15:00Z",
       "inning": 9,
       "inningOrdinal": "9th",
@@ -76,13 +76,13 @@
       "homeScore": 1,
       "status": "In Progress",
       "gameDate": "2026-09-10T17:05:00Z",
-      "inning": 6,
-      "inningOrdinal": "6th",
+      "inning": 7,
+      "inningOrdinal": "7th",
       "inningState": "Top",
-      "outs": 2,
+      "outs": 0,
       "battingTeam": "Houston Astros",
       "runners": {
-        "first": false,
+        "first": true,
         "second": false,
         "third": false
       },
@@ -114,6 +114,11 @@
         },
         {
           "inning": 6,
+          "awayRuns": 0,
+          "homeRuns": 0
+        },
+        {
+          "inning": 7,
           "awayRuns": 0,
           "homeRuns": 0
         }
