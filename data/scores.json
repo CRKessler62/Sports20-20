@@ -1,6 +1,6 @@
 {
   "league": "MLB",
-  "lastUpdated": "2026-09-10T20:46:21.676334+00:00",
+  "lastUpdated": "2026-09-10T20:59:15.240563+00:00",
   "games": [
     {
       "gamePk": 824872,
@@ -138,17 +138,17 @@
       "gamePk": 823088,
       "awayTeam": "Texas Rangers",
       "homeTeam": "Seattle Mariners",
-      "awayScore": 0,
+      "awayScore": 2,
       "homeScore": 0,
       "status": "In Progress",
       "gameDate": "2026-09-10T20:10:00Z",
-      "inning": 3,
-      "inningOrdinal": "3rd",
+      "inning": 4,
+      "inningOrdinal": "4th",
       "inningState": "Top",
-      "outs": 1,
+      "outs": 0,
       "battingTeam": "Texas Rangers",
       "runners": {
-        "first": true,
+        "first": false,
         "second": false,
         "third": false
       },
@@ -165,6 +165,11 @@
         },
         {
           "inning": 3,
+          "awayRuns": 2,
+          "homeRuns": 0
+        },
+        {
+          "inning": 4,
           "awayRuns": 0,
           "homeRuns": 0
         }
@@ -204,17 +209,23 @@
       "homeScore": 0,
       "status": "Pre-Game",
       "gameDate": "2026-09-10T23:40:00Z",
-      "inning": null,
-      "inningOrdinal": null,
-      "inningState": null,
-      "outs": null,
-      "battingTeam": null,
+      "inning": 1,
+      "inningOrdinal": "1st",
+      "inningState": "Top",
+      "outs": 0,
+      "battingTeam": "Pittsburgh Pirates",
       "runners": {
         "first": false,
         "second": false,
         "third": false
       },
-      "inningScores": []
+      "inningScores": [
+        {
+          "inning": 1,
+          "awayRuns": 0,
+          "homeRuns": 0
+        }
+      ]
     }
   ]
 }
