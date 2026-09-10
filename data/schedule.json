@@ -1,7 +1,7 @@
 {
   "league": "MLB",
   "timezone": "America/New_York",
-  "lastUpdated": "2026-09-10T16:13:10.697294+00:00",
+  "lastUpdated": "2026-09-10T17:11:57.213122+00:00",
   "games": [
     {
       "gamePk": 824240,
@@ -9824,9 +9824,9 @@
       "date": "2026-09-10",
       "gameDate": "2026-09-10T16:15:00Z",
       "localGameTime": "2026-09-10T12:15:00-04:00",
-      "status": "Warmup",
+      "status": "In Progress",
       "abstractGameState": "Live",
-      "codedGameState": "P",
+      "codedGameState": "I",
       "awayTeam": {
         "id": 139,
         "name": "Tampa Bay Rays",
@@ -9848,9 +9848,9 @@
       "date": "2026-09-10",
       "gameDate": "2026-09-10T17:05:00Z",
       "localGameTime": "2026-09-10T13:05:00-04:00",
-      "status": "Pre-Game",
-      "abstractGameState": "Preview",
-      "codedGameState": "P",
+      "status": "In Progress",
+      "abstractGameState": "Live",
+      "codedGameState": "I",
       "awayTeam": {
         "id": 117,
         "name": "Houston Astros",
@@ -10536,7 +10536,7 @@
       "awayScore": null,
       "homeScore": null,
       "venue": "Tropicana Field",
-      "awayPitcher": null,
+      "awayPitcher": "Peter Lambert",
       "homePitcher": "Ian Seymour"
     },
     {
@@ -10824,7 +10824,7 @@
       "awayScore": null,
       "homeScore": null,
       "venue": "Tropicana Field",
-      "awayPitcher": null,
+      "awayPitcher": "Hayden Wesneski",
       "homePitcher": "Freddy Peralta"
     },
     {
