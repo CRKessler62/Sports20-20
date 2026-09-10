@@ -1,6 +1,6 @@
 {
   "league": "MLB",
-  "lastUpdated": "2026-09-10T20:59:15.240563+00:00",
+  "lastUpdated": "2026-09-10T21:17:27.372011+00:00",
   "games": [
     {
       "gamePk": 824872,
@@ -138,19 +138,19 @@
       "gamePk": 823088,
       "awayTeam": "Texas Rangers",
       "homeTeam": "Seattle Mariners",
-      "awayScore": 2,
+      "awayScore": 3,
       "homeScore": 0,
       "status": "In Progress",
       "gameDate": "2026-09-10T20:10:00Z",
-      "inning": 4,
-      "inningOrdinal": "4th",
+      "inning": 5,
+      "inningOrdinal": "5th",
       "inningState": "Top",
-      "outs": 0,
+      "outs": 2,
       "battingTeam": "Texas Rangers",
       "runners": {
-        "first": false,
+        "first": true,
         "second": false,
-        "third": false
+        "third": true
       },
       "inningScores": [
         {
@@ -171,6 +171,11 @@
         {
           "inning": 4,
           "awayRuns": 0,
+          "homeRuns": 0
+        },
+        {
+          "inning": 5,
+          "awayRuns": 1,
           "homeRuns": 0
         }
       ]
