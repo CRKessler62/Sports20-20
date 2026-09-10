@@ -1,6 +1,6 @@
 {
   "league": "MLB",
-  "lastUpdated": "2026-09-10T22:46:08.207999+00:00",
+  "lastUpdated": "2026-09-10T22:58:42.463986+00:00",
   "games": [
     {
       "gamePk": 824872,
@@ -140,7 +140,7 @@
       "homeTeam": "Seattle Mariners",
       "awayScore": 3,
       "homeScore": 4,
-      "status": "Game Over",
+      "status": "Final",
       "gameDate": "2026-09-10T20:10:00Z",
       "inning": 9,
       "inningOrdinal": "9th",
