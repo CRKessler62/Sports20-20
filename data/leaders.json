@@ -1,6 +1,6 @@
 {
   "season": 2026,
-  "lastUpdated": "2026-09-10T00:30:07.889680+00:00",
+  "lastUpdated": "2026-09-10T01:25:39.823113+00:00",
   "leagues": {
     "AL": {
       "offense": {
@@ -31,7 +31,7 @@
             "player": "Chase DeLauter",
             "team": "Cleveland Guardians",
             "position": "RF",
-            "value": ".295"
+            "value": ".296"
           },
           {
             "rank": 5,
@@ -61,14 +61,14 @@
             "player": "Chandler Simpson",
             "team": "Tampa Bay Rays",
             "position": "LF",
-            "value": "159"
+            "value": "160"
           },
           {
             "rank": 4,
             "player": "Junior Caminero",
             "team": "Tampa Bay Rays",
             "position": "3B",
-            "value": "155"
+            "value": "156"
           },
           {
             "rank": 5,
@@ -152,43 +152,7 @@
             "value": "86"
           }
         ],
-        "runs": [
-          {
-            "rank": 1,
-            "player": "Yordan Alvarez",
-            "team": "Houston Astros",
-            "position": "DH",
-            "value": "95"
-          },
-          {
-            "rank": 2,
-            "player": "Miguel Vargas",
-            "team": "Chicago White Sox",
-            "position": "3B",
-            "value": "95"
-          },
-          {
-            "rank": 3,
-            "player": "Randy Arozarena",
-            "team": "Seattle Mariners",
-            "position": "LF",
-            "value": "93"
-          },
-          {
-            "rank": 4,
-            "player": "Zach Neto",
-            "team": "Los Angeles Angels",
-            "position": "SS",
-            "value": "91"
-          },
-          {
-            "rank": 5,
-            "player": "Kevin McGonigle",
-            "team": "Detroit Tigers",
-            "position": "SS",
-            "value": "90"
-          }
-        ],
+        "runs": [],
         "obp": [
           {
             "rank": 1,
@@ -209,7 +173,7 @@
             "player": "Mike Trout",
             "team": "Los Angeles Angels",
             "position": "CF",
-            "value": ".376"
+            "value": ".375"
           },
           {
             "rank": 4,
@@ -232,7 +196,7 @@
             "player": "Yordan Alvarez",
             "team": "Houston Astros",
             "position": "DH",
-            "value": ".596"
+            "value": ".595"
           },
           {
             "rank": 2,
@@ -246,7 +210,7 @@
             "player": "Ben Rice",
             "team": "New York Yankees",
             "position": "DH",
-            "value": ".519"
+            "value": ".518"
           },
           {
             "rank": 4,
@@ -260,7 +224,7 @@
             "player": "Pete Alonso",
             "team": "Baltimore Orioles",
             "position": "1B",
-            "value": ".500"
+            "value": ".498"
           }
         ],
         "ops": [
@@ -269,14 +233,14 @@
             "player": "Yordan Alvarez",
             "team": "Houston Astros",
             "position": "DH",
-            "value": "1.025"
+            "value": "1.024"
           },
           {
             "rank": 2,
             "player": "Junior Caminero",
             "team": "Tampa Bay Rays",
             "position": "3B",
-            "value": ".901"
+            "value": ".902"
           },
           {
             "rank": 3,
@@ -290,14 +254,14 @@
             "player": "Ben Rice",
             "team": "New York Yankees",
             "position": "DH",
-            "value": ".872"
+            "value": ".870"
           },
           {
             "rank": 5,
             "player": "Pete Alonso",
             "team": "Baltimore Orioles",
             "position": "1B",
-            "value": ".864"
+            "value": ".861"
           }
         ],
         "stolenBases": [
@@ -487,43 +451,7 @@
             "value": "13"
           }
         ],
-        "strikeouts": [
-          {
-            "rank": 1,
-            "player": "Gavin Williams",
-            "team": "Cleveland Guardians",
-            "position": "P",
-            "value": "228"
-          },
-          {
-            "rank": 2,
-            "player": "Dylan Cease",
-            "team": "Toronto Blue Jays",
-            "position": "P",
-            "value": "227"
-          },
-          {
-            "rank": 3,
-            "player": "Cam Schlittler",
-            "team": "New York Yankees",
-            "position": "P",
-            "value": "220"
-          },
-          {
-            "rank": 4,
-            "player": "Reid Detmers",
-            "team": "Los Angeles Angels",
-            "position": "P",
-            "value": "191"
-          },
-          {
-            "rank": 5,
-            "player": "Taj Bradley",
-            "team": "Minnesota Twins",
-            "position": "P",
-            "value": "184"
-          }
-        ],
+        "strikeouts": [],
         "whip": [
           {
             "rank": 1,
@@ -688,14 +616,14 @@
             "player": "Jonathan Aranda",
             "team": "Tampa Bay Rays",
             "position": "1B",
-            "value": "979"
+            "value": "981"
           },
           {
             "rank": 3,
             "player": "Pete Alonso",
             "team": "Baltimore Orioles",
             "position": "1B",
-            "value": "951"
+            "value": "955"
           },
           {
             "rank": 4,
@@ -813,7 +741,7 @@
             "player": "Pete Alonso",
             "team": "Baltimore Orioles",
             "position": "1B",
-            "value": "83"
+            "value": "84"
           },
           {
             "rank": 5,
@@ -841,7 +769,7 @@
             "player": "Nick Gonzales",
             "team": "Pittsburgh Pirates",
             "position": "3B",
-            "value": ".305"
+            "value": ".306"
           },
           {
             "rank": 3,
@@ -859,10 +787,10 @@
           },
           {
             "rank": 5,
-            "player": "TJ Rumfield",
-            "team": "Colorado Rockies",
+            "player": "Freddie Freeman",
+            "team": "Los Angeles Dodgers",
             "position": "1B",
-            "value": ".298"
+            "value": ".297"
           }
         ],
         "hits": [
@@ -892,7 +820,7 @@
             "player": "Pete Crow-Armstrong",
             "team": "Chicago Cubs",
             "position": "CF",
-            "value": "158"
+            "value": "159"
           },
           {
             "rank": 5,
@@ -908,7 +836,7 @@
             "player": "Kyle Schwarber",
             "team": "Philadelphia Phillies",
             "position": "DH",
-            "value": "43"
+            "value": "44"
           },
           {
             "rank": 2,
@@ -976,43 +904,7 @@
             "value": "95"
           }
         ],
-        "runs": [
-          {
-            "rank": 1,
-            "player": "Pete Crow-Armstrong",
-            "team": "Chicago Cubs",
-            "position": "CF",
-            "value": "108"
-          },
-          {
-            "rank": 2,
-            "player": "James Wood",
-            "team": "Washington Nationals",
-            "position": "RF",
-            "value": "101"
-          },
-          {
-            "rank": 3,
-            "player": "Bryan Reynolds",
-            "team": "Pittsburgh Pirates",
-            "position": "LF",
-            "value": "98"
-          },
-          {
-            "rank": 4,
-            "player": "Matt Olson",
-            "team": "Atlanta Braves",
-            "position": "1B",
-            "value": "94"
-          },
-          {
-            "rank": 5,
-            "player": "Trea Turner",
-            "team": "Philadelphia Phillies",
-            "position": "SS",
-            "value": "93"
-          }
-        ],
+        "runs": [],
         "obp": [
           {
             "rank": 1,
@@ -1033,14 +925,14 @@
             "player": "TJ Rumfield",
             "team": "Colorado Rockies",
             "position": "1B",
-            "value": ".391"
+            "value": ".389"
           },
           {
             "rank": 4,
             "player": "Bryce Harper",
             "team": "Philadelphia Phillies",
             "position": "1B",
-            "value": ".388"
+            "value": ".387"
           },
           {
             "rank": 5,
@@ -1060,24 +952,24 @@
           },
           {
             "rank": 2,
-            "player": "Hunter Goodman",
-            "team": "Colorado Rockies",
-            "position": "C",
-            "value": ".530"
+            "player": "Kyle Schwarber",
+            "team": "Philadelphia Phillies",
+            "position": "DH",
+            "value": ".531"
           },
           {
             "rank": 3,
+            "player": "Hunter Goodman",
+            "team": "Colorado Rockies",
+            "position": "C",
+            "value": ".529"
+          },
+          {
+            "rank": 4,
             "player": "James Wood",
             "team": "Washington Nationals",
             "position": "RF",
             "value": ".527"
-          },
-          {
-            "rank": 4,
-            "player": "Kyle Schwarber",
-            "team": "Philadelphia Phillies",
-            "position": "DH",
-            "value": ".524"
           },
           {
             "rank": 5,
@@ -1093,7 +985,7 @@
             "player": "Pete Crow-Armstrong",
             "team": "Chicago Cubs",
             "position": "CF",
-            "value": ".947"
+            "value": ".948"
           },
           {
             "rank": 2,
@@ -1111,17 +1003,17 @@
           },
           {
             "rank": 4,
+            "player": "Kyle Schwarber",
+            "team": "Philadelphia Phillies",
+            "position": "DH",
+            "value": ".887"
+          },
+          {
+            "rank": 5,
             "player": "Jake Bauers",
             "team": "Milwaukee Brewers",
             "position": "1B",
             "value": ".885"
-          },
-          {
-            "rank": 5,
-            "player": "Bryce Harper",
-            "team": "Philadelphia Phillies",
-            "position": "1B",
-            "value": ".884"
           }
         ],
         "stolenBases": [
@@ -1512,28 +1404,28 @@
             "player": "Michael Busch",
             "team": "Chicago Cubs",
             "position": "1B",
-            "value": "1093"
+            "value": "1095"
           },
           {
             "rank": 3,
             "player": "William Contreras",
             "team": "Milwaukee Brewers",
             "position": "C",
-            "value": "1085"
+            "value": "1087"
           },
           {
             "rank": 4,
             "player": "J.T. Realmuto",
             "team": "Philadelphia Phillies",
             "position": "C",
-            "value": "1082"
+            "value": "1083"
           },
           {
             "rank": 5,
             "player": "Matt Olson",
             "team": "Atlanta Braves",
             "position": "1B",
-            "value": "1055"
+            "value": "1057"
           }
         ],
         "assists": [
@@ -1563,14 +1455,14 @@
             "player": "Geraldo Perdomo",
             "team": "Arizona Diamondbacks",
             "position": "SS",
-            "value": "336"
+            "value": "337"
           },
           {
             "rank": 5,
             "player": "Brice Turang",
             "team": "Milwaukee Brewers",
             "position": "2B",
-            "value": "328"
+            "value": "329"
           }
         ],
         "errors": [
