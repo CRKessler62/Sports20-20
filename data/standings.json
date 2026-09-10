@@ -1,7 +1,7 @@
 {
   "league": "MLB",
   "season": 2026,
-  "lastUpdated": "2026-09-10T01:32:04.988674+00:00",
+  "lastUpdated": "2026-09-10T01:44:25.892471+00:00",
   "teamCount": 30,
   "teams": [
     {
@@ -123,20 +123,20 @@
       "abbreviation": null,
       "league": "",
       "division": "",
-      "wins": 82,
+      "wins": 83,
       "losses": 62,
-      "winPct": ".569",
-      "gamesBack": "4.0",
+      "winPct": ".572",
+      "gamesBack": "3.5",
       "divisionRank": "2",
       "leagueRank": "2",
-      "wildCardGamesBack": "+9.5",
-      "streak": "W1",
+      "wildCardGamesBack": "+10.0",
+      "streak": "W2",
       "lastTen": [
         {
-          "wins": 38,
+          "wins": 39,
           "losses": 31,
           "type": "home",
-          "pct": ".551"
+          "pct": ".557"
         },
         {
           "wins": 44,
@@ -163,10 +163,10 @@
           "pct": ".667"
         },
         {
-          "wins": 25,
+          "wins": 26,
           "losses": 23,
           "type": "rightHome",
-          "pct": ".521"
+          "pct": ".531"
         },
         {
           "wins": 24,
@@ -175,16 +175,16 @@
           "pct": ".533"
         },
         {
-          "wins": 49,
+          "wins": 50,
           "losses": 44,
           "type": "right",
-          "pct": ".527"
+          "pct": ".532"
         },
         {
-          "wins": 6,
-          "losses": 4,
+          "wins": 7,
+          "losses": 3,
           "type": "lastTen",
-          "pct": ".600"
+          "pct": ".700"
         },
         {
           "wins": 4,
@@ -211,16 +211,16 @@
           "pct": ".529"
         },
         {
-          "wins": 55,
+          "wins": 56,
           "losses": 38,
           "type": "night",
-          "pct": ".591"
+          "pct": ".596"
         },
         {
-          "wins": 75,
+          "wins": 76,
           "losses": 53,
           "type": "grass",
-          "pct": ".586"
+          "pct": ".589"
         },
         {
           "wins": 7,
@@ -1141,13 +1141,13 @@
       "league": "",
       "division": "",
       "wins": 74,
-      "losses": 71,
-      "winPct": ".510",
+      "losses": 72,
+      "winPct": ".507",
       "gamesBack": "-",
       "divisionRank": "1",
       "leagueRank": "5",
       "wildCardGamesBack": "-",
-      "streak": "W1",
+      "streak": "L1",
       "lastTen": [
         {
           "wins": 37,
@@ -1157,15 +1157,15 @@
         },
         {
           "wins": 37,
-          "losses": 33,
+          "losses": 34,
           "type": "away",
-          "pct": ".529"
+          "pct": ".521"
         },
         {
           "wins": 16,
-          "losses": 20,
+          "losses": 21,
           "type": "left",
-          "pct": ".444"
+          "pct": ".432"
         },
         {
           "wins": 6,
@@ -1175,9 +1175,9 @@
         },
         {
           "wins": 10,
-          "losses": 11,
+          "losses": 12,
           "type": "leftAway",
-          "pct": ".476"
+          "pct": ".455"
         },
         {
           "wins": 31,
@@ -1217,9 +1217,9 @@
         },
         {
           "wins": 27,
-          "losses": 17,
+          "losses": 18,
           "type": "winners",
-          "pct": ".614"
+          "pct": ".600"
         },
         {
           "wins": 23,
@@ -1229,15 +1229,15 @@
         },
         {
           "wins": 51,
-          "losses": 46,
+          "losses": 47,
           "type": "night",
-          "pct": ".526"
+          "pct": ".520"
         },
         {
           "wins": 68,
-          "losses": 67,
+          "losses": 68,
           "type": "grass",
-          "pct": ".504"
+          "pct": ".500"
         },
         {
           "wins": 6,
@@ -1256,7 +1256,7 @@
       "wins": 72,
       "losses": 74,
       "winPct": ".493",
-      "gamesBack": "2.5",
+      "gamesBack": "2.0",
       "divisionRank": "2",
       "leagueRank": "8",
       "wildCardGamesBack": "1.5",
@@ -1369,7 +1369,7 @@
       "wins": 68,
       "losses": 78,
       "winPct": ".466",
-      "gamesBack": "6.5",
+      "gamesBack": "6.0",
       "divisionRank": "3",
       "leagueRank": "11",
       "wildCardGamesBack": "5.5",
@@ -1482,7 +1482,7 @@
       "wins": 59,
       "losses": 88,
       "winPct": ".401",
-      "gamesBack": "16.0",
+      "gamesBack": "15.5",
       "divisionRank": "4",
       "leagueRank": "14",
       "wildCardGamesBack": "15.0",
@@ -1595,7 +1595,7 @@
       "wins": 56,
       "losses": 90,
       "winPct": ".384",
-      "gamesBack": "18.5",
+      "gamesBack": "18.0",
       "divisionRank": "5",
       "leagueRank": "15",
       "wildCardGamesBack": "17.5",
@@ -1818,20 +1818,20 @@
       "abbreviation": null,
       "league": "",
       "division": "",
-      "wins": 81,
+      "wins": 82,
       "losses": 64,
-      "winPct": ".559",
-      "gamesBack": "4.0",
+      "winPct": ".562",
+      "gamesBack": "3.5",
       "divisionRank": "2",
       "leagueRank": "4",
-      "wildCardGamesBack": "+3.5",
-      "streak": "L1",
+      "wildCardGamesBack": "+4.0",
+      "streak": "W1",
       "lastTen": [
         {
-          "wins": 40,
+          "wins": 41,
           "losses": 33,
           "type": "home",
-          "pct": ".548"
+          "pct": ".554"
         },
         {
           "wins": 41,
@@ -1858,10 +1858,10 @@
           "pct": ".652"
         },
         {
-          "wins": 27,
+          "wins": 28,
           "losses": 18,
           "type": "rightHome",
-          "pct": ".600"
+          "pct": ".609"
         },
         {
           "wins": 26,
@@ -1870,10 +1870,10 @@
           "pct": ".531"
         },
         {
-          "wins": 53,
+          "wins": 54,
           "losses": 41,
           "type": "right",
-          "pct": ".564"
+          "pct": ".568"
         },
         {
           "wins": 6,
@@ -1894,10 +1894,10 @@
           "pct": ".641"
         },
         {
-          "wins": 22,
+          "wins": 23,
           "losses": 29,
           "type": "winners",
-          "pct": ".431"
+          "pct": ".442"
         },
         {
           "wins": 24,
@@ -1906,16 +1906,16 @@
           "pct": ".511"
         },
         {
-          "wins": 57,
+          "wins": 58,
           "losses": 41,
           "type": "night",
-          "pct": ".582"
+          "pct": ".586"
         },
         {
-          "wins": 74,
+          "wins": 75,
           "losses": 58,
           "type": "grass",
-          "pct": ".561"
+          "pct": ".564"
         },
         {
           "wins": 7,
@@ -3288,13 +3288,13 @@
       "league": "",
       "division": "",
       "wins": 55,
-      "losses": 89,
-      "winPct": ".382",
-      "gamesBack": "32.5",
+      "losses": 90,
+      "winPct": ".379",
+      "gamesBack": "33.0",
       "divisionRank": "5",
       "leagueRank": "15",
-      "wildCardGamesBack": "22.0",
-      "streak": "L2",
+      "wildCardGamesBack": "22.5",
+      "streak": "L3",
       "lastTen": [
         {
           "wins": 30,
@@ -3304,9 +3304,9 @@
         },
         {
           "wins": 25,
-          "losses": 48,
+          "losses": 49,
           "type": "away",
-          "pct": ".342"
+          "pct": ".338"
         },
         {
           "wins": 17,
@@ -3334,15 +3334,15 @@
         },
         {
           "wins": 16,
-          "losses": 34,
+          "losses": 35,
           "type": "rightAway",
-          "pct": ".320"
+          "pct": ".314"
         },
         {
           "wins": 38,
-          "losses": 61,
+          "losses": 62,
           "type": "right",
-          "pct": ".384"
+          "pct": ".380"
         },
         {
           "wins": 3,
@@ -3364,9 +3364,9 @@
         },
         {
           "wins": 20,
-          "losses": 52,
+          "losses": 53,
           "type": "winners",
-          "pct": ".278"
+          "pct": ".274"
         },
         {
           "wins": 18,
@@ -3376,15 +3376,15 @@
         },
         {
           "wins": 37,
-          "losses": 57,
+          "losses": 58,
           "type": "night",
-          "pct": ".394"
+          "pct": ".389"
         },
         {
           "wins": 50,
-          "losses": 81,
+          "losses": 82,
           "type": "grass",
-          "pct": ".382"
+          "pct": ".379"
         },
         {
           "wins": 5,
