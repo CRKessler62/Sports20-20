@@ -1,7 +1,7 @@
 {
   "league": "MLB",
   "timezone": "America/New_York",
-  "lastUpdated": "2026-09-10T21:11:32.110027+00:00",
+  "lastUpdated": "2026-09-10T22:11:54.545135+00:00",
   "games": [
     {
       "gamePk": 824240,
@@ -9885,8 +9885,8 @@
         "name": "Seattle Mariners",
         "abbreviation": "SEA"
       },
-      "awayScore": 2,
-      "homeScore": 0,
+      "awayScore": 3,
+      "homeScore": 4,
       "venue": "T-Mobile Park",
       "awayPitcher": "Jacob deGrom",
       "homePitcher": "Logan Gilbert"
@@ -9984,7 +9984,7 @@
       "awayScore": null,
       "homeScore": null,
       "venue": "Comerica Park",
-      "awayPitcher": null,
+      "awayPitcher": "Mason Adams",
       "homePitcher": "Framber Valdez"
     },
     {
@@ -10320,7 +10320,7 @@
       "awayScore": null,
       "homeScore": null,
       "venue": "Comerica Park",
-      "awayPitcher": null,
+      "awayPitcher": "Tanner Gordon",
       "homePitcher": null
     },
     {
@@ -10368,7 +10368,7 @@
       "awayScore": null,
       "homeScore": null,
       "venue": "Wrigley Field",
-      "awayPitcher": null,
+      "awayPitcher": "Paul Skenes",
       "homePitcher": "Clay Holmes"
     },
     {
@@ -10680,7 +10680,7 @@
       "awayScore": null,
       "homeScore": null,
       "venue": "Comerica Park",
-      "awayPitcher": null,
+      "awayPitcher": "Gabriel Hughes",
       "homePitcher": "Jackson Jobe"
     },
     {
@@ -10944,7 +10944,7 @@
       "awayScore": null,
       "homeScore": null,
       "venue": "Wrigley Field",
-      "awayPitcher": null,
+      "awayPitcher": "Bubba Chandler",
       "homePitcher": "Matthew Boyd"
     },
     {
