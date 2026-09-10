@@ -1,6 +1,6 @@
 {
   "season": 2026,
-  "lastUpdated": "2026-09-10T19:20:31.631963+00:00",
+  "lastUpdated": "2026-09-10T20:22:36.071157+00:00",
   "leagues": {
     "AL": {
       "offense": {
@@ -702,7 +702,7 @@
             "player": "Josh Naylor",
             "team": "Seattle Mariners",
             "position": "1B",
-            "value": "951"
+            "value": "952"
           },
           {
             "rank": 5,
@@ -718,7 +718,7 @@
             "player": "Cole Young",
             "team": "Seattle Mariners",
             "position": "2B",
-            "value": "368"
+            "value": "369"
           },
           {
             "rank": 2,
@@ -1067,16 +1067,16 @@
           },
           {
             "rank": 3,
-            "player": "Kyle Schwarber",
-            "team": "Philadelphia Phillies",
-            "position": "DH",
-            "value": ".528"
-          },
-          {
-            "rank": 4,
             "player": "James Wood",
             "team": "Washington Nationals",
             "position": "RF",
+            "value": ".527"
+          },
+          {
+            "rank": 4,
+            "player": "Kyle Schwarber",
+            "team": "Philadelphia Phillies",
+            "position": "DH",
             "value": ".527"
           },
           {
@@ -1121,7 +1121,7 @@
             "player": "Kyle Schwarber",
             "team": "Philadelphia Phillies",
             "position": "DH",
-            "value": ".884"
+            "value": ".882"
           }
         ],
         "stolenBases": [
@@ -1542,7 +1542,7 @@
             "player": "Luis Arraez",
             "team": "Philadelphia Phillies",
             "position": "2B",
-            "value": "363"
+            "value": "364"
           },
           {
             "rank": 2,
