@@ -1,6 +1,6 @@
 {
   "season": 2026,
-  "lastUpdated": "2026-09-10T02:24:56.489582+00:00",
+  "lastUpdated": "2026-09-10T03:24:50.204008+00:00",
   "leagues": {
     "AL": {
       "offense": {
@@ -810,17 +810,17 @@
           },
           {
             "rank": 4,
+            "player": "Vinnie Pasquantino",
+            "team": "Kansas City Royals",
+            "position": "1B",
+            "value": "85"
+          },
+          {
+            "rank": 5,
             "player": "Pete Alonso",
             "team": "Baltimore Orioles",
             "position": "1B",
             "value": "84"
-          },
-          {
-            "rank": 5,
-            "player": "Vinnie Pasquantino",
-            "team": "Kansas City Royals",
-            "position": "1B",
-            "value": "83"
           }
         ]
       },
@@ -855,7 +855,7 @@
             "player": "Gabriel Moreno",
             "team": "Arizona Diamondbacks",
             "position": "C",
-            "value": ".300"
+            "value": ".299"
           },
           {
             "rank": 5,
@@ -1361,7 +1361,7 @@
             "player": "Yoshinobu Yamamoto",
             "team": "Los Angeles Dodgers",
             "position": "P",
-            "value": "0.90"
+            "value": "0.89"
           },
           {
             "rank": 3,
@@ -1453,10 +1453,10 @@
           },
           {
             "rank": 5,
-            "player": "Michael King",
-            "team": "San Diego Padres",
+            "player": "Yoshinobu Yamamoto",
+            "team": "Los Angeles Dodgers",
             "position": "P",
-            "value": "168.0"
+            "value": "169.0"
           }
         ],
         "qualityStarts": []
@@ -1519,7 +1519,7 @@
             "player": "William Contreras",
             "team": "Milwaukee Brewers",
             "position": "C",
-            "value": "1089"
+            "value": "1090"
           },
           {
             "rank": 4,
@@ -1563,14 +1563,14 @@
             "player": "Geraldo Perdomo",
             "team": "Arizona Diamondbacks",
             "position": "SS",
-            "value": "337"
+            "value": "338"
           },
           {
             "rank": 5,
             "player": "Brice Turang",
             "team": "Milwaukee Brewers",
             "position": "2B",
-            "value": "332"
+            "value": "333"
           }
         ],
         "errors": [
