@@ -1,7 +1,7 @@
 {
   "league": "MLB",
   "timezone": "America/New_York",
-  "lastUpdated": "2026-09-10T01:12:20.931341+00:00",
+  "lastUpdated": "2026-09-10T02:13:18.010252+00:00",
   "games": [
     {
       "gamePk": 824240,
@@ -9584,9 +9584,9 @@
       "date": "2026-09-09",
       "gameDate": "2026-09-09T22:35:00Z",
       "localGameTime": "2026-09-09T18:35:00-04:00",
-      "status": "In Progress",
-      "abstractGameState": "Live",
-      "codedGameState": "I",
+      "status": "Final",
+      "abstractGameState": "Final",
+      "codedGameState": "F",
       "awayTeam": {
         "id": 114,
         "name": "Cleveland Guardians",
@@ -9608,9 +9608,9 @@
       "date": "2026-09-09",
       "gameDate": "2026-09-09T22:40:00Z",
       "localGameTime": "2026-09-09T18:40:00-04:00",
-      "status": "In Progress",
-      "abstractGameState": "Live",
-      "codedGameState": "I",
+      "status": "Final",
+      "abstractGameState": "Final",
+      "codedGameState": "F",
       "awayTeam": {
         "id": 117,
         "name": "Houston Astros",
@@ -9645,8 +9645,8 @@
         "name": "Miami Marlins",
         "abbreviation": "MIA"
       },
-      "awayScore": 10,
-      "homeScore": 8,
+      "awayScore": 15,
+      "homeScore": 14,
       "venue": "loanDepot park",
       "awayPitcher": "Robert Stock",
       "homePitcher": "Janson Junk"
@@ -9656,9 +9656,9 @@
       "date": "2026-09-09",
       "gameDate": "2026-09-09T22:45:00Z",
       "localGameTime": "2026-09-09T18:45:00-04:00",
-      "status": "In Progress",
-      "abstractGameState": "Live",
-      "codedGameState": "I",
+      "status": "Final",
+      "abstractGameState": "Final",
+      "codedGameState": "F",
       "awayTeam": {
         "id": 108,
         "name": "Los Angeles Angels",
@@ -9670,7 +9670,7 @@
         "abbreviation": "BOS"
       },
       "awayScore": 6,
-      "homeScore": 3,
+      "homeScore": 4,
       "venue": "Fenway Park",
       "awayPitcher": "Ryan Johnson",
       "homePitcher": "Jake Bennett"
@@ -9680,9 +9680,9 @@
       "date": "2026-09-09",
       "gameDate": "2026-09-09T23:05:00Z",
       "localGameTime": "2026-09-09T19:05:00-04:00",
-      "status": "In Progress",
-      "abstractGameState": "Live",
-      "codedGameState": "I",
+      "status": "Final",
+      "abstractGameState": "Final",
+      "codedGameState": "F",
       "awayTeam": {
         "id": 115,
         "name": "Colorado Rockies",
@@ -9694,7 +9694,7 @@
         "abbreviation": "NYY"
       },
       "awayScore": 1,
-      "homeScore": 5,
+      "homeScore": 6,
       "venue": "Yankee Stadium",
       "awayPitcher": "Tomoyuki Sugano",
       "homePitcher": "Will Warren"
@@ -9704,9 +9704,9 @@
       "date": "2026-09-09",
       "gameDate": "2026-09-09T23:15:00Z",
       "localGameTime": "2026-09-09T19:15:00-04:00",
-      "status": "In Progress",
-      "abstractGameState": "Live",
-      "codedGameState": "I",
+      "status": "Final",
+      "abstractGameState": "Final",
+      "codedGameState": "F",
       "awayTeam": {
         "id": 139,
         "name": "Tampa Bay Rays",
@@ -9717,7 +9717,7 @@
         "name": "Atlanta Braves",
         "abbreviation": "ATL"
       },
-      "awayScore": 6,
+      "awayScore": 7,
       "homeScore": 2,
       "venue": "Truist Park",
       "awayPitcher": "Griffin Jax",
@@ -9741,8 +9741,8 @@
         "name": "Kansas City Royals",
         "abbreviation": "KC"
       },
-      "awayScore": 0,
-      "homeScore": 1,
+      "awayScore": 2,
+      "homeScore": 5,
       "venue": "Kauffman Stadium",
       "awayPitcher": "Zac Gallen",
       "homePitcher": "Daniel Lynch IV"
@@ -9765,8 +9765,8 @@
         "name": "Chicago White Sox",
         "abbreviation": "CWS"
       },
-      "awayScore": 1,
-      "homeScore": 0,
+      "awayScore": 4,
+      "homeScore": 1,
       "venue": "Rate Field",
       "awayPitcher": "Lake Bachar",
       "homePitcher": "Davis Martin"
@@ -9790,7 +9790,7 @@
         "abbreviation": "MIL"
       },
       "awayScore": 1,
-      "homeScore": 7,
+      "homeScore": 8,
       "venue": "American Family Field",
       "awayPitcher": "Kevin Gausman",
       "homePitcher": "Logan Henderson"
@@ -9800,9 +9800,9 @@
       "date": "2026-09-09",
       "gameDate": "2026-09-10T02:10:00Z",
       "localGameTime": "2026-09-09T22:10:00-04:00",
-      "status": "Pre-Game",
-      "abstractGameState": "Preview",
-      "codedGameState": "P",
+      "status": "In Progress",
+      "abstractGameState": "Live",
+      "codedGameState": "I",
       "awayTeam": {
         "id": 113,
         "name": "Cincinnati Reds",
