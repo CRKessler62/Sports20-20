@@ -1,6 +1,6 @@
 {
   "league": "MLB",
-  "lastUpdated": "2026-09-10T18:58:17.495835+00:00",
+  "lastUpdated": "2026-09-10T19:15:53.298603+00:00",
   "games": [
     {
       "gamePk": 824872,
@@ -76,11 +76,11 @@
       "homeScore": 1,
       "status": "In Progress",
       "gameDate": "2026-09-10T17:05:00Z",
-      "inning": 7,
-      "inningOrdinal": "7th",
-      "inningState": "Bottom",
-      "outs": 0,
-      "battingTeam": "Philadelphia Phillies",
+      "inning": 8,
+      "inningOrdinal": "8th",
+      "inningState": "Middle",
+      "outs": 3,
+      "battingTeam": "Houston Astros",
       "runners": {
         "first": false,
         "second": false,
@@ -121,6 +121,11 @@
           "inning": 7,
           "awayRuns": 0,
           "homeRuns": 0
+        },
+        {
+          "inning": 8,
+          "awayRuns": 0,
+          "homeRuns": 0
         }
       ]
     },
@@ -156,7 +161,7 @@
       "homeTeam": "New York Yankees",
       "awayScore": 0,
       "homeScore": 0,
-      "status": "Scheduled",
+      "status": "Pre-Game",
       "gameDate": "2026-09-10T23:05:00Z",
       "inning": null,
       "inningOrdinal": null,
