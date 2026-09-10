@@ -1,6 +1,6 @@
 {
   "league": "MLB",
-  "lastUpdated": "2026-09-10T19:28:39.747316+00:00",
+  "lastUpdated": "2026-09-10T19:42:47.849927+00:00",
   "games": [
     {
       "gamePk": 824872,
@@ -74,13 +74,13 @@
       "homeTeam": "Philadelphia Phillies",
       "awayScore": 2,
       "homeScore": 1,
-      "status": "In Progress",
+      "status": "Game Over",
       "gameDate": "2026-09-10T17:05:00Z",
       "inning": 9,
       "inningOrdinal": "9th",
-      "inningState": "Top",
-      "outs": 1,
-      "battingTeam": "Houston Astros",
+      "inningState": "Bottom",
+      "outs": 3,
+      "battingTeam": "Philadelphia Phillies",
       "runners": {
         "first": false,
         "second": false,
@@ -140,7 +140,7 @@
       "homeTeam": "Seattle Mariners",
       "awayScore": 0,
       "homeScore": 0,
-      "status": "Pre-Game",
+      "status": "Warmup",
       "gameDate": "2026-09-10T20:10:00Z",
       "inning": 1,
       "inningOrdinal": "1st",
