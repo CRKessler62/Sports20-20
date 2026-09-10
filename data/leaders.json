@@ -1,6 +1,6 @@
 {
   "season": 2026,
-  "lastUpdated": "2026-09-10T20:22:36.071157+00:00",
+  "lastUpdated": "2026-09-10T21:21:45.092937+00:00",
   "leagues": {
     "AL": {
       "offense": {
@@ -518,10 +518,10 @@
           },
           {
             "rank": 5,
-            "player": "Taj Bradley",
-            "team": "Minnesota Twins",
+            "player": "Logan Gilbert",
+            "team": "Seattle Mariners",
             "position": "P",
-            "value": "184"
+            "value": "185"
           }
         ],
         "whip": [
@@ -622,15 +622,15 @@
           },
           {
             "rank": 4,
-            "player": "Shane Baz",
-            "team": "Baltimore Orioles",
+            "player": "Logan Gilbert",
+            "team": "Seattle Mariners",
             "position": "P",
-            "value": "169.0"
+            "value": "170.0"
           },
           {
             "rank": 5,
-            "player": "Gavin Williams",
-            "team": "Cleveland Guardians",
+            "player": "Shane Baz",
+            "team": "Baltimore Orioles",
             "position": "P",
             "value": "169.0"
           }
@@ -702,14 +702,14 @@
             "player": "Josh Naylor",
             "team": "Seattle Mariners",
             "position": "1B",
-            "value": "952"
+            "value": "953"
           },
           {
             "rank": 5,
             "player": "Jake Burger",
             "team": "Texas Rangers",
             "position": "1B",
-            "value": "904"
+            "value": "906"
           }
         ],
         "assists": [
