@@ -1,22 +1,22 @@
 {
   "league": "MLB",
-  "lastUpdated": "2026-09-11T20:33:31.836691+00:00",
+  "lastUpdated": "2026-09-11T20:49:05.539690+00:00",
   "games": [
     {
       "gamePk": 824631,
       "awayTeam": "Pittsburgh Pirates",
       "homeTeam": "Chicago Cubs",
       "awayScore": 2,
-      "homeScore": 11,
+      "homeScore": 12,
       "status": "In Progress",
       "gameDate": "2026-09-11T18:20:00Z",
-      "inning": 7,
-      "inningOrdinal": "7th",
-      "inningState": "Middle",
-      "outs": 3,
+      "inning": 8,
+      "inningOrdinal": "8th",
+      "inningState": "Top",
+      "outs": 1,
       "battingTeam": "Pittsburgh Pirates",
       "runners": {
-        "first": false,
+        "first": true,
         "second": false,
         "third": false
       },
@@ -53,6 +53,11 @@
         },
         {
           "inning": 7,
+          "awayRuns": 0,
+          "homeRuns": 1
+        },
+        {
+          "inning": 8,
           "awayRuns": 0,
           "homeRuns": 0
         }
