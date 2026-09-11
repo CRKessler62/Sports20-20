@@ -1,7 +1,7 @@
 {
   "league": "MLB",
   "timezone": "America/New_York",
-  "lastUpdated": "2026-09-11T17:11:41.458405+00:00",
+  "lastUpdated": "2026-09-11T18:14:59.795538+00:00",
   "games": [
     {
       "gamePk": 823672,
@@ -9584,8 +9584,8 @@
       "date": "2026-09-11",
       "gameDate": "2026-09-11T18:20:00Z",
       "localGameTime": "2026-09-11T14:20:00-04:00",
-      "status": "Pre-Game",
-      "abstractGameState": "Preview",
+      "status": "Warmup",
+      "abstractGameState": "Live",
       "codedGameState": "P",
       "awayTeam": {
         "id": 134,
@@ -9912,7 +9912,7 @@
       "awayScore": null,
       "homeScore": null,
       "venue": "Chase Field",
-      "awayPitcher": null,
+      "awayPitcher": "MacKenzie Gore",
       "homePitcher": null
     },
     {
@@ -10272,7 +10272,7 @@
       "awayScore": null,
       "homeScore": null,
       "venue": "Chase Field",
-      "awayPitcher": null,
+      "awayPitcher": "Kumar Rocker",
       "homePitcher": null
     },
     {
