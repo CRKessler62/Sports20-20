@@ -1,6 +1,6 @@
 {
   "season": 2026,
-  "lastUpdated": "2026-09-11T20:23:48.989679+00:00",
+  "lastUpdated": "2026-09-11T21:22:08.451499+00:00",
   "leagues": {
     "AL": {
       "offense": {
@@ -841,7 +841,7 @@
             "player": "Nick Gonzales",
             "team": "Pittsburgh Pirates",
             "position": "3B",
-            "value": ".304"
+            "value": ".305"
           },
           {
             "rank": 3,
@@ -892,7 +892,7 @@
             "player": "Pete Crow-Armstrong",
             "team": "Chicago Cubs",
             "position": "CF",
-            "value": "159"
+            "value": "160"
           },
           {
             "rank": 5,
@@ -966,7 +966,7 @@
             "player": "Pete Crow-Armstrong",
             "team": "Chicago Cubs",
             "position": "CF",
-            "value": "97"
+            "value": "98"
           },
           {
             "rank": 5,
@@ -1056,7 +1056,7 @@
             "player": "Pete Crow-Armstrong",
             "team": "Chicago Cubs",
             "position": "CF",
-            "value": ".569"
+            "value": ".570"
           },
           {
             "rank": 2,
@@ -1093,7 +1093,7 @@
             "player": "Pete Crow-Armstrong",
             "team": "Chicago Cubs",
             "position": "CF",
-            "value": ".944"
+            "value": ".946"
           },
           {
             "rank": 2,
@@ -1505,7 +1505,7 @@
             "player": "Michael Busch",
             "team": "Chicago Cubs",
             "position": "1B",
-            "value": "1103"
+            "value": "1104"
           },
           {
             "rank": 2,
