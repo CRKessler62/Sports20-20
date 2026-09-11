@@ -1,7 +1,7 @@
 {
   "league": "MLB",
   "timezone": "America/New_York",
-  "lastUpdated": "2026-09-11T15:12:27.388741+00:00",
+  "lastUpdated": "2026-09-11T17:11:41.458405+00:00",
   "games": [
     {
       "gamePk": 823672,
@@ -9584,9 +9584,9 @@
       "date": "2026-09-11",
       "gameDate": "2026-09-11T18:20:00Z",
       "localGameTime": "2026-09-11T14:20:00-04:00",
-      "status": "Scheduled",
+      "status": "Pre-Game",
       "abstractGameState": "Preview",
-      "codedGameState": "S",
+      "codedGameState": "P",
       "awayTeam": {
         "id": 134,
         "name": "Pittsburgh Pirates",
@@ -9597,8 +9597,8 @@
         "name": "Chicago Cubs",
         "abbreviation": "CHC"
       },
-      "awayScore": null,
-      "homeScore": null,
+      "awayScore": 0,
+      "homeScore": 0,
       "venue": "Wrigley Field",
       "awayPitcher": "Wilber Dotel",
       "homePitcher": "Shota Imanaga"
