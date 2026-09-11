@@ -1,6 +1,6 @@
 {
   "season": 2026,
-  "lastUpdated": "2026-09-11T01:23:47.314060+00:00",
+  "lastUpdated": "2026-09-11T02:24:15.501188+00:00",
   "leagues": {
     "AL": {
       "offense": {
@@ -243,17 +243,17 @@
           },
           {
             "rank": 3,
-            "player": "Ben Rice",
-            "team": "New York Yankees",
-            "position": "DH",
-            "value": ".516"
-          },
-          {
-            "rank": 4,
             "player": "Willson Contreras",
             "team": "Boston Red Sox",
             "position": "1B",
             "value": ".516"
+          },
+          {
+            "rank": 4,
+            "player": "Ben Rice",
+            "team": "New York Yankees",
+            "position": "DH",
+            "value": ".515"
           },
           {
             "rank": 5,
@@ -290,7 +290,7 @@
             "player": "Ben Rice",
             "team": "New York Yankees",
             "position": "DH",
-            "value": ".868"
+            "value": ".866"
           },
           {
             "rank": 5,
@@ -746,7 +746,7 @@
             "player": "Chase Meidroth",
             "team": "Chicago White Sox",
             "position": "2B",
-            "value": "295"
+            "value": "297"
           }
         ],
         "errors": [
@@ -1033,7 +1033,7 @@
             "player": "TJ Rumfield",
             "team": "Colorado Rockies",
             "position": "1B",
-            "value": ".389"
+            "value": ".388"
           },
           {
             "rank": 4,
@@ -1077,7 +1077,7 @@
             "player": "Hunter Goodman",
             "team": "Colorado Rockies",
             "position": "C",
-            "value": ".523"
+            "value": ".522"
           },
           {
             "rank": 5,
