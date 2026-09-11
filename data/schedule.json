@@ -1,7 +1,7 @@
 {
   "league": "MLB",
   "timezone": "America/New_York",
-  "lastUpdated": "2026-09-11T18:14:59.795538+00:00",
+  "lastUpdated": "2026-09-11T19:11:39.779056+00:00",
   "games": [
     {
       "gamePk": 823672,
@@ -9584,9 +9584,9 @@
       "date": "2026-09-11",
       "gameDate": "2026-09-11T18:20:00Z",
       "localGameTime": "2026-09-11T14:20:00-04:00",
-      "status": "Warmup",
+      "status": "In Progress",
       "abstractGameState": "Live",
-      "codedGameState": "P",
+      "codedGameState": "I",
       "awayTeam": {
         "id": 134,
         "name": "Pittsburgh Pirates",
@@ -9597,8 +9597,8 @@
         "name": "Chicago Cubs",
         "abbreviation": "CHC"
       },
-      "awayScore": 0,
-      "homeScore": 0,
+      "awayScore": 1,
+      "homeScore": 3,
       "venue": "Wrigley Field",
       "awayPitcher": "Wilber Dotel",
       "homePitcher": "Shota Imanaga"
@@ -9608,9 +9608,9 @@
       "date": "2026-09-11",
       "gameDate": "2026-09-11T22:40:00Z",
       "localGameTime": "2026-09-11T18:40:00-04:00",
-      "status": "Scheduled",
+      "status": "Pre-Game",
       "abstractGameState": "Preview",
-      "codedGameState": "S",
+      "codedGameState": "P",
       "awayTeam": {
         "id": 115,
         "name": "Colorado Rockies",
@@ -9621,8 +9621,8 @@
         "name": "Detroit Tigers",
         "abbreviation": "DET"
       },
-      "awayScore": null,
-      "homeScore": null,
+      "awayScore": 0,
+      "homeScore": 0,
       "venue": "Comerica Park",
       "awayPitcher": "Mason Adams",
       "homePitcher": "Framber Valdez"
@@ -9632,9 +9632,9 @@
       "date": "2026-09-11",
       "gameDate": "2026-09-11T22:45:00Z",
       "localGameTime": "2026-09-11T18:45:00-04:00",
-      "status": "Scheduled",
+      "status": "Pre-Game",
       "abstractGameState": "Preview",
-      "codedGameState": "S",
+      "codedGameState": "P",
       "awayTeam": {
         "id": 108,
         "name": "Los Angeles Angels",
@@ -9645,8 +9645,8 @@
         "name": "Washington Nationals",
         "abbreviation": "WSH"
       },
-      "awayScore": null,
-      "homeScore": null,
+      "awayScore": 0,
+      "homeScore": 0,
       "venue": "Nationals Park",
       "awayPitcher": "Yusei Kikuchi",
       "homePitcher": "Cade Cavalli"
@@ -9704,9 +9704,9 @@
       "date": "2026-09-11",
       "gameDate": "2026-09-11T23:10:00Z",
       "localGameTime": "2026-09-11T19:10:00-04:00",
-      "status": "Scheduled",
+      "status": "Pre-Game",
       "abstractGameState": "Preview",
-      "codedGameState": "S",
+      "codedGameState": "P",
       "awayTeam": {
         "id": 118,
         "name": "Kansas City Royals",
@@ -9717,8 +9717,8 @@
         "name": "Boston Red Sox",
         "abbreviation": "BOS"
       },
-      "awayScore": null,
-      "homeScore": null,
+      "awayScore": 0,
+      "homeScore": 0,
       "venue": "Fenway Park",
       "awayPitcher": "Seth Lugo",
       "homePitcher": "Sonny Gray"
@@ -9728,9 +9728,9 @@
       "date": "2026-09-11",
       "gameDate": "2026-09-11T23:10:00Z",
       "localGameTime": "2026-09-11T19:10:00-04:00",
-      "status": "Scheduled",
+      "status": "Pre-Game",
       "abstractGameState": "Preview",
-      "codedGameState": "S",
+      "codedGameState": "P",
       "awayTeam": {
         "id": 117,
         "name": "Houston Astros",
@@ -9752,9 +9752,9 @@
       "date": "2026-09-11",
       "gameDate": "2026-09-11T23:10:00Z",
       "localGameTime": "2026-09-11T19:10:00-04:00",
-      "status": "Scheduled",
+      "status": "Pre-Game",
       "abstractGameState": "Preview",
-      "codedGameState": "S",
+      "codedGameState": "P",
       "awayTeam": {
         "id": 119,
         "name": "Los Angeles Dodgers",
@@ -9848,9 +9848,9 @@
       "date": "2026-09-11",
       "gameDate": "2026-09-12T00:15:00Z",
       "localGameTime": "2026-09-11T20:15:00-04:00",
-      "status": "Scheduled",
+      "status": "Pre-Game",
       "abstractGameState": "Preview",
-      "codedGameState": "S",
+      "codedGameState": "P",
       "awayTeam": {
         "id": 145,
         "name": "Chicago White Sox",
