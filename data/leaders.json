@@ -1,6 +1,6 @@
 {
   "season": 2026,
-  "lastUpdated": "2026-09-10T22:22:26.654589+00:00",
+  "lastUpdated": "2026-09-11T00:31:09.266134+00:00",
   "leagues": {
     "AL": {
       "offense": {
@@ -183,10 +183,10 @@
           },
           {
             "rank": 5,
-            "player": "Kevin McGonigle",
-            "team": "Detroit Tigers",
-            "position": "SS",
-            "value": "90"
+            "player": "Ben Rice",
+            "team": "New York Yankees",
+            "position": "DH",
+            "value": "91"
           }
         ],
         "obp": [
@@ -220,10 +220,10 @@
           },
           {
             "rank": 5,
-            "player": "Steven Kwan",
-            "team": "Cleveland Guardians",
+            "player": "Randy Arozarena",
+            "team": "Seattle Mariners",
             "position": "LF",
-            "value": ".371"
+            "value": ".372"
           }
         ],
         "slg": [
@@ -290,7 +290,7 @@
             "player": "Ben Rice",
             "team": "New York Yankees",
             "position": "DH",
-            "value": ".870"
+            "value": ".871"
           },
           {
             "rank": 5,
@@ -695,7 +695,7 @@
             "player": "Josh Naylor",
             "team": "Seattle Mariners",
             "position": "1B",
-            "value": "956"
+            "value": "958"
           },
           {
             "rank": 4,
@@ -709,7 +709,7 @@
             "player": "Jake Burger",
             "team": "Texas Rangers",
             "position": "1B",
-            "value": "907"
+            "value": "908"
           }
         ],
         "assists": [
@@ -718,7 +718,7 @@
             "player": "Cole Young",
             "team": "Seattle Mariners",
             "position": "2B",
-            "value": "370"
+            "value": "371"
           },
           {
             "rank": 2,
@@ -746,7 +746,7 @@
             "player": "Chase Meidroth",
             "team": "Chicago White Sox",
             "position": "2B",
-            "value": "293"
+            "value": "294"
           }
         ],
         "errors": [
@@ -841,7 +841,7 @@
             "player": "Nick Gonzales",
             "team": "Pittsburgh Pirates",
             "position": "3B",
-            "value": ".305"
+            "value": ".304"
           },
           {
             "rank": 3,
@@ -1033,7 +1033,7 @@
             "player": "TJ Rumfield",
             "team": "Colorado Rockies",
             "position": "1B",
-            "value": ".389"
+            "value": ".390"
           },
           {
             "rank": 4,
@@ -1060,24 +1060,24 @@
           },
           {
             "rank": 2,
-            "player": "Hunter Goodman",
-            "team": "Colorado Rockies",
-            "position": "C",
-            "value": ".528"
-          },
-          {
-            "rank": 3,
             "player": "James Wood",
             "team": "Washington Nationals",
             "position": "RF",
             "value": ".527"
           },
           {
-            "rank": 4,
+            "rank": 3,
             "player": "Kyle Schwarber",
             "team": "Philadelphia Phillies",
             "position": "DH",
             "value": ".527"
+          },
+          {
+            "rank": 4,
+            "player": "Hunter Goodman",
+            "team": "Colorado Rockies",
+            "position": "C",
+            "value": ".526"
           },
           {
             "rank": 5,
