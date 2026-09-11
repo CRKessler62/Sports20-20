@@ -1,6 +1,6 @@
 {
   "season": 2026,
-  "lastUpdated": "2026-09-11T22:23:14.956072+00:00",
+  "lastUpdated": "2026-09-11T23:21:12.569626+00:00",
   "leagues": {
     "AL": {
       "offense": {
@@ -209,7 +209,7 @@
             "player": "Mike Trout",
             "team": "Los Angeles Angels",
             "position": "CF",
-            "value": ".375"
+            "value": ".376"
           },
           {
             "rank": 4,
@@ -243,24 +243,24 @@
           },
           {
             "rank": 3,
+            "player": "Ben Rice",
+            "team": "New York Yankees",
+            "position": "DH",
+            "value": ".516"
+          },
+          {
+            "rank": 4,
             "player": "Willson Contreras",
             "team": "Boston Red Sox",
             "position": "1B",
             "value": ".516"
           },
           {
-            "rank": 4,
-            "player": "Ben Rice",
-            "team": "New York Yankees",
-            "position": "DH",
-            "value": ".515"
-          },
-          {
             "rank": 5,
             "player": "Pete Alonso",
             "team": "Baltimore Orioles",
             "position": "1B",
-            "value": ".498"
+            "value": ".497"
           }
         ],
         "ops": [
@@ -290,14 +290,14 @@
             "player": "Ben Rice",
             "team": "New York Yankees",
             "position": "DH",
-            "value": ".866"
+            "value": ".868"
           },
           {
             "rank": 5,
             "player": "Pete Alonso",
             "team": "Baltimore Orioles",
             "position": "1B",
-            "value": ".861"
+            "value": ".859"
           }
         ],
         "stolenBases": [
@@ -440,14 +440,14 @@
             "player": "Sonny Gray",
             "team": "Boston Red Sox",
             "position": "P",
-            "value": "2.69"
+            "value": "2.68"
           },
           {
             "rank": 5,
             "player": "Drew Rasmussen",
             "team": "Tampa Bay Rays",
             "position": "P",
-            "value": "2.88"
+            "value": "2.86"
           }
         ],
         "wins": [
@@ -530,7 +530,7 @@
             "player": "Drew Rasmussen",
             "team": "Tampa Bay Rays",
             "position": "P",
-            "value": "0.91"
+            "value": "0.90"
           },
           {
             "rank": 2,
@@ -688,7 +688,7 @@
             "player": "Jonathan Aranda",
             "team": "Tampa Bay Rays",
             "position": "1B",
-            "value": "983"
+            "value": "986"
           },
           {
             "rank": 3,
@@ -1026,7 +1026,7 @@
             "player": "James Wood",
             "team": "Washington Nationals",
             "position": "RF",
-            "value": ".392"
+            "value": ".393"
           },
           {
             "rank": 3,
@@ -1074,17 +1074,17 @@
           },
           {
             "rank": 4,
-            "player": "Hunter Goodman",
-            "team": "Colorado Rockies",
-            "position": "C",
-            "value": ".522"
-          },
-          {
-            "rank": 5,
             "player": "Shohei Ohtani",
             "team": "Los Angeles Dodgers",
             "position": "TWP",
             "value": ".522"
+          },
+          {
+            "rank": 5,
+            "player": "Hunter Goodman",
+            "team": "Colorado Rockies",
+            "position": "C",
+            "value": ".521"
           }
         ],
         "ops": [
@@ -1100,7 +1100,7 @@
             "player": "James Wood",
             "team": "Washington Nationals",
             "position": "RF",
-            "value": ".919"
+            "value": ".920"
           },
           {
             "rank": 3,
@@ -1338,7 +1338,7 @@
             "player": "Cade Cavalli",
             "team": "Washington Nationals",
             "position": "P",
-            "value": "185"
+            "value": "188"
           },
           {
             "rank": 5,
