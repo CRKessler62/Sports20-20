@@ -1,7 +1,7 @@
 {
   "league": "MLB",
   "timezone": "America/New_York",
-  "lastUpdated": "2026-09-11T20:13:06.800887+00:00",
+  "lastUpdated": "2026-09-11T22:12:40.171743+00:00",
   "games": [
     {
       "gamePk": 823672,
@@ -9584,9 +9584,9 @@
       "date": "2026-09-11",
       "gameDate": "2026-09-11T18:20:00Z",
       "localGameTime": "2026-09-11T14:20:00-04:00",
-      "status": "In Progress",
-      "abstractGameState": "Live",
-      "codedGameState": "I",
+      "status": "Final",
+      "abstractGameState": "Final",
+      "codedGameState": "F",
       "awayTeam": {
         "id": 134,
         "name": "Pittsburgh Pirates",
@@ -9598,7 +9598,7 @@
         "abbreviation": "CHC"
       },
       "awayScore": 2,
-      "homeScore": 9,
+      "homeScore": 12,
       "venue": "Wrigley Field",
       "awayPitcher": "Wilber Dotel",
       "homePitcher": "Shota Imanaga"
@@ -9693,8 +9693,8 @@
         "name": "Toronto Blue Jays",
         "abbreviation": "TOR"
       },
-      "awayScore": null,
-      "homeScore": null,
+      "awayScore": 0,
+      "homeScore": 0,
       "venue": "Rogers Centre",
       "awayPitcher": "Chris Bassitt",
       "homePitcher": "Max Scherzer"
@@ -9741,8 +9741,8 @@
         "name": "Tampa Bay Rays",
         "abbreviation": "TB"
       },
-      "awayScore": null,
-      "homeScore": null,
+      "awayScore": 0,
+      "homeScore": 0,
       "venue": "Tropicana Field",
       "awayPitcher": "Miguel Ullola",
       "homePitcher": "Drew Rasmussen"
@@ -9765,8 +9765,8 @@
         "name": "Miami Marlins",
         "abbreviation": "MIA"
       },
-      "awayScore": null,
-      "homeScore": null,
+      "awayScore": 0,
+      "homeScore": 0,
       "venue": "loanDepot park",
       "awayPitcher": null,
       "homePitcher": "Ryan Gusto"
@@ -9813,8 +9813,8 @@
         "name": "Milwaukee Brewers",
         "abbreviation": "MIL"
       },
-      "awayScore": null,
-      "homeScore": null,
+      "awayScore": 0,
+      "homeScore": 0,
       "venue": "American Family Field",
       "awayPitcher": "Andrew Abbott",
       "homePitcher": "Dustin May"
@@ -9824,9 +9824,9 @@
       "date": "2026-09-11",
       "gameDate": "2026-09-12T00:10:00Z",
       "localGameTime": "2026-09-11T20:10:00-04:00",
-      "status": "Scheduled",
+      "status": "Pre-Game",
       "abstractGameState": "Preview",
-      "codedGameState": "S",
+      "codedGameState": "P",
       "awayTeam": {
         "id": 114,
         "name": "Cleveland Guardians",
@@ -9837,8 +9837,8 @@
         "name": "Minnesota Twins",
         "abbreviation": "MIN"
       },
-      "awayScore": null,
-      "homeScore": null,
+      "awayScore": 0,
+      "homeScore": 0,
       "venue": "Target Field",
       "awayPitcher": "Parker Messick",
       "homePitcher": "Taj Bradley"
@@ -9872,9 +9872,9 @@
       "date": "2026-09-11",
       "gameDate": "2026-09-12T01:40:00Z",
       "localGameTime": "2026-09-11T21:40:00-04:00",
-      "status": "Scheduled",
+      "status": "Pre-Game",
       "abstractGameState": "Preview",
-      "codedGameState": "S",
+      "codedGameState": "P",
       "awayTeam": {
         "id": 136,
         "name": "Seattle Mariners",
@@ -9896,9 +9896,9 @@
       "date": "2026-09-11",
       "gameDate": "2026-09-12T01:40:00Z",
       "localGameTime": "2026-09-11T21:40:00-04:00",
-      "status": "Scheduled",
+      "status": "Pre-Game",
       "abstractGameState": "Preview",
-      "codedGameState": "S",
+      "codedGameState": "P",
       "awayTeam": {
         "id": 140,
         "name": "Texas Rangers",
@@ -9913,16 +9913,16 @@
       "homeScore": null,
       "venue": "Chase Field",
       "awayPitcher": "MacKenzie Gore",
-      "homePitcher": null
+      "homePitcher": "Merrill Kelly"
     },
     {
       "gamePk": 823173,
       "date": "2026-09-11",
       "gameDate": "2026-09-12T02:15:00Z",
       "localGameTime": "2026-09-11T22:15:00-04:00",
-      "status": "Scheduled",
+      "status": "Pre-Game",
       "abstractGameState": "Preview",
-      "codedGameState": "S",
+      "codedGameState": "P",
       "awayTeam": {
         "id": 135,
         "name": "San Diego Padres",
@@ -9933,8 +9933,8 @@
         "name": "San Francisco Giants",
         "abbreviation": "SF"
       },
-      "awayScore": null,
-      "homeScore": null,
+      "awayScore": 0,
+      "homeScore": 0,
       "venue": "Oracle Park",
       "awayPitcher": "Robbie Ray",
       "homePitcher": "Anthony Molina"
@@ -10441,7 +10441,7 @@
       "homeScore": null,
       "venue": "Rogers Centre",
       "awayPitcher": "Trevor Rogers",
-      "homePitcher": null
+      "homePitcher": "Dylan Cease"
     },
     {
       "gamePk": 822928,
@@ -10729,7 +10729,7 @@
       "homeScore": null,
       "venue": "Rogers Centre",
       "awayPitcher": null,
-      "homePitcher": null
+      "homePitcher": "Jos\u00e9 Soriano"
     },
     {
       "gamePk": 823575,
@@ -10753,7 +10753,7 @@
       "homeScore": null,
       "venue": "Citi Field",
       "awayPitcher": null,
-      "homePitcher": null
+      "homePitcher": "Jonah Tong"
     },
     {
       "gamePk": 824629,
@@ -11065,7 +11065,7 @@
       "homeScore": null,
       "venue": "Citi Field",
       "awayPitcher": null,
-      "homePitcher": null
+      "homePitcher": "Sean Manaea"
     },
     {
       "gamePk": 824627,
