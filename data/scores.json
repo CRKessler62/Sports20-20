@@ -1,6 +1,6 @@
 {
   "league": "MLB",
-  "lastUpdated": "2026-09-11T20:49:05.539690+00:00",
+  "lastUpdated": "2026-09-11T21:02:51.254784+00:00",
   "games": [
     {
       "gamePk": 824631,
@@ -8,15 +8,15 @@
       "homeTeam": "Chicago Cubs",
       "awayScore": 2,
       "homeScore": 12,
-      "status": "In Progress",
+      "status": "Game Over",
       "gameDate": "2026-09-11T18:20:00Z",
-      "inning": 8,
-      "inningOrdinal": "8th",
+      "inning": 9,
+      "inningOrdinal": "9th",
       "inningState": "Top",
-      "outs": 1,
+      "outs": 3,
       "battingTeam": "Pittsburgh Pirates",
       "runners": {
-        "first": true,
+        "first": false,
         "second": false,
         "third": false
       },
@@ -58,6 +58,11 @@
         },
         {
           "inning": 8,
+          "awayRuns": 0,
+          "homeRuns": 0
+        },
+        {
+          "inning": 9,
           "awayRuns": 0,
           "homeRuns": 0
         }
@@ -195,17 +200,23 @@
       "homeScore": 0,
       "status": "Pre-Game",
       "gameDate": "2026-09-11T23:10:00Z",
-      "inning": null,
-      "inningOrdinal": null,
-      "inningState": null,
-      "outs": null,
-      "battingTeam": null,
+      "inning": 1,
+      "inningOrdinal": "1st",
+      "inningState": "Top",
+      "outs": 0,
+      "battingTeam": "Houston Astros",
       "runners": {
         "first": false,
         "second": false,
         "third": false
       },
-      "inningScores": []
+      "inningScores": [
+        {
+          "inning": 1,
+          "awayRuns": 0,
+          "homeRuns": 0
+        }
+      ]
     },
     {
       "gamePk": 823817,
