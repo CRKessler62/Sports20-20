@@ -1,6 +1,6 @@
 {
   "league": "MLB",
-  "lastUpdated": "2026-09-12T15:17:38.100566+00:00",
+  "lastUpdated": "2026-09-12T15:31:52.199792+00:00",
   "games": [
     {
       "gamePk": 824224,
@@ -80,7 +80,7 @@
       "homeTeam": "Toronto Blue Jays",
       "awayScore": 0,
       "homeScore": 0,
-      "status": "Scheduled",
+      "status": "Pre-Game",
       "gameDate": "2026-09-12T19:07:00Z",
       "inning": null,
       "inningOrdinal": null,
