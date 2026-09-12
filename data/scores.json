@@ -1,6 +1,6 @@
 {
   "league": "MLB",
-  "lastUpdated": "2026-09-12T17:16:39.022561+00:00",
+  "lastUpdated": "2026-09-12T17:31:12.604206+00:00",
   "games": [
     {
       "gamePk": 824224,
@@ -10,19 +10,24 @@
       "homeScore": 0,
       "status": "In Progress",
       "gameDate": "2026-09-12T17:10:00Z",
-      "inning": 1,
-      "inningOrdinal": "1st",
+      "inning": 2,
+      "inningOrdinal": "2nd",
       "inningState": "Top",
-      "outs": 2,
+      "outs": 1,
       "battingTeam": "Colorado Rockies",
       "runners": {
         "first": false,
-        "second": true,
-        "third": true
+        "second": false,
+        "third": false
       },
       "inningScores": [
         {
           "inning": 1,
+          "awayRuns": 0,
+          "homeRuns": 0
+        },
+        {
+          "inning": 2,
           "awayRuns": 0,
           "homeRuns": 0
         }
@@ -114,17 +119,23 @@
       "homeScore": 0,
       "status": "Pre-Game",
       "gameDate": "2026-09-12T20:05:00Z",
-      "inning": null,
-      "inningOrdinal": null,
-      "inningState": null,
-      "outs": null,
-      "battingTeam": null,
+      "inning": 1,
+      "inningOrdinal": "1st",
+      "inningState": "Top",
+      "outs": 0,
+      "battingTeam": "Los Angeles Angels",
       "runners": {
         "first": false,
         "second": false,
         "third": false
       },
-      "inningScores": []
+      "inningScores": [
+        {
+          "inning": 1,
+          "awayRuns": 0,
+          "homeRuns": 0
+        }
+      ]
     },
     {
       "gamePk": 823170,
@@ -134,17 +145,23 @@
       "homeScore": 0,
       "status": "Pre-Game",
       "gameDate": "2026-09-12T20:05:00Z",
-      "inning": null,
-      "inningOrdinal": null,
-      "inningState": null,
-      "outs": null,
-      "battingTeam": null,
+      "inning": 1,
+      "inningOrdinal": "1st",
+      "inningState": "Top",
+      "outs": 0,
+      "battingTeam": "San Diego Padres",
       "runners": {
         "first": false,
         "second": false,
         "third": false
       },
-      "inningScores": []
+      "inningScores": [
+        {
+          "inning": 1,
+          "awayRuns": 0,
+          "homeRuns": 0
+        }
+      ]
     },
     {
       "gamePk": 824712,
@@ -180,17 +197,23 @@
       "homeScore": 0,
       "status": "Pre-Game",
       "gameDate": "2026-09-12T20:10:00Z",
-      "inning": null,
-      "inningOrdinal": null,
-      "inningState": null,
-      "outs": null,
-      "battingTeam": null,
+      "inning": 1,
+      "inningOrdinal": "1st",
+      "inningState": "Top",
+      "outs": 0,
+      "battingTeam": "Cleveland Guardians",
       "runners": {
         "first": false,
         "second": false,
         "third": false
       },
-      "inningScores": []
+      "inningScores": [
+        {
+          "inning": 1,
+          "awayRuns": 0,
+          "homeRuns": 0
+        }
+      ]
     },
     {
       "gamePk": 823819,
