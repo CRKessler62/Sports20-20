@@ -1,6 +1,6 @@
 {
   "league": "MLB",
-  "lastUpdated": "2026-09-12T22:21:24.771717+00:00",
+  "lastUpdated": "2026-09-12T22:36:24.101576+00:00",
   "games": [
     {
       "gamePk": 824224,
@@ -270,13 +270,13 @@
       "gamePk": 822685,
       "awayTeam": "Los Angeles Angels",
       "homeTeam": "Washington Nationals",
-      "awayScore": 3,
+      "awayScore": 5,
       "homeScore": 4,
       "status": "In Progress",
       "gameDate": "2026-09-12T20:05:00Z",
-      "inning": 8,
-      "inningOrdinal": "8th",
-      "inningState": "End",
+      "inning": 9,
+      "inningOrdinal": "9th",
+      "inningState": "Middle",
       "outs": 3,
       "battingTeam": "Los Angeles Angels",
       "runners": {
@@ -324,6 +324,11 @@
           "inning": 8,
           "awayRuns": 3,
           "homeRuns": 0
+        },
+        {
+          "inning": 9,
+          "awayRuns": 2,
+          "homeRuns": 0
         }
       ]
     },
@@ -332,18 +337,18 @@
       "awayTeam": "San Diego Padres",
       "homeTeam": "San Francisco Giants",
       "awayScore": 7,
-      "homeScore": 4,
+      "homeScore": 6,
       "status": "In Progress",
       "gameDate": "2026-09-12T20:05:00Z",
-      "inning": 8,
-      "inningOrdinal": "8th",
-      "inningState": "Bottom",
-      "outs": 0,
-      "battingTeam": "San Francisco Giants",
+      "inning": 9,
+      "inningOrdinal": "9th",
+      "inningState": "Top",
+      "outs": 1,
+      "battingTeam": "San Diego Padres",
       "runners": {
-        "first": true,
+        "first": false,
         "second": false,
-        "third": false
+        "third": true
       },
       "inningScores": [
         {
@@ -384,7 +389,12 @@
         {
           "inning": 8,
           "awayRuns": 0,
-          "homeRuns": 1
+          "homeRuns": 3
+        },
+        {
+          "inning": 9,
+          "awayRuns": 0,
+          "homeRuns": 0
         }
       ]
     },
@@ -394,12 +404,12 @@
       "homeTeam": "Boston Red Sox",
       "awayScore": 1,
       "homeScore": 5,
-      "status": "In Progress",
+      "status": "Game Over",
       "gameDate": "2026-09-12T20:10:00Z",
       "inning": 9,
       "inningOrdinal": "9th",
       "inningState": "Top",
-      "outs": 0,
+      "outs": 3,
       "battingTeam": "Kansas City Royals",
       "runners": {
         "first": false,
@@ -462,11 +472,11 @@
       "homeScore": 4,
       "status": "In Progress",
       "gameDate": "2026-09-12T20:10:00Z",
-      "inning": 7,
-      "inningOrdinal": "7th",
-      "inningState": "Bottom",
-      "outs": 2,
-      "battingTeam": "Minnesota Twins",
+      "inning": 8,
+      "inningOrdinal": "8th",
+      "inningState": "Middle",
+      "outs": 3,
+      "battingTeam": "Cleveland Guardians",
       "runners": {
         "first": false,
         "second": false,
@@ -507,6 +517,11 @@
           "inning": 7,
           "awayRuns": 0,
           "homeRuns": 0
+        },
+        {
+          "inning": 8,
+          "awayRuns": 0,
+          "homeRuns": 0
         }
       ]
     },
@@ -518,10 +533,10 @@
       "homeScore": 4,
       "status": "In Progress",
       "gameDate": "2026-09-12T20:10:00Z",
-      "inning": 7,
-      "inningOrdinal": "7th",
-      "inningState": "Middle",
-      "outs": 3,
+      "inning": 8,
+      "inningOrdinal": "8th",
+      "inningState": "Top",
+      "outs": 2,
       "battingTeam": "Los Angeles Dodgers",
       "runners": {
         "first": false,
@@ -563,6 +578,11 @@
           "inning": 7,
           "awayRuns": 0,
           "homeRuns": 0
+        },
+        {
+          "inning": 8,
+          "awayRuns": 0,
+          "homeRuns": 0
         }
       ]
     },
@@ -574,20 +594,25 @@
       "homeScore": 0,
       "status": "In Progress",
       "gameDate": "2026-09-12T22:10:00Z",
-      "inning": 1,
-      "inningOrdinal": "1st",
+      "inning": 2,
+      "inningOrdinal": "2nd",
       "inningState": "Top",
       "outs": 2,
       "battingTeam": "Houston Astros",
       "runners": {
-        "first": true,
-        "second": true,
+        "first": false,
+        "second": false,
         "third": false
       },
       "inningScores": [
         {
           "inning": 1,
           "awayRuns": 1,
+          "homeRuns": 0
+        },
+        {
+          "inning": 2,
+          "awayRuns": 0,
           "homeRuns": 0
         }
       ]
