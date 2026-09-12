@@ -1,7 +1,7 @@
 {
   "league": "MLB",
   "timezone": "America/New_York",
-  "lastUpdated": "2026-09-12T22:11:43.641262+00:00",
+  "lastUpdated": "2026-09-12T23:11:34.915665+00:00",
   "games": [
     {
       "gamePk": 824238,
@@ -9656,9 +9656,9 @@
       "date": "2026-09-12",
       "gameDate": "2026-09-12T19:07:00Z",
       "localGameTime": "2026-09-12T15:07:00-04:00",
-      "status": "Game Over",
+      "status": "Final",
       "abstractGameState": "Final",
-      "codedGameState": "O",
+      "codedGameState": "F",
       "awayTeam": {
         "id": 110,
         "name": "Baltimore Orioles",
@@ -9680,9 +9680,9 @@
       "date": "2026-09-12",
       "gameDate": "2026-09-12T20:05:00Z",
       "localGameTime": "2026-09-12T16:05:00-04:00",
-      "status": "In Progress",
-      "abstractGameState": "Live",
-      "codedGameState": "I",
+      "status": "Game Over",
+      "abstractGameState": "Final",
+      "codedGameState": "O",
       "awayTeam": {
         "id": 108,
         "name": "Los Angeles Angels",
@@ -9693,8 +9693,8 @@
         "name": "Washington Nationals",
         "abbreviation": "WSH"
       },
-      "awayScore": 3,
-      "homeScore": 4,
+      "awayScore": 5,
+      "homeScore": 6,
       "venue": "Nationals Park",
       "awayPitcher": "Walbert Ure\u00f1a",
       "homePitcher": "Andrew Alvarez"
@@ -9704,9 +9704,9 @@
       "date": "2026-09-12",
       "gameDate": "2026-09-12T20:05:00Z",
       "localGameTime": "2026-09-12T16:05:00-04:00",
-      "status": "In Progress",
-      "abstractGameState": "Live",
-      "codedGameState": "I",
+      "status": "Final",
+      "abstractGameState": "Final",
+      "codedGameState": "F",
       "awayTeam": {
         "id": 135,
         "name": "San Diego Padres",
@@ -9718,7 +9718,7 @@
         "abbreviation": "SF"
       },
       "awayScore": 7,
-      "homeScore": 3,
+      "homeScore": 6,
       "venue": "Oracle Park",
       "awayPitcher": "Michael King",
       "homePitcher": "Cesar Perdomo"
@@ -9728,9 +9728,9 @@
       "date": "2026-09-12",
       "gameDate": "2026-09-12T20:10:00Z",
       "localGameTime": "2026-09-12T16:10:00-04:00",
-      "status": "In Progress",
-      "abstractGameState": "Live",
-      "codedGameState": "I",
+      "status": "Final",
+      "abstractGameState": "Final",
+      "codedGameState": "F",
       "awayTeam": {
         "id": 118,
         "name": "Kansas City Royals",
@@ -9742,7 +9742,7 @@
         "abbreviation": "BOS"
       },
       "awayScore": 1,
-      "homeScore": 4,
+      "homeScore": 5,
       "venue": "Fenway Park",
       "awayPitcher": "Randy Dobnak",
       "homePitcher": "Ranger Suarez"
@@ -9752,9 +9752,9 @@
       "date": "2026-09-12",
       "gameDate": "2026-09-12T20:10:00Z",
       "localGameTime": "2026-09-12T16:10:00-04:00",
-      "status": "In Progress",
-      "abstractGameState": "Live",
-      "codedGameState": "I",
+      "status": "Final",
+      "abstractGameState": "Final",
+      "codedGameState": "F",
       "awayTeam": {
         "id": 114,
         "name": "Cleveland Guardians",
@@ -9776,9 +9776,9 @@
       "date": "2026-09-12",
       "gameDate": "2026-09-12T20:10:00Z",
       "localGameTime": "2026-09-12T16:10:00-04:00",
-      "status": "In Progress",
-      "abstractGameState": "Live",
-      "codedGameState": "I",
+      "status": "Final",
+      "abstractGameState": "Final",
+      "codedGameState": "F",
       "awayTeam": {
         "id": 119,
         "name": "Los Angeles Dodgers",
@@ -9789,7 +9789,7 @@
         "name": "Miami Marlins",
         "abbreviation": "MIA"
       },
-      "awayScore": 2,
+      "awayScore": 3,
       "homeScore": 4,
       "venue": "loanDepot park",
       "awayPitcher": "Tyler Glasnow",
@@ -9813,7 +9813,7 @@
         "name": "Tampa Bay Rays",
         "abbreviation": "TB"
       },
-      "awayScore": 0,
+      "awayScore": 1,
       "homeScore": 0,
       "venue": "Tropicana Field",
       "awayPitcher": "Peter Lambert",
@@ -9824,9 +9824,9 @@
       "date": "2026-09-12",
       "gameDate": "2026-09-12T23:10:00Z",
       "localGameTime": "2026-09-12T19:10:00-04:00",
-      "status": "Pre-Game",
-      "abstractGameState": "Preview",
-      "codedGameState": "P",
+      "status": "In Progress",
+      "abstractGameState": "Live",
+      "codedGameState": "I",
       "awayTeam": {
         "id": 113,
         "name": "Cincinnati Reds",
@@ -9848,8 +9848,8 @@
       "date": "2026-09-12",
       "gameDate": "2026-09-12T23:15:00Z",
       "localGameTime": "2026-09-12T19:15:00-04:00",
-      "status": "Pre-Game",
-      "abstractGameState": "Preview",
+      "status": "Warmup",
+      "abstractGameState": "Live",
       "codedGameState": "P",
       "awayTeam": {
         "id": 143,
@@ -9962,30 +9962,6 @@
       "venue": "Comerica Park",
       "awayPitcher": "Gabriel Hughes",
       "homePitcher": "Jackson Jobe"
-    },
-    {
-      "gamePk": 824708,
-      "date": "2026-09-13",
-      "gameDate": "2026-09-13T17:35:00Z",
-      "localGameTime": "2026-09-13T13:35:00-04:00",
-      "status": "Scheduled",
-      "abstractGameState": "Preview",
-      "codedGameState": "S",
-      "awayTeam": {
-        "id": 118,
-        "name": "Kansas City Royals",
-        "abbreviation": "KC"
-      },
-      "homeTeam": {
-        "id": 111,
-        "name": "Boston Red Sox",
-        "abbreviation": "BOS"
-      },
-      "awayScore": null,
-      "homeScore": null,
-      "venue": "Fenway Park",
-      "awayPitcher": "Noah Cameron",
-      "homePitcher": "Payton Tolle"
     },
     {
       "gamePk": 822682,
@@ -10226,6 +10202,30 @@
       "venue": "Wrigley Field",
       "awayPitcher": "Bubba Chandler",
       "homePitcher": "Matthew Boyd"
+    },
+    {
+      "gamePk": 824708,
+      "date": "2026-09-13",
+      "gameDate": "2026-09-13T19:05:00Z",
+      "localGameTime": "2026-09-13T15:05:00-04:00",
+      "status": "Scheduled",
+      "abstractGameState": "Preview",
+      "codedGameState": "S",
+      "awayTeam": {
+        "id": 118,
+        "name": "Kansas City Royals",
+        "abbreviation": "KC"
+      },
+      "homeTeam": {
+        "id": 111,
+        "name": "Boston Red Sox",
+        "abbreviation": "BOS"
+      },
+      "awayScore": null,
+      "homeScore": null,
+      "venue": "Fenway Park",
+      "awayPitcher": "Noah Cameron",
+      "homePitcher": "Payton Tolle"
     },
     {
       "gamePk": 824952,
