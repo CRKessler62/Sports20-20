@@ -1,6 +1,6 @@
 {
   "league": "MLB",
-  "lastUpdated": "2026-09-12T17:31:12.604206+00:00",
+  "lastUpdated": "2026-09-12T17:43:27.105266+00:00",
   "games": [
     {
       "gamePk": 824224,
@@ -12,13 +12,13 @@
       "gameDate": "2026-09-12T17:10:00Z",
       "inning": 2,
       "inningOrdinal": "2nd",
-      "inningState": "Top",
+      "inningState": "Bottom",
       "outs": 1,
-      "battingTeam": "Colorado Rockies",
+      "battingTeam": "Detroit Tigers",
       "runners": {
-        "first": false,
-        "second": false,
-        "third": false
+        "first": true,
+        "second": true,
+        "third": true
       },
       "inningScores": [
         {
@@ -37,14 +37,14 @@
       "gamePk": 823496,
       "awayTeam": "New York Mets",
       "homeTeam": "New York Yankees",
-      "awayScore": 0,
+      "awayScore": 1,
       "homeScore": 0,
-      "status": "Warmup",
+      "status": "In Progress",
       "gameDate": "2026-09-12T17:35:00Z",
       "inning": 1,
       "inningOrdinal": "1st",
       "inningState": "Top",
-      "outs": 0,
+      "outs": 2,
       "battingTeam": "New York Mets",
       "runners": {
         "first": false,
@@ -54,7 +54,7 @@
       "inningScores": [
         {
           "inning": 1,
-          "awayRuns": 0,
+          "awayRuns": 1,
           "homeRuns": 0
         }
       ]
