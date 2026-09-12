@@ -1,6 +1,6 @@
 {
   "league": "MLB",
-  "lastUpdated": "2026-09-12T23:22:07.176257+00:00",
+  "lastUpdated": "2026-09-12T23:36:09.263921+00:00",
   "games": [
     {
       "gamePk": 824224,
@@ -605,15 +605,15 @@
       "gamePk": 822927,
       "awayTeam": "Houston Astros",
       "homeTeam": "Tampa Bay Rays",
-      "awayScore": 1,
-      "homeScore": 0,
+      "awayScore": 2,
+      "homeScore": 2,
       "status": "In Progress",
       "gameDate": "2026-09-12T22:10:00Z",
-      "inning": 5,
-      "inningOrdinal": "5th",
-      "inningState": "Bottom",
-      "outs": 0,
-      "battingTeam": "Tampa Bay Rays",
+      "inning": 6,
+      "inningOrdinal": "6th",
+      "inningState": "Top",
+      "outs": 2,
+      "battingTeam": "Houston Astros",
       "runners": {
         "first": true,
         "second": false,
@@ -643,6 +643,11 @@
         {
           "inning": 5,
           "awayRuns": 0,
+          "homeRuns": 2
+        },
+        {
+          "inning": 6,
+          "awayRuns": 1,
           "homeRuns": 0
         }
       ]
@@ -651,15 +656,15 @@
       "gamePk": 823737,
       "awayTeam": "Cincinnati Reds",
       "homeTeam": "Milwaukee Brewers",
-      "awayScore": 0,
-      "homeScore": 2,
+      "awayScore": 1,
+      "homeScore": 4,
       "status": "In Progress",
       "gameDate": "2026-09-12T23:10:00Z",
-      "inning": 1,
-      "inningOrdinal": "1st",
-      "inningState": "Bottom",
-      "outs": 0,
-      "battingTeam": "Milwaukee Brewers",
+      "inning": 2,
+      "inningOrdinal": "2nd",
+      "inningState": "Middle",
+      "outs": 3,
+      "battingTeam": "Cincinnati Reds",
       "runners": {
         "first": false,
         "second": false,
@@ -669,7 +674,12 @@
         {
           "inning": 1,
           "awayRuns": 0,
-          "homeRuns": 2
+          "homeRuns": 4
+        },
+        {
+          "inning": 2,
+          "awayRuns": 1,
+          "homeRuns": 0
         }
       ]
     },
@@ -677,14 +687,14 @@
       "gamePk": 824870,
       "awayTeam": "Philadelphia Phillies",
       "homeTeam": "Atlanta Braves",
-      "awayScore": 0,
+      "awayScore": 1,
       "homeScore": 0,
       "status": "In Progress",
       "gameDate": "2026-09-12T23:15:00Z",
-      "inning": 1,
-      "inningOrdinal": "1st",
+      "inning": 2,
+      "inningOrdinal": "2nd",
       "inningState": "Top",
-      "outs": 1,
+      "outs": 2,
       "battingTeam": "Philadelphia Phillies",
       "runners": {
         "first": false,
@@ -694,6 +704,11 @@
       "inningScores": [
         {
           "inning": 1,
+          "awayRuns": 1,
+          "homeRuns": 0
+        },
+        {
+          "inning": 2,
           "awayRuns": 0,
           "homeRuns": 0
         }
@@ -705,7 +720,7 @@
       "homeTeam": "St. Louis Cardinals",
       "awayScore": 0,
       "homeScore": 0,
-      "status": "Delayed Start",
+      "status": "Warmup",
       "gameDate": "2026-09-12T23:15:00Z",
       "inning": 1,
       "inningOrdinal": "1st",
