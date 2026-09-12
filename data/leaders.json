@@ -1,6 +1,6 @@
 {
   "season": 2026,
-  "lastUpdated": "2026-09-12T17:22:00.078225+00:00",
+  "lastUpdated": "2026-09-12T18:24:10.545914+00:00",
   "leagues": {
     "AL": {
       "offense": {
@@ -183,8 +183,8 @@
           },
           {
             "rank": 5,
-            "player": "Zach Neto",
-            "team": "Los Angeles Angels",
+            "player": "Kevin McGonigle",
+            "team": "Detroit Tigers",
             "position": "SS",
             "value": "91"
           }
@@ -213,17 +213,17 @@
           },
           {
             "rank": 4,
-            "player": "Steven Kwan",
-            "team": "Cleveland Guardians",
-            "position": "LF",
+            "player": "Kevin McGonigle",
+            "team": "Detroit Tigers",
+            "position": "SS",
             "value": ".372"
           },
           {
             "rank": 5,
-            "player": "Kevin McGonigle",
-            "team": "Detroit Tigers",
-            "position": "SS",
-            "value": ".371"
+            "player": "Steven Kwan",
+            "team": "Cleveland Guardians",
+            "position": "LF",
+            "value": ".372"
           }
         ],
         "slg": [
@@ -681,7 +681,7 @@
             "player": "Spencer Torkelson",
             "team": "Detroit Tigers",
             "position": "1B",
-            "value": "1079"
+            "value": "1081"
           },
           {
             "rank": 2,
@@ -919,17 +919,17 @@
           },
           {
             "rank": 3,
-            "player": "Matt Olson",
-            "team": "Atlanta Braves",
-            "position": "1B",
+            "player": "Hunter Goodman",
+            "team": "Colorado Rockies",
+            "position": "C",
             "value": "38"
           },
           {
             "rank": 4,
-            "player": "Hunter Goodman",
-            "team": "Colorado Rockies",
-            "position": "C",
-            "value": "37"
+            "player": "Matt Olson",
+            "team": "Atlanta Braves",
+            "position": "1B",
+            "value": "38"
           },
           {
             "rank": 5,
@@ -1033,7 +1033,7 @@
             "player": "TJ Rumfield",
             "team": "Colorado Rockies",
             "position": "1B",
-            "value": ".389"
+            "value": ".388"
           },
           {
             "rank": 4,
@@ -1067,23 +1067,23 @@
           },
           {
             "rank": 3,
+            "player": "Hunter Goodman",
+            "team": "Colorado Rockies",
+            "position": "C",
+            "value": ".525"
+          },
+          {
+            "rank": 4,
             "player": "Shohei Ohtani",
             "team": "Los Angeles Dodgers",
             "position": "TWP",
             "value": ".522"
           },
           {
-            "rank": 4,
+            "rank": 5,
             "player": "Rafael Devers",
             "team": "San Francisco Giants",
             "position": "1B",
-            "value": ".522"
-          },
-          {
-            "rank": 5,
-            "player": "Kyle Schwarber",
-            "team": "Philadelphia Phillies",
-            "position": "DH",
             "value": ".522"
           }
         ],
@@ -1637,7 +1637,7 @@
             "player": "TJ Rumfield",
             "team": "Colorado Rockies",
             "position": "1B",
-            "value": "90"
+            "value": "91"
           },
           {
             "rank": 5,
