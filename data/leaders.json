@@ -1,6 +1,6 @@
 {
   "season": 2026,
-  "lastUpdated": "2026-09-12T16:23:03.150683+00:00",
+  "lastUpdated": "2026-09-12T17:22:00.078225+00:00",
   "leagues": {
     "AL": {
       "offense": {
@@ -541,22 +541,22 @@
           },
           {
             "rank": 3,
-            "player": "Keider Montero",
-            "team": "Detroit Tigers",
-            "position": "P",
-            "value": "1.03"
-          },
-          {
-            "rank": 4,
             "player": "Parker Messick",
             "team": "Cleveland Guardians",
             "position": "P",
             "value": "1.03"
           },
           {
-            "rank": 5,
+            "rank": 4,
             "player": "Reid Detmers",
             "team": "Los Angeles Angels",
+            "position": "P",
+            "value": "1.04"
+          },
+          {
+            "rank": 5,
+            "player": "Dylan Cease",
+            "team": "Toronto Blue Jays",
             "position": "P",
             "value": "1.04"
           }
@@ -681,7 +681,7 @@
             "player": "Spencer Torkelson",
             "team": "Detroit Tigers",
             "position": "1B",
-            "value": "1078"
+            "value": "1079"
           },
           {
             "rank": 2,
@@ -1033,7 +1033,7 @@
             "player": "TJ Rumfield",
             "team": "Colorado Rockies",
             "position": "1B",
-            "value": ".388"
+            "value": ".389"
           },
           {
             "rank": 4,
