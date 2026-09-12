@@ -1,7 +1,7 @@
 {
   "league": "MLB",
   "timezone": "America/New_York",
-  "lastUpdated": "2026-09-12T17:11:11.792728+00:00",
+  "lastUpdated": "2026-09-12T18:14:01.852491+00:00",
   "games": [
     {
       "gamePk": 824238,
@@ -9597,8 +9597,8 @@
         "name": "Detroit Tigers",
         "abbreviation": "DET"
       },
-      "awayScore": 0,
-      "homeScore": 0,
+      "awayScore": 4,
+      "homeScore": 2,
       "venue": "Comerica Park",
       "awayPitcher": "Tanner Gordon",
       "homePitcher": "Andrew Sears"
@@ -9608,9 +9608,9 @@
       "date": "2026-09-12",
       "gameDate": "2026-09-12T17:35:00Z",
       "localGameTime": "2026-09-12T13:35:00-04:00",
-      "status": "Warmup",
+      "status": "In Progress",
       "abstractGameState": "Live",
-      "codedGameState": "P",
+      "codedGameState": "I",
       "awayTeam": {
         "id": 121,
         "name": "New York Mets",
@@ -9621,7 +9621,7 @@
         "name": "New York Yankees",
         "abbreviation": "NYY"
       },
-      "awayScore": 0,
+      "awayScore": 3,
       "homeScore": 0,
       "venue": "Yankee Stadium",
       "awayPitcher": "Zac Thornton",
@@ -9632,8 +9632,8 @@
       "date": "2026-09-12",
       "gameDate": "2026-09-12T18:20:00Z",
       "localGameTime": "2026-09-12T14:20:00-04:00",
-      "status": "Pre-Game",
-      "abstractGameState": "Preview",
+      "status": "Warmup",
+      "abstractGameState": "Live",
       "codedGameState": "P",
       "awayTeam": {
         "id": 134,
@@ -9680,9 +9680,9 @@
       "date": "2026-09-12",
       "gameDate": "2026-09-12T20:05:00Z",
       "localGameTime": "2026-09-12T16:05:00-04:00",
-      "status": "Scheduled",
+      "status": "Pre-Game",
       "abstractGameState": "Preview",
-      "codedGameState": "S",
+      "codedGameState": "P",
       "awayTeam": {
         "id": 108,
         "name": "Los Angeles Angels",
@@ -9693,8 +9693,8 @@
         "name": "Washington Nationals",
         "abbreviation": "WSH"
       },
-      "awayScore": null,
-      "homeScore": null,
+      "awayScore": 0,
+      "homeScore": 0,
       "venue": "Nationals Park",
       "awayPitcher": "Walbert Ure\u00f1a",
       "homePitcher": "Andrew Alvarez"
@@ -9717,8 +9717,8 @@
         "name": "San Francisco Giants",
         "abbreviation": "SF"
       },
-      "awayScore": null,
-      "homeScore": null,
+      "awayScore": 0,
+      "homeScore": 0,
       "venue": "Oracle Park",
       "awayPitcher": "Michael King",
       "homePitcher": "Cesar Perdomo"
@@ -9765,8 +9765,8 @@
         "name": "Minnesota Twins",
         "abbreviation": "MIN"
       },
-      "awayScore": null,
-      "homeScore": null,
+      "awayScore": 0,
+      "homeScore": 0,
       "venue": "Target Field",
       "awayPitcher": "Daniel Espino",
       "homePitcher": "Connor Prielipp"
@@ -9841,7 +9841,7 @@
       "homeScore": null,
       "venue": "American Family Field",
       "awayPitcher": "Brady Singer",
-      "homePitcher": null
+      "homePitcher": "Shane Drohan"
     },
     {
       "gamePk": 824870,
