@@ -1,7 +1,7 @@
 {
   "league": "MLB",
   "timezone": "America/New_York",
-  "lastUpdated": "2026-09-12T04:12:30.722581+00:00",
+  "lastUpdated": "2026-09-12T05:11:36.561853+00:00",
   "games": [
     {
       "gamePk": 824238,
@@ -9488,9 +9488,9 @@
       "date": "2026-09-11",
       "gameDate": "2026-09-12T00:15:00Z",
       "localGameTime": "2026-09-11T20:15:00-04:00",
-      "status": "In Progress",
-      "abstractGameState": "Live",
-      "codedGameState": "I",
+      "status": "Final",
+      "abstractGameState": "Final",
+      "codedGameState": "F",
       "awayTeam": {
         "id": 145,
         "name": "Chicago White Sox",
@@ -9512,9 +9512,9 @@
       "date": "2026-09-11",
       "gameDate": "2026-09-12T01:40:00Z",
       "localGameTime": "2026-09-11T21:40:00-04:00",
-      "status": "In Progress",
-      "abstractGameState": "Live",
-      "codedGameState": "I",
+      "status": "Final",
+      "abstractGameState": "Final",
+      "codedGameState": "F",
       "awayTeam": {
         "id": 136,
         "name": "Seattle Mariners",
@@ -9525,8 +9525,8 @@
         "name": "Athletics",
         "abbreviation": "ATH"
       },
-      "awayScore": 4,
-      "homeScore": 4,
+      "awayScore": 5,
+      "homeScore": 6,
       "venue": "Sutter Health Park",
       "awayPitcher": "George Kirby",
       "homePitcher": "Jeffrey Springs"
@@ -9536,9 +9536,9 @@
       "date": "2026-09-11",
       "gameDate": "2026-09-12T01:40:00Z",
       "localGameTime": "2026-09-11T21:40:00-04:00",
-      "status": "In Progress",
-      "abstractGameState": "Live",
-      "codedGameState": "I",
+      "status": "Final",
+      "abstractGameState": "Final",
+      "codedGameState": "F",
       "awayTeam": {
         "id": 140,
         "name": "Texas Rangers",
