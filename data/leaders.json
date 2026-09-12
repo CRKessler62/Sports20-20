@@ -1,6 +1,6 @@
 {
   "season": 2026,
-  "lastUpdated": "2026-09-12T03:22:56.189477+00:00",
+  "lastUpdated": "2026-09-12T04:23:41.521736+00:00",
   "leagues": {
     "AL": {
       "offense": {
@@ -213,17 +213,17 @@
           },
           {
             "rank": 4,
-            "player": "Randy Arozarena",
-            "team": "Seattle Mariners",
+            "player": "Steven Kwan",
+            "team": "Cleveland Guardians",
             "position": "LF",
             "value": ".372"
           },
           {
             "rank": 5,
-            "player": "Steven Kwan",
-            "team": "Cleveland Guardians",
+            "player": "Randy Arozarena",
+            "team": "Seattle Mariners",
             "position": "LF",
-            "value": ".372"
+            "value": ".371"
           }
         ],
         "slg": [
@@ -695,7 +695,7 @@
             "player": "Josh Naylor",
             "team": "Seattle Mariners",
             "position": "1B",
-            "value": "965"
+            "value": "969"
           },
           {
             "rank": 4,
@@ -709,7 +709,7 @@
             "player": "Jake Burger",
             "team": "Texas Rangers",
             "position": "1B",
-            "value": "913"
+            "value": "914"
           }
         ],
         "assists": [
@@ -855,7 +855,7 @@
             "player": "Gabriel Moreno",
             "team": "Arizona Diamondbacks",
             "position": "C",
-            "value": ".298"
+            "value": ".301"
           },
           {
             "rank": 5,
@@ -936,7 +936,7 @@
             "player": "Rafael Devers",
             "team": "San Francisco Giants",
             "position": "1B",
-            "value": "35"
+            "value": "36"
           }
         ],
         "rbi": [
@@ -970,10 +970,10 @@
           },
           {
             "rank": 5,
-            "player": "CJ Abrams",
-            "team": "Washington Nationals",
-            "position": "SS",
-            "value": "95"
+            "player": "Rafael Devers",
+            "team": "San Francisco Giants",
+            "position": "1B",
+            "value": "96"
           }
         ],
         "runs": [
@@ -1067,24 +1067,24 @@
           },
           {
             "rank": 3,
+            "player": "Rafael Devers",
+            "team": "San Francisco Giants",
+            "position": "1B",
+            "value": ".523"
+          },
+          {
+            "rank": 4,
             "player": "Shohei Ohtani",
             "team": "Los Angeles Dodgers",
             "position": "TWP",
             "value": ".522"
           },
           {
-            "rank": 4,
+            "rank": 5,
             "player": "Kyle Schwarber",
             "team": "Philadelphia Phillies",
             "position": "DH",
             "value": ".522"
-          },
-          {
-            "rank": 5,
-            "player": "Hunter Goodman",
-            "team": "Colorado Rockies",
-            "position": "C",
-            "value": ".518"
           }
         ],
         "ops": [
@@ -1505,7 +1505,7 @@
             "player": "Alec Burleson",
             "team": "St. Louis Cardinals",
             "position": "1B",
-            "value": "1106"
+            "value": "1108"
           },
           {
             "rank": 2,
@@ -1563,7 +1563,7 @@
             "player": "Geraldo Perdomo",
             "team": "Arizona Diamondbacks",
             "position": "SS",
-            "value": "339"
+            "value": "340"
           },
           {
             "rank": 5,
