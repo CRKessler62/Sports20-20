@@ -1,6 +1,6 @@
 {
   "season": 2026,
-  "lastUpdated": "2026-09-12T04:23:41.521736+00:00",
+  "lastUpdated": "2026-09-12T05:22:33.877091+00:00",
   "leagues": {
     "AL": {
       "offense": {
@@ -155,16 +155,16 @@
         "runs": [
           {
             "rank": 1,
-            "player": "Yordan Alvarez",
-            "team": "Houston Astros",
-            "position": "DH",
-            "value": "95"
-          },
-          {
-            "rank": 2,
             "player": "Randy Arozarena",
             "team": "Seattle Mariners",
             "position": "LF",
+            "value": "96"
+          },
+          {
+            "rank": 2,
+            "player": "Yordan Alvarez",
+            "team": "Houston Astros",
+            "position": "DH",
             "value": "95"
           },
           {
@@ -220,9 +220,9 @@
           },
           {
             "rank": 5,
-            "player": "Randy Arozarena",
-            "team": "Seattle Mariners",
-            "position": "LF",
+            "player": "Kevin McGonigle",
+            "team": "Detroit Tigers",
+            "position": "SS",
             "value": ".371"
           }
         ],
@@ -695,7 +695,7 @@
             "player": "Josh Naylor",
             "team": "Seattle Mariners",
             "position": "1B",
-            "value": "969"
+            "value": "971"
           },
           {
             "rank": 4,
@@ -855,7 +855,7 @@
             "player": "Gabriel Moreno",
             "team": "Arizona Diamondbacks",
             "position": "C",
-            "value": ".301"
+            "value": ".300"
           },
           {
             "rank": 5,
@@ -885,7 +885,7 @@
             "player": "Fernando Tatis Jr.",
             "team": "San Diego Padres",
             "position": "RF",
-            "value": "161"
+            "value": "162"
           },
           {
             "rank": 4,
@@ -1067,16 +1067,16 @@
           },
           {
             "rank": 3,
-            "player": "Rafael Devers",
-            "team": "San Francisco Giants",
-            "position": "1B",
-            "value": ".523"
-          },
-          {
-            "rank": 4,
             "player": "Shohei Ohtani",
             "team": "Los Angeles Dodgers",
             "position": "TWP",
+            "value": ".522"
+          },
+          {
+            "rank": 4,
+            "player": "Rafael Devers",
+            "team": "San Francisco Giants",
+            "position": "1B",
             "value": ".522"
           },
           {
@@ -1398,7 +1398,7 @@
             "player": "Mason Miller",
             "team": "San Diego Padres",
             "position": "P",
-            "value": "34"
+            "value": "35"
           },
           {
             "rank": 3,
@@ -1553,17 +1553,17 @@
           },
           {
             "rank": 3,
-            "player": "JJ Wetherholt",
-            "team": "St. Louis Cardinals",
-            "position": "2B",
+            "player": "Geraldo Perdomo",
+            "team": "Arizona Diamondbacks",
+            "position": "SS",
             "value": "341"
           },
           {
             "rank": 4,
-            "player": "Geraldo Perdomo",
-            "team": "Arizona Diamondbacks",
-            "position": "SS",
-            "value": "340"
+            "player": "JJ Wetherholt",
+            "team": "St. Louis Cardinals",
+            "position": "2B",
+            "value": "341"
           },
           {
             "rank": 5,
@@ -1641,9 +1641,9 @@
           },
           {
             "rank": 5,
-            "player": "Brice Turang",
-            "team": "Milwaukee Brewers",
-            "position": "2B",
+            "player": "Geraldo Perdomo",
+            "team": "Arizona Diamondbacks",
+            "position": "SS",
             "value": "86"
           }
         ]
