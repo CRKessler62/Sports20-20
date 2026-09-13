@@ -1,6 +1,6 @@
 {
   "season": 2026,
-  "lastUpdated": "2026-09-13T16:23:43.489632+00:00",
+  "lastUpdated": "2026-09-13T17:21:56.391690+00:00",
   "leagues": {
     "AL": {
       "offense": {
@@ -72,9 +72,9 @@
           },
           {
             "rank": 5,
-            "player": "Ceddanne Rafaela",
-            "team": "Boston Red Sox",
-            "position": "CF",
+            "player": "Kevin McGonigle",
+            "team": "Detroit Tigers",
+            "position": "SS",
             "value": "151"
           }
         ],
@@ -681,7 +681,7 @@
             "player": "Spencer Torkelson",
             "team": "Detroit Tigers",
             "position": "1B",
-            "value": "1085"
+            "value": "1087"
           },
           {
             "rank": 2,
@@ -1033,7 +1033,7 @@
             "player": "TJ Rumfield",
             "team": "Colorado Rockies",
             "position": "1B",
-            "value": ".389"
+            "value": ".390"
           },
           {
             "rank": 4,
