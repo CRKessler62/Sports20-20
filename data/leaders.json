@@ -1,6 +1,6 @@
 {
   "season": 2026,
-  "lastUpdated": "2026-09-13T02:23:41.932824+00:00",
+  "lastUpdated": "2026-09-13T03:23:39.729154+00:00",
   "leagues": {
     "AL": {
       "offense": {
@@ -223,7 +223,7 @@
             "player": "Randy Arozarena",
             "team": "Seattle Mariners",
             "position": "LF",
-            "value": ".371"
+            "value": ".372"
           }
         ],
         "slg": [
@@ -350,7 +350,7 @@
             "player": "Brandon Nimmo",
             "team": "Texas Rangers",
             "position": "RF",
-            "value": "32"
+            "value": "33"
           },
           {
             "rank": 3,
@@ -695,7 +695,7 @@
             "player": "Josh Naylor",
             "team": "Seattle Mariners",
             "position": "1B",
-            "value": "972"
+            "value": "974"
           },
           {
             "rank": 4,
@@ -855,7 +855,7 @@
             "player": "Gabriel Moreno",
             "team": "Arizona Diamondbacks",
             "position": "C",
-            "value": ".300"
+            "value": ".302"
           },
           {
             "rank": 5,
@@ -1556,7 +1556,7 @@
             "player": "Geraldo Perdomo",
             "team": "Arizona Diamondbacks",
             "position": "SS",
-            "value": "342"
+            "value": "344"
           },
           {
             "rank": 4,
@@ -1641,9 +1641,9 @@
           },
           {
             "rank": 5,
-            "player": "Brice Turang",
-            "team": "Milwaukee Brewers",
-            "position": "2B",
+            "player": "Geraldo Perdomo",
+            "team": "Arizona Diamondbacks",
+            "position": "SS",
             "value": "87"
           }
         ]
