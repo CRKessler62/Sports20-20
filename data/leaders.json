@@ -1,6 +1,6 @@
 {
   "season": 2026,
-  "lastUpdated": "2026-09-13T20:23:09.780111+00:00",
+  "lastUpdated": "2026-09-13T21:22:18.621638+00:00",
   "leagues": {
     "AL": {
       "offense": {
@@ -31,7 +31,7 @@
             "player": "Chase DeLauter",
             "team": "Cleveland Guardians",
             "position": "RF",
-            "value": ".289"
+            "value": ".291"
           },
           {
             "rank": 5,
@@ -158,7 +158,7 @@
             "player": "Randy Arozarena",
             "team": "Seattle Mariners",
             "position": "LF",
-            "value": "97"
+            "value": "98"
           },
           {
             "rank": 2,
@@ -202,7 +202,7 @@
             "player": "Willson Contreras",
             "team": "Boston Red Sox",
             "position": "1B",
-            "value": ".384"
+            "value": ".385"
           },
           {
             "rank": 3,
@@ -260,7 +260,7 @@
             "player": "Pete Alonso",
             "team": "Baltimore Orioles",
             "position": "1B",
-            "value": ".498"
+            "value": ".499"
           }
         ],
         "ops": [
@@ -276,7 +276,7 @@
             "player": "Willson Contreras",
             "team": "Boston Red Sox",
             "position": "1B",
-            "value": ".900"
+            "value": ".901"
           },
           {
             "rank": 3,
@@ -297,7 +297,7 @@
             "player": "Pete Alonso",
             "team": "Baltimore Orioles",
             "position": "1B",
-            "value": ".861"
+            "value": ".862"
           }
         ],
         "stolenBases": [
@@ -695,7 +695,7 @@
             "player": "Josh Naylor",
             "team": "Seattle Mariners",
             "position": "1B",
-            "value": "976"
+            "value": "977"
           },
           {
             "rank": 4,
@@ -709,7 +709,7 @@
             "player": "Jake Burger",
             "team": "Texas Rangers",
             "position": "1B",
-            "value": "916"
+            "value": "920"
           }
         ],
         "assists": [
@@ -848,14 +848,14 @@
             "player": "Nick Gonzales",
             "team": "Pittsburgh Pirates",
             "position": "3B",
-            "value": ".305"
+            "value": ".304"
           },
           {
             "rank": 4,
             "player": "Gabriel Moreno",
             "team": "Arizona Diamondbacks",
             "position": "C",
-            "value": ".302"
+            "value": ".303"
           },
           {
             "rank": 5,
@@ -919,16 +919,16 @@
           },
           {
             "rank": 3,
-            "player": "Hunter Goodman",
-            "team": "Colorado Rockies",
-            "position": "C",
-            "value": "38"
-          },
-          {
-            "rank": 4,
             "player": "Matt Olson",
             "team": "Atlanta Braves",
             "position": "1B",
+            "value": "39"
+          },
+          {
+            "rank": 4,
+            "player": "Hunter Goodman",
+            "team": "Colorado Rockies",
+            "position": "C",
             "value": "38"
           },
           {
@@ -1003,7 +1003,7 @@
             "player": "Matt Olson",
             "team": "Atlanta Braves",
             "position": "1B",
-            "value": "95"
+            "value": "96"
           },
           {
             "rank": 5,
@@ -1056,7 +1056,7 @@
             "player": "Pete Crow-Armstrong",
             "team": "Chicago Cubs",
             "position": "CF",
-            "value": ".563"
+            "value": ".562"
           },
           {
             "rank": 2,
@@ -1093,7 +1093,7 @@
             "player": "Pete Crow-Armstrong",
             "team": "Chicago Cubs",
             "position": "CF",
-            "value": ".935"
+            "value": ".933"
           },
           {
             "rank": 2,
@@ -1114,7 +1114,7 @@
             "player": "Jake Bauers",
             "team": "Milwaukee Brewers",
             "position": "1B",
-            "value": ".893"
+            "value": ".892"
           },
           {
             "rank": 5,
@@ -1254,17 +1254,17 @@
           },
           {
             "rank": 3,
+            "player": "Eduardo Rodriguez",
+            "team": "Arizona Diamondbacks",
+            "position": "P",
+            "value": "2.59"
+          },
+          {
+            "rank": 4,
             "player": "Yoshinobu Yamamoto",
             "team": "Los Angeles Dodgers",
             "position": "P",
             "value": "2.62"
-          },
-          {
-            "rank": 4,
-            "player": "Eduardo Rodriguez",
-            "team": "Arizona Diamondbacks",
-            "position": "P",
-            "value": "2.64"
           },
           {
             "rank": 5,
@@ -1446,17 +1446,17 @@
           },
           {
             "rank": 4,
+            "player": "Eduardo Rodriguez",
+            "team": "Arizona Diamondbacks",
+            "position": "P",
+            "value": "177.1"
+          },
+          {
+            "rank": 5,
             "player": "Michael King",
             "team": "San Diego Padres",
             "position": "P",
             "value": "175.0"
-          },
-          {
-            "rank": 5,
-            "player": "Eduardo Rodriguez",
-            "team": "Arizona Diamondbacks",
-            "position": "P",
-            "value": "174.0"
           }
         ],
         "qualityStarts": []
@@ -1512,7 +1512,7 @@
             "player": "Michael Busch",
             "team": "Chicago Cubs",
             "position": "1B",
-            "value": "1117"
+            "value": "1120"
           },
           {
             "rank": 3,
@@ -1526,7 +1526,7 @@
             "player": "J.T. Realmuto",
             "team": "Philadelphia Phillies",
             "position": "C",
-            "value": "1107"
+            "value": "1109"
           },
           {
             "rank": 5,
