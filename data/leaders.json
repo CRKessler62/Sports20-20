@@ -1,6 +1,6 @@
 {
   "season": 2026,
-  "lastUpdated": "2026-09-13T00:31:22.132562+00:00",
+  "lastUpdated": "2026-09-13T01:23:30.605973+00:00",
   "leagues": {
     "AL": {
       "offense": {
@@ -239,7 +239,7 @@
             "player": "Junior Caminero",
             "team": "Tampa Bay Rays",
             "position": "3B",
-            "value": ".533"
+            "value": ".532"
           },
           {
             "rank": 3,
@@ -283,7 +283,7 @@
             "player": "Junior Caminero",
             "team": "Tampa Bay Rays",
             "position": "3B",
-            "value": ".898"
+            "value": ".897"
           },
           {
             "rank": 4,
@@ -347,30 +347,30 @@
           },
           {
             "rank": 2,
+            "player": "Brandon Nimmo",
+            "team": "Texas Rangers",
+            "position": "RF",
+            "value": "32"
+          },
+          {
+            "rank": 3,
             "player": "Ceddanne Rafaela",
             "team": "Boston Red Sox",
             "position": "CF",
             "value": "32"
           },
           {
-            "rank": 3,
+            "rank": 4,
             "player": "Ernie Clement",
             "team": "Toronto Blue Jays",
             "position": "2B",
             "value": "31"
           },
           {
-            "rank": 4,
+            "rank": 5,
             "player": "Carter Jensen",
             "team": "Kansas City Royals",
             "position": "C",
-            "value": "31"
-          },
-          {
-            "rank": 5,
-            "player": "Brandon Nimmo",
-            "team": "Texas Rangers",
-            "position": "RF",
             "value": "31"
           }
         ],
@@ -567,7 +567,7 @@
             "player": "Bryan Baker",
             "team": "Tampa Bay Rays",
             "position": "P",
-            "value": "39"
+            "value": "40"
           },
           {
             "rank": 2,
@@ -688,7 +688,7 @@
             "player": "Jonathan Aranda",
             "team": "Tampa Bay Rays",
             "position": "1B",
-            "value": "998"
+            "value": "999"
           },
           {
             "rank": 3,
@@ -709,7 +709,7 @@
             "player": "Jake Burger",
             "team": "Texas Rangers",
             "position": "1B",
-            "value": "914"
+            "value": "915"
           }
         ],
         "assists": [
@@ -783,7 +783,7 @@
             "player": "Miguel Vargas",
             "team": "Chicago White Sox",
             "position": "3B",
-            "value": "12"
+            "value": "13"
           }
         ],
         "doublePlays": [
@@ -855,7 +855,7 @@
             "player": "Gabriel Moreno",
             "team": "Arizona Diamondbacks",
             "position": "C",
-            "value": ".300"
+            "value": ".299"
           },
           {
             "rank": 5,
@@ -1010,7 +1010,7 @@
             "player": "Brice Turang",
             "team": "Milwaukee Brewers",
             "position": "2B",
-            "value": "94"
+            "value": "95"
           }
         ],
         "obp": [
@@ -1019,7 +1019,7 @@
             "player": "Jake Bauers",
             "team": "Milwaukee Brewers",
             "position": "1B",
-            "value": ".394"
+            "value": ".395"
           },
           {
             "rank": 2,
@@ -1040,7 +1040,7 @@
             "player": "Bryce Harper",
             "team": "Philadelphia Phillies",
             "position": "1B",
-            "value": ".387"
+            "value": ".386"
           },
           {
             "rank": 5,
@@ -1114,14 +1114,14 @@
             "player": "Jake Bauers",
             "team": "Milwaukee Brewers",
             "position": "1B",
-            "value": ".887"
+            "value": ".889"
           },
           {
             "rank": 5,
             "player": "Bryce Harper",
             "team": "Philadelphia Phillies",
             "position": "1B",
-            "value": ".886"
+            "value": ".884"
           }
         ],
         "stolenBases": [
@@ -1502,38 +1502,38 @@
         "putouts": [
           {
             "rank": 1,
+            "player": "Alec Burleson",
+            "team": "St. Louis Cardinals",
+            "position": "1B",
+            "value": "1112"
+          },
+          {
+            "rank": 2,
             "player": "Michael Busch",
             "team": "Chicago Cubs",
             "position": "1B",
             "value": "1112"
           },
           {
-            "rank": 2,
-            "player": "Alec Burleson",
-            "team": "St. Louis Cardinals",
-            "position": "1B",
-            "value": "1111"
-          },
-          {
             "rank": 3,
             "player": "William Contreras",
             "team": "Milwaukee Brewers",
             "position": "C",
-            "value": "1103"
+            "value": "1107"
           },
           {
             "rank": 4,
             "player": "J.T. Realmuto",
             "team": "Philadelphia Phillies",
             "position": "C",
-            "value": "1097"
+            "value": "1099"
           },
           {
             "rank": 5,
             "player": "Matt Olson",
             "team": "Atlanta Braves",
             "position": "1B",
-            "value": "1083"
+            "value": "1088"
           }
         ],
         "assists": [
@@ -1549,7 +1549,7 @@
             "player": "Ozzie Albies",
             "team": "Atlanta Braves",
             "position": "2B",
-            "value": "353"
+            "value": "355"
           },
           {
             "rank": 3,
@@ -1616,14 +1616,14 @@
             "player": "Alec Burleson",
             "team": "St. Louis Cardinals",
             "position": "1B",
-            "value": "121"
+            "value": "122"
           },
           {
             "rank": 2,
             "player": "Matt Olson",
             "team": "Atlanta Braves",
             "position": "1B",
-            "value": "115"
+            "value": "116"
           },
           {
             "rank": 3,
@@ -1641,10 +1641,10 @@
           },
           {
             "rank": 5,
-            "player": "Geraldo Perdomo",
-            "team": "Arizona Diamondbacks",
+            "player": "Masyn Winn",
+            "team": "St. Louis Cardinals",
             "position": "SS",
-            "value": "86"
+            "value": "87"
           }
         ]
       },
