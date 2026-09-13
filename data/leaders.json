@@ -1,6 +1,6 @@
 {
   "season": 2026,
-  "lastUpdated": "2026-09-13T15:22:46.759012+00:00",
+  "lastUpdated": "2026-09-13T16:23:43.489632+00:00",
   "leagues": {
     "AL": {
       "offense": {
@@ -862,7 +862,7 @@
             "player": "TJ Rumfield",
             "team": "Colorado Rockies",
             "position": "1B",
-            "value": ".298"
+            "value": ".297"
           }
         ],
         "hits": [
