@@ -1,6 +1,6 @@
 {
   "league": "MLB",
-  "lastUpdated": "2026-09-13T21:57:17.010396+00:00",
+  "lastUpdated": "2026-09-13T22:17:28.299789+00:00",
   "games": [
     {
       "gamePk": 824225,
@@ -736,14 +736,14 @@
       "homeScore": 1,
       "status": "In Progress",
       "gameDate": "2026-09-13T19:05:00Z",
-      "inning": 4,
-      "inningOrdinal": "4th",
-      "inningState": "End",
-      "outs": 3,
+      "inning": 6,
+      "inningOrdinal": "6th",
+      "inningState": "Top",
+      "outs": 0,
       "battingTeam": "Kansas City Royals",
       "runners": {
-        "first": false,
-        "second": false,
+        "first": true,
+        "second": true,
         "third": false
       },
       "inningScores": [
@@ -766,6 +766,16 @@
           "inning": 4,
           "awayRuns": 0,
           "homeRuns": 0
+        },
+        {
+          "inning": 5,
+          "awayRuns": 0,
+          "homeRuns": 0
+        },
+        {
+          "inning": 6,
+          "awayRuns": 0,
+          "homeRuns": 0
         }
       ]
     },
@@ -773,19 +783,19 @@
       "gamePk": 824952,
       "awayTeam": "Seattle Mariners",
       "homeTeam": "Athletics",
-      "awayScore": 5,
+      "awayScore": 6,
       "homeScore": 2,
       "status": "In Progress",
       "gameDate": "2026-09-13T20:05:00Z",
-      "inning": 5,
-      "inningOrdinal": "5th",
+      "inning": 6,
+      "inningOrdinal": "6th",
       "inningState": "Top",
-      "outs": 2,
+      "outs": 1,
       "battingTeam": "Seattle Mariners",
       "runners": {
-        "first": true,
-        "second": true,
-        "third": true
+        "first": false,
+        "second": false,
+        "third": false
       },
       "inningScores": [
         {
@@ -810,6 +820,11 @@
         },
         {
           "inning": 5,
+          "awayRuns": 1,
+          "homeRuns": 0
+        },
+        {
+          "inning": 6,
           "awayRuns": 0,
           "homeRuns": 0
         }
@@ -820,14 +835,14 @@
       "awayTeam": "Texas Rangers",
       "homeTeam": "Arizona Diamondbacks",
       "awayScore": 7,
-      "homeScore": 1,
+      "homeScore": 4,
       "status": "In Progress",
       "gameDate": "2026-09-13T20:10:00Z",
-      "inning": 7,
-      "inningOrdinal": "7th",
-      "inningState": "Bottom",
-      "outs": 0,
-      "battingTeam": "Arizona Diamondbacks",
+      "inning": 8,
+      "inningOrdinal": "8th",
+      "inningState": "Top",
+      "outs": 2,
+      "battingTeam": "Texas Rangers",
       "runners": {
         "first": false,
         "second": false,
@@ -866,6 +881,11 @@
         },
         {
           "inning": 7,
+          "awayRuns": 0,
+          "homeRuns": 3
+        },
+        {
+          "inning": 8,
           "awayRuns": 0,
           "homeRuns": 0
         }
