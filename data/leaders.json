@@ -1,6 +1,6 @@
 {
   "season": 2026,
-  "lastUpdated": "2026-09-13T22:22:41.459919+00:00",
+  "lastUpdated": "2026-09-13T23:21:38.443693+00:00",
   "leagues": {
     "AL": {
       "offense": {
@@ -158,7 +158,7 @@
             "player": "Randy Arozarena",
             "team": "Seattle Mariners",
             "position": "LF",
-            "value": "98"
+            "value": "99"
           },
           {
             "rank": 2,
@@ -202,7 +202,7 @@
             "player": "Willson Contreras",
             "team": "Boston Red Sox",
             "position": "1B",
-            "value": ".384"
+            "value": ".387"
           },
           {
             "rank": 3,
@@ -253,7 +253,7 @@
             "player": "Willson Contreras",
             "team": "Boston Red Sox",
             "position": "1B",
-            "value": ".515"
+            "value": ".517"
           },
           {
             "rank": 5,
@@ -276,7 +276,7 @@
             "player": "Willson Contreras",
             "team": "Boston Red Sox",
             "position": "1B",
-            "value": ".899"
+            "value": ".904"
           },
           {
             "rank": 3,
@@ -669,9 +669,9 @@
           },
           {
             "rank": 5,
-            "player": "Munetaka Murakami",
-            "team": "Chicago White Sox",
-            "position": "1B",
+            "player": "Randy Arozarena",
+            "team": "Seattle Mariners",
+            "position": "LF",
             "value": ".996"
           }
         ],
@@ -695,7 +695,7 @@
             "player": "Josh Naylor",
             "team": "Seattle Mariners",
             "position": "1B",
-            "value": "980"
+            "value": "983"
           },
           {
             "rank": 4,
@@ -709,7 +709,7 @@
             "player": "Jake Burger",
             "team": "Texas Rangers",
             "position": "1B",
-            "value": "922"
+            "value": "924"
           }
         ],
         "assists": [
@@ -718,7 +718,7 @@
             "player": "Cole Young",
             "team": "Seattle Mariners",
             "position": "2B",
-            "value": "374"
+            "value": "375"
           },
           {
             "rank": 2,
@@ -817,8 +817,8 @@
           },
           {
             "rank": 5,
-            "player": "Vinnie Pasquantino",
-            "team": "Kansas City Royals",
+            "player": "Jake Burger",
+            "team": "Texas Rangers",
             "position": "1B",
             "value": "85"
           }
@@ -855,7 +855,7 @@
             "player": "Gabriel Moreno",
             "team": "Arizona Diamondbacks",
             "position": "C",
-            "value": ".302"
+            "value": ".301"
           },
           {
             "rank": 5,
