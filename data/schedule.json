@@ -1,7 +1,7 @@
 {
   "league": "MLB",
   "timezone": "America/New_York",
-  "lastUpdated": "2026-09-13T17:11:14.461135+00:00",
+  "lastUpdated": "2026-09-13T18:14:31.363151+00:00",
   "games": [
     {
       "gamePk": 824643,
@@ -9742,7 +9742,7 @@
         "abbreviation": "DET"
       },
       "awayScore": 1,
-      "homeScore": 5,
+      "homeScore": 8,
       "venue": "Comerica Park",
       "awayPitcher": "Gabriel Hughes",
       "homePitcher": "Jackson Jobe"
@@ -9752,9 +9752,9 @@
       "date": "2026-09-13",
       "gameDate": "2026-09-13T17:35:00Z",
       "localGameTime": "2026-09-13T13:35:00-04:00",
-      "status": "Pre-Game",
-      "abstractGameState": "Preview",
-      "codedGameState": "P",
+      "status": "In Progress",
+      "abstractGameState": "Live",
+      "codedGameState": "I",
       "awayTeam": {
         "id": 108,
         "name": "Los Angeles Angels",
@@ -9776,9 +9776,9 @@
       "date": "2026-09-13",
       "gameDate": "2026-09-13T17:35:00Z",
       "localGameTime": "2026-09-13T13:35:00-04:00",
-      "status": "Warmup",
+      "status": "In Progress",
       "abstractGameState": "Live",
-      "codedGameState": "P",
+      "codedGameState": "I",
       "awayTeam": {
         "id": 143,
         "name": "Philadelphia Phillies",
@@ -9789,8 +9789,8 @@
         "name": "Atlanta Braves",
         "abbreviation": "ATL"
       },
-      "awayScore": 0,
-      "homeScore": 0,
+      "awayScore": 2,
+      "homeScore": 1,
       "venue": "Truist Park",
       "awayPitcher": "Andrew Painter",
       "homePitcher": "Grant Holmes"
@@ -9800,9 +9800,9 @@
       "date": "2026-09-13",
       "gameDate": "2026-09-13T17:35:00Z",
       "localGameTime": "2026-09-13T13:35:00-04:00",
-      "status": "Delayed Start",
-      "abstractGameState": "Preview",
-      "codedGameState": "P",
+      "status": "In Progress",
+      "abstractGameState": "Live",
+      "codedGameState": "I",
       "awayTeam": {
         "id": 121,
         "name": "New York Mets",
@@ -9814,7 +9814,7 @@
         "abbreviation": "NYY"
       },
       "awayScore": 0,
-      "homeScore": 0,
+      "homeScore": 1,
       "venue": "Yankee Stadium",
       "awayPitcher": "Christian Scott",
       "homePitcher": "Cam Schlittler"
@@ -9824,9 +9824,9 @@
       "date": "2026-09-13",
       "gameDate": "2026-09-13T17:37:00Z",
       "localGameTime": "2026-09-13T13:37:00-04:00",
-      "status": "Pre-Game",
-      "abstractGameState": "Preview",
-      "codedGameState": "P",
+      "status": "In Progress",
+      "abstractGameState": "Live",
+      "codedGameState": "I",
       "awayTeam": {
         "id": 110,
         "name": "Baltimore Orioles",
@@ -9838,7 +9838,7 @@
         "abbreviation": "TOR"
       },
       "awayScore": 0,
-      "homeScore": 0,
+      "homeScore": 1,
       "venue": "Rogers Centre",
       "awayPitcher": "Trevor Rogers",
       "homePitcher": "Dylan Cease"
@@ -9848,9 +9848,9 @@
       "date": "2026-09-13",
       "gameDate": "2026-09-13T17:40:00Z",
       "localGameTime": "2026-09-13T13:40:00-04:00",
-      "status": "Pre-Game",
-      "abstractGameState": "Preview",
-      "codedGameState": "P",
+      "status": "In Progress",
+      "abstractGameState": "Live",
+      "codedGameState": "I",
       "awayTeam": {
         "id": 117,
         "name": "Houston Astros",
@@ -9862,7 +9862,7 @@
         "abbreviation": "TB"
       },
       "awayScore": 0,
-      "homeScore": 0,
+      "homeScore": 3,
       "venue": "Tropicana Field",
       "awayPitcher": "Hayden Wesneski",
       "homePitcher": "Freddy Peralta"
@@ -9872,9 +9872,9 @@
       "date": "2026-09-13",
       "gameDate": "2026-09-13T17:40:00Z",
       "localGameTime": "2026-09-13T13:40:00-04:00",
-      "status": "Pre-Game",
-      "abstractGameState": "Preview",
-      "codedGameState": "P",
+      "status": "In Progress",
+      "abstractGameState": "Live",
+      "codedGameState": "I",
       "awayTeam": {
         "id": 119,
         "name": "Los Angeles Dodgers",
@@ -9896,9 +9896,9 @@
       "date": "2026-09-13",
       "gameDate": "2026-09-13T18:10:00Z",
       "localGameTime": "2026-09-13T14:10:00-04:00",
-      "status": "Pre-Game",
-      "abstractGameState": "Preview",
-      "codedGameState": "P",
+      "status": "In Progress",
+      "abstractGameState": "Live",
+      "codedGameState": "I",
       "awayTeam": {
         "id": 114,
         "name": "Cleveland Guardians",
@@ -9920,9 +9920,9 @@
       "date": "2026-09-13",
       "gameDate": "2026-09-13T18:10:00Z",
       "localGameTime": "2026-09-13T14:10:00-04:00",
-      "status": "Pre-Game",
-      "abstractGameState": "Preview",
-      "codedGameState": "P",
+      "status": "In Progress",
+      "abstractGameState": "Live",
+      "codedGameState": "I",
       "awayTeam": {
         "id": 113,
         "name": "Cincinnati Reds",
@@ -9944,8 +9944,8 @@
       "date": "2026-09-13",
       "gameDate": "2026-09-13T18:15:00Z",
       "localGameTime": "2026-09-13T14:15:00-04:00",
-      "status": "Pre-Game",
-      "abstractGameState": "Preview",
+      "status": "Warmup",
+      "abstractGameState": "Live",
       "codedGameState": "P",
       "awayTeam": {
         "id": 145,
@@ -9968,8 +9968,8 @@
       "date": "2026-09-13",
       "gameDate": "2026-09-13T18:20:00Z",
       "localGameTime": "2026-09-13T14:20:00-04:00",
-      "status": "Pre-Game",
-      "abstractGameState": "Preview",
+      "status": "Warmup",
+      "abstractGameState": "Live",
       "codedGameState": "P",
       "awayTeam": {
         "id": 134,
@@ -10005,8 +10005,8 @@
         "name": "Boston Red Sox",
         "abbreviation": "BOS"
       },
-      "awayScore": null,
-      "homeScore": null,
+      "awayScore": 0,
+      "homeScore": 0,
       "venue": "Fenway Park",
       "awayPitcher": "Noah Cameron",
       "homePitcher": "Payton Tolle"
@@ -10016,9 +10016,9 @@
       "date": "2026-09-13",
       "gameDate": "2026-09-13T20:05:00Z",
       "localGameTime": "2026-09-13T16:05:00-04:00",
-      "status": "Scheduled",
+      "status": "Pre-Game",
       "abstractGameState": "Preview",
-      "codedGameState": "S",
+      "codedGameState": "P",
       "awayTeam": {
         "id": 136,
         "name": "Seattle Mariners",
@@ -10029,8 +10029,8 @@
         "name": "Athletics",
         "abbreviation": "ATH"
       },
-      "awayScore": null,
-      "homeScore": null,
+      "awayScore": 0,
+      "homeScore": 0,
       "venue": "Sutter Health Park",
       "awayPitcher": "Bryce Miller",
       "homePitcher": "Jacob Lopez"
@@ -10053,8 +10053,8 @@
         "name": "Arizona Diamondbacks",
         "abbreviation": "AZ"
       },
-      "awayScore": null,
-      "homeScore": null,
+      "awayScore": 0,
+      "homeScore": 0,
       "venue": "Chase Field",
       "awayPitcher": "Cal Quantrill",
       "homePitcher": "Eduardo Rodriguez"
@@ -10201,7 +10201,7 @@
       "homeScore": null,
       "venue": "Wrigley Field",
       "awayPitcher": "Reynaldo L\u00f3pez",
-      "homePitcher": null
+      "homePitcher": "David Peterson"
     },
     {
       "gamePk": 823656,
@@ -10320,7 +10320,7 @@
       "awayScore": null,
       "homeScore": null,
       "venue": "Chase Field",
-      "awayPitcher": null,
+      "awayPitcher": "Sandy Alcantara",
       "homePitcher": null
     },
     {
@@ -10440,7 +10440,7 @@
       "awayScore": null,
       "homeScore": null,
       "venue": "Nationals Park",
-      "awayPitcher": null,
+      "awayPitcher": "Cristopher S\u00e1nchez",
       "homePitcher": "Jackson Kent"
     },
     {
@@ -10513,7 +10513,7 @@
       "homeScore": null,
       "venue": "Wrigley Field",
       "awayPitcher": "Mart\u00edn P\u00e9rez",
-      "homePitcher": null
+      "homePitcher": "Kevin Gausman"
     },
     {
       "gamePk": 823654,
@@ -10608,7 +10608,7 @@
       "awayScore": null,
       "homeScore": null,
       "venue": "Daikin Park",
-      "awayPitcher": null,
+      "awayPitcher": "Michael Wacha",
       "homePitcher": "Hunter Brown"
     },
     {
@@ -10680,7 +10680,7 @@
       "awayScore": null,
       "homeScore": null,
       "venue": "Chase Field",
-      "awayPitcher": null,
+      "awayPitcher": "Janson Junk",
       "homePitcher": null
     },
     {
@@ -10872,7 +10872,7 @@
       "awayScore": null,
       "homeScore": null,
       "venue": "Nationals Park",
-      "awayPitcher": null,
+      "awayPitcher": "Zack Wheeler",
       "homePitcher": "Cade Cavalli"
     },
     {
@@ -10921,7 +10921,7 @@
       "homeScore": null,
       "venue": "Wrigley Field",
       "awayPitcher": null,
-      "homePitcher": null
+      "homePitcher": "Shota Imanaga"
     },
     {
       "gamePk": 822846,
@@ -10968,7 +10968,7 @@
       "awayScore": null,
       "homeScore": null,
       "venue": "Daikin Park",
-      "awayPitcher": null,
+      "awayPitcher": "Daniel Lynch IV",
       "homePitcher": "Cristian Javier"
     },
     {
@@ -11040,7 +11040,7 @@
       "awayScore": null,
       "homeScore": null,
       "venue": "Chase Field",
-      "awayPitcher": null,
+      "awayPitcher": "Ryan Gusto",
       "homePitcher": null
     },
     {
@@ -11160,7 +11160,7 @@
       "awayScore": null,
       "homeScore": null,
       "venue": "Daikin Park",
-      "awayPitcher": null,
+      "awayPitcher": "Seth Lugo",
       "homePitcher": null
     },
     {
