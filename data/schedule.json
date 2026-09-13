@@ -1,7 +1,7 @@
 {
   "league": "MLB",
   "timezone": "America/New_York",
-  "lastUpdated": "2026-09-13T16:12:49.616507+00:00",
+  "lastUpdated": "2026-09-13T17:11:14.461135+00:00",
   "games": [
     {
       "gamePk": 824643,
@@ -9741,8 +9741,8 @@
         "name": "Detroit Tigers",
         "abbreviation": "DET"
       },
-      "awayScore": 0,
-      "homeScore": 0,
+      "awayScore": 1,
+      "homeScore": 5,
       "venue": "Comerica Park",
       "awayPitcher": "Gabriel Hughes",
       "homePitcher": "Jackson Jobe"
@@ -9776,8 +9776,8 @@
       "date": "2026-09-13",
       "gameDate": "2026-09-13T17:35:00Z",
       "localGameTime": "2026-09-13T13:35:00-04:00",
-      "status": "Pre-Game",
-      "abstractGameState": "Preview",
+      "status": "Warmup",
+      "abstractGameState": "Live",
       "codedGameState": "P",
       "awayTeam": {
         "id": 143,
@@ -9800,7 +9800,7 @@
       "date": "2026-09-13",
       "gameDate": "2026-09-13T17:35:00Z",
       "localGameTime": "2026-09-13T13:35:00-04:00",
-      "status": "Pre-Game",
+      "status": "Delayed Start",
       "abstractGameState": "Preview",
       "codedGameState": "P",
       "awayTeam": {
@@ -9885,8 +9885,8 @@
         "name": "Miami Marlins",
         "abbreviation": "MIA"
       },
-      "awayScore": null,
-      "homeScore": null,
+      "awayScore": 0,
+      "homeScore": 0,
       "venue": "loanDepot park",
       "awayPitcher": "Emmet Sheehan",
       "homePitcher": "Eury P\u00e9rez"
@@ -10040,9 +10040,9 @@
       "date": "2026-09-13",
       "gameDate": "2026-09-13T20:10:00Z",
       "localGameTime": "2026-09-13T16:10:00-04:00",
-      "status": "Scheduled",
+      "status": "Pre-Game",
       "abstractGameState": "Preview",
-      "codedGameState": "S",
+      "codedGameState": "P",
       "awayTeam": {
         "id": 140,
         "name": "Texas Rangers",
@@ -10128,7 +10128,7 @@
       "awayScore": null,
       "homeScore": null,
       "venue": "Progressive Field",
-      "awayPitcher": null,
+      "awayPitcher": "Sean Burke",
       "homePitcher": null
     },
     {
@@ -10176,7 +10176,7 @@
       "awayScore": null,
       "homeScore": null,
       "venue": "Citi Field",
-      "awayPitcher": null,
+      "awayPitcher": "Brandon Young",
       "homePitcher": "Jonah Tong"
     },
     {
@@ -10200,7 +10200,7 @@
       "awayScore": null,
       "homeScore": null,
       "venue": "Wrigley Field",
-      "awayPitcher": null,
+      "awayPitcher": "Reynaldo L\u00f3pez",
       "homePitcher": null
     },
     {
@@ -10224,8 +10224,8 @@
       "awayScore": null,
       "homeScore": null,
       "venue": "Target Field",
-      "awayPitcher": null,
-      "homePitcher": null
+      "awayPitcher": "Will Warren",
+      "homePitcher": "Dean Kremer"
     },
     {
       "gamePk": 823006,
@@ -10297,7 +10297,7 @@
       "homeScore": null,
       "venue": "Angel Stadium",
       "awayPitcher": null,
-      "homePitcher": null
+      "homePitcher": "Reid Detmers"
     },
     {
       "gamePk": 825034,
@@ -10392,7 +10392,7 @@
       "awayScore": null,
       "homeScore": null,
       "venue": "Progressive Field",
-      "awayPitcher": null,
+      "awayPitcher": "Davis Martin",
       "homePitcher": null
     },
     {
@@ -10441,7 +10441,7 @@
       "homeScore": null,
       "venue": "Nationals Park",
       "awayPitcher": null,
-      "homePitcher": null
+      "homePitcher": "Jackson Kent"
     },
     {
       "gamePk": 822762,
@@ -10488,7 +10488,7 @@
       "awayScore": null,
       "homeScore": null,
       "venue": "Citi Field",
-      "awayPitcher": null,
+      "awayPitcher": "Shane Baz",
       "homePitcher": "Sean Manaea"
     },
     {
@@ -10512,7 +10512,7 @@
       "awayScore": null,
       "homeScore": null,
       "venue": "Wrigley Field",
-      "awayPitcher": null,
+      "awayPitcher": "Mart\u00edn P\u00e9rez",
       "homePitcher": null
     },
     {
@@ -10536,8 +10536,8 @@
       "awayScore": null,
       "homeScore": null,
       "venue": "Target Field",
-      "awayPitcher": null,
-      "homePitcher": null
+      "awayPitcher": "Max Fried",
+      "homePitcher": "Bailey Ober"
     },
     {
       "gamePk": 823007,
@@ -10657,7 +10657,7 @@
       "homeScore": null,
       "venue": "Angel Stadium",
       "awayPitcher": null,
-      "homePitcher": null
+      "homePitcher": "Ryan Johnson"
     },
     {
       "gamePk": 825030,
@@ -10752,8 +10752,8 @@
       "awayScore": null,
       "homeScore": null,
       "venue": "Target Field",
-      "awayPitcher": null,
-      "homePitcher": null
+      "awayPitcher": "Carlos Rod\u00f3n",
+      "homePitcher": "Zebby Matthews"
     },
     {
       "gamePk": 822763,
@@ -10777,7 +10777,7 @@
       "homeScore": null,
       "venue": "Rogers Centre",
       "awayPitcher": null,
-      "homePitcher": null
+      "homePitcher": "Max Scherzer"
     },
     {
       "gamePk": 824467,
@@ -10849,7 +10849,7 @@
       "homeScore": null,
       "venue": "PNC Park",
       "awayPitcher": null,
-      "homePitcher": null
+      "homePitcher": "Jared Jones"
     },
     {
       "gamePk": 822680,
@@ -10873,7 +10873,7 @@
       "homeScore": null,
       "venue": "Nationals Park",
       "awayPitcher": null,
-      "homePitcher": null
+      "homePitcher": "Cade Cavalli"
     },
     {
       "gamePk": 823576,
@@ -10896,7 +10896,7 @@
       "awayScore": null,
       "homeScore": null,
       "venue": "Citi Field",
-      "awayPitcher": null,
+      "awayPitcher": "Chris Bassitt",
       "homePitcher": "Robert Stock"
     },
     {
@@ -11017,7 +11017,7 @@
       "homeScore": null,
       "venue": "Angel Stadium",
       "awayPitcher": null,
-      "homePitcher": null
+      "homePitcher": "Yusei Kikuchi"
     },
     {
       "gamePk": 825031,
@@ -11089,7 +11089,7 @@
       "homeScore": null,
       "venue": "Great American Ball Park",
       "awayPitcher": null,
-      "homePitcher": null
+      "homePitcher": "Brady Singer"
     },
     {
       "gamePk": 822924,
