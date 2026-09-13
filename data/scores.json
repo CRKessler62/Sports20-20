@@ -1,6 +1,6 @@
 {
   "league": "MLB",
-  "lastUpdated": "2026-09-13T21:44:36.460504+00:00",
+  "lastUpdated": "2026-09-13T21:57:17.010396+00:00",
   "games": [
     {
       "gamePk": 824225,
@@ -738,8 +738,8 @@
       "gameDate": "2026-09-13T19:05:00Z",
       "inning": 4,
       "inningOrdinal": "4th",
-      "inningState": "Top",
-      "outs": 0,
+      "inningState": "End",
+      "outs": 3,
       "battingTeam": "Kansas City Royals",
       "runners": {
         "first": false,
@@ -780,12 +780,12 @@
       "inning": 5,
       "inningOrdinal": "5th",
       "inningState": "Top",
-      "outs": 0,
+      "outs": 2,
       "battingTeam": "Seattle Mariners",
       "runners": {
         "first": true,
-        "second": false,
-        "third": false
+        "second": true,
+        "third": true
       },
       "inningScores": [
         {
@@ -823,11 +823,11 @@
       "homeScore": 1,
       "status": "In Progress",
       "gameDate": "2026-09-13T20:10:00Z",
-      "inning": 6,
-      "inningOrdinal": "6th",
-      "inningState": "Middle",
-      "outs": 3,
-      "battingTeam": "Texas Rangers",
+      "inning": 7,
+      "inningOrdinal": "7th",
+      "inningState": "Bottom",
+      "outs": 0,
+      "battingTeam": "Arizona Diamondbacks",
       "runners": {
         "first": false,
         "second": false,
@@ -862,6 +862,11 @@
         {
           "inning": 6,
           "awayRuns": 2,
+          "homeRuns": 0
+        },
+        {
+          "inning": 7,
+          "awayRuns": 0,
           "homeRuns": 0
         }
       ]
