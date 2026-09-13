@@ -1,6 +1,6 @@
 {
   "league": "MLB",
-  "lastUpdated": "2026-09-13T22:17:28.299789+00:00",
+  "lastUpdated": "2026-09-13T22:33:52.843736+00:00",
   "games": [
     {
       "gamePk": 824225,
@@ -736,14 +736,14 @@
       "homeScore": 1,
       "status": "In Progress",
       "gameDate": "2026-09-13T19:05:00Z",
-      "inning": 6,
-      "inningOrdinal": "6th",
+      "inning": 7,
+      "inningOrdinal": "7th",
       "inningState": "Top",
       "outs": 0,
       "battingTeam": "Kansas City Royals",
       "runners": {
         "first": true,
-        "second": true,
+        "second": false,
         "third": false
       },
       "inningScores": [
@@ -776,6 +776,11 @@
           "inning": 6,
           "awayRuns": 0,
           "homeRuns": 0
+        },
+        {
+          "inning": 7,
+          "awayRuns": 0,
+          "homeRuns": 0
         }
       ]
     },
@@ -787,10 +792,10 @@
       "homeScore": 2,
       "status": "In Progress",
       "gameDate": "2026-09-13T20:05:00Z",
-      "inning": 6,
-      "inningOrdinal": "6th",
-      "inningState": "Top",
-      "outs": 1,
+      "inning": 7,
+      "inningOrdinal": "7th",
+      "inningState": "Middle",
+      "outs": 3,
       "battingTeam": "Seattle Mariners",
       "runners": {
         "first": false,
@@ -827,6 +832,11 @@
           "inning": 6,
           "awayRuns": 0,
           "homeRuns": 0
+        },
+        {
+          "inning": 7,
+          "awayRuns": 0,
+          "homeRuns": 0
         }
       ]
     },
@@ -838,10 +848,10 @@
       "homeScore": 4,
       "status": "In Progress",
       "gameDate": "2026-09-13T20:10:00Z",
-      "inning": 8,
-      "inningOrdinal": "8th",
-      "inningState": "Top",
-      "outs": 2,
+      "inning": 9,
+      "inningOrdinal": "9th",
+      "inningState": "Middle",
+      "outs": 3,
       "battingTeam": "Texas Rangers",
       "runners": {
         "first": false,
@@ -886,6 +896,11 @@
         },
         {
           "inning": 8,
+          "awayRuns": 0,
+          "homeRuns": 0
+        },
+        {
+          "inning": 9,
           "awayRuns": 0,
           "homeRuns": 0
         }
