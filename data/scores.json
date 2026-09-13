@@ -1,6 +1,6 @@
 {
   "league": "MLB",
-  "lastUpdated": "2026-09-13T22:47:37.027665+00:00",
+  "lastUpdated": "2026-09-13T23:00:10.451625+00:00",
   "games": [
     {
       "gamePk": 824225,
@@ -738,13 +738,13 @@
       "gameDate": "2026-09-13T19:05:00Z",
       "inning": 7,
       "inningOrdinal": "7th",
-      "inningState": "Top",
-      "outs": 2,
-      "battingTeam": "Kansas City Royals",
+      "inningState": "Bottom",
+      "outs": 1,
+      "battingTeam": "Boston Red Sox",
       "runners": {
         "first": true,
-        "second": false,
-        "third": true
+        "second": true,
+        "third": false
       },
       "inningScores": [
         {
@@ -789,18 +789,18 @@
       "awayTeam": "Seattle Mariners",
       "homeTeam": "Athletics",
       "awayScore": 6,
-      "homeScore": 3,
-      "status": "Player challenge",
+      "homeScore": 6,
+      "status": "In Progress",
       "gameDate": "2026-09-13T20:05:00Z",
-      "inning": 7,
-      "inningOrdinal": "7th",
-      "inningState": "Bottom",
+      "inning": 8,
+      "inningOrdinal": "8th",
+      "inningState": "Top",
       "outs": 0,
-      "battingTeam": "Athletics",
+      "battingTeam": "Seattle Mariners",
       "runners": {
-        "first": true,
-        "second": true,
-        "third": true
+        "first": false,
+        "second": false,
+        "third": false
       },
       "inningScores": [
         {
@@ -836,7 +836,12 @@
         {
           "inning": 7,
           "awayRuns": 0,
-          "homeRuns": 1
+          "homeRuns": 4
+        },
+        {
+          "inning": 8,
+          "awayRuns": 0,
+          "homeRuns": 0
         }
       ]
     },
@@ -846,16 +851,16 @@
       "homeTeam": "Arizona Diamondbacks",
       "awayScore": 7,
       "homeScore": 6,
-      "status": "In Progress",
+      "status": "Final",
       "gameDate": "2026-09-13T20:10:00Z",
       "inning": 9,
       "inningOrdinal": "9th",
       "inningState": "Bottom",
-      "outs": 2,
+      "outs": 3,
       "battingTeam": "Arizona Diamondbacks",
       "runners": {
-        "first": true,
-        "second": true,
+        "first": false,
+        "second": false,
         "third": false
       },
       "inningScores": [
@@ -912,7 +917,7 @@
       "homeTeam": "San Francisco Giants",
       "awayScore": 0,
       "homeScore": 0,
-      "status": "Pre-Game",
+      "status": "Warmup",
       "gameDate": "2026-09-13T23:20:00Z",
       "inning": 1,
       "inningOrdinal": "1st",
