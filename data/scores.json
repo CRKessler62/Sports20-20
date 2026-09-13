@@ -1,6 +1,6 @@
 {
   "league": "MLB",
-  "lastUpdated": "2026-09-13T23:00:10.451625+00:00",
+  "lastUpdated": "2026-09-13T23:18:10.319023+00:00",
   "games": [
     {
       "gamePk": 824225,
@@ -733,18 +733,18 @@
       "awayTeam": "Kansas City Royals",
       "homeTeam": "Boston Red Sox",
       "awayScore": 1,
-      "homeScore": 1,
+      "homeScore": 2,
       "status": "In Progress",
       "gameDate": "2026-09-13T19:05:00Z",
-      "inning": 7,
-      "inningOrdinal": "7th",
+      "inning": 8,
+      "inningOrdinal": "8th",
       "inningState": "Bottom",
       "outs": 1,
       "battingTeam": "Boston Red Sox",
       "runners": {
-        "first": true,
+        "first": false,
         "second": true,
-        "third": false
+        "third": true
       },
       "inningScores": [
         {
@@ -780,6 +780,11 @@
         {
           "inning": 7,
           "awayRuns": 1,
+          "homeRuns": 1
+        },
+        {
+          "inning": 8,
+          "awayRuns": 0,
           "homeRuns": 0
         }
       ]
@@ -788,19 +793,19 @@
       "gamePk": 824952,
       "awayTeam": "Seattle Mariners",
       "homeTeam": "Athletics",
-      "awayScore": 6,
+      "awayScore": 7,
       "homeScore": 6,
       "status": "In Progress",
       "gameDate": "2026-09-13T20:05:00Z",
       "inning": 8,
       "inningOrdinal": "8th",
-      "inningState": "Top",
-      "outs": 0,
-      "battingTeam": "Seattle Mariners",
+      "inningState": "Bottom",
+      "outs": 1,
+      "battingTeam": "Athletics",
       "runners": {
         "first": false,
         "second": false,
-        "third": false
+        "third": true
       },
       "inningScores": [
         {
@@ -840,7 +845,7 @@
         },
         {
           "inning": 8,
-          "awayRuns": 0,
+          "awayRuns": 1,
           "homeRuns": 0
         }
       ]
