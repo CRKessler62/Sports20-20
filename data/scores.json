@@ -1,6 +1,6 @@
 {
   "league": "MLB",
-  "lastUpdated": "2026-09-13T23:32:31.052647+00:00",
+  "lastUpdated": "2026-09-13T23:57:13.626235+00:00",
   "games": [
     {
       "gamePk": 824225,
@@ -734,16 +734,16 @@
       "homeTeam": "Boston Red Sox",
       "awayScore": 1,
       "homeScore": 4,
-      "status": "In Progress",
+      "status": "Final",
       "gameDate": "2026-09-13T19:05:00Z",
       "inning": 9,
       "inningOrdinal": "9th",
       "inningState": "Top",
-      "outs": 0,
+      "outs": 3,
       "battingTeam": "Kansas City Royals",
       "runners": {
-        "first": true,
-        "second": true,
+        "first": false,
+        "second": false,
         "third": false
       },
       "inningScores": [
@@ -800,7 +800,7 @@
       "homeTeam": "Athletics",
       "awayScore": 7,
       "homeScore": 8,
-      "status": "Game Over",
+      "status": "Final",
       "gameDate": "2026-09-13T20:05:00Z",
       "inning": 9,
       "inningOrdinal": "9th",
@@ -930,24 +930,29 @@
       "gamePk": 823171,
       "awayTeam": "San Diego Padres",
       "homeTeam": "San Francisco Giants",
-      "awayScore": 2,
+      "awayScore": 5,
       "homeScore": 0,
       "status": "In Progress",
       "gameDate": "2026-09-13T23:20:00Z",
-      "inning": 1,
-      "inningOrdinal": "1st",
-      "inningState": "Top",
-      "outs": 2,
-      "battingTeam": "San Diego Padres",
+      "inning": 2,
+      "inningOrdinal": "2nd",
+      "inningState": "Bottom",
+      "outs": 1,
+      "battingTeam": "San Francisco Giants",
       "runners": {
         "first": false,
-        "second": true,
-        "third": true
+        "second": false,
+        "third": false
       },
       "inningScores": [
         {
           "inning": 1,
           "awayRuns": 2,
+          "homeRuns": 0
+        },
+        {
+          "inning": 2,
+          "awayRuns": 3,
           "homeRuns": 0
         }
       ]
