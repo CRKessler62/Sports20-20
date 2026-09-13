@@ -1,24 +1,24 @@
 {
   "league": "MLB",
-  "lastUpdated": "2026-09-13T16:34:30.010139+00:00",
+  "lastUpdated": "2026-09-13T16:49:27.492008+00:00",
   "games": [
     {
       "gamePk": 824225,
       "awayTeam": "Colorado Rockies",
       "homeTeam": "Detroit Tigers",
       "awayScore": 1,
-      "homeScore": 2,
+      "homeScore": 3,
       "status": "In Progress",
       "gameDate": "2026-09-13T16:10:00Z",
       "inning": 2,
       "inningOrdinal": "2nd",
-      "inningState": "Top",
-      "outs": 2,
-      "battingTeam": "Colorado Rockies",
+      "inningState": "Bottom",
+      "outs": 1,
+      "battingTeam": "Detroit Tigers",
       "runners": {
-        "first": false,
+        "first": true,
         "second": false,
-        "third": false
+        "third": true
       },
       "inningScores": [
         {
@@ -29,7 +29,7 @@
         {
           "inning": 2,
           "awayRuns": 0,
-          "homeRuns": 0
+          "homeRuns": 1
         }
       ]
     },
