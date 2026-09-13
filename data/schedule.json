@@ -1,7 +1,7 @@
 {
   "league": "MLB",
   "timezone": "America/New_York",
-  "lastUpdated": "2026-09-13T21:12:06.446826+00:00",
+  "lastUpdated": "2026-09-13T22:12:31.850718+00:00",
   "games": [
     {
       "gamePk": 824643,
@@ -9968,9 +9968,9 @@
       "date": "2026-09-13",
       "gameDate": "2026-09-13T18:20:00Z",
       "localGameTime": "2026-09-13T14:20:00-04:00",
-      "status": "Game Over",
+      "status": "Final",
       "abstractGameState": "Final",
-      "codedGameState": "O",
+      "codedGameState": "F",
       "awayTeam": {
         "id": 134,
         "name": "Pittsburgh Pirates",
@@ -10006,7 +10006,7 @@
         "abbreviation": "BOS"
       },
       "awayScore": 0,
-      "homeScore": 0,
+      "homeScore": 1,
       "venue": "Fenway Park",
       "awayPitcher": "Noah Cameron",
       "homePitcher": "Payton Tolle"
@@ -10029,7 +10029,7 @@
         "name": "Athletics",
         "abbreviation": "ATH"
       },
-      "awayScore": 2,
+      "awayScore": 6,
       "homeScore": 2,
       "venue": "Sutter Health Park",
       "awayPitcher": "Bryce Miller",
@@ -10053,8 +10053,8 @@
         "name": "Arizona Diamondbacks",
         "abbreviation": "AZ"
       },
-      "awayScore": 2,
-      "homeScore": 1,
+      "awayScore": 7,
+      "homeScore": 4,
       "venue": "Chase Field",
       "awayPitcher": "Cal Quantrill",
       "homePitcher": "Eduardo Rodriguez"
@@ -10128,7 +10128,7 @@
       "awayScore": null,
       "homeScore": null,
       "venue": "Progressive Field",
-      "awayPitcher": "Sean Burke",
+      "awayPitcher": "Sean Newcomb",
       "homePitcher": null
     },
     {
@@ -10248,7 +10248,7 @@
       "awayScore": null,
       "homeScore": null,
       "venue": "Busch Stadium",
-      "awayPitcher": null,
+      "awayPitcher": "Landen Roupp",
       "homePitcher": "Quinn Mathews"
     },
     {
@@ -10272,7 +10272,7 @@
       "awayScore": null,
       "homeScore": null,
       "venue": "Coors Field",
-      "awayPitcher": null,
+      "awayPitcher": "Casey Mize",
       "homePitcher": "Tomoyuki Sugano"
     },
     {
@@ -10416,7 +10416,7 @@
       "awayScore": null,
       "homeScore": null,
       "venue": "PNC Park",
-      "awayPitcher": null,
+      "awayPitcher": "Jacob Misiorowski",
       "homePitcher": null
     },
     {
@@ -10560,7 +10560,7 @@
       "awayScore": null,
       "homeScore": null,
       "venue": "Busch Stadium",
-      "awayPitcher": null,
+      "awayPitcher": "Blade Tidwell",
       "homePitcher": "Andre Pallante"
     },
     {
@@ -10632,7 +10632,7 @@
       "awayScore": null,
       "homeScore": null,
       "venue": "Coors Field",
-      "awayPitcher": null,
+      "awayPitcher": "Walker Buehler",
       "homePitcher": null
     },
     {
@@ -10848,7 +10848,7 @@
       "awayScore": null,
       "homeScore": null,
       "venue": "PNC Park",
-      "awayPitcher": null,
+      "awayPitcher": "Logan Henderson",
       "homePitcher": "Jared Jones"
     },
     {
@@ -10992,7 +10992,7 @@
       "awayScore": null,
       "homeScore": null,
       "venue": "Coors Field",
-      "awayPitcher": null,
+      "awayPitcher": "Robbie Ray",
       "homePitcher": "Mason Adams"
     },
     {
@@ -11064,7 +11064,7 @@
       "awayScore": null,
       "homeScore": null,
       "venue": "PNC Park",
-      "awayPitcher": null,
+      "awayPitcher": "Dustin May",
       "homePitcher": null
     },
     {
