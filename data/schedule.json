@@ -1,7 +1,7 @@
 {
   "league": "MLB",
   "timezone": "America/New_York",
-  "lastUpdated": "2026-09-13T04:18:10.062924+00:00",
+  "lastUpdated": "2026-09-13T05:11:49.701583+00:00",
   "games": [
     {
       "gamePk": 824643,
@@ -9704,9 +9704,9 @@
       "date": "2026-09-12",
       "gameDate": "2026-09-13T01:40:00Z",
       "localGameTime": "2026-09-12T21:40:00-04:00",
-      "status": "In Progress",
-      "abstractGameState": "Live",
-      "codedGameState": "I",
+      "status": "Final",
+      "abstractGameState": "Final",
+      "codedGameState": "F",
       "awayTeam": {
         "id": 136,
         "name": "Seattle Mariners",
