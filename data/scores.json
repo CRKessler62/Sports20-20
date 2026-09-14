@@ -1,6 +1,6 @@
 {
   "league": "MLB",
-  "lastUpdated": "2026-09-14T21:59:45.387803+00:00",
+  "lastUpdated": "2026-09-14T22:20:50.805546+00:00",
   "games": [
     {
       "gamePk": 824465,
@@ -8,7 +8,7 @@
       "homeTeam": "Cincinnati Reds",
       "awayScore": 0,
       "homeScore": 0,
-      "status": "Pre-Game",
+      "status": "Warmup",
       "gameDate": "2026-09-14T22:40:00Z",
       "inning": 1,
       "inningOrdinal": "1st",
@@ -34,7 +34,7 @@
       "homeTeam": "Cleveland Guardians",
       "awayScore": 0,
       "homeScore": 0,
-      "status": "Pre-Game",
+      "status": "Warmup",
       "gameDate": "2026-09-14T22:40:00Z",
       "inning": 1,
       "inningOrdinal": "1st",
@@ -216,7 +216,7 @@
       "homeTeam": "Los Angeles Angels",
       "awayScore": 0,
       "homeScore": 0,
-      "status": "Scheduled",
+      "status": "Pre-Game",
       "gameDate": "2026-09-15T01:38:00Z",
       "inning": null,
       "inningOrdinal": null,
