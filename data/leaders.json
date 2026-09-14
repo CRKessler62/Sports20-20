@@ -1,6 +1,6 @@
 {
   "season": 2026,
-  "lastUpdated": "2026-09-13T23:21:38.443693+00:00",
+  "lastUpdated": "2026-09-14T00:31:46.579395+00:00",
   "leagues": {
     "AL": {
       "offense": {
@@ -588,7 +588,7 @@
             "player": "Aroldis Chapman",
             "team": "Boston Red Sox",
             "position": "P",
-            "value": "33"
+            "value": "34"
           },
           {
             "rank": 5,
@@ -885,7 +885,7 @@
             "player": "Fernando Tatis Jr.",
             "team": "San Diego Padres",
             "position": "RF",
-            "value": "164"
+            "value": "167"
           },
           {
             "rank": 4,
