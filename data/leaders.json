@@ -1,6 +1,6 @@
 {
   "season": 2026,
-  "lastUpdated": "2026-09-14T22:24:41.251623+00:00",
+  "lastUpdated": "2026-09-14T23:21:54.913705+00:00",
   "leagues": {
     "AL": {
       "offense": {
@@ -31,14 +31,14 @@
             "player": "Chase DeLauter",
             "team": "Cleveland Guardians",
             "position": "RF",
-            "value": ".291"
+            "value": ".290"
           },
           {
             "rank": 5,
-            "player": "Riley Greene",
-            "team": "Detroit Tigers",
-            "position": "LF",
-            "value": ".283"
+            "player": "Ceddanne Rafaela",
+            "team": "Boston Red Sox",
+            "position": "CF",
+            "value": ".282"
           }
         ],
         "hits": [
@@ -216,13 +216,13 @@
             "player": "Steven Kwan",
             "team": "Cleveland Guardians",
             "position": "LF",
-            "value": ".375"
+            "value": ".374"
           },
           {
             "rank": 5,
-            "player": "Kevin McGonigle",
-            "team": "Detroit Tigers",
-            "position": "SS",
+            "player": "Randy Arozarena",
+            "team": "Seattle Mariners",
+            "position": "LF",
             "value": ".373"
           }
         ],
@@ -260,7 +260,7 @@
             "player": "Pete Alonso",
             "team": "Baltimore Orioles",
             "position": "1B",
-            "value": ".499"
+            "value": ".498"
           }
         ],
         "ops": [
@@ -297,7 +297,7 @@
             "player": "Pete Alonso",
             "team": "Baltimore Orioles",
             "position": "1B",
-            "value": ".862"
+            "value": ".861"
           }
         ],
         "stolenBases": [
@@ -497,15 +497,15 @@
           },
           {
             "rank": 2,
-            "player": "Cam Schlittler",
-            "team": "New York Yankees",
+            "player": "Gavin Williams",
+            "team": "Cleveland Guardians",
             "position": "P",
-            "value": "228"
+            "value": "231"
           },
           {
             "rank": 3,
-            "player": "Gavin Williams",
-            "team": "Cleveland Guardians",
+            "player": "Cam Schlittler",
+            "team": "New York Yankees",
             "position": "P",
             "value": "228"
           },
@@ -669,9 +669,9 @@
           },
           {
             "rank": 5,
-            "player": "Randy Arozarena",
-            "team": "Seattle Mariners",
-            "position": "LF",
+            "player": "Munetaka Murakami",
+            "team": "Chicago White Sox",
+            "position": "1B",
             "value": ".996"
           }
         ],
@@ -681,7 +681,7 @@
             "player": "Spencer Torkelson",
             "team": "Detroit Tigers",
             "position": "1B",
-            "value": "1089"
+            "value": "1090"
           },
           {
             "rank": 2,
@@ -746,7 +746,7 @@
             "player": "Chase Meidroth",
             "team": "Chicago White Sox",
             "position": "2B",
-            "value": "302"
+            "value": "303"
           }
         ],
         "errors": [
