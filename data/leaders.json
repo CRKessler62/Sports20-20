@@ -1,6 +1,6 @@
 {
   "season": 2026,
-  "lastUpdated": "2026-09-14T19:25:22.210294+00:00",
+  "lastUpdated": "2026-09-14T20:24:01.761544+00:00",
   "leagues": {
     "AL": {
       "offense": {
@@ -712,7 +712,43 @@
             "value": "924"
           }
         ],
-        "assists": [],
+        "assists": [
+          {
+            "rank": 1,
+            "player": "Cole Young",
+            "team": "Seattle Mariners",
+            "position": "2B",
+            "value": "375"
+          },
+          {
+            "rank": 2,
+            "player": "Gunnar Henderson",
+            "team": "Baltimore Orioles",
+            "position": "SS",
+            "value": "339"
+          },
+          {
+            "rank": 3,
+            "player": "Jazz Chisholm Jr.",
+            "team": "New York Yankees",
+            "position": "2B",
+            "value": "307"
+          },
+          {
+            "rank": 4,
+            "player": "Zach Neto",
+            "team": "Los Angeles Angels",
+            "position": "SS",
+            "value": "306"
+          },
+          {
+            "rank": 5,
+            "player": "Chase Meidroth",
+            "team": "Chicago White Sox",
+            "position": "2B",
+            "value": "302"
+          }
+        ],
         "errors": [
           {
             "rank": 1,
