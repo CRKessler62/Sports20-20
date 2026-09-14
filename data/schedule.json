@@ -1,7 +1,7 @@
 {
   "league": "MLB",
   "timezone": "America/New_York",
-  "lastUpdated": "2026-09-14T01:12:54.860831+00:00",
+  "lastUpdated": "2026-09-14T02:13:04.212431+00:00",
   "games": [
     {
       "gamePk": 824239,
@@ -9742,7 +9742,7 @@
         "abbreviation": "SF"
       },
       "awayScore": 6,
-      "homeScore": 3,
+      "homeScore": 4,
       "venue": "Oracle Park",
       "awayPitcher": "Nick Pivetta",
       "homePitcher": "Logan Webb"
