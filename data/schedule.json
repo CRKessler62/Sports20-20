@@ -1,7 +1,7 @@
 {
   "league": "MLB",
   "timezone": "America/New_York",
-  "lastUpdated": "2026-09-14T15:15:11.903800+00:00",
+  "lastUpdated": "2026-09-14T16:13:15.248714+00:00",
   "games": [
     {
       "gamePk": 824239,
@@ -10801,7 +10801,7 @@
       "homeScore": null,
       "venue": "Coors Field",
       "awayPitcher": null,
-      "homePitcher": "Tanner Gordon"
+      "homePitcher": "Gabriel Hughes"
     },
     {
       "gamePk": 824141,
