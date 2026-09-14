@@ -1,7 +1,7 @@
 {
   "league": "MLB",
   "timezone": "America/New_York",
-  "lastUpdated": "2026-09-14T00:19:25.541692+00:00",
+  "lastUpdated": "2026-09-14T01:12:54.860831+00:00",
   "games": [
     {
       "gamePk": 824239,
@@ -9741,8 +9741,8 @@
         "name": "San Francisco Giants",
         "abbreviation": "SF"
       },
-      "awayScore": 5,
-      "homeScore": 2,
+      "awayScore": 6,
+      "homeScore": 3,
       "venue": "Oracle Park",
       "awayPitcher": "Nick Pivetta",
       "homePitcher": "Logan Webb"
@@ -9793,7 +9793,7 @@
       "homeScore": null,
       "venue": "Progressive Field",
       "awayPitcher": "Sean Newcomb",
-      "homePitcher": null
+      "homePitcher": "Gavin Williams"
     },
     {
       "gamePk": 822765,
@@ -10057,7 +10057,7 @@
       "homeScore": null,
       "venue": "Progressive Field",
       "awayPitcher": "Davis Martin",
-      "homePitcher": null
+      "homePitcher": "Foster Griffin"
     },
     {
       "gamePk": 823333,
@@ -10369,7 +10369,7 @@
       "homeScore": null,
       "venue": "Progressive Field",
       "awayPitcher": null,
-      "homePitcher": null
+      "homePitcher": "Parker Messick"
     },
     {
       "gamePk": 823004,
