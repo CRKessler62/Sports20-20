@@ -1,7 +1,7 @@
 {
   "league": "MLB",
   "timezone": "America/New_York",
-  "lastUpdated": "2026-09-14T19:13:02.165328+00:00",
+  "lastUpdated": "2026-09-14T20:13:37.756933+00:00",
   "games": [
     {
       "gamePk": 824239,
@@ -9789,8 +9789,8 @@
         "name": "Cleveland Guardians",
         "abbreviation": "CLE"
       },
-      "awayScore": null,
-      "homeScore": null,
+      "awayScore": 0,
+      "homeScore": 0,
       "venue": "Progressive Field",
       "awayPitcher": "Sean Newcomb",
       "homePitcher": "Gavin Williams"
@@ -9800,9 +9800,9 @@
       "date": "2026-09-14",
       "gameDate": "2026-09-14T23:07:00Z",
       "localGameTime": "2026-09-14T19:07:00-04:00",
-      "status": "Scheduled",
+      "status": "Pre-Game",
       "abstractGameState": "Preview",
-      "codedGameState": "S",
+      "codedGameState": "P",
       "awayTeam": {
         "id": 116,
         "name": "Detroit Tigers",
@@ -9813,8 +9813,8 @@
         "name": "Toronto Blue Jays",
         "abbreviation": "TOR"
       },
-      "awayScore": null,
-      "homeScore": null,
+      "awayScore": 0,
+      "homeScore": 0,
       "venue": "Rogers Centre",
       "awayPitcher": "Troy Melton",
       "homePitcher": "Jos\u00e9 Soriano"
@@ -9848,9 +9848,9 @@
       "date": "2026-09-14",
       "gameDate": "2026-09-14T23:40:00Z",
       "localGameTime": "2026-09-14T19:40:00-04:00",
-      "status": "Scheduled",
+      "status": "Pre-Game",
       "abstractGameState": "Preview",
-      "codedGameState": "S",
+      "codedGameState": "P",
       "awayTeam": {
         "id": 144,
         "name": "Atlanta Braves",
@@ -9861,8 +9861,8 @@
         "name": "Chicago Cubs",
         "abbreviation": "CHC"
       },
-      "awayScore": null,
-      "homeScore": null,
+      "awayScore": 0,
+      "homeScore": 0,
       "venue": "Wrigley Field",
       "awayPitcher": "Reynaldo L\u00f3pez",
       "homePitcher": "David Peterson"
@@ -9896,9 +9896,9 @@
       "date": "2026-09-14",
       "gameDate": "2026-09-14T23:45:00Z",
       "localGameTime": "2026-09-14T19:45:00-04:00",
-      "status": "Scheduled",
+      "status": "Pre-Game",
       "abstractGameState": "Preview",
-      "codedGameState": "S",
+      "codedGameState": "P",
       "awayTeam": {
         "id": 137,
         "name": "San Francisco Giants",
@@ -9909,8 +9909,8 @@
         "name": "St. Louis Cardinals",
         "abbreviation": "STL"
       },
-      "awayScore": null,
-      "homeScore": null,
+      "awayScore": 0,
+      "homeScore": 0,
       "venue": "Busch Stadium",
       "awayPitcher": "Landen Roupp",
       "homePitcher": "Quinn Mathews"
@@ -10464,7 +10464,7 @@
       "awayScore": null,
       "homeScore": null,
       "venue": "Great American Ball Park",
-      "awayPitcher": null,
+      "awayPitcher": "Blake Snell",
       "homePitcher": "Andrew Abbott"
     },
     {
@@ -10945,7 +10945,7 @@
       "homeScore": null,
       "venue": "Great American Ball Park",
       "awayPitcher": null,
-      "homePitcher": null
+      "homePitcher": "Chase Burns"
     },
     {
       "gamePk": 823331,
