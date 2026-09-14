@@ -1,20 +1,20 @@
 {
   "league": "MLB",
-  "lastUpdated": "2026-09-14T23:11:45.346622+00:00",
+  "lastUpdated": "2026-09-14T23:27:16.900560+00:00",
   "games": [
     {
       "gamePk": 824465,
       "awayTeam": "Los Angeles Dodgers",
       "homeTeam": "Cincinnati Reds",
-      "awayScore": 1,
+      "awayScore": 3,
       "homeScore": 0,
       "status": "In Progress",
       "gameDate": "2026-09-14T22:40:00Z",
-      "inning": 3,
-      "inningOrdinal": "3rd",
-      "inningState": "Middle",
-      "outs": 3,
-      "battingTeam": "Los Angeles Dodgers",
+      "inning": 4,
+      "inningOrdinal": "4th",
+      "inningState": "Bottom",
+      "outs": 0,
+      "battingTeam": "Cincinnati Reds",
       "runners": {
         "first": false,
         "second": false,
@@ -35,6 +35,11 @@
           "inning": 3,
           "awayRuns": 0,
           "homeRuns": 0
+        },
+        {
+          "inning": 4,
+          "awayRuns": 2,
+          "homeRuns": 0
         }
       ]
     },
@@ -46,11 +51,73 @@
       "homeScore": 0,
       "status": "In Progress",
       "gameDate": "2026-09-14T22:40:00Z",
-      "inning": 2,
-      "inningOrdinal": "2nd",
+      "inning": 3,
+      "inningOrdinal": "3rd",
+      "inningState": "Bottom",
+      "outs": 2,
+      "battingTeam": "Cleveland Guardians",
+      "runners": {
+        "first": false,
+        "second": false,
+        "third": false
+      },
+      "inningScores": [
+        {
+          "inning": 1,
+          "awayRuns": 0,
+          "homeRuns": 0
+        },
+        {
+          "inning": 2,
+          "awayRuns": 0,
+          "homeRuns": 0
+        },
+        {
+          "inning": 3,
+          "awayRuns": 0,
+          "homeRuns": 0
+        }
+      ]
+    },
+    {
+      "gamePk": 822765,
+      "awayTeam": "Detroit Tigers",
+      "homeTeam": "Toronto Blue Jays",
+      "awayScore": 0,
+      "homeScore": 2,
+      "status": "In Progress",
+      "gameDate": "2026-09-14T23:07:00Z",
+      "inning": 1,
+      "inningOrdinal": "1st",
       "inningState": "End",
       "outs": 3,
-      "battingTeam": "Chicago White Sox",
+      "battingTeam": "Detroit Tigers",
+      "runners": {
+        "first": false,
+        "second": false,
+        "third": false
+      },
+      "inningScores": [
+        {
+          "inning": 1,
+          "awayRuns": 0,
+          "homeRuns": 2
+        }
+      ]
+    },
+    {
+      "gamePk": 823575,
+      "awayTeam": "Baltimore Orioles",
+      "homeTeam": "New York Mets",
+      "awayScore": 0,
+      "homeScore": 0,
+      "status": "In Progress",
+      "gameDate": "2026-09-14T23:10:00Z",
+      "inning": 2,
+      "inningOrdinal": "2nd",
+      "inningState": "Top",
+      "outs": 0,
+      "battingTeam": "Baltimore Orioles",
       "runners": {
         "first": false,
         "second": false,
@@ -70,64 +137,12 @@
       ]
     },
     {
-      "gamePk": 822765,
-      "awayTeam": "Detroit Tigers",
-      "homeTeam": "Toronto Blue Jays",
-      "awayScore": 0,
-      "homeScore": 0,
-      "status": "In Progress",
-      "gameDate": "2026-09-14T23:07:00Z",
-      "inning": 1,
-      "inningOrdinal": "1st",
-      "inningState": "Top",
-      "outs": 2,
-      "battingTeam": "Detroit Tigers",
-      "runners": {
-        "first": false,
-        "second": false,
-        "third": false
-      },
-      "inningScores": [
-        {
-          "inning": 1,
-          "awayRuns": 0,
-          "homeRuns": 0
-        }
-      ]
-    },
-    {
-      "gamePk": 823575,
-      "awayTeam": "Baltimore Orioles",
-      "homeTeam": "New York Mets",
-      "awayScore": 0,
-      "homeScore": 0,
-      "status": "In Progress",
-      "gameDate": "2026-09-14T23:10:00Z",
-      "inning": 1,
-      "inningOrdinal": "1st",
-      "inningState": "Top",
-      "outs": 0,
-      "battingTeam": "Baltimore Orioles",
-      "runners": {
-        "first": false,
-        "second": false,
-        "third": false
-      },
-      "inningScores": [
-        {
-          "inning": 1,
-          "awayRuns": 0,
-          "homeRuns": 0
-        }
-      ]
-    },
-    {
       "gamePk": 824629,
       "awayTeam": "Atlanta Braves",
       "homeTeam": "Chicago Cubs",
       "awayScore": 0,
       "homeScore": 0,
-      "status": "Pre-Game",
+      "status": "Warmup",
       "gameDate": "2026-09-14T23:40:00Z",
       "inning": 1,
       "inningOrdinal": "1st",
@@ -153,7 +168,7 @@
       "homeTeam": "Minnesota Twins",
       "awayScore": 0,
       "homeScore": 0,
-      "status": "Pre-Game",
+      "status": "Warmup",
       "gameDate": "2026-09-14T23:40:00Z",
       "inning": 1,
       "inningOrdinal": "1st",
@@ -179,7 +194,7 @@
       "homeTeam": "St. Louis Cardinals",
       "awayScore": 0,
       "homeScore": 0,
-      "status": "Pre-Game",
+      "status": "Warmup",
       "gameDate": "2026-09-14T23:45:00Z",
       "inning": 1,
       "inningOrdinal": "1st",
