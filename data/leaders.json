@@ -1,6 +1,6 @@
 {
   "season": 2026,
-  "lastUpdated": "2026-09-15T01:27:29.564794+00:00",
+  "lastUpdated": "2026-09-15T02:26:29.425416+00:00",
   "leagues": {
     "AL": {
       "offense": {
@@ -38,7 +38,7 @@
             "player": "Riley Greene",
             "team": "Detroit Tigers",
             "position": "LF",
-            "value": ".283"
+            "value": ".284"
           }
         ],
         "hits": [
@@ -72,10 +72,10 @@
           },
           {
             "rank": 5,
-            "player": "Jonathan Aranda",
-            "team": "Tampa Bay Rays",
-            "position": "1B",
-            "value": "152"
+            "player": "Kevin McGonigle",
+            "team": "Detroit Tigers",
+            "position": "SS",
+            "value": "153"
           }
         ],
         "homeRuns": [
@@ -142,7 +142,7 @@
             "player": "Ben Rice",
             "team": "New York Yankees",
             "position": "DH",
-            "value": "90"
+            "value": "92"
           },
           {
             "rank": 5,
@@ -165,19 +165,19 @@
             "player": "Miguel Vargas",
             "team": "Chicago White Sox",
             "position": "3B",
-            "value": "97"
+            "value": "98"
           },
           {
             "rank": 3,
-            "player": "Yordan Alvarez",
-            "team": "Houston Astros",
+            "player": "Ben Rice",
+            "team": "New York Yankees",
             "position": "DH",
-            "value": "95"
+            "value": "96"
           },
           {
             "rank": 4,
-            "player": "Ben Rice",
-            "team": "New York Yankees",
+            "player": "Yordan Alvarez",
+            "team": "Houston Astros",
             "position": "DH",
             "value": "95"
           },
@@ -186,7 +186,7 @@
             "player": "Zach Neto",
             "team": "Los Angeles Angels",
             "position": "SS",
-            "value": "93"
+            "value": "94"
           }
         ],
         "obp": [
@@ -223,7 +223,7 @@
             "player": "Randy Arozarena",
             "team": "Seattle Mariners",
             "position": "LF",
-            "value": ".373"
+            "value": ".374"
           }
         ],
         "slg": [
@@ -246,7 +246,7 @@
             "player": "Ben Rice",
             "team": "New York Yankees",
             "position": "DH",
-            "value": ".528"
+            "value": ".529"
           },
           {
             "rank": 4,
@@ -290,7 +290,7 @@
             "player": "Ben Rice",
             "team": "New York Yankees",
             "position": "DH",
-            "value": ".886"
+            "value": ".888"
           },
           {
             "rank": 5,
@@ -514,7 +514,7 @@
             "player": "Reid Detmers",
             "team": "Los Angeles Angels",
             "position": "P",
-            "value": "191"
+            "value": "196"
           },
           {
             "rank": 5,
@@ -541,17 +541,17 @@
           },
           {
             "rank": 3,
-            "player": "Parker Messick",
-            "team": "Cleveland Guardians",
+            "player": "Reid Detmers",
+            "team": "Los Angeles Angels",
             "position": "P",
             "value": "1.03"
           },
           {
             "rank": 4,
-            "player": "Reid Detmers",
-            "team": "Los Angeles Angels",
+            "player": "Parker Messick",
+            "team": "Cleveland Guardians",
             "position": "P",
-            "value": "1.04"
+            "value": "1.03"
           },
           {
             "rank": 5,
@@ -681,7 +681,7 @@
             "player": "Spencer Torkelson",
             "team": "Detroit Tigers",
             "position": "1B",
-            "value": "1096"
+            "value": "1099"
           },
           {
             "rank": 2,
@@ -695,14 +695,14 @@
             "player": "Josh Naylor",
             "team": "Seattle Mariners",
             "position": "1B",
-            "value": "983"
+            "value": "986"
           },
           {
             "rank": 4,
             "player": "Pete Alonso",
             "team": "Baltimore Orioles",
             "position": "1B",
-            "value": "979"
+            "value": "980"
           },
           {
             "rank": 5,
@@ -739,14 +739,14 @@
             "player": "Zach Neto",
             "team": "Los Angeles Angels",
             "position": "SS",
-            "value": "306"
+            "value": "307"
           },
           {
             "rank": 5,
             "player": "Chase Meidroth",
             "team": "Chicago White Sox",
             "position": "2B",
-            "value": "305"
+            "value": "306"
           }
         ],
         "errors": [
@@ -783,7 +783,7 @@
             "player": "Miguel Vargas",
             "team": "Chicago White Sox",
             "position": "3B",
-            "value": "13"
+            "value": "14"
           }
         ],
         "doublePlays": [
@@ -792,7 +792,7 @@
             "player": "Spencer Torkelson",
             "team": "Detroit Tigers",
             "position": "1B",
-            "value": "105"
+            "value": "106"
           },
           {
             "rank": 2,
@@ -855,14 +855,14 @@
             "player": "Gabriel Moreno",
             "team": "Arizona Diamondbacks",
             "position": "C",
-            "value": ".301"
+            "value": ".300"
           },
           {
             "rank": 5,
             "player": "TJ Rumfield",
             "team": "Colorado Rockies",
             "position": "1B",
-            "value": ".299"
+            "value": ".300"
           }
         ],
         "hits": [
@@ -892,7 +892,7 @@
             "player": "Pete Crow-Armstrong",
             "team": "Chicago Cubs",
             "position": "CF",
-            "value": "163"
+            "value": "164"
           },
           {
             "rank": 5,
@@ -1033,7 +1033,7 @@
             "player": "TJ Rumfield",
             "team": "Colorado Rockies",
             "position": "1B",
-            "value": ".391"
+            "value": ".392"
           },
           {
             "rank": 4,
@@ -1056,7 +1056,7 @@
             "player": "Pete Crow-Armstrong",
             "team": "Chicago Cubs",
             "position": "CF",
-            "value": ".570"
+            "value": ".571"
           },
           {
             "rank": 2,
@@ -1070,7 +1070,7 @@
             "player": "Hunter Goodman",
             "team": "Colorado Rockies",
             "position": "C",
-            "value": ".525"
+            "value": ".524"
           },
           {
             "rank": 4,
@@ -1093,7 +1093,7 @@
             "player": "Pete Crow-Armstrong",
             "team": "Chicago Cubs",
             "position": "CF",
-            "value": ".943"
+            "value": ".945"
           },
           {
             "rank": 2,
@@ -1428,7 +1428,7 @@
             "player": "Sandy Alcantara",
             "team": "Miami Marlins",
             "position": "P",
-            "value": "200.0"
+            "value": "202.0"
           },
           {
             "rank": 2,
@@ -1505,14 +1505,14 @@
             "player": "Alec Burleson",
             "team": "St. Louis Cardinals",
             "position": "1B",
-            "value": "1131"
+            "value": "1133"
           },
           {
             "rank": 2,
             "player": "Michael Busch",
             "team": "Chicago Cubs",
             "position": "1B",
-            "value": "1123"
+            "value": "1125"
           },
           {
             "rank": 3,
@@ -1533,7 +1533,7 @@
             "player": "Matt Olson",
             "team": "Atlanta Braves",
             "position": "1B",
-            "value": "1105"
+            "value": "1106"
           }
         ],
         "assists": [
@@ -1593,7 +1593,7 @@
             "player": "Otto Lopez",
             "team": "Miami Marlins",
             "position": "SS",
-            "value": "19"
+            "value": "20"
           },
           {
             "rank": 4,
@@ -1623,14 +1623,14 @@
             "player": "Matt Olson",
             "team": "Atlanta Braves",
             "position": "1B",
-            "value": "118"
+            "value": "119"
           },
           {
             "rank": 3,
             "player": "Michael Busch",
             "team": "Chicago Cubs",
             "position": "1B",
-            "value": "104"
+            "value": "106"
           },
           {
             "rank": 4,
