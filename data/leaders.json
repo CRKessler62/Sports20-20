@@ -1,6 +1,6 @@
 {
   "season": 2026,
-  "lastUpdated": "2026-09-15T20:13:48.726887+00:00",
+  "lastUpdated": "2026-09-15T22:54:01.279886+00:00",
   "leagues": {
     "AL": {
       "offense": {
@@ -216,7 +216,7 @@
             "player": "Steven Kwan",
             "team": "Cleveland Guardians",
             "position": "LF",
-            "value": ".375"
+            "value": ".376"
           },
           {
             "rank": 5,
@@ -688,7 +688,7 @@
             "player": "Jonathan Aranda",
             "team": "Tampa Bay Rays",
             "position": "1B",
-            "value": "1006"
+            "value": "1007"
           },
           {
             "rank": 3,
@@ -1040,7 +1040,7 @@
             "player": "Bryce Harper",
             "team": "Philadelphia Phillies",
             "position": "1B",
-            "value": ".387"
+            "value": ".386"
           },
           {
             "rank": 5,
@@ -1317,7 +1317,7 @@
             "player": "Jacob Misiorowski",
             "team": "Milwaukee Brewers",
             "position": "P",
-            "value": "236"
+            "value": "238"
           },
           {
             "rank": 2,
@@ -1519,7 +1519,7 @@
             "player": "William Contreras",
             "team": "Milwaukee Brewers",
             "position": "C",
-            "value": "1109"
+            "value": "1111"
           },
           {
             "rank": 4,
