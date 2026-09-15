@@ -1,7 +1,7 @@
 {
   "league": "MLB",
   "timezone": "America/New_York",
-  "lastUpdated": "2026-09-15T02:15:01.231553+00:00",
+  "lastUpdated": "2026-09-15T03:14:32.670134+00:00",
   "games": [
     {
       "gamePk": 822940,
@@ -9440,9 +9440,9 @@
       "date": "2026-09-14",
       "gameDate": "2026-09-14T23:07:00Z",
       "localGameTime": "2026-09-14T19:07:00-04:00",
-      "status": "Game Over",
+      "status": "Final",
       "abstractGameState": "Final",
-      "codedGameState": "O",
+      "codedGameState": "F",
       "awayTeam": {
         "id": 116,
         "name": "Detroit Tigers",
@@ -9488,9 +9488,9 @@
       "date": "2026-09-14",
       "gameDate": "2026-09-14T23:40:00Z",
       "localGameTime": "2026-09-14T19:40:00-04:00",
-      "status": "In Progress",
-      "abstractGameState": "Live",
-      "codedGameState": "I",
+      "status": "Final",
+      "abstractGameState": "Final",
+      "codedGameState": "F",
       "awayTeam": {
         "id": 144,
         "name": "Atlanta Braves",
@@ -9512,9 +9512,9 @@
       "date": "2026-09-14",
       "gameDate": "2026-09-14T23:40:00Z",
       "localGameTime": "2026-09-14T19:40:00-04:00",
-      "status": "In Progress",
-      "abstractGameState": "Live",
-      "codedGameState": "I",
+      "status": "Final",
+      "abstractGameState": "Final",
+      "codedGameState": "F",
       "awayTeam": {
         "id": 147,
         "name": "New York Yankees",
@@ -9525,8 +9525,8 @@
         "name": "Minnesota Twins",
         "abbreviation": "MIN"
       },
-      "awayScore": 7,
-      "homeScore": 2,
+      "awayScore": 8,
+      "homeScore": 3,
       "venue": "Target Field",
       "awayPitcher": "Will Warren",
       "homePitcher": "Dean Kremer"
@@ -9536,9 +9536,9 @@
       "date": "2026-09-14",
       "gameDate": "2026-09-14T23:45:00Z",
       "localGameTime": "2026-09-14T19:45:00-04:00",
-      "status": "In Progress",
-      "abstractGameState": "Live",
-      "codedGameState": "I",
+      "status": "Final",
+      "abstractGameState": "Final",
+      "codedGameState": "F",
       "awayTeam": {
         "id": 137,
         "name": "San Francisco Giants",
@@ -9573,8 +9573,8 @@
         "name": "Colorado Rockies",
         "abbreviation": "COL"
       },
-      "awayScore": 6,
-      "homeScore": 2,
+      "awayScore": 7,
+      "homeScore": 6,
       "venue": "Coors Field",
       "awayPitcher": "Casey Mize",
       "homePitcher": "Tomoyuki Sugano"
@@ -9597,8 +9597,8 @@
         "name": "Los Angeles Angels",
         "abbreviation": "LAA"
       },
-      "awayScore": 0,
-      "homeScore": 2,
+      "awayScore": 3,
+      "homeScore": 6,
       "venue": "Angel Stadium",
       "awayPitcher": "Kade Anderson",
       "homePitcher": "Reid Detmers"
@@ -9621,8 +9621,8 @@
         "name": "Arizona Diamondbacks",
         "abbreviation": "AZ"
       },
-      "awayScore": 3,
-      "homeScore": 0,
+      "awayScore": 5,
+      "homeScore": 3,
       "venue": "Chase Field",
       "awayPitcher": "Sandy Alcantara",
       "homePitcher": "Corbin Burnes"
@@ -9769,7 +9769,7 @@
       "homeScore": null,
       "venue": "Rogers Centre",
       "awayPitcher": "Drew Anderson",
-      "homePitcher": null
+      "homePitcher": "Braydon Fisher"
     },
     {
       "gamePk": 823574,
