@@ -1,6 +1,6 @@
 {
   "season": 2026,
-  "lastUpdated": "2026-09-15T03:26:28.212737+00:00",
+  "lastUpdated": "2026-09-15T04:26:19.786281+00:00",
   "leagues": {
     "AL": {
       "offense": {
@@ -209,7 +209,7 @@
             "player": "Mike Trout",
             "team": "Los Angeles Angels",
             "position": "CF",
-            "value": ".379"
+            "value": ".380"
           },
           {
             "rank": 4,
@@ -695,7 +695,7 @@
             "player": "Josh Naylor",
             "team": "Seattle Mariners",
             "position": "1B",
-            "value": "988"
+            "value": "990"
           },
           {
             "rank": 4,
@@ -718,7 +718,7 @@
             "player": "Cole Young",
             "team": "Seattle Mariners",
             "position": "2B",
-            "value": "376"
+            "value": "377"
           },
           {
             "rank": 2,
@@ -729,16 +729,16 @@
           },
           {
             "rank": 3,
-            "player": "Jazz Chisholm Jr.",
-            "team": "New York Yankees",
-            "position": "2B",
-            "value": "307"
-          },
-          {
-            "rank": 4,
             "player": "Zach Neto",
             "team": "Los Angeles Angels",
             "position": "SS",
+            "value": "308"
+          },
+          {
+            "rank": 4,
+            "player": "Jazz Chisholm Jr.",
+            "team": "New York Yankees",
+            "position": "2B",
             "value": "307"
           },
           {
@@ -806,7 +806,7 @@
             "player": "Josh Naylor",
             "team": "Seattle Mariners",
             "position": "1B",
-            "value": "97"
+            "value": "98"
           },
           {
             "rank": 4,
@@ -841,7 +841,7 @@
             "player": "Otto Lopez",
             "team": "Miami Marlins",
             "position": "SS",
-            "value": ".308"
+            "value": ".307"
           },
           {
             "rank": 3,
@@ -855,7 +855,7 @@
             "player": "Gabriel Moreno",
             "team": "Arizona Diamondbacks",
             "position": "C",
-            "value": ".300"
+            "value": ".301"
           },
           {
             "rank": 5,
@@ -1388,17 +1388,17 @@
         "saves": [
           {
             "rank": 1,
-            "player": "Riley O'Brien",
-            "team": "St. Louis Cardinals",
+            "player": "Mason Miller",
+            "team": "San Diego Padres",
             "position": "P",
             "value": "37"
           },
           {
             "rank": 2,
-            "player": "Mason Miller",
-            "team": "San Diego Padres",
+            "player": "Riley O'Brien",
+            "team": "St. Louis Cardinals",
             "position": "P",
-            "value": "36"
+            "value": "37"
           },
           {
             "rank": 3,
