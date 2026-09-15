@@ -1,7 +1,7 @@
 {
   "league": "MLB",
   "timezone": "America/New_York",
-  "lastUpdated": "2026-09-15T03:14:32.670134+00:00",
+  "lastUpdated": "2026-09-15T04:14:08.882504+00:00",
   "games": [
     {
       "gamePk": 822940,
@@ -9560,9 +9560,9 @@
       "date": "2026-09-14",
       "gameDate": "2026-09-15T00:40:00Z",
       "localGameTime": "2026-09-14T20:40:00-04:00",
-      "status": "In Progress",
-      "abstractGameState": "Live",
-      "codedGameState": "I",
+      "status": "Final",
+      "abstractGameState": "Final",
+      "codedGameState": "F",
       "awayTeam": {
         "id": 135,
         "name": "San Diego Padres",
@@ -9573,8 +9573,8 @@
         "name": "Colorado Rockies",
         "abbreviation": "COL"
       },
-      "awayScore": 7,
-      "homeScore": 6,
+      "awayScore": 8,
+      "homeScore": 7,
       "venue": "Coors Field",
       "awayPitcher": "Casey Mize",
       "homePitcher": "Tomoyuki Sugano"
@@ -9584,9 +9584,9 @@
       "date": "2026-09-14",
       "gameDate": "2026-09-15T01:38:00Z",
       "localGameTime": "2026-09-14T21:38:00-04:00",
-      "status": "In Progress",
-      "abstractGameState": "Live",
-      "codedGameState": "I",
+      "status": "Game Over",
+      "abstractGameState": "Final",
+      "codedGameState": "O",
       "awayTeam": {
         "id": 136,
         "name": "Seattle Mariners",
@@ -9597,7 +9597,7 @@
         "name": "Los Angeles Angels",
         "abbreviation": "LAA"
       },
-      "awayScore": 3,
+      "awayScore": 4,
       "homeScore": 6,
       "venue": "Angel Stadium",
       "awayPitcher": "Kade Anderson",
@@ -9621,8 +9621,8 @@
         "name": "Arizona Diamondbacks",
         "abbreviation": "AZ"
       },
-      "awayScore": 5,
-      "homeScore": 3,
+      "awayScore": 7,
+      "homeScore": 4,
       "venue": "Chase Field",
       "awayPitcher": "Sandy Alcantara",
       "homePitcher": "Corbin Burnes"
@@ -10224,7 +10224,7 @@
       "awayScore": null,
       "homeScore": null,
       "venue": "Wrigley Field",
-      "awayPitcher": null,
+      "awayPitcher": "JR Ritchie",
       "homePitcher": "Shota Imanaga"
     },
     {
