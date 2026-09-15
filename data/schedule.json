@@ -1,7 +1,7 @@
 {
   "league": "MLB",
   "timezone": "America/New_York",
-  "lastUpdated": "2026-09-15T09:49:03.722767+00:00",
+  "lastUpdated": "2026-09-15T14:41:35.077061+00:00",
   "games": [
     {
       "gamePk": 822940,
@@ -14154,8 +14154,8 @@
       },
       "homeTeam": {
         "id": 4612,
-        "name": "AL #1 Seed",
-        "abbreviation": "AL1"
+        "name": "AL East Champ",
+        "abbreviation": "ALE1"
       },
       "awayScore": null,
       "homeScore": null,
@@ -14298,8 +14298,8 @@
       },
       "homeTeam": {
         "id": 4612,
-        "name": "AL #1 Seed",
-        "abbreviation": "AL1"
+        "name": "AL East Champ",
+        "abbreviation": "ALE1"
       },
       "awayScore": null,
       "homeScore": null,
@@ -14389,8 +14389,8 @@
       "codedGameState": "S",
       "awayTeam": {
         "id": 4612,
-        "name": "AL #1 Seed",
-        "abbreviation": "AL1"
+        "name": "AL East Champ",
+        "abbreviation": "ALE1"
       },
       "homeTeam": {
         "id": 5529,
@@ -14485,8 +14485,8 @@
       "codedGameState": "S",
       "awayTeam": {
         "id": 4612,
-        "name": "AL #1 Seed",
-        "abbreviation": "AL1"
+        "name": "AL East Champ",
+        "abbreviation": "ALE1"
       },
       "homeTeam": {
         "id": 5529,
@@ -14586,8 +14586,8 @@
       },
       "homeTeam": {
         "id": 4612,
-        "name": "AL #1 Seed",
-        "abbreviation": "AL1"
+        "name": "AL East Champ",
+        "abbreviation": "ALE1"
       },
       "awayScore": null,
       "homeScore": null,
