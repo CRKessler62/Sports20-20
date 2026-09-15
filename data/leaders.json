@@ -1,6 +1,6 @@
 {
   "season": 2026,
-  "lastUpdated": "2026-09-14T23:21:54.913705+00:00",
+  "lastUpdated": "2026-09-15T00:32:34.670918+00:00",
   "leagues": {
     "AL": {
       "offense": {
@@ -31,7 +31,7 @@
             "player": "Chase DeLauter",
             "team": "Cleveland Guardians",
             "position": "RF",
-            "value": ".290"
+            "value": ".289"
           },
           {
             "rank": 5,
@@ -216,7 +216,7 @@
             "player": "Steven Kwan",
             "team": "Cleveland Guardians",
             "position": "LF",
-            "value": ".374"
+            "value": ".375"
           },
           {
             "rank": 5,
@@ -246,7 +246,7 @@
             "player": "Ben Rice",
             "team": "New York Yankees",
             "position": "DH",
-            "value": ".528"
+            "value": ".527"
           },
           {
             "rank": 4,
@@ -297,7 +297,7 @@
             "player": "Pete Alonso",
             "team": "Baltimore Orioles",
             "position": "1B",
-            "value": ".861"
+            "value": ".862"
           }
         ],
         "stolenBases": [
@@ -500,7 +500,7 @@
             "player": "Gavin Williams",
             "team": "Cleveland Guardians",
             "position": "P",
-            "value": "231"
+            "value": "235"
           },
           {
             "rank": 3,
@@ -622,17 +622,17 @@
           },
           {
             "rank": 4,
+            "player": "Gavin Williams",
+            "team": "Cleveland Guardians",
+            "position": "P",
+            "value": "174.0"
+          },
+          {
+            "rank": 5,
             "player": "Parker Messick",
             "team": "Cleveland Guardians",
             "position": "P",
             "value": "172.1"
-          },
-          {
-            "rank": 5,
-            "player": "Logan Gilbert",
-            "team": "Seattle Mariners",
-            "position": "P",
-            "value": "172.0"
           }
         ],
         "qualityStarts": []
@@ -681,7 +681,7 @@
             "player": "Spencer Torkelson",
             "team": "Detroit Tigers",
             "position": "1B",
-            "value": "1090"
+            "value": "1094"
           },
           {
             "rank": 2,
@@ -702,7 +702,7 @@
             "player": "Pete Alonso",
             "team": "Baltimore Orioles",
             "position": "1B",
-            "value": "972"
+            "value": "974"
           },
           {
             "rank": 5,
@@ -725,7 +725,7 @@
             "player": "Gunnar Henderson",
             "team": "Baltimore Orioles",
             "position": "SS",
-            "value": "339"
+            "value": "341"
           },
           {
             "rank": 3,
@@ -746,7 +746,7 @@
             "player": "Chase Meidroth",
             "team": "Chicago White Sox",
             "position": "2B",
-            "value": "303"
+            "value": "304"
           }
         ],
         "errors": [
@@ -813,7 +813,7 @@
             "player": "Pete Alonso",
             "team": "Baltimore Orioles",
             "position": "1B",
-            "value": "86"
+            "value": "87"
           },
           {
             "rank": 5,
@@ -889,16 +889,16 @@
           },
           {
             "rank": 4,
-            "player": "Alec Burleson",
-            "team": "St. Louis Cardinals",
-            "position": "1B",
-            "value": "160"
-          },
-          {
-            "rank": 5,
             "player": "Pete Crow-Armstrong",
             "team": "Chicago Cubs",
             "position": "CF",
+            "value": "161"
+          },
+          {
+            "rank": 5,
+            "player": "Alec Burleson",
+            "team": "St. Louis Cardinals",
+            "position": "1B",
             "value": "160"
           }
         ],
@@ -956,17 +956,17 @@
           },
           {
             "rank": 3,
-            "player": "Jordan Walker",
-            "team": "St. Louis Cardinals",
-            "position": "RF",
+            "player": "Pete Crow-Armstrong",
+            "team": "Chicago Cubs",
+            "position": "CF",
             "value": "100"
           },
           {
             "rank": 4,
-            "player": "Pete Crow-Armstrong",
-            "team": "Chicago Cubs",
-            "position": "CF",
-            "value": "98"
+            "player": "Jordan Walker",
+            "team": "St. Louis Cardinals",
+            "position": "RF",
+            "value": "100"
           },
           {
             "rank": 5,
@@ -1056,7 +1056,7 @@
             "player": "Pete Crow-Armstrong",
             "team": "Chicago Cubs",
             "position": "CF",
-            "value": ".562"
+            "value": ".564"
           },
           {
             "rank": 2,
@@ -1093,7 +1093,7 @@
             "player": "Pete Crow-Armstrong",
             "team": "Chicago Cubs",
             "position": "CF",
-            "value": ".933"
+            "value": ".935"
           },
           {
             "rank": 2,
@@ -1505,14 +1505,14 @@
             "player": "Alec Burleson",
             "team": "St. Louis Cardinals",
             "position": "1B",
-            "value": "1125"
+            "value": "1128"
           },
           {
             "rank": 2,
             "player": "Michael Busch",
             "team": "Chicago Cubs",
             "position": "1B",
-            "value": "1120"
+            "value": "1122"
           },
           {
             "rank": 3,
@@ -1533,7 +1533,7 @@
             "player": "Matt Olson",
             "team": "Atlanta Braves",
             "position": "1B",
-            "value": "1099"
+            "value": "1102"
           }
         ],
         "assists": [
@@ -1549,7 +1549,7 @@
             "player": "Ozzie Albies",
             "team": "Atlanta Braves",
             "position": "2B",
-            "value": "360"
+            "value": "362"
           },
           {
             "rank": 3,
@@ -1630,7 +1630,7 @@
             "player": "Michael Busch",
             "team": "Chicago Cubs",
             "position": "1B",
-            "value": "103"
+            "value": "104"
           },
           {
             "rank": 4,
