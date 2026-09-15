@@ -1,6 +1,6 @@
 {
   "season": 2026,
-  "lastUpdated": "2026-09-15T02:26:29.425416+00:00",
+  "lastUpdated": "2026-09-15T03:26:28.212737+00:00",
   "leagues": {
     "AL": {
       "offense": {
@@ -158,7 +158,7 @@
             "player": "Randy Arozarena",
             "team": "Seattle Mariners",
             "position": "LF",
-            "value": "99"
+            "value": "100"
           },
           {
             "rank": 2,
@@ -186,7 +186,7 @@
             "player": "Zach Neto",
             "team": "Los Angeles Angels",
             "position": "SS",
-            "value": "94"
+            "value": "95"
           }
         ],
         "obp": [
@@ -514,7 +514,7 @@
             "player": "Reid Detmers",
             "team": "Los Angeles Angels",
             "position": "P",
-            "value": "196"
+            "value": "199"
           },
           {
             "rank": 5,
@@ -541,17 +541,17 @@
           },
           {
             "rank": 3,
-            "player": "Reid Detmers",
-            "team": "Los Angeles Angels",
+            "player": "Parker Messick",
+            "team": "Cleveland Guardians",
             "position": "P",
             "value": "1.03"
           },
           {
             "rank": 4,
-            "player": "Parker Messick",
-            "team": "Cleveland Guardians",
+            "player": "Reid Detmers",
+            "team": "Los Angeles Angels",
             "position": "P",
-            "value": "1.03"
+            "value": "1.05"
           },
           {
             "rank": 5,
@@ -622,17 +622,17 @@
           },
           {
             "rank": 4,
-            "player": "Gavin Williams",
-            "team": "Cleveland Guardians",
+            "player": "Reid Detmers",
+            "team": "Los Angeles Angels",
             "position": "P",
             "value": "174.0"
           },
           {
             "rank": 5,
-            "player": "Parker Messick",
+            "player": "Gavin Williams",
             "team": "Cleveland Guardians",
             "position": "P",
-            "value": "172.1"
+            "value": "174.0"
           }
         ],
         "qualityStarts": []
@@ -695,7 +695,7 @@
             "player": "Josh Naylor",
             "team": "Seattle Mariners",
             "position": "1B",
-            "value": "986"
+            "value": "988"
           },
           {
             "rank": 4,
@@ -718,7 +718,7 @@
             "player": "Cole Young",
             "team": "Seattle Mariners",
             "position": "2B",
-            "value": "375"
+            "value": "376"
           },
           {
             "rank": 2,
@@ -841,7 +841,7 @@
             "player": "Otto Lopez",
             "team": "Miami Marlins",
             "position": "SS",
-            "value": ".309"
+            "value": ".308"
           },
           {
             "rank": 3,
@@ -862,7 +862,7 @@
             "player": "TJ Rumfield",
             "team": "Colorado Rockies",
             "position": "1B",
-            "value": ".300"
+            "value": ".299"
           }
         ],
         "hits": [
@@ -1033,7 +1033,7 @@
             "player": "TJ Rumfield",
             "team": "Colorado Rockies",
             "position": "1B",
-            "value": ".392"
+            "value": ".390"
           },
           {
             "rank": 4,
@@ -1060,17 +1060,17 @@
           },
           {
             "rank": 2,
+            "player": "Hunter Goodman",
+            "team": "Colorado Rockies",
+            "position": "C",
+            "value": ".529"
+          },
+          {
+            "rank": 3,
             "player": "Rafael Devers",
             "team": "San Francisco Giants",
             "position": "1B",
             "value": ".525"
-          },
-          {
-            "rank": 3,
-            "player": "Hunter Goodman",
-            "team": "Colorado Rockies",
-            "position": "C",
-            "value": ".524"
           },
           {
             "rank": 4,
@@ -1208,16 +1208,16 @@
           },
           {
             "rank": 2,
-            "player": "Otto Lopez",
-            "team": "Miami Marlins",
-            "position": "SS",
-            "value": "9"
-          },
-          {
-            "rank": 3,
             "player": "Jake McCarthy",
             "team": "Colorado Rockies",
             "position": "LF",
+            "value": "10"
+          },
+          {
+            "rank": 3,
+            "player": "Otto Lopez",
+            "team": "Miami Marlins",
+            "position": "SS",
             "value": "9"
           },
           {
@@ -1388,15 +1388,15 @@
         "saves": [
           {
             "rank": 1,
-            "player": "Mason Miller",
-            "team": "San Diego Padres",
+            "player": "Riley O'Brien",
+            "team": "St. Louis Cardinals",
             "position": "P",
-            "value": "36"
+            "value": "37"
           },
           {
             "rank": 2,
-            "player": "Riley O'Brien",
-            "team": "St. Louis Cardinals",
+            "player": "Mason Miller",
+            "team": "San Diego Padres",
             "position": "P",
             "value": "36"
           },
@@ -1428,7 +1428,7 @@
             "player": "Sandy Alcantara",
             "team": "Miami Marlins",
             "position": "P",
-            "value": "202.0"
+            "value": "205.0"
           },
           {
             "rank": 2,
@@ -1505,7 +1505,7 @@
             "player": "Alec Burleson",
             "team": "St. Louis Cardinals",
             "position": "1B",
-            "value": "1133"
+            "value": "1134"
           },
           {
             "rank": 2,
