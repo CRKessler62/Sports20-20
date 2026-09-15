@@ -1,6 +1,6 @@
 {
   "season": 2026,
-  "lastUpdated": "2026-09-15T00:32:34.670918+00:00",
+  "lastUpdated": "2026-09-15T01:27:29.564794+00:00",
   "leagues": {
     "AL": {
       "offense": {
@@ -35,10 +35,10 @@
           },
           {
             "rank": 5,
-            "player": "Ceddanne Rafaela",
-            "team": "Boston Red Sox",
-            "position": "CF",
-            "value": ".282"
+            "player": "Riley Greene",
+            "team": "Detroit Tigers",
+            "position": "LF",
+            "value": ".283"
           }
         ],
         "hits": [
@@ -112,7 +112,7 @@
             "player": "Kazuma Okamoto",
             "team": "Toronto Blue Jays",
             "position": "3B",
-            "value": "32"
+            "value": "33"
           }
         ],
         "rbi": [
@@ -165,7 +165,7 @@
             "player": "Miguel Vargas",
             "team": "Chicago White Sox",
             "position": "3B",
-            "value": "96"
+            "value": "97"
           },
           {
             "rank": 3,
@@ -246,7 +246,7 @@
             "player": "Ben Rice",
             "team": "New York Yankees",
             "position": "DH",
-            "value": ".527"
+            "value": ".528"
           },
           {
             "rank": 4,
@@ -260,7 +260,7 @@
             "player": "Pete Alonso",
             "team": "Baltimore Orioles",
             "position": "1B",
-            "value": ".498"
+            "value": ".496"
           }
         ],
         "ops": [
@@ -290,14 +290,14 @@
             "player": "Ben Rice",
             "team": "New York Yankees",
             "position": "DH",
-            "value": ".884"
+            "value": ".886"
           },
           {
             "rank": 5,
             "player": "Pete Alonso",
             "team": "Baltimore Orioles",
             "position": "1B",
-            "value": ".862"
+            "value": ".859"
           }
         ],
         "stolenBases": [
@@ -310,24 +310,24 @@
           },
           {
             "rank": 2,
+            "player": "Sean Burke",
+            "team": "Chicago White Sox",
+            "position": "P",
+            "value": "23"
+          },
+          {
+            "rank": 3,
             "player": "George Kirby",
             "team": "Seattle Mariners",
             "position": "P",
             "value": "22"
           },
           {
-            "rank": 3,
+            "rank": 4,
             "player": "Spencer Arrighetti",
             "team": "Toronto Blue Jays",
             "position": "P",
             "value": "21"
-          },
-          {
-            "rank": 4,
-            "player": "Sean Burke",
-            "team": "Chicago White Sox",
-            "position": "P",
-            "value": "20"
           },
           {
             "rank": 5,
@@ -681,7 +681,7 @@
             "player": "Spencer Torkelson",
             "team": "Detroit Tigers",
             "position": "1B",
-            "value": "1094"
+            "value": "1096"
           },
           {
             "rank": 2,
@@ -702,7 +702,7 @@
             "player": "Pete Alonso",
             "team": "Baltimore Orioles",
             "position": "1B",
-            "value": "974"
+            "value": "979"
           },
           {
             "rank": 5,
@@ -725,7 +725,7 @@
             "player": "Gunnar Henderson",
             "team": "Baltimore Orioles",
             "position": "SS",
-            "value": "341"
+            "value": "342"
           },
           {
             "rank": 3,
@@ -746,7 +746,7 @@
             "player": "Chase Meidroth",
             "team": "Chicago White Sox",
             "position": "2B",
-            "value": "304"
+            "value": "305"
           }
         ],
         "errors": [
@@ -862,7 +862,7 @@
             "player": "TJ Rumfield",
             "team": "Colorado Rockies",
             "position": "1B",
-            "value": ".298"
+            "value": ".299"
           }
         ],
         "hits": [
@@ -885,21 +885,21 @@
             "player": "Fernando Tatis Jr.",
             "team": "San Diego Padres",
             "position": "RF",
-            "value": "167"
+            "value": "168"
           },
           {
             "rank": 4,
             "player": "Pete Crow-Armstrong",
             "team": "Chicago Cubs",
             "position": "CF",
-            "value": "161"
+            "value": "163"
           },
           {
             "rank": 5,
             "player": "Alec Burleson",
             "team": "St. Louis Cardinals",
             "position": "1B",
-            "value": "160"
+            "value": "162"
           }
         ],
         "homeRuns": [
@@ -915,7 +915,7 @@
             "player": "Pete Crow-Armstrong",
             "team": "Chicago Cubs",
             "position": "CF",
-            "value": "41"
+            "value": "42"
           },
           {
             "rank": 3,
@@ -945,7 +945,7 @@
             "player": "Alec Burleson",
             "team": "St. Louis Cardinals",
             "position": "1B",
-            "value": "109"
+            "value": "110"
           },
           {
             "rank": 2,
@@ -959,7 +959,7 @@
             "player": "Pete Crow-Armstrong",
             "team": "Chicago Cubs",
             "position": "CF",
-            "value": "100"
+            "value": "102"
           },
           {
             "rank": 4,
@@ -982,7 +982,7 @@
             "player": "Pete Crow-Armstrong",
             "team": "Chicago Cubs",
             "position": "CF",
-            "value": "111"
+            "value": "112"
           },
           {
             "rank": 2,
@@ -1033,7 +1033,7 @@
             "player": "TJ Rumfield",
             "team": "Colorado Rockies",
             "position": "1B",
-            "value": ".390"
+            "value": ".391"
           },
           {
             "rank": 4,
@@ -1056,7 +1056,7 @@
             "player": "Pete Crow-Armstrong",
             "team": "Chicago Cubs",
             "position": "CF",
-            "value": ".564"
+            "value": ".570"
           },
           {
             "rank": 2,
@@ -1067,17 +1067,17 @@
           },
           {
             "rank": 3,
+            "player": "Hunter Goodman",
+            "team": "Colorado Rockies",
+            "position": "C",
+            "value": ".525"
+          },
+          {
+            "rank": 4,
             "player": "James Wood",
             "team": "Washington Nationals",
             "position": "RF",
             "value": ".523"
-          },
-          {
-            "rank": 4,
-            "player": "Hunter Goodman",
-            "team": "Colorado Rockies",
-            "position": "C",
-            "value": ".522"
           },
           {
             "rank": 5,
@@ -1093,7 +1093,7 @@
             "player": "Pete Crow-Armstrong",
             "team": "Chicago Cubs",
             "position": "CF",
-            "value": ".935"
+            "value": ".943"
           },
           {
             "rank": 2,
@@ -1505,14 +1505,14 @@
             "player": "Alec Burleson",
             "team": "St. Louis Cardinals",
             "position": "1B",
-            "value": "1128"
+            "value": "1131"
           },
           {
             "rank": 2,
             "player": "Michael Busch",
             "team": "Chicago Cubs",
             "position": "1B",
-            "value": "1122"
+            "value": "1123"
           },
           {
             "rank": 3,
@@ -1533,7 +1533,7 @@
             "player": "Matt Olson",
             "team": "Atlanta Braves",
             "position": "1B",
-            "value": "1102"
+            "value": "1105"
           }
         ],
         "assists": [
@@ -1549,7 +1549,7 @@
             "player": "Ozzie Albies",
             "team": "Atlanta Braves",
             "position": "2B",
-            "value": "362"
+            "value": "363"
           },
           {
             "rank": 3,
@@ -1637,14 +1637,14 @@
             "player": "TJ Rumfield",
             "team": "Colorado Rockies",
             "position": "1B",
-            "value": "91"
+            "value": "92"
           },
           {
             "rank": 5,
             "player": "Masyn Winn",
             "team": "St. Louis Cardinals",
             "position": "SS",
-            "value": "88"
+            "value": "89"
           }
         ]
       },
