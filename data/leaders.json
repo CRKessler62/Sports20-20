@@ -1,6 +1,6 @@
 {
   "season": 2026,
-  "lastUpdated": "2026-09-16T13:29:46.179947+00:00",
+  "lastUpdated": "2026-09-16T18:10:32.513187+00:00",
   "leagues": {
     "AL": {
       "offense": {
@@ -139,17 +139,17 @@
           },
           {
             "rank": 4,
-            "player": "Ben Rice",
-            "team": "New York Yankees",
-            "position": "DH",
+            "player": "Jo Adell",
+            "team": "Cleveland Guardians",
+            "position": "RF",
             "value": "92"
           },
           {
             "rank": 5,
-            "player": "Jo Adell",
-            "team": "Cleveland Guardians",
-            "position": "RF",
-            "value": "90"
+            "player": "Ben Rice",
+            "team": "New York Yankees",
+            "position": "DH",
+            "value": "92"
           }
         ],
         "runs": [
@@ -213,16 +213,16 @@
           },
           {
             "rank": 4,
-            "player": "Steven Kwan",
-            "team": "Cleveland Guardians",
-            "position": "LF",
-            "value": ".376"
-          },
-          {
-            "rank": 5,
             "player": "Kevin McGonigle",
             "team": "Detroit Tigers",
             "position": "SS",
+            "value": ".375"
+          },
+          {
+            "rank": 5,
+            "player": "Steven Kwan",
+            "team": "Cleveland Guardians",
+            "position": "LF",
             "value": ".375"
           }
         ],
@@ -246,7 +246,7 @@
             "player": "Ben Rice",
             "team": "New York Yankees",
             "position": "DH",
-            "value": ".525"
+            "value": ".524"
           },
           {
             "rank": 4,
@@ -290,7 +290,7 @@
             "player": "Ben Rice",
             "team": "New York Yankees",
             "position": "DH",
-            "value": ".882"
+            "value": ".880"
           },
           {
             "rank": 5,
@@ -433,7 +433,7 @@
             "player": "Parker Messick",
             "team": "Cleveland Guardians",
             "position": "P",
-            "value": "2.51"
+            "value": "2.45"
           },
           {
             "rank": 4,
@@ -629,10 +629,10 @@
           },
           {
             "rank": 5,
-            "player": "Reid Detmers",
-            "team": "Los Angeles Angels",
+            "player": "Parker Messick",
+            "team": "Cleveland Guardians",
             "position": "P",
-            "value": "174.0"
+            "value": "176.0"
           }
         ],
         "qualityStarts": []
@@ -732,7 +732,7 @@
             "player": "Chase Meidroth",
             "team": "Chicago White Sox",
             "position": "2B",
-            "value": "312"
+            "value": "313"
           },
           {
             "rank": 4,
@@ -1134,22 +1134,22 @@
           },
           {
             "rank": 2,
+            "player": "Matthew Liberatore",
+            "team": "St. Louis Cardinals",
+            "position": "P",
+            "value": "24"
+          },
+          {
+            "rank": 3,
             "player": "Andrew Abbott",
             "team": "Cincinnati Reds",
             "position": "P",
             "value": "22"
           },
           {
-            "rank": 3,
+            "rank": 4,
             "player": "Chase Burns",
             "team": "Cincinnati Reds",
-            "position": "P",
-            "value": "22"
-          },
-          {
-            "rank": 4,
-            "player": "Matthew Liberatore",
-            "team": "St. Louis Cardinals",
             "position": "P",
             "value": "22"
           },
@@ -1505,7 +1505,7 @@
             "player": "Alec Burleson",
             "team": "St. Louis Cardinals",
             "position": "1B",
-            "value": "1144"
+            "value": "1149"
           },
           {
             "rank": 2,
@@ -1563,7 +1563,7 @@
             "player": "JJ Wetherholt",
             "team": "St. Louis Cardinals",
             "position": "2B",
-            "value": "341"
+            "value": "343"
           },
           {
             "rank": 5,
@@ -1616,7 +1616,7 @@
             "player": "Alec Burleson",
             "team": "St. Louis Cardinals",
             "position": "1B",
-            "value": "123"
+            "value": "124"
           },
           {
             "rank": 2,
