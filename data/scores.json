@@ -1,20 +1,20 @@
 {
   "league": "MLB",
-  "lastUpdated": "2026-09-17T15:42:55.664244+00:00",
+  "lastUpdated": "2026-09-17T19:19:22.935223+00:00",
   "games": [
     {
       "gamePk": 823334,
       "awayTeam": "Milwaukee Brewers",
       "homeTeam": "Pittsburgh Pirates",
-      "awayScore": 0,
-      "homeScore": 0,
-      "status": "Pre-Game",
+      "awayScore": 4,
+      "homeScore": 7,
+      "status": "In Progress",
       "gameDate": "2026-09-17T16:35:00Z",
-      "inning": 1,
-      "inningOrdinal": "1st",
-      "inningState": "Top",
-      "outs": 0,
-      "battingTeam": "Milwaukee Brewers",
+      "inning": 8,
+      "inningOrdinal": "8th",
+      "inningState": "Bottom",
+      "outs": 1,
+      "battingTeam": "Pittsburgh Pirates",
       "runners": {
         "first": false,
         "second": false,
@@ -25,6 +25,41 @@
           "inning": 1,
           "awayRuns": 0,
           "homeRuns": 0
+        },
+        {
+          "inning": 2,
+          "awayRuns": 1,
+          "homeRuns": 5
+        },
+        {
+          "inning": 3,
+          "awayRuns": 0,
+          "homeRuns": 0
+        },
+        {
+          "inning": 4,
+          "awayRuns": 0,
+          "homeRuns": 0
+        },
+        {
+          "inning": 5,
+          "awayRuns": 0,
+          "homeRuns": 0
+        },
+        {
+          "inning": 6,
+          "awayRuns": 1,
+          "homeRuns": 0
+        },
+        {
+          "inning": 7,
+          "awayRuns": 0,
+          "homeRuns": 0
+        },
+        {
+          "inning": 8,
+          "awayRuns": 2,
+          "homeRuns": 2
         }
       ]
     },
@@ -32,24 +67,64 @@
       "gamePk": 824464,
       "awayTeam": "Los Angeles Dodgers",
       "homeTeam": "Cincinnati Reds",
-      "awayScore": 0,
-      "homeScore": 0,
-      "status": "Pre-Game",
+      "awayScore": 8,
+      "homeScore": 1,
+      "status": "In Progress",
       "gameDate": "2026-09-17T16:40:00Z",
-      "inning": 1,
-      "inningOrdinal": "1st",
-      "inningState": "Top",
-      "outs": 0,
-      "battingTeam": "Los Angeles Dodgers",
+      "inning": 9,
+      "inningOrdinal": "9th",
+      "inningState": "Bottom",
+      "outs": 1,
+      "battingTeam": "Cincinnati Reds",
       "runners": {
-        "first": false,
+        "first": true,
         "second": false,
         "third": false
       },
       "inningScores": [
         {
           "inning": 1,
+          "awayRuns": 2,
+          "homeRuns": 0
+        },
+        {
+          "inning": 2,
+          "awayRuns": 2,
+          "homeRuns": 0
+        },
+        {
+          "inning": 3,
           "awayRuns": 0,
+          "homeRuns": 0
+        },
+        {
+          "inning": 4,
+          "awayRuns": 3,
+          "homeRuns": 1
+        },
+        {
+          "inning": 5,
+          "awayRuns": 0,
+          "homeRuns": 0
+        },
+        {
+          "inning": 6,
+          "awayRuns": 0,
+          "homeRuns": 0
+        },
+        {
+          "inning": 7,
+          "awayRuns": 0,
+          "homeRuns": 0
+        },
+        {
+          "inning": 8,
+          "awayRuns": 0,
+          "homeRuns": 0
+        },
+        {
+          "inning": 9,
+          "awayRuns": 1,
           "homeRuns": 0
         }
       ]
@@ -58,15 +133,15 @@
       "gamePk": 822924,
       "awayTeam": "Athletics",
       "homeTeam": "Tampa Bay Rays",
-      "awayScore": 0,
-      "homeScore": 0,
-      "status": "Pre-Game",
+      "awayScore": 1,
+      "homeScore": 8,
+      "status": "In Progress",
       "gameDate": "2026-09-17T17:10:00Z",
-      "inning": 1,
-      "inningOrdinal": "1st",
-      "inningState": "Top",
+      "inning": 7,
+      "inningOrdinal": "7th",
+      "inningState": "Bottom",
       "outs": 0,
-      "battingTeam": "Athletics",
+      "battingTeam": "Tampa Bay Rays",
       "runners": {
         "first": false,
         "second": false,
@@ -75,6 +150,36 @@
       "inningScores": [
         {
           "inning": 1,
+          "awayRuns": 0,
+          "homeRuns": 0
+        },
+        {
+          "inning": 2,
+          "awayRuns": 0,
+          "homeRuns": 0
+        },
+        {
+          "inning": 3,
+          "awayRuns": 0,
+          "homeRuns": 0
+        },
+        {
+          "inning": 4,
+          "awayRuns": 0,
+          "homeRuns": 6
+        },
+        {
+          "inning": 5,
+          "awayRuns": 0,
+          "homeRuns": 0
+        },
+        {
+          "inning": 6,
+          "awayRuns": 1,
+          "homeRuns": 2
+        },
+        {
+          "inning": 7,
           "awayRuns": 0,
           "homeRuns": 0
         }
@@ -86,19 +191,25 @@
       "homeTeam": "Colorado Rockies",
       "awayScore": 0,
       "homeScore": 0,
-      "status": "Scheduled",
+      "status": "In Progress",
       "gameDate": "2026-09-17T19:10:00Z",
-      "inning": null,
-      "inningOrdinal": null,
-      "inningState": null,
-      "outs": null,
-      "battingTeam": null,
+      "inning": 1,
+      "inningOrdinal": "1st",
+      "inningState": "Top",
+      "outs": 2,
+      "battingTeam": "San Diego Padres",
       "runners": {
-        "first": false,
+        "first": true,
         "second": false,
         "third": false
       },
-      "inningScores": []
+      "inningScores": [
+        {
+          "inning": 1,
+          "awayRuns": 0,
+          "homeRuns": 0
+        }
+      ]
     },
     {
       "gamePk": 824141,
