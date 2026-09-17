@@ -1,22 +1,22 @@
 {
   "season": 2026,
-  "lastUpdated": "2026-09-17T16:56:54.563066+00:00",
+  "lastUpdated": "2026-09-17T20:18:40.759447+00:00",
   "leagues": {
     "AL": {
       "offense": {
         "battingAverage": [
           {
             "rank": 1,
-            "player": "Yordan Alvarez",
-            "team": "Houston Astros",
-            "position": "DH",
-            "value": ".310"
-          },
-          {
-            "rank": 2,
             "player": "Chandler Simpson",
             "team": "Tampa Bay Rays",
             "position": "LF",
+            "value": ".311"
+          },
+          {
+            "rank": 2,
+            "player": "Yordan Alvarez",
+            "team": "Houston Astros",
+            "position": "DH",
             "value": ".310"
           },
           {
@@ -24,7 +24,7 @@
             "player": "Yandy D\u00edaz",
             "team": "Tampa Bay Rays",
             "position": "DH",
-            "value": ".297"
+            "value": ".295"
           },
           {
             "rank": 4,
@@ -54,7 +54,7 @@
             "player": "Chandler Simpson",
             "team": "Tampa Bay Rays",
             "position": "LF",
-            "value": "167"
+            "value": "169"
           },
           {
             "rank": 3,
@@ -239,7 +239,7 @@
             "player": "Junior Caminero",
             "team": "Tampa Bay Rays",
             "position": "3B",
-            "value": ".535"
+            "value": ".532"
           },
           {
             "rank": 3,
@@ -283,7 +283,7 @@
             "player": "Junior Caminero",
             "team": "Tampa Bay Rays",
             "position": "3B",
-            "value": ".898"
+            "value": ".895"
           },
           {
             "rank": 4,
@@ -324,17 +324,17 @@
           },
           {
             "rank": 4,
+            "player": "Drew Rasmussen",
+            "team": "Tampa Bay Rays",
+            "position": "P",
+            "value": "23"
+          },
+          {
+            "rank": 5,
             "player": "Spencer Arrighetti",
             "team": "Toronto Blue Jays",
             "position": "P",
             "value": "21"
-          },
-          {
-            "rank": 5,
-            "player": "Drew Rasmussen",
-            "team": "Tampa Bay Rays",
-            "position": "P",
-            "value": "20"
           }
         ],
         "doubles": [
@@ -437,17 +437,17 @@
           },
           {
             "rank": 4,
+            "player": "Drew Rasmussen",
+            "team": "Tampa Bay Rays",
+            "position": "P",
+            "value": "2.72"
+          },
+          {
+            "rank": 5,
             "player": "Sonny Gray",
             "team": "Boston Red Sox",
             "position": "P",
             "value": "2.76"
-          },
-          {
-            "rank": 5,
-            "player": "Drew Rasmussen",
-            "team": "Tampa Bay Rays",
-            "position": "P",
-            "value": "2.81"
           }
         ],
         "wins": [
@@ -470,7 +470,7 @@
             "player": "Drew Rasmussen",
             "team": "Tampa Bay Rays",
             "position": "P",
-            "value": "14"
+            "value": "15"
           },
           {
             "rank": 4,
@@ -537,7 +537,7 @@
             "player": "Drew Rasmussen",
             "team": "Tampa Bay Rays",
             "position": "P",
-            "value": "0.92"
+            "value": "0.93"
           },
           {
             "rank": 3,
@@ -688,7 +688,7 @@
             "player": "Jonathan Aranda",
             "team": "Tampa Bay Rays",
             "position": "1B",
-            "value": "1010"
+            "value": "1023"
           },
           {
             "rank": 3,
@@ -755,7 +755,7 @@
             "player": "Junior Caminero",
             "team": "Tampa Bay Rays",
             "position": "3B",
-            "value": "18"
+            "value": "19"
           },
           {
             "rank": 2,
@@ -845,17 +845,17 @@
           },
           {
             "rank": 3,
-            "player": "Nick Gonzales",
-            "team": "Pittsburgh Pirates",
-            "position": "3B",
-            "value": ".307"
-          },
-          {
-            "rank": 4,
             "player": "Otto Lopez",
             "team": "Miami Marlins",
             "position": "SS",
             "value": ".306"
+          },
+          {
+            "rank": 4,
+            "player": "Nick Gonzales",
+            "team": "Pittsburgh Pirates",
+            "position": "3B",
+            "value": ".304"
           },
           {
             "rank": 5,
@@ -885,7 +885,7 @@
             "player": "Fernando Tatis Jr.",
             "team": "San Diego Padres",
             "position": "RF",
-            "value": "169"
+            "value": "170"
           },
           {
             "rank": 4,
@@ -952,7 +952,7 @@
             "player": "Sal Stewart",
             "team": "Cincinnati Reds",
             "position": "1B",
-            "value": "108"
+            "value": "109"
           },
           {
             "rank": 3,
@@ -1023,16 +1023,16 @@
           },
           {
             "rank": 2,
-            "player": "TJ Rumfield",
-            "team": "Colorado Rockies",
-            "position": "1B",
-            "value": ".392"
-          },
-          {
-            "rank": 3,
             "player": "James Wood",
             "team": "Washington Nationals",
             "position": "RF",
+            "value": ".391"
+          },
+          {
+            "rank": 3,
+            "player": "TJ Rumfield",
+            "team": "Colorado Rockies",
+            "position": "1B",
             "value": ".391"
           },
           {
@@ -1081,10 +1081,10 @@
           },
           {
             "rank": 5,
-            "player": "Elly De La Cruz",
-            "team": "Cincinnati Reds",
-            "position": "SS",
-            "value": ".521"
+            "player": "Kyle Schwarber",
+            "team": "Philadelphia Phillies",
+            "position": "DH",
+            "value": ".518"
           }
         ],
         "ops": [
@@ -1121,7 +1121,7 @@
             "player": "Elly De La Cruz",
             "team": "Cincinnati Reds",
             "position": "SS",
-            "value": ".885"
+            "value": ".879"
           }
         ],
         "stolenBases": [
@@ -1211,7 +1211,7 @@
             "player": "Jake McCarthy",
             "team": "Colorado Rockies",
             "position": "LF",
-            "value": "10"
+            "value": "11"
           },
           {
             "rank": 3,
@@ -1563,7 +1563,7 @@
             "player": "Brice Turang",
             "team": "Milwaukee Brewers",
             "position": "2B",
-            "value": "344"
+            "value": "345"
           },
           {
             "rank": 5,
