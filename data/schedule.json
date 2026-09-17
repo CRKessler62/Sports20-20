@@ -1,7 +1,7 @@
 {
   "league": "MLB",
   "timezone": "America/New_York",
-  "lastUpdated": "2026-09-17T17:59:31.556690+00:00",
+  "lastUpdated": "2026-09-17T21:16:24.266484+00:00",
   "games": [
     {
       "gamePk": 824803,
@@ -9728,9 +9728,9 @@
       "date": "2026-09-17",
       "gameDate": "2026-09-17T16:35:00Z",
       "localGameTime": "2026-09-17T12:35:00-04:00",
-      "status": "In Progress",
-      "abstractGameState": "Live",
-      "codedGameState": "I",
+      "status": "Final",
+      "abstractGameState": "Final",
+      "codedGameState": "F",
       "awayTeam": {
         "id": 158,
         "name": "Milwaukee Brewers",
@@ -9741,8 +9741,8 @@
         "name": "Pittsburgh Pirates",
         "abbreviation": "PIT"
       },
-      "awayScore": 1,
-      "homeScore": 5,
+      "awayScore": 4,
+      "homeScore": 7,
       "venue": "PNC Park",
       "awayPitcher": "Kyle Harrison",
       "homePitcher": "Wilber Dotel"
@@ -9752,9 +9752,9 @@
       "date": "2026-09-17",
       "gameDate": "2026-09-17T16:40:00Z",
       "localGameTime": "2026-09-17T12:40:00-04:00",
-      "status": "In Progress",
-      "abstractGameState": "Live",
-      "codedGameState": "I",
+      "status": "Final",
+      "abstractGameState": "Final",
+      "codedGameState": "F",
       "awayTeam": {
         "id": 119,
         "name": "Los Angeles Dodgers",
@@ -9765,8 +9765,8 @@
         "name": "Cincinnati Reds",
         "abbreviation": "CIN"
       },
-      "awayScore": 7,
-      "homeScore": 0,
+      "awayScore": 8,
+      "homeScore": 2,
       "venue": "Great American Ball Park",
       "awayPitcher": "Justin Wrobleski",
       "homePitcher": "Brady Singer"
@@ -9776,9 +9776,9 @@
       "date": "2026-09-17",
       "gameDate": "2026-09-17T17:10:00Z",
       "localGameTime": "2026-09-17T13:10:00-04:00",
-      "status": "In Progress",
-      "abstractGameState": "Live",
-      "codedGameState": "I",
+      "status": "Final",
+      "abstractGameState": "Final",
+      "codedGameState": "F",
       "awayTeam": {
         "id": 133,
         "name": "Athletics",
@@ -9789,8 +9789,8 @@
         "name": "Tampa Bay Rays",
         "abbreviation": "TB"
       },
-      "awayScore": 0,
-      "homeScore": 0,
+      "awayScore": 1,
+      "homeScore": 10,
       "venue": "Tropicana Field",
       "awayPitcher": "Jeffrey Springs",
       "homePitcher": "Drew Rasmussen"
@@ -9800,9 +9800,9 @@
       "date": "2026-09-17",
       "gameDate": "2026-09-17T19:10:00Z",
       "localGameTime": "2026-09-17T15:10:00-04:00",
-      "status": "Pre-Game",
-      "abstractGameState": "Preview",
-      "codedGameState": "P",
+      "status": "In Progress",
+      "abstractGameState": "Live",
+      "codedGameState": "I",
       "awayTeam": {
         "id": 135,
         "name": "San Diego Padres",
@@ -9813,8 +9813,8 @@
         "name": "Colorado Rockies",
         "abbreviation": "COL"
       },
-      "awayScore": 0,
-      "homeScore": 0,
+      "awayScore": 9,
+      "homeScore": 2,
       "venue": "Coors Field",
       "awayPitcher": "Michael King",
       "homePitcher": "Tanner Gordon"
@@ -9824,9 +9824,9 @@
       "date": "2026-09-17",
       "gameDate": "2026-09-17T23:15:00Z",
       "localGameTime": "2026-09-17T19:15:00-04:00",
-      "status": "Scheduled",
+      "status": "Pre-Game",
       "abstractGameState": "Preview",
-      "codedGameState": "S",
+      "codedGameState": "P",
       "awayTeam": {
         "id": 118,
         "name": "Kansas City Royals",
@@ -9837,20 +9837,20 @@
         "name": "Houston Astros",
         "abbreviation": "HOU"
       },
-      "awayScore": null,
-      "homeScore": null,
+      "awayScore": 0,
+      "homeScore": 0,
       "venue": "Daikin Park",
       "awayPitcher": "Seth Lugo",
-      "homePitcher": null
+      "homePitcher": "Miguel Ullola"
     },
     {
       "gamePk": 823573,
       "date": "2026-09-17",
       "gameDate": "2026-09-17T23:15:00Z",
       "localGameTime": "2026-09-17T19:15:00-04:00",
-      "status": "Scheduled",
+      "status": "Pre-Game",
       "abstractGameState": "Preview",
-      "codedGameState": "S",
+      "codedGameState": "P",
       "awayTeam": {
         "id": 143,
         "name": "Philadelphia Phillies",
@@ -9861,8 +9861,8 @@
         "name": "New York Mets",
         "abbreviation": "NYM"
       },
-      "awayScore": null,
-      "homeScore": null,
+      "awayScore": 0,
+      "homeScore": 0,
       "venue": "Citi Field",
       "awayPitcher": "Aaron Nola",
       "homePitcher": "Nolan McLean"
@@ -9872,9 +9872,9 @@
       "date": "2026-09-17",
       "gameDate": "2026-09-17T23:40:00Z",
       "localGameTime": "2026-09-17T19:40:00-04:00",
-      "status": "Scheduled",
+      "status": "Pre-Game",
       "abstractGameState": "Preview",
-      "codedGameState": "S",
+      "codedGameState": "P",
       "awayTeam": {
         "id": 116,
         "name": "Detroit Tigers",
@@ -9885,8 +9885,8 @@
         "name": "Chicago White Sox",
         "abbreviation": "CWS"
       },
-      "awayScore": null,
-      "homeScore": null,
+      "awayScore": 0,
+      "homeScore": 0,
       "venue": "Rate Field",
       "awayPitcher": "Framber Valdez",
       "homePitcher": "Erick Fedde"
@@ -9896,9 +9896,9 @@
       "date": "2026-09-17",
       "gameDate": "2026-09-18T00:05:00Z",
       "localGameTime": "2026-09-17T20:05:00-04:00",
-      "status": "Scheduled",
+      "status": "Pre-Game",
       "abstractGameState": "Preview",
-      "codedGameState": "S",
+      "codedGameState": "P",
       "awayTeam": {
         "id": 111,
         "name": "Boston Red Sox",
@@ -9909,8 +9909,8 @@
         "name": "Texas Rangers",
         "abbreviation": "TEX"
       },
-      "awayScore": null,
-      "homeScore": null,
+      "awayScore": 0,
+      "homeScore": 0,
       "venue": "Globe Life Field",
       "awayPitcher": "Sonny Gray",
       "homePitcher": "Tyler Alexander"
@@ -10032,7 +10032,7 @@
       "awayScore": null,
       "homeScore": null,
       "venue": "Progressive Field",
-      "awayPitcher": null,
+      "awayPitcher": "Mason Barnett",
       "homePitcher": "Daniel Espino"
     },
     {
@@ -10056,7 +10056,7 @@
       "awayScore": null,
       "homeScore": null,
       "venue": "Tropicana Field",
-      "awayPitcher": null,
+      "awayPitcher": "Ranger Suarez",
       "homePitcher": "Ian Seymour"
     },
     {
@@ -10105,7 +10105,7 @@
       "homeScore": null,
       "venue": "Rate Field",
       "awayPitcher": "Andrew Sears",
-      "homePitcher": null
+      "homePitcher": "David Sandlin"
     },
     {
       "gamePk": 822847,
@@ -10177,7 +10177,7 @@
       "homeScore": null,
       "venue": "Daikin Park",
       "awayPitcher": "Tyler Mahle",
-      "homePitcher": null
+      "homePitcher": "Peter Lambert"
     },
     {
       "gamePk": 823005,
@@ -10489,7 +10489,7 @@
       "homeScore": null,
       "venue": "Daikin Park",
       "awayPitcher": "Grant Holmes",
-      "homePitcher": null
+      "homePitcher": "Hayden Wesneski"
     },
     {
       "gamePk": 824545,
@@ -10513,7 +10513,7 @@
       "homeScore": null,
       "venue": "Rate Field",
       "awayPitcher": "Jackson Jobe",
-      "homePitcher": null
+      "homePitcher": "Sean Burke"
     },
     {
       "gamePk": 823003,
@@ -10561,7 +10561,7 @@
       "homeScore": null,
       "venue": "Coors Field",
       "awayPitcher": "Bryce Miller",
-      "homePitcher": null
+      "homePitcher": "Gabriel Hughes"
     },
     {
       "gamePk": 825029,
@@ -10801,7 +10801,7 @@
       "homeScore": null,
       "venue": "Daikin Park",
       "awayPitcher": "Mart\u00edn P\u00e9rez",
-      "homePitcher": null
+      "homePitcher": "Hunter Brown"
     },
     {
       "gamePk": 824546,
@@ -10825,7 +10825,7 @@
       "homeScore": null,
       "venue": "Rate Field",
       "awayPitcher": "Troy Melton",
-      "homePitcher": null
+      "homePitcher": "Davis Martin"
     },
     {
       "gamePk": 823001,
@@ -10897,7 +10897,7 @@
       "homeScore": null,
       "venue": "Coors Field",
       "awayPitcher": "Kade Anderson",
-      "homePitcher": null
+      "homePitcher": "Tomoyuki Sugano"
     },
     {
       "gamePk": 823975,
