@@ -1,7 +1,7 @@
 {
   "league": "MLB",
   "timezone": "America/New_York",
-  "lastUpdated": "2026-09-17T13:09:34.896424+00:00",
+  "lastUpdated": "2026-09-17T17:59:31.556690+00:00",
   "games": [
     {
       "gamePk": 824803,
@@ -9728,9 +9728,9 @@
       "date": "2026-09-17",
       "gameDate": "2026-09-17T16:35:00Z",
       "localGameTime": "2026-09-17T12:35:00-04:00",
-      "status": "Scheduled",
-      "abstractGameState": "Preview",
-      "codedGameState": "S",
+      "status": "In Progress",
+      "abstractGameState": "Live",
+      "codedGameState": "I",
       "awayTeam": {
         "id": 158,
         "name": "Milwaukee Brewers",
@@ -9741,8 +9741,8 @@
         "name": "Pittsburgh Pirates",
         "abbreviation": "PIT"
       },
-      "awayScore": null,
-      "homeScore": null,
+      "awayScore": 1,
+      "homeScore": 5,
       "venue": "PNC Park",
       "awayPitcher": "Kyle Harrison",
       "homePitcher": "Wilber Dotel"
@@ -9752,9 +9752,9 @@
       "date": "2026-09-17",
       "gameDate": "2026-09-17T16:40:00Z",
       "localGameTime": "2026-09-17T12:40:00-04:00",
-      "status": "Scheduled",
-      "abstractGameState": "Preview",
-      "codedGameState": "S",
+      "status": "In Progress",
+      "abstractGameState": "Live",
+      "codedGameState": "I",
       "awayTeam": {
         "id": 119,
         "name": "Los Angeles Dodgers",
@@ -9765,8 +9765,8 @@
         "name": "Cincinnati Reds",
         "abbreviation": "CIN"
       },
-      "awayScore": null,
-      "homeScore": null,
+      "awayScore": 7,
+      "homeScore": 0,
       "venue": "Great American Ball Park",
       "awayPitcher": "Justin Wrobleski",
       "homePitcher": "Brady Singer"
@@ -9776,9 +9776,9 @@
       "date": "2026-09-17",
       "gameDate": "2026-09-17T17:10:00Z",
       "localGameTime": "2026-09-17T13:10:00-04:00",
-      "status": "Scheduled",
-      "abstractGameState": "Preview",
-      "codedGameState": "S",
+      "status": "In Progress",
+      "abstractGameState": "Live",
+      "codedGameState": "I",
       "awayTeam": {
         "id": 133,
         "name": "Athletics",
@@ -9789,8 +9789,8 @@
         "name": "Tampa Bay Rays",
         "abbreviation": "TB"
       },
-      "awayScore": null,
-      "homeScore": null,
+      "awayScore": 0,
+      "homeScore": 0,
       "venue": "Tropicana Field",
       "awayPitcher": "Jeffrey Springs",
       "homePitcher": "Drew Rasmussen"
@@ -9800,9 +9800,9 @@
       "date": "2026-09-17",
       "gameDate": "2026-09-17T19:10:00Z",
       "localGameTime": "2026-09-17T15:10:00-04:00",
-      "status": "Scheduled",
+      "status": "Pre-Game",
       "abstractGameState": "Preview",
-      "codedGameState": "S",
+      "codedGameState": "P",
       "awayTeam": {
         "id": 135,
         "name": "San Diego Padres",
@@ -9813,8 +9813,8 @@
         "name": "Colorado Rockies",
         "abbreviation": "COL"
       },
-      "awayScore": null,
-      "homeScore": null,
+      "awayScore": 0,
+      "homeScore": 0,
       "venue": "Coors Field",
       "awayPitcher": "Michael King",
       "homePitcher": "Tanner Gordon"
@@ -9984,8 +9984,8 @@
       "awayScore": null,
       "homeScore": null,
       "venue": "PNC Park",
-      "awayPitcher": null,
-      "homePitcher": null
+      "awayPitcher": "Randy Dobnak",
+      "homePitcher": "Paul Skenes"
     },
     {
       "gamePk": 824790,
@@ -10057,7 +10057,7 @@
       "homeScore": null,
       "venue": "Tropicana Field",
       "awayPitcher": null,
-      "homePitcher": null
+      "homePitcher": "Ian Seymour"
     },
     {
       "gamePk": 823572,
@@ -10249,7 +10249,7 @@
       "homeScore": null,
       "venue": "Petco Park",
       "awayPitcher": "Tyler Phillips",
-      "homePitcher": null
+      "homePitcher": "Nick Pivetta"
     },
     {
       "gamePk": 825032,
@@ -10297,7 +10297,7 @@
       "homeScore": null,
       "venue": "UNIQLO Field at Dodger Stadium",
       "awayPitcher": "Cesar Perdomo",
-      "homePitcher": null
+      "homePitcher": "Tyler Glasnow"
     },
     {
       "gamePk": 824788,
@@ -10345,7 +10345,7 @@
       "homeScore": null,
       "venue": "Tropicana Field",
       "awayPitcher": null,
-      "homePitcher": null
+      "homePitcher": "Freddy Peralta"
     },
     {
       "gamePk": 823571,
@@ -10440,8 +10440,8 @@
       "awayScore": null,
       "homeScore": null,
       "venue": "PNC Park",
-      "awayPitcher": null,
-      "homePitcher": null
+      "awayPitcher": "Noah Cameron",
+      "homePitcher": "Bubba Chandler"
     },
     {
       "gamePk": 822843,
@@ -10609,7 +10609,7 @@
       "homeScore": null,
       "venue": "Petco Park",
       "awayPitcher": "Eury P\u00e9rez",
-      "homePitcher": null
+      "homePitcher": "Casey Mize"
     },
     {
       "gamePk": 823899,
@@ -10633,7 +10633,7 @@
       "homeScore": null,
       "venue": "UNIQLO Field at Dodger Stadium",
       "awayPitcher": null,
-      "homePitcher": null
+      "homePitcher": "Tarik Skubal"
     },
     {
       "gamePk": 823976,
@@ -10704,7 +10704,7 @@
       "awayScore": null,
       "homeScore": null,
       "venue": "PNC Park",
-      "awayPitcher": null,
+      "awayPitcher": "Michael Wacha",
       "homePitcher": null
     },
     {
@@ -10777,7 +10777,7 @@
       "homeScore": null,
       "venue": "Tropicana Field",
       "awayPitcher": null,
-      "homePitcher": null
+      "homePitcher": "Griffin Jax"
     },
     {
       "gamePk": 824139,
@@ -10969,7 +10969,7 @@
       "homeScore": null,
       "venue": "Petco Park",
       "awayPitcher": null,
-      "homePitcher": null
+      "homePitcher": "Walker Buehler"
     },
     {
       "gamePk": 825028,
