@@ -1,6 +1,6 @@
 {
   "season": 2026,
-  "lastUpdated": "2026-09-17T11:36:27.307452+00:00",
+  "lastUpdated": "2026-09-17T16:56:54.563066+00:00",
   "leagues": {
     "AL": {
       "offense": {
@@ -1171,16 +1171,16 @@
           },
           {
             "rank": 2,
-            "player": "Rafael Devers",
-            "team": "San Francisco Giants",
-            "position": "1B",
-            "value": "36"
-          },
-          {
-            "rank": 3,
             "player": "Bryan Reynolds",
             "team": "Pittsburgh Pirates",
             "position": "LF",
+            "value": "37"
+          },
+          {
+            "rank": 3,
+            "player": "Rafael Devers",
+            "team": "San Francisco Giants",
+            "position": "1B",
             "value": "36"
           },
           {
