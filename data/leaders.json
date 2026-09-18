@@ -1,6 +1,6 @@
 {
   "season": 2026,
-  "lastUpdated": "2026-09-18T04:38:24.939461+00:00",
+  "lastUpdated": "2026-09-18T09:42:54.995757+00:00",
   "leagues": {
     "AL": {
       "offense": {
@@ -186,7 +186,7 @@
             "player": "Zach Neto",
             "team": "Los Angeles Angels",
             "position": "SS",
-            "value": "96"
+            "value": "97"
           }
         ],
         "obp": [
