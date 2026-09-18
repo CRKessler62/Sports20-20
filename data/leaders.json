@@ -1,23 +1,23 @@
 {
   "season": 2026,
-  "lastUpdated": "2026-09-17T23:32:41.160167+00:00",
+  "lastUpdated": "2026-09-18T04:38:24.939461+00:00",
   "leagues": {
     "AL": {
       "offense": {
         "battingAverage": [
           {
             "rank": 1,
-            "player": "Chandler Simpson",
-            "team": "Tampa Bay Rays",
-            "position": "LF",
+            "player": "Yordan Alvarez",
+            "team": "Houston Astros",
+            "position": "DH",
             "value": ".311"
           },
           {
             "rank": 2,
-            "player": "Yordan Alvarez",
-            "team": "Houston Astros",
-            "position": "DH",
-            "value": ".309"
+            "player": "Chandler Simpson",
+            "team": "Tampa Bay Rays",
+            "position": "LF",
+            "value": ".311"
           },
           {
             "rank": 3,
@@ -61,7 +61,7 @@
             "player": "Yordan Alvarez",
             "team": "Houston Astros",
             "position": "DH",
-            "value": "164"
+            "value": "166"
           },
           {
             "rank": 4,
@@ -75,7 +75,7 @@
             "player": "Kevin McGonigle",
             "team": "Detroit Tigers",
             "position": "SS",
-            "value": "155"
+            "value": "157"
           }
         ],
         "homeRuns": [
@@ -91,7 +91,7 @@
             "player": "Yordan Alvarez",
             "team": "Houston Astros",
             "position": "DH",
-            "value": "39"
+            "value": "40"
           },
           {
             "rank": 3,
@@ -128,7 +128,7 @@
             "player": "Yordan Alvarez",
             "team": "Houston Astros",
             "position": "DH",
-            "value": "98"
+            "value": "99"
           },
           {
             "rank": 3,
@@ -179,7 +179,7 @@
             "player": "Yordan Alvarez",
             "team": "Houston Astros",
             "position": "DH",
-            "value": "96"
+            "value": "97"
           },
           {
             "rank": 5,
@@ -195,14 +195,14 @@
             "player": "Yordan Alvarez",
             "team": "Houston Astros",
             "position": "DH",
-            "value": ".427"
+            "value": ".429"
           },
           {
             "rank": 2,
             "player": "Willson Contreras",
             "team": "Boston Red Sox",
             "position": "1B",
-            "value": ".386"
+            "value": ".387"
           },
           {
             "rank": 3,
@@ -216,7 +216,7 @@
             "player": "Kevin McGonigle",
             "team": "Detroit Tigers",
             "position": "SS",
-            "value": ".376"
+            "value": ".377"
           },
           {
             "rank": 5,
@@ -232,7 +232,7 @@
             "player": "Yordan Alvarez",
             "team": "Houston Astros",
             "position": "DH",
-            "value": ".592"
+            "value": ".598"
           },
           {
             "rank": 2,
@@ -253,7 +253,7 @@
             "player": "Willson Contreras",
             "team": "Boston Red Sox",
             "position": "1B",
-            "value": ".519"
+            "value": ".518"
           },
           {
             "rank": 5,
@@ -269,7 +269,7 @@
             "player": "Yordan Alvarez",
             "team": "Houston Astros",
             "position": "DH",
-            "value": "1.019"
+            "value": "1.027"
           },
           {
             "rank": 2,
@@ -447,7 +447,7 @@
             "player": "Sonny Gray",
             "team": "Boston Red Sox",
             "position": "P",
-            "value": "2.76"
+            "value": "2.82"
           }
         ],
         "wins": [
@@ -511,17 +511,17 @@
           },
           {
             "rank": 4,
-            "player": "Reid Detmers",
-            "team": "Los Angeles Angels",
+            "player": "Taj Bradley",
+            "team": "Minnesota Twins",
             "position": "P",
             "value": "199"
           },
           {
             "rank": 5,
-            "player": "Logan Gilbert",
-            "team": "Seattle Mariners",
+            "player": "Reid Detmers",
+            "team": "Los Angeles Angels",
             "position": "P",
-            "value": "194"
+            "value": "199"
           }
         ],
         "whip": [
@@ -669,10 +669,10 @@
           },
           {
             "rank": 5,
-            "player": "Randy Arozarena",
-            "team": "Seattle Mariners",
-            "position": "LF",
-            "value": ".996"
+            "player": "Munetaka Murakami",
+            "team": "Chicago White Sox",
+            "position": "1B",
+            "value": ".997"
           }
         ],
         "putouts": [
@@ -681,7 +681,7 @@
             "player": "Spencer Torkelson",
             "team": "Detroit Tigers",
             "position": "1B",
-            "value": "1117"
+            "value": "1123"
           },
           {
             "rank": 2,
@@ -709,7 +709,7 @@
             "player": "Jake Burger",
             "team": "Texas Rangers",
             "position": "1B",
-            "value": "936"
+            "value": "946"
           }
         ],
         "assists": [
@@ -729,17 +729,17 @@
           },
           {
             "rank": 3,
-            "player": "Chase Meidroth",
-            "team": "Chicago White Sox",
-            "position": "2B",
-            "value": "313"
-          },
-          {
-            "rank": 4,
             "player": "Zach Neto",
             "team": "Los Angeles Angels",
             "position": "SS",
-            "value": "313"
+            "value": "316"
+          },
+          {
+            "rank": 4,
+            "player": "Chase Meidroth",
+            "team": "Chicago White Sox",
+            "position": "2B",
+            "value": "315"
           },
           {
             "rank": 5,
@@ -834,7 +834,7 @@
             "player": "Luis Arraez",
             "team": "Philadelphia Phillies",
             "position": "2B",
-            "value": ".316"
+            "value": ".315"
           },
           {
             "rank": 2,
@@ -1000,16 +1000,16 @@
           },
           {
             "rank": 4,
-            "player": "Matt Olson",
-            "team": "Atlanta Braves",
-            "position": "1B",
-            "value": "96"
+            "player": "Trea Turner",
+            "team": "Philadelphia Phillies",
+            "position": "SS",
+            "value": "97"
           },
           {
             "rank": 5,
-            "player": "Brice Turang",
-            "team": "Milwaukee Brewers",
-            "position": "2B",
+            "player": "Matt Olson",
+            "team": "Atlanta Braves",
+            "position": "1B",
             "value": "96"
           }
         ],
@@ -1037,16 +1037,16 @@
           },
           {
             "rank": 4,
-            "player": "Gabriel Moreno",
-            "team": "Arizona Diamondbacks",
-            "position": "C",
-            "value": ".385"
-          },
-          {
-            "rank": 5,
             "player": "Bryce Harper",
             "team": "Philadelphia Phillies",
             "position": "1B",
+            "value": ".387"
+          },
+          {
+            "rank": 5,
+            "player": "Gabriel Moreno",
+            "team": "Arizona Diamondbacks",
+            "position": "C",
             "value": ".385"
           }
         ],
@@ -1121,7 +1121,7 @@
             "player": "Bryce Harper",
             "team": "Philadelphia Phillies",
             "position": "1B",
-            "value": ".881"
+            "value": ".884"
           }
         ],
         "stolenBases": [
@@ -1412,7 +1412,7 @@
             "player": "Jhoan Duran",
             "team": "Philadelphia Phillies",
             "position": "P",
-            "value": "31"
+            "value": "32"
           },
           {
             "rank": 5,
@@ -1542,7 +1542,7 @@
             "player": "Luis Arraez",
             "team": "Philadelphia Phillies",
             "position": "2B",
-            "value": "380"
+            "value": "384"
           },
           {
             "rank": 2,
