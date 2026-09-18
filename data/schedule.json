@@ -1,7 +1,7 @@
 {
   "league": "MLB",
   "timezone": "America/New_York",
-  "lastUpdated": "2026-09-18T14:12:09.927463+00:00",
+  "lastUpdated": "2026-09-18T18:08:01.382601+00:00",
   "games": [
     {
       "gamePk": 823342,
@@ -9649,7 +9649,7 @@
       "homeScore": null,
       "venue": "Oriole Park at Camden Yards",
       "awayPitcher": "Dustin May",
-      "homePitcher": null
+      "homePitcher": "Cade Povich"
     },
     {
       "gamePk": 824383,
@@ -9720,7 +9720,7 @@
       "awayScore": null,
       "homeScore": null,
       "venue": "Citi Field",
-      "awayPitcher": "Andrew Painter",
+      "awayPitcher": null,
       "homePitcher": "Zac Thornton"
     },
     {
