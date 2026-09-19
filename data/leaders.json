@@ -1,6 +1,6 @@
 {
   "season": 2026,
-  "lastUpdated": "2026-09-19T17:59:37.127342+00:00",
+  "lastUpdated": "2026-09-19T20:35:47.543545+00:00",
   "leagues": {
     "AL": {
       "offense": {
@@ -38,7 +38,7 @@
             "player": "Riley Greene",
             "team": "Detroit Tigers",
             "position": "LF",
-            "value": ".283"
+            "value": ".286"
           }
         ],
         "hits": [
@@ -75,7 +75,7 @@
             "player": "Kevin McGonigle",
             "team": "Detroit Tigers",
             "position": "SS",
-            "value": "159"
+            "value": "160"
           }
         ],
         "homeRuns": [
@@ -162,17 +162,17 @@
           },
           {
             "rank": 2,
+            "player": "Miguel Vargas",
+            "team": "Chicago White Sox",
+            "position": "3B",
+            "value": "101"
+          },
+          {
+            "rank": 3,
             "player": "Ben Rice",
             "team": "New York Yankees",
             "position": "DH",
             "value": "100"
-          },
-          {
-            "rank": 3,
-            "player": "Miguel Vargas",
-            "team": "Chicago White Sox",
-            "position": "3B",
-            "value": "99"
           },
           {
             "rank": 4,
@@ -206,16 +206,16 @@
           },
           {
             "rank": 3,
-            "player": "Kevin McGonigle",
-            "team": "Detroit Tigers",
-            "position": "SS",
+            "player": "Randy Arozarena",
+            "team": "Seattle Mariners",
+            "position": "LF",
             "value": ".378"
           },
           {
             "rank": 4,
-            "player": "Randy Arozarena",
-            "team": "Seattle Mariners",
-            "position": "LF",
+            "player": "Kevin McGonigle",
+            "team": "Detroit Tigers",
+            "position": "SS",
             "value": ".378"
           },
           {
@@ -246,7 +246,7 @@
             "player": "Junior Caminero",
             "team": "Tampa Bay Rays",
             "position": "3B",
-            "value": ".533"
+            "value": ".532"
           },
           {
             "rank": 4,
@@ -260,7 +260,7 @@
             "player": "Pete Alonso",
             "team": "Baltimore Orioles",
             "position": "1B",
-            "value": ".506"
+            "value": ".505"
           }
         ],
         "ops": [
@@ -280,24 +280,24 @@
           },
           {
             "rank": 3,
-            "player": "Junior Caminero",
-            "team": "Tampa Bay Rays",
-            "position": "3B",
-            "value": ".898"
-          },
-          {
-            "rank": 4,
             "player": "Ben Rice",
             "team": "New York Yankees",
             "position": "DH",
             "value": ".897"
           },
           {
+            "rank": 4,
+            "player": "Junior Caminero",
+            "team": "Tampa Bay Rays",
+            "position": "3B",
+            "value": ".896"
+          },
+          {
             "rank": 5,
             "player": "Pete Alonso",
             "team": "Baltimore Orioles",
             "position": "1B",
-            "value": ".867"
+            "value": ".866"
           }
         ],
         "stolenBases": [
@@ -681,7 +681,7 @@
             "player": "Spencer Torkelson",
             "team": "Detroit Tigers",
             "position": "1B",
-            "value": "1131"
+            "value": "1133"
           },
           {
             "rank": 2,
@@ -702,7 +702,7 @@
             "player": "Pete Alonso",
             "team": "Baltimore Orioles",
             "position": "1B",
-            "value": "1002"
+            "value": "1006"
           },
           {
             "rank": 5,
@@ -725,14 +725,14 @@
             "player": "Gunnar Henderson",
             "team": "Baltimore Orioles",
             "position": "SS",
-            "value": "351"
+            "value": "352"
           },
           {
             "rank": 3,
             "player": "Chase Meidroth",
             "team": "Chicago White Sox",
             "position": "2B",
-            "value": "318"
+            "value": "320"
           },
           {
             "rank": 4,
@@ -792,7 +792,7 @@
             "player": "Spencer Torkelson",
             "team": "Detroit Tigers",
             "position": "1B",
-            "value": "110"
+            "value": "111"
           },
           {
             "rank": 2,
@@ -1040,7 +1040,7 @@
             "player": "Bryce Harper",
             "team": "Philadelphia Phillies",
             "position": "1B",
-            "value": ".385"
+            "value": ".384"
           },
           {
             "rank": 5,
