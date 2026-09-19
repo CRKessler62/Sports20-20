@@ -1,7 +1,27 @@
 {
   "league": "MLB",
-  "lastUpdated": "2026-09-19T00:34:08.200029+00:00",
+  "lastUpdated": "2026-09-19T05:01:41.080490+00:00",
   "games": [
+    {
+      "gamePk": 824545,
+      "awayTeam": "Detroit Tigers",
+      "homeTeam": "Chicago White Sox",
+      "awayScore": 0,
+      "homeScore": 0,
+      "status": "Scheduled",
+      "gameDate": "2026-09-19T18:10:00Z",
+      "inning": null,
+      "inningOrdinal": null,
+      "inningState": null,
+      "outs": null,
+      "battingTeam": null,
+      "runners": {
+        "first": false,
+        "second": false,
+        "third": false
+      },
+      "inningScores": []
+    },
     {
       "gamePk": 824788,
       "awayTeam": "Milwaukee Brewers",
@@ -146,26 +166,6 @@
       "gamePk": 824137,
       "awayTeam": "Atlanta Braves",
       "homeTeam": "Houston Astros",
-      "awayScore": 0,
-      "homeScore": 0,
-      "status": "Scheduled",
-      "gameDate": "2026-09-19T23:10:00Z",
-      "inning": null,
-      "inningOrdinal": null,
-      "inningState": null,
-      "outs": null,
-      "battingTeam": null,
-      "runners": {
-        "first": false,
-        "second": false,
-        "third": false
-      },
-      "inningScores": []
-    },
-    {
-      "gamePk": 824545,
-      "awayTeam": "Detroit Tigers",
-      "homeTeam": "Chicago White Sox",
       "awayScore": 0,
       "homeScore": 0,
       "status": "Scheduled",
