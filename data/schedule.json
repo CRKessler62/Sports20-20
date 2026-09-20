@@ -1,7 +1,7 @@
 {
   "league": "MLB",
   "timezone": "America/New_York",
-  "lastUpdated": "2026-09-20T10:53:05.412609+00:00",
+  "lastUpdated": "2026-09-20T14:35:41.215719+00:00",
   "games": [
     {
       "gamePk": 823746,
@@ -9728,9 +9728,9 @@
       "date": "2026-09-20",
       "gameDate": "2026-09-20T17:10:00Z",
       "localGameTime": "2026-09-20T13:10:00-04:00",
-      "status": "Scheduled",
+      "status": "Pre-Game",
       "abstractGameState": "Preview",
-      "codedGameState": "S",
+      "codedGameState": "P",
       "awayTeam": {
         "id": 143,
         "name": "Philadelphia Phillies",
@@ -9752,9 +9752,9 @@
       "date": "2026-09-20",
       "gameDate": "2026-09-20T17:35:00Z",
       "localGameTime": "2026-09-20T13:35:00-04:00",
-      "status": "Scheduled",
+      "status": "Pre-Game",
       "abstractGameState": "Preview",
-      "codedGameState": "S",
+      "codedGameState": "P",
       "awayTeam": {
         "id": 118,
         "name": "Kansas City Royals",
@@ -9792,7 +9792,7 @@
       "awayScore": null,
       "homeScore": null,
       "venue": "Great American Ball Park",
-      "awayPitcher": null,
+      "awayPitcher": "David Peterson",
       "homePitcher": "Rhett Lowder"
     },
     {
@@ -9800,9 +9800,9 @@
       "date": "2026-09-20",
       "gameDate": "2026-09-20T17:40:00Z",
       "localGameTime": "2026-09-20T13:40:00-04:00",
-      "status": "Scheduled",
+      "status": "Pre-Game",
       "abstractGameState": "Preview",
-      "codedGameState": "S",
+      "codedGameState": "P",
       "awayTeam": {
         "id": 133,
         "name": "Athletics",
@@ -9813,8 +9813,8 @@
         "name": "Cleveland Guardians",
         "abbreviation": "CLE"
       },
-      "awayScore": null,
-      "homeScore": null,
+      "awayScore": 0,
+      "homeScore": 0,
       "venue": "Progressive Field",
       "awayPitcher": "Jack Perkins",
       "homePitcher": "Gavin Williams"
@@ -9824,9 +9824,9 @@
       "date": "2026-09-20",
       "gameDate": "2026-09-20T17:40:00Z",
       "localGameTime": "2026-09-20T13:40:00-04:00",
-      "status": "Scheduled",
+      "status": "Pre-Game",
       "abstractGameState": "Preview",
-      "codedGameState": "S",
+      "codedGameState": "P",
       "awayTeam": {
         "id": 111,
         "name": "Boston Red Sox",
@@ -9837,8 +9837,8 @@
         "name": "Tampa Bay Rays",
         "abbreviation": "TB"
       },
-      "awayScore": null,
-      "homeScore": null,
+      "awayScore": 0,
+      "homeScore": 0,
       "venue": "Tropicana Field",
       "awayPitcher": "Patrick Sandoval",
       "homePitcher": "Griffin Jax"
