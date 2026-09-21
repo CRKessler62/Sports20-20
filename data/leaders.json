@@ -1,6 +1,6 @@
 {
   "season": 2026,
-  "lastUpdated": "2026-09-21T00:13:40.716108+00:00",
+  "lastUpdated": "2026-09-21T04:57:21.413562+00:00",
   "leagues": {
     "AL": {
       "offense": {
@@ -38,7 +38,7 @@
             "player": "Riley Greene",
             "team": "Detroit Tigers",
             "position": "LF",
-            "value": ".284"
+            "value": ".285"
           }
         ],
         "hits": [
@@ -260,7 +260,7 @@
             "player": "Pete Alonso",
             "team": "Baltimore Orioles",
             "position": "1B",
-            "value": ".503"
+            "value": ".500"
           }
         ],
         "ops": [
@@ -297,7 +297,7 @@
             "player": "Pete Alonso",
             "team": "Baltimore Orioles",
             "position": "1B",
-            "value": ".863"
+            "value": ".858"
           }
         ],
         "stolenBases": [
@@ -692,17 +692,17 @@
           },
           {
             "rank": 3,
+            "player": "Pete Alonso",
+            "team": "Baltimore Orioles",
+            "position": "1B",
+            "value": "1016"
+          },
+          {
+            "rank": 4,
             "player": "Josh Naylor",
             "team": "Seattle Mariners",
             "position": "1B",
             "value": "1015"
-          },
-          {
-            "rank": 4,
-            "player": "Pete Alonso",
-            "team": "Baltimore Orioles",
-            "position": "1B",
-            "value": "1012"
           },
           {
             "rank": 5,
@@ -725,7 +725,7 @@
             "player": "Gunnar Henderson",
             "team": "Baltimore Orioles",
             "position": "SS",
-            "value": "354"
+            "value": "357"
           },
           {
             "rank": 3,
@@ -813,7 +813,7 @@
             "player": "Pete Alonso",
             "team": "Baltimore Orioles",
             "position": "1B",
-            "value": "88"
+            "value": "90"
           },
           {
             "rank": 5,
@@ -1019,7 +1019,7 @@
             "player": "Jake Bauers",
             "team": "Milwaukee Brewers",
             "position": "1B",
-            "value": ".396"
+            "value": ".397"
           },
           {
             "rank": 2,
@@ -1114,7 +1114,7 @@
             "player": "Jake Bauers",
             "team": "Milwaukee Brewers",
             "position": "1B",
-            "value": ".889"
+            "value": ".894"
           },
           {
             "rank": 5,
@@ -1419,7 +1419,7 @@
             "player": "Trevor Megill",
             "team": "Milwaukee Brewers",
             "position": "P",
-            "value": "28"
+            "value": "29"
           }
         ],
         "innings": [
@@ -1516,17 +1516,17 @@
           },
           {
             "rank": 3,
+            "player": "William Contreras",
+            "team": "Milwaukee Brewers",
+            "position": "C",
+            "value": "1155"
+          },
+          {
+            "rank": 4,
             "player": "J.T. Realmuto",
             "team": "Philadelphia Phillies",
             "position": "C",
             "value": "1152"
-          },
-          {
-            "rank": 4,
-            "player": "William Contreras",
-            "team": "Milwaukee Brewers",
-            "position": "C",
-            "value": "1151"
           },
           {
             "rank": 5,
@@ -1560,17 +1560,17 @@
           },
           {
             "rank": 4,
-            "player": "JJ Wetherholt",
-            "team": "St. Louis Cardinals",
+            "player": "Brice Turang",
+            "team": "Milwaukee Brewers",
             "position": "2B",
             "value": "351"
           },
           {
             "rank": 5,
-            "player": "Brandon Lowe",
-            "team": "Pittsburgh Pirates",
+            "player": "JJ Wetherholt",
+            "team": "St. Louis Cardinals",
             "position": "2B",
-            "value": "350"
+            "value": "351"
           }
         ],
         "errors": [
