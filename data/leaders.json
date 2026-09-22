@@ -1,6 +1,6 @@
 {
   "season": 2026,
-  "lastUpdated": "2026-09-21T21:02:17.319936+00:00",
+  "lastUpdated": "2026-09-22T00:04:13.837202+00:00",
   "leagues": {
     "AL": {
       "offense": {
@@ -38,7 +38,7 @@
             "player": "Riley Greene",
             "team": "Detroit Tigers",
             "position": "LF",
-            "value": ".285"
+            "value": ".284"
           }
         ],
         "hits": [
@@ -95,17 +95,17 @@
           },
           {
             "rank": 3,
-            "player": "Ben Rice",
-            "team": "New York Yankees",
-            "position": "DH",
+            "player": "Pete Alonso",
+            "team": "Baltimore Orioles",
+            "position": "1B",
             "value": "39"
           },
           {
             "rank": 4,
-            "player": "Pete Alonso",
-            "team": "Baltimore Orioles",
-            "position": "1B",
-            "value": "38"
+            "player": "Ben Rice",
+            "team": "New York Yankees",
+            "position": "DH",
+            "value": "39"
           },
           {
             "rank": 5,
@@ -121,7 +121,7 @@
             "player": "Pete Alonso",
             "team": "Baltimore Orioles",
             "position": "1B",
-            "value": "105"
+            "value": "106"
           },
           {
             "rank": 2,
@@ -260,7 +260,7 @@
             "player": "Pete Alonso",
             "team": "Baltimore Orioles",
             "position": "1B",
-            "value": ".500"
+            "value": ".506"
           }
         ],
         "ops": [
@@ -297,7 +297,7 @@
             "player": "Pete Alonso",
             "team": "Baltimore Orioles",
             "position": "1B",
-            "value": ".858"
+            "value": ".865"
           }
         ],
         "stolenBases": [
@@ -681,7 +681,7 @@
             "player": "Spencer Torkelson",
             "team": "Detroit Tigers",
             "position": "1B",
-            "value": "1137"
+            "value": "1138"
           },
           {
             "rank": 2,
@@ -695,7 +695,7 @@
             "player": "Pete Alonso",
             "team": "Baltimore Orioles",
             "position": "1B",
-            "value": "1016"
+            "value": "1019"
           },
           {
             "rank": 4,
@@ -725,7 +725,7 @@
             "player": "Gunnar Henderson",
             "team": "Baltimore Orioles",
             "position": "SS",
-            "value": "357"
+            "value": "358"
           },
           {
             "rank": 3,
@@ -1033,7 +1033,7 @@
             "player": "James Wood",
             "team": "Washington Nationals",
             "position": "RF",
-            "value": ".390"
+            "value": ".388"
           },
           {
             "rank": 4,
@@ -1097,17 +1097,17 @@
           },
           {
             "rank": 2,
-            "player": "James Wood",
-            "team": "Washington Nationals",
-            "position": "RF",
-            "value": ".903"
-          },
-          {
-            "rank": 3,
             "player": "Shohei Ohtani",
             "team": "Los Angeles Dodgers",
             "position": "TWP",
             "value": ".902"
+          },
+          {
+            "rank": 3,
+            "player": "James Wood",
+            "team": "Washington Nationals",
+            "position": "RF",
+            "value": ".898"
           },
           {
             "rank": 4,
