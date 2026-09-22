@@ -1,7 +1,7 @@
 {
   "league": "MLB",
   "timezone": "America/New_York",
-  "lastUpdated": "2026-09-22T14:27:14.379214+00:00",
+  "lastUpdated": "2026-09-22T18:35:38.227400+00:00",
   "games": [
     {
       "gamePk": 824799,
@@ -9440,9 +9440,9 @@
       "date": "2026-09-22",
       "gameDate": "2026-09-22T17:05:00Z",
       "localGameTime": "2026-09-22T13:05:00-04:00",
-      "status": "Scheduled",
-      "abstractGameState": "Preview",
-      "codedGameState": "S",
+      "status": "In Progress",
+      "abstractGameState": "Live",
+      "codedGameState": "I",
       "awayTeam": {
         "id": 139,
         "name": "Tampa Bay Rays",
@@ -9453,8 +9453,8 @@
         "name": "New York Yankees",
         "abbreviation": "NYY"
       },
-      "awayScore": null,
-      "homeScore": null,
+      "awayScore": 0,
+      "homeScore": 2,
       "venue": "Yankee Stadium",
       "awayPitcher": "Nick Martinez",
       "homePitcher": "Carlos Rod\u00f3n"
@@ -9484,30 +9484,6 @@
       "homePitcher": "Max Fried"
     },
     {
-      "gamePk": 824785,
-      "date": "2026-09-22",
-      "gameDate": "2026-09-22T22:35:00Z",
-      "localGameTime": "2026-09-22T18:35:00-04:00",
-      "status": "Scheduled",
-      "abstractGameState": "Preview",
-      "codedGameState": "S",
-      "awayTeam": {
-        "id": 141,
-        "name": "Toronto Blue Jays",
-        "abbreviation": "TOR"
-      },
-      "homeTeam": {
-        "id": 110,
-        "name": "Baltimore Orioles",
-        "abbreviation": "BAL"
-      },
-      "awayScore": null,
-      "homeScore": null,
-      "venue": "Oriole Park at Camden Yards",
-      "awayPitcher": "Max Scherzer",
-      "homePitcher": "Chris Bassitt"
-    },
-    {
       "gamePk": 824222,
       "date": "2026-09-22",
       "gameDate": "2026-09-22T22:40:00Z",
@@ -9528,7 +9504,7 @@
       "awayScore": null,
       "homeScore": null,
       "venue": "Comerica Park",
-      "awayPitcher": "Jackson Kent",
+      "awayPitcher": "Riley Cornelio",
       "homePitcher": "Drew Anderson"
     },
     {
@@ -9536,9 +9512,9 @@
       "date": "2026-09-22",
       "gameDate": "2026-09-22T22:40:00Z",
       "localGameTime": "2026-09-22T18:40:00-04:00",
-      "status": "Scheduled",
+      "status": "Pre-Game",
       "abstractGameState": "Preview",
-      "codedGameState": "S",
+      "codedGameState": "P",
       "awayTeam": {
         "id": 138,
         "name": "St. Louis Cardinals",
@@ -9673,7 +9649,7 @@
       "homeScore": null,
       "venue": "Wrigley Field",
       "awayPitcher": "Janson Junk",
-      "homePitcher": null
+      "homePitcher": "Shota Imanaga"
     },
     {
       "gamePk": 822840,
@@ -9704,9 +9680,9 @@
       "date": "2026-09-22",
       "gameDate": "2026-09-23T00:40:00Z",
       "localGameTime": "2026-09-22T20:40:00-04:00",
-      "status": "Scheduled",
+      "status": "Pre-Game",
       "abstractGameState": "Preview",
-      "codedGameState": "S",
+      "codedGameState": "P",
       "awayTeam": {
         "id": 109,
         "name": "Arizona Diamondbacks",
@@ -9820,6 +9796,30 @@
       "homePitcher": null
     },
     {
+      "gamePk": 824785,
+      "date": "2026-09-22",
+      "gameDate": "2026-09-22T22:35:00Z",
+      "localGameTime": "2026-09-22T18:35:00-04:00",
+      "status": "Postponed",
+      "abstractGameState": "Final",
+      "codedGameState": "D",
+      "awayTeam": {
+        "id": 141,
+        "name": "Toronto Blue Jays",
+        "abbreviation": "TOR"
+      },
+      "homeTeam": {
+        "id": 110,
+        "name": "Baltimore Orioles",
+        "abbreviation": "BAL"
+      },
+      "awayScore": null,
+      "homeScore": null,
+      "venue": "Oriole Park at Camden Yards",
+      "awayPitcher": "Max Scherzer",
+      "homePitcher": "Chris Bassitt"
+    },
+    {
       "gamePk": 824223,
       "date": "2026-09-23",
       "gameDate": "2026-09-23T17:10:00Z",
@@ -9844,28 +9844,28 @@
       "homePitcher": "Framber Valdez"
     },
     {
-      "gamePk": 823168,
+      "gamePk": 824785,
       "date": "2026-09-23",
-      "gameDate": "2026-09-23T19:45:00Z",
-      "localGameTime": "2026-09-23T15:45:00-04:00",
+      "gameDate": "2026-09-23T17:35:00Z",
+      "localGameTime": "2026-09-23T13:35:00-04:00",
       "status": "Scheduled",
       "abstractGameState": "Preview",
       "codedGameState": "S",
       "awayTeam": {
-        "id": 142,
-        "name": "Minnesota Twins",
-        "abbreviation": "MIN"
+        "id": 141,
+        "name": "Toronto Blue Jays",
+        "abbreviation": "TOR"
       },
       "homeTeam": {
-        "id": 137,
-        "name": "San Francisco Giants",
-        "abbreviation": "SF"
+        "id": 110,
+        "name": "Baltimore Orioles",
+        "abbreviation": "BAL"
       },
       "awayScore": null,
       "homeScore": null,
-      "venue": "Oracle Park",
+      "venue": "Oriole Park at Camden Yards",
       "awayPitcher": null,
-      "homePitcher": "Cesar Perdomo"
+      "homePitcher": null
     },
     {
       "gamePk": 824784,
@@ -9890,6 +9890,30 @@
       "venue": "Oriole Park at Camden Yards",
       "awayPitcher": null,
       "homePitcher": null
+    },
+    {
+      "gamePk": 823168,
+      "date": "2026-09-23",
+      "gameDate": "2026-09-23T19:45:00Z",
+      "localGameTime": "2026-09-23T15:45:00-04:00",
+      "status": "Scheduled",
+      "abstractGameState": "Preview",
+      "codedGameState": "S",
+      "awayTeam": {
+        "id": 142,
+        "name": "Minnesota Twins",
+        "abbreviation": "MIN"
+      },
+      "homeTeam": {
+        "id": 137,
+        "name": "San Francisco Giants",
+        "abbreviation": "SF"
+      },
+      "awayScore": null,
+      "homeScore": null,
+      "venue": "Oracle Park",
+      "awayPitcher": null,
+      "homePitcher": "Cesar Perdomo"
     },
     {
       "gamePk": 823327,
@@ -9960,7 +9984,7 @@
       "awayScore": null,
       "homeScore": null,
       "venue": "Yankee Stadium",
-      "awayPitcher": null,
+      "awayPitcher": "Ian Seymour",
       "homePitcher": "Gerrit Cole"
     },
     {
@@ -10057,7 +10081,7 @@
       "homeScore": null,
       "venue": "Wrigley Field",
       "awayPitcher": "Ryan Gusto",
-      "homePitcher": null
+      "homePitcher": "Kevin Gausman"
     },
     {
       "gamePk": 822841,
@@ -10368,7 +10392,7 @@
       "awayScore": null,
       "homeScore": null,
       "venue": "Yankee Stadium",
-      "awayPitcher": null,
+      "awayPitcher": "Freddy Peralta",
       "homePitcher": "Cam Schlittler"
     },
     {
@@ -10704,7 +10728,7 @@
       "awayScore": null,
       "homeScore": null,
       "venue": "American Family Field",
-      "awayPitcher": null,
+      "awayPitcher": "Michael McGreevy",
       "homePitcher": null
     },
     {
@@ -11040,7 +11064,7 @@
       "awayScore": null,
       "homeScore": null,
       "venue": "American Family Field",
-      "awayPitcher": null,
+      "awayPitcher": "Quinn Mathews",
       "homePitcher": null
     },
     {
