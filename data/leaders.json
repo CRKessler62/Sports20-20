@@ -1,6 +1,6 @@
 {
   "season": 2026,
-  "lastUpdated": "2026-09-22T18:51:36.957563+00:00",
+  "lastUpdated": "2026-09-22T22:05:56.667780+00:00",
   "leagues": {
     "AL": {
       "offense": {
@@ -17,7 +17,7 @@
             "player": "Chandler Simpson",
             "team": "Tampa Bay Rays",
             "position": "LF",
-            "value": ".310"
+            "value": ".309"
           },
           {
             "rank": 3,
@@ -239,7 +239,7 @@
             "player": "Ben Rice",
             "team": "New York Yankees",
             "position": "DH",
-            "value": ".530"
+            "value": ".529"
           },
           {
             "rank": 3,
@@ -283,7 +283,7 @@
             "player": "Ben Rice",
             "team": "New York Yankees",
             "position": "DH",
-            "value": ".892"
+            "value": ".890"
           },
           {
             "rank": 4,
@@ -581,7 +581,7 @@
             "player": "David Bednar",
             "team": "New York Yankees",
             "position": "P",
-            "value": "34"
+            "value": "35"
           },
           {
             "rank": 4,
@@ -688,7 +688,7 @@
             "player": "Jonathan Aranda",
             "team": "Tampa Bay Rays",
             "position": "1B",
-            "value": "1035"
+            "value": "1036"
           },
           {
             "rank": 3,
