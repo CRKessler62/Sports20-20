@@ -1,20 +1,20 @@
 {
   "league": "MLB",
-  "lastUpdated": "2026-09-22T15:02:15.413400+00:00",
+  "lastUpdated": "2026-09-22T18:49:09.422597+00:00",
   "games": [
     {
       "gamePk": 823543,
       "awayTeam": "Tampa Bay Rays",
       "homeTeam": "New York Yankees",
       "awayScore": 0,
-      "homeScore": 0,
-      "status": "Pre-Game",
+      "homeScore": 2,
+      "status": "In Progress",
       "gameDate": "2026-09-22T17:05:00Z",
-      "inning": 1,
-      "inningOrdinal": "1st",
-      "inningState": "Top",
+      "inning": 7,
+      "inningOrdinal": "7th",
+      "inningState": "Bottom",
       "outs": 0,
-      "battingTeam": "Tampa Bay Rays",
+      "battingTeam": "New York Yankees",
       "runners": {
         "first": false,
         "second": false,
@@ -23,6 +23,36 @@
       "inningScores": [
         {
           "inning": 1,
+          "awayRuns": 0,
+          "homeRuns": 0
+        },
+        {
+          "inning": 2,
+          "awayRuns": 0,
+          "homeRuns": 0
+        },
+        {
+          "inning": 3,
+          "awayRuns": 0,
+          "homeRuns": 0
+        },
+        {
+          "inning": 4,
+          "awayRuns": 0,
+          "homeRuns": 2
+        },
+        {
+          "inning": 5,
+          "awayRuns": 0,
+          "homeRuns": 0
+        },
+        {
+          "inning": 6,
+          "awayRuns": 0,
+          "homeRuns": 0
+        },
+        {
+          "inning": 7,
           "awayRuns": 0,
           "homeRuns": 0
         }
@@ -36,26 +66,6 @@
       "homeScore": 0,
       "status": "Scheduled",
       "gameDate": "2026-09-22T23:05:00Z",
-      "inning": null,
-      "inningOrdinal": null,
-      "inningState": null,
-      "outs": null,
-      "battingTeam": null,
-      "runners": {
-        "first": false,
-        "second": false,
-        "third": false
-      },
-      "inningScores": []
-    },
-    {
-      "gamePk": 824785,
-      "awayTeam": "Toronto Blue Jays",
-      "homeTeam": "Baltimore Orioles",
-      "awayScore": 0,
-      "homeScore": 0,
-      "status": "Scheduled",
-      "gameDate": "2026-09-22T22:35:00Z",
       "inning": null,
       "inningOrdinal": null,
       "inningState": null,
@@ -94,19 +104,25 @@
       "homeTeam": "Pittsburgh Pirates",
       "awayScore": 0,
       "homeScore": 0,
-      "status": "Scheduled",
+      "status": "Pre-Game",
       "gameDate": "2026-09-22T22:40:00Z",
-      "inning": null,
-      "inningOrdinal": null,
-      "inningState": null,
-      "outs": null,
-      "battingTeam": null,
+      "inning": 1,
+      "inningOrdinal": "1st",
+      "inningState": "Top",
+      "outs": 0,
+      "battingTeam": "St. Louis Cardinals",
       "runners": {
         "first": false,
         "second": false,
         "third": false
       },
-      "inningScores": []
+      "inningScores": [
+        {
+          "inning": 1,
+          "awayRuns": 0,
+          "homeRuns": 0
+        }
+      ]
     },
     {
       "gamePk": 823412,
@@ -234,7 +250,7 @@
       "homeTeam": "Colorado Rockies",
       "awayScore": 0,
       "homeScore": 0,
-      "status": "Scheduled",
+      "status": "Pre-Game",
       "gameDate": "2026-09-23T00:40:00Z",
       "inning": null,
       "inningOrdinal": null,
@@ -316,6 +332,26 @@
       "homeScore": 0,
       "status": "Scheduled",
       "gameDate": "2026-09-23T02:10:00Z",
+      "inning": null,
+      "inningOrdinal": null,
+      "inningState": null,
+      "outs": null,
+      "battingTeam": null,
+      "runners": {
+        "first": false,
+        "second": false,
+        "third": false
+      },
+      "inningScores": []
+    },
+    {
+      "gamePk": 824785,
+      "awayTeam": "Toronto Blue Jays",
+      "homeTeam": "Baltimore Orioles",
+      "awayScore": 0,
+      "homeScore": 0,
+      "status": "Postponed",
+      "gameDate": "2026-09-22T22:35:00Z",
       "inning": null,
       "inningOrdinal": null,
       "inningState": null,
