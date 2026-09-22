@@ -1,6 +1,6 @@
 {
   "season": 2026,
-  "lastUpdated": "2026-09-22T00:04:13.837202+00:00",
+  "lastUpdated": "2026-09-22T04:49:40.237801+00:00",
   "leagues": {
     "AL": {
       "offense": {
@@ -88,17 +88,17 @@
           },
           {
             "rank": 2,
-            "player": "Yordan Alvarez",
-            "team": "Houston Astros",
-            "position": "DH",
+            "player": "Pete Alonso",
+            "team": "Baltimore Orioles",
+            "position": "1B",
             "value": "40"
           },
           {
             "rank": 3,
-            "player": "Pete Alonso",
-            "team": "Baltimore Orioles",
-            "position": "1B",
-            "value": "39"
+            "player": "Yordan Alvarez",
+            "team": "Houston Astros",
+            "position": "DH",
+            "value": "40"
           },
           {
             "rank": 4,
@@ -121,7 +121,7 @@
             "player": "Pete Alonso",
             "team": "Baltimore Orioles",
             "position": "1B",
-            "value": "106"
+            "value": "108"
           },
           {
             "rank": 2,
@@ -260,7 +260,7 @@
             "player": "Pete Alonso",
             "team": "Baltimore Orioles",
             "position": "1B",
-            "value": ".506"
+            "value": ".510"
           }
         ],
         "ops": [
@@ -297,7 +297,7 @@
             "player": "Pete Alonso",
             "team": "Baltimore Orioles",
             "position": "1B",
-            "value": ".865"
+            "value": ".869"
           }
         ],
         "stolenBases": [
@@ -384,31 +384,31 @@
           },
           {
             "rank": 2,
+            "player": "Gunnar Henderson",
+            "team": "Baltimore Orioles",
+            "position": "SS",
+            "value": "6"
+          },
+          {
+            "rank": 3,
             "player": "Chandler Simpson",
             "team": "Tampa Bay Rays",
             "position": "LF",
             "value": "6"
           },
           {
-            "rank": 3,
+            "rank": 4,
             "player": "Cam Smith",
             "team": "Houston Astros",
             "position": "RF",
             "value": "6"
           },
           {
-            "rank": 4,
+            "rank": 5,
             "player": "Leody Taveras",
             "team": "Baltimore Orioles",
             "position": "CF",
             "value": "6"
-          },
-          {
-            "rank": 5,
-            "player": "Jarren Duran",
-            "team": "Boston Red Sox",
-            "position": "LF",
-            "value": "5"
           }
         ]
       },
@@ -629,10 +629,10 @@
           },
           {
             "rank": 5,
-            "player": "Reid Detmers",
-            "team": "Los Angeles Angels",
+            "player": "Shane Baz",
+            "team": "Baltimore Orioles",
             "position": "P",
-            "value": "179.0"
+            "value": "179.2"
           }
         ],
         "qualityStarts": []
@@ -681,7 +681,7 @@
             "player": "Spencer Torkelson",
             "team": "Detroit Tigers",
             "position": "1B",
-            "value": "1138"
+            "value": "1142"
           },
           {
             "rank": 2,
@@ -695,7 +695,7 @@
             "player": "Pete Alonso",
             "team": "Baltimore Orioles",
             "position": "1B",
-            "value": "1019"
+            "value": "1025"
           },
           {
             "rank": 4,
@@ -725,7 +725,7 @@
             "player": "Gunnar Henderson",
             "team": "Baltimore Orioles",
             "position": "SS",
-            "value": "358"
+            "value": "361"
           },
           {
             "rank": 3,
@@ -813,7 +813,7 @@
             "player": "Pete Alonso",
             "team": "Baltimore Orioles",
             "position": "1B",
-            "value": "90"
+            "value": "92"
           },
           {
             "rank": 5,
@@ -989,7 +989,7 @@
             "player": "James Wood",
             "team": "Washington Nationals",
             "position": "RF",
-            "value": "103"
+            "value": "104"
           },
           {
             "rank": 3,
@@ -1033,7 +1033,7 @@
             "player": "James Wood",
             "team": "Washington Nationals",
             "position": "RF",
-            "value": ".388"
+            "value": ".389"
           },
           {
             "rank": 4,
@@ -1107,7 +1107,7 @@
             "player": "James Wood",
             "team": "Washington Nationals",
             "position": "RF",
-            "value": ".898"
+            "value": ".900"
           },
           {
             "rank": 4,
