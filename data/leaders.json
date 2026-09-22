@@ -1,6 +1,6 @@
 {
   "season": 2026,
-  "lastUpdated": "2026-09-22T14:49:40.013913+00:00",
+  "lastUpdated": "2026-09-22T18:51:36.957563+00:00",
   "leagues": {
     "AL": {
       "offense": {
@@ -17,21 +17,21 @@
             "player": "Chandler Simpson",
             "team": "Tampa Bay Rays",
             "position": "LF",
-            "value": ".309"
+            "value": ".310"
           },
           {
             "rank": 3,
-            "player": "Yandy D\u00edaz",
-            "team": "Tampa Bay Rays",
-            "position": "DH",
-            "value": ".292"
-          },
-          {
-            "rank": 4,
             "player": "Chase DeLauter",
             "team": "Cleveland Guardians",
             "position": "RF",
             "value": ".291"
+          },
+          {
+            "rank": 4,
+            "player": "Yandy D\u00edaz",
+            "team": "Tampa Bay Rays",
+            "position": "DH",
+            "value": ".290"
           },
           {
             "rank": 5,
@@ -54,7 +54,7 @@
             "player": "Chandler Simpson",
             "team": "Tampa Bay Rays",
             "position": "LF",
-            "value": "172"
+            "value": "173"
           },
           {
             "rank": 3,
@@ -162,17 +162,17 @@
           },
           {
             "rank": 2,
-            "player": "Miguel Vargas",
-            "team": "Chicago White Sox",
-            "position": "3B",
+            "player": "Ben Rice",
+            "team": "New York Yankees",
+            "position": "DH",
             "value": "101"
           },
           {
             "rank": 3,
-            "player": "Ben Rice",
-            "team": "New York Yankees",
-            "position": "DH",
-            "value": "100"
+            "player": "Miguel Vargas",
+            "team": "Chicago White Sox",
+            "position": "3B",
+            "value": "101"
           },
           {
             "rank": 4,
@@ -236,17 +236,17 @@
           },
           {
             "rank": 2,
-            "player": "Junior Caminero",
-            "team": "Tampa Bay Rays",
-            "position": "3B",
-            "value": ".529"
-          },
-          {
-            "rank": 3,
             "player": "Ben Rice",
             "team": "New York Yankees",
             "position": "DH",
-            "value": ".528"
+            "value": ".530"
+          },
+          {
+            "rank": 3,
+            "player": "Junior Caminero",
+            "team": "Tampa Bay Rays",
+            "position": "3B",
+            "value": ".526"
           },
           {
             "rank": 4,
@@ -280,16 +280,16 @@
           },
           {
             "rank": 3,
-            "player": "Junior Caminero",
-            "team": "Tampa Bay Rays",
-            "position": "3B",
+            "player": "Ben Rice",
+            "team": "New York Yankees",
+            "position": "DH",
             "value": ".892"
           },
           {
             "rank": 4,
-            "player": "Ben Rice",
-            "team": "New York Yankees",
-            "position": "DH",
+            "player": "Junior Caminero",
+            "team": "Tampa Bay Rays",
+            "position": "3B",
             "value": ".888"
           },
           {
@@ -688,7 +688,7 @@
             "player": "Jonathan Aranda",
             "team": "Tampa Bay Rays",
             "position": "1B",
-            "value": "1033"
+            "value": "1035"
           },
           {
             "rank": 3,
