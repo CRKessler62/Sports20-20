@@ -1,7 +1,7 @@
 {
   "league": "MLB",
   "timezone": "America/New_York",
-  "lastUpdated": "2026-09-22T18:35:38.227400+00:00",
+  "lastUpdated": "2026-09-22T21:51:27.113104+00:00",
   "games": [
     {
       "gamePk": 824799,
@@ -9440,9 +9440,9 @@
       "date": "2026-09-22",
       "gameDate": "2026-09-22T17:05:00Z",
       "localGameTime": "2026-09-22T13:05:00-04:00",
-      "status": "In Progress",
-      "abstractGameState": "Live",
-      "codedGameState": "I",
+      "status": "Final",
+      "abstractGameState": "Final",
+      "codedGameState": "F",
       "awayTeam": {
         "id": 139,
         "name": "Tampa Bay Rays",
@@ -9464,9 +9464,9 @@
       "date": "2026-09-22",
       "gameDate": "2026-09-22T23:05:00Z",
       "localGameTime": "2026-09-22T19:05:00-04:00",
-      "status": "Scheduled",
+      "status": "Pre-Game",
       "abstractGameState": "Preview",
-      "codedGameState": "S",
+      "codedGameState": "P",
       "awayTeam": {
         "id": 139,
         "name": "Tampa Bay Rays",
@@ -9477,8 +9477,8 @@
         "name": "New York Yankees",
         "abbreviation": "NYY"
       },
-      "awayScore": null,
-      "homeScore": null,
+      "awayScore": 0,
+      "homeScore": 0,
       "venue": "Yankee Stadium",
       "awayPitcher": "Drew Rasmussen",
       "homePitcher": "Max Fried"
@@ -9488,9 +9488,9 @@
       "date": "2026-09-22",
       "gameDate": "2026-09-22T22:40:00Z",
       "localGameTime": "2026-09-22T18:40:00-04:00",
-      "status": "Scheduled",
+      "status": "Pre-Game",
       "abstractGameState": "Preview",
-      "codedGameState": "S",
+      "codedGameState": "P",
       "awayTeam": {
         "id": 120,
         "name": "Washington Nationals",
@@ -9501,8 +9501,8 @@
         "name": "Detroit Tigers",
         "abbreviation": "DET"
       },
-      "awayScore": null,
-      "homeScore": null,
+      "awayScore": 0,
+      "homeScore": 0,
       "venue": "Comerica Park",
       "awayPitcher": "Riley Cornelio",
       "homePitcher": "Drew Anderson"
@@ -9525,8 +9525,8 @@
         "name": "Pittsburgh Pirates",
         "abbreviation": "PIT"
       },
-      "awayScore": null,
-      "homeScore": null,
+      "awayScore": 0,
+      "homeScore": 0,
       "venue": "PNC Park",
       "awayPitcher": "Andre Pallante",
       "homePitcher": "Jared Jones"
@@ -9536,9 +9536,9 @@
       "date": "2026-09-22",
       "gameDate": "2026-09-22T22:40:00Z",
       "localGameTime": "2026-09-22T18:40:00-04:00",
-      "status": "Scheduled",
+      "status": "Pre-Game",
       "abstractGameState": "Preview",
-      "codedGameState": "S",
+      "codedGameState": "P",
       "awayTeam": {
         "id": 158,
         "name": "Milwaukee Brewers",
@@ -9549,8 +9549,8 @@
         "name": "Philadelphia Phillies",
         "abbreviation": "PHI"
       },
-      "awayScore": null,
-      "homeScore": null,
+      "awayScore": 0,
+      "homeScore": 0,
       "venue": "Citizens Bank Park",
       "awayPitcher": "Dustin May",
       "homePitcher": "Zack Wheeler"
@@ -9560,9 +9560,9 @@
       "date": "2026-09-22",
       "gameDate": "2026-09-22T22:45:00Z",
       "localGameTime": "2026-09-22T18:45:00-04:00",
-      "status": "Scheduled",
+      "status": "Pre-Game",
       "abstractGameState": "Preview",
-      "codedGameState": "S",
+      "codedGameState": "P",
       "awayTeam": {
         "id": 114,
         "name": "Cleveland Guardians",
@@ -9573,8 +9573,8 @@
         "name": "Boston Red Sox",
         "abbreviation": "BOS"
       },
-      "awayScore": null,
-      "homeScore": null,
+      "awayScore": 0,
+      "homeScore": 0,
       "venue": "Fenway Park",
       "awayPitcher": "Parker Messick",
       "homePitcher": "Payton Tolle"
@@ -9584,9 +9584,9 @@
       "date": "2026-09-22",
       "gameDate": "2026-09-22T23:15:00Z",
       "localGameTime": "2026-09-22T19:15:00-04:00",
-      "status": "Scheduled",
+      "status": "Pre-Game",
       "abstractGameState": "Preview",
-      "codedGameState": "S",
+      "codedGameState": "P",
       "awayTeam": {
         "id": 113,
         "name": "Cincinnati Reds",
@@ -9597,8 +9597,8 @@
         "name": "Atlanta Braves",
         "abbreviation": "ATL"
       },
-      "awayScore": null,
-      "homeScore": null,
+      "awayScore": 0,
+      "homeScore": 0,
       "venue": "Truist Park",
       "awayPitcher": "Brandon Williamson",
       "homePitcher": "JR Ritchie"
@@ -9608,9 +9608,9 @@
       "date": "2026-09-22",
       "gameDate": "2026-09-22T23:40:00Z",
       "localGameTime": "2026-09-22T19:40:00-04:00",
-      "status": "Scheduled",
+      "status": "Pre-Game",
       "abstractGameState": "Preview",
-      "codedGameState": "S",
+      "codedGameState": "P",
       "awayTeam": {
         "id": 145,
         "name": "Chicago White Sox",
@@ -9621,8 +9621,8 @@
         "name": "Kansas City Royals",
         "abbreviation": "KC"
       },
-      "awayScore": null,
-      "homeScore": null,
+      "awayScore": 0,
+      "homeScore": 0,
       "venue": "Kauffman Stadium",
       "awayPitcher": "Anthony Kay",
       "homePitcher": "Daniel Lynch IV"
@@ -9632,9 +9632,9 @@
       "date": "2026-09-22",
       "gameDate": "2026-09-22T23:40:00Z",
       "localGameTime": "2026-09-22T19:40:00-04:00",
-      "status": "Scheduled",
+      "status": "Pre-Game",
       "abstractGameState": "Preview",
-      "codedGameState": "S",
+      "codedGameState": "P",
       "awayTeam": {
         "id": 146,
         "name": "Miami Marlins",
@@ -9645,8 +9645,8 @@
         "name": "Chicago Cubs",
         "abbreviation": "CHC"
       },
-      "awayScore": null,
-      "homeScore": null,
+      "awayScore": 0,
+      "homeScore": 0,
       "venue": "Wrigley Field",
       "awayPitcher": "Janson Junk",
       "homePitcher": "Shota Imanaga"
@@ -9656,9 +9656,9 @@
       "date": "2026-09-22",
       "gameDate": "2026-09-23T00:05:00Z",
       "localGameTime": "2026-09-22T20:05:00-04:00",
-      "status": "Scheduled",
+      "status": "Pre-Game",
       "abstractGameState": "Preview",
-      "codedGameState": "S",
+      "codedGameState": "P",
       "awayTeam": {
         "id": 121,
         "name": "New York Mets",
@@ -9693,8 +9693,8 @@
         "name": "Colorado Rockies",
         "abbreviation": "COL"
       },
-      "awayScore": null,
-      "homeScore": null,
+      "awayScore": 0,
+      "homeScore": 0,
       "venue": "Coors Field",
       "awayPitcher": "Michael Soroka",
       "homePitcher": "Kyle Freeland"
@@ -9704,9 +9704,9 @@
       "date": "2026-09-22",
       "gameDate": "2026-09-23T01:40:00Z",
       "localGameTime": "2026-09-22T21:40:00-04:00",
-      "status": "Scheduled",
+      "status": "Pre-Game",
       "abstractGameState": "Preview",
-      "codedGameState": "S",
+      "codedGameState": "P",
       "awayTeam": {
         "id": 108,
         "name": "Los Angeles Angels",
@@ -9728,9 +9728,9 @@
       "date": "2026-09-22",
       "gameDate": "2026-09-23T01:40:00Z",
       "localGameTime": "2026-09-22T21:40:00-04:00",
-      "status": "Scheduled",
+      "status": "Pre-Game",
       "abstractGameState": "Preview",
-      "codedGameState": "S",
+      "codedGameState": "P",
       "awayTeam": {
         "id": 117,
         "name": "Houston Astros",
@@ -9864,7 +9864,7 @@
       "awayScore": null,
       "homeScore": null,
       "venue": "Oriole Park at Camden Yards",
-      "awayPitcher": null,
+      "awayPitcher": "Max Scherzer",
       "homePitcher": null
     },
     {
@@ -10873,7 +10873,7 @@
       "homeScore": null,
       "venue": "Comerica Park",
       "awayPitcher": null,
-      "homePitcher": null
+      "homePitcher": "Justin Verlander"
     },
     {
       "gamePk": 822759,
@@ -11586,8 +11586,8 @@
       },
       "homeTeam": {
         "id": 4618,
-        "name": "AL Wild Card #1",
-        "abbreviation": "ALWC1"
+        "name": "AL East Runner-Up",
+        "abbreviation": "ALE2"
       },
       "awayScore": null,
       "homeScore": null,
@@ -11682,8 +11682,8 @@
       },
       "homeTeam": {
         "id": 4618,
-        "name": "AL Wild Card #1",
-        "abbreviation": "ALWC1"
+        "name": "AL East Runner-Up",
+        "abbreviation": "ALE2"
       },
       "awayScore": null,
       "homeScore": null,
@@ -11778,8 +11778,8 @@
       },
       "homeTeam": {
         "id": 4618,
-        "name": "AL Wild Card #1",
-        "abbreviation": "ALWC1"
+        "name": "AL East Runner-Up",
+        "abbreviation": "ALE2"
       },
       "awayScore": null,
       "homeScore": null,
