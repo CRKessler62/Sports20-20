@@ -1,6 +1,6 @@
 {
   "season": 2026,
-  "lastUpdated": "2026-09-23T20:19:17.896536+00:00",
+  "lastUpdated": "2026-09-23T23:39:19.633501+00:00",
   "leagues": {
     "AL": {
       "offense": {
@@ -105,7 +105,7 @@
             "player": "Ben Rice",
             "team": "New York Yankees",
             "position": "DH",
-            "value": "39"
+            "value": "40"
           },
           {
             "rank": 5,
@@ -142,7 +142,7 @@
             "player": "Ben Rice",
             "team": "New York Yankees",
             "position": "DH",
-            "value": "95"
+            "value": "96"
           },
           {
             "rank": 5,
@@ -162,17 +162,17 @@
           },
           {
             "rank": 2,
-            "player": "Miguel Vargas",
-            "team": "Chicago White Sox",
-            "position": "3B",
+            "player": "Ben Rice",
+            "team": "New York Yankees",
+            "position": "DH",
             "value": "102"
           },
           {
             "rank": 3,
-            "player": "Ben Rice",
-            "team": "New York Yankees",
-            "position": "DH",
-            "value": "101"
+            "player": "Miguel Vargas",
+            "team": "Chicago White Sox",
+            "position": "3B",
+            "value": "102"
           },
           {
             "rank": 4,
@@ -239,14 +239,14 @@
             "player": "Ben Rice",
             "team": "New York Yankees",
             "position": "DH",
-            "value": ".525"
+            "value": ".531"
           },
           {
             "rank": 3,
             "player": "Junior Caminero",
             "team": "Tampa Bay Rays",
             "position": "3B",
-            "value": ".525"
+            "value": ".524"
           },
           {
             "rank": 4,
@@ -280,16 +280,16 @@
           },
           {
             "rank": 3,
-            "player": "Junior Caminero",
-            "team": "Tampa Bay Rays",
-            "position": "3B",
-            "value": ".886"
-          },
-          {
-            "rank": 4,
             "player": "Ben Rice",
             "team": "New York Yankees",
             "position": "DH",
+            "value": ".891"
+          },
+          {
+            "rank": 4,
+            "player": "Junior Caminero",
+            "team": "Tampa Bay Rays",
+            "position": "3B",
             "value": ".884"
           },
           {
@@ -447,7 +447,7 @@
             "player": "Sonny Gray",
             "team": "Boston Red Sox",
             "position": "P",
-            "value": "2.82"
+            "value": "2.78"
           }
         ],
         "wins": [
@@ -695,7 +695,7 @@
             "player": "Pete Alonso",
             "team": "Baltimore Orioles",
             "position": "1B",
-            "value": "1031"
+            "value": "1035"
           },
           {
             "rank": 4,
@@ -746,7 +746,7 @@
             "player": "Jazz Chisholm Jr.",
             "team": "New York Yankees",
             "position": "2B",
-            "value": "312"
+            "value": "313"
           }
         ],
         "errors": [
@@ -813,7 +813,7 @@
             "player": "Pete Alonso",
             "team": "Baltimore Orioles",
             "position": "1B",
-            "value": "93"
+            "value": "94"
           },
           {
             "rank": 5,
@@ -855,7 +855,7 @@
             "player": "Nick Gonzales",
             "team": "Pittsburgh Pirates",
             "position": "3B",
-            "value": ".302"
+            "value": ".301"
           },
           {
             "rank": 5,
@@ -945,7 +945,7 @@
             "player": "Alec Burleson",
             "team": "St. Louis Cardinals",
             "position": "1B",
-            "value": "111"
+            "value": "112"
           },
           {
             "rank": 2,
@@ -1007,10 +1007,10 @@
           },
           {
             "rank": 5,
-            "player": "Matt Olson",
-            "team": "Atlanta Braves",
-            "position": "1B",
-            "value": "98"
+            "player": "Brice Turang",
+            "team": "Milwaukee Brewers",
+            "position": "2B",
+            "value": "99"
           }
         ],
         "obp": [
@@ -1019,7 +1019,7 @@
             "player": "Jake Bauers",
             "team": "Milwaukee Brewers",
             "position": "1B",
-            "value": ".396"
+            "value": ".394"
           },
           {
             "rank": 2,
@@ -1084,7 +1084,7 @@
             "player": "Elly De La Cruz",
             "team": "Cincinnati Reds",
             "position": "SS",
-            "value": ".521"
+            "value": ".520"
           }
         ],
         "ops": [
@@ -1104,24 +1104,24 @@
           },
           {
             "rank": 3,
-            "player": "Jake Bauers",
-            "team": "Milwaukee Brewers",
-            "position": "1B",
-            "value": ".891"
+            "player": "James Wood",
+            "team": "Washington Nationals",
+            "position": "RF",
+            "value": ".890"
           },
           {
             "rank": 4,
             "player": "Elly De La Cruz",
             "team": "Cincinnati Reds",
             "position": "SS",
-            "value": ".891"
+            "value": ".889"
           },
           {
             "rank": 5,
-            "player": "James Wood",
-            "team": "Washington Nationals",
-            "position": "RF",
-            "value": ".890"
+            "player": "Jake Bauers",
+            "team": "Milwaukee Brewers",
+            "position": "1B",
+            "value": ".886"
           }
         ],
         "stolenBases": [
@@ -1188,14 +1188,14 @@
             "player": "Brice Turang",
             "team": "Milwaukee Brewers",
             "position": "2B",
-            "value": "34"
+            "value": "35"
           },
           {
             "rank": 5,
-            "player": "Luis Arraez",
-            "team": "Philadelphia Phillies",
-            "position": "2B",
-            "value": "33"
+            "player": "Matt Olson",
+            "team": "Atlanta Braves",
+            "position": "1B",
+            "value": "34"
           }
         ],
         "triples": [
@@ -1250,7 +1250,7 @@
             "player": "Chris Sale",
             "team": "Atlanta Braves",
             "position": "P",
-            "value": "2.18"
+            "value": "2.21"
           },
           {
             "rank": 3,
@@ -1342,10 +1342,10 @@
           },
           {
             "rank": 5,
-            "player": "Paul Skenes",
-            "team": "Pittsburgh Pirates",
+            "player": "Chris Sale",
+            "team": "Atlanta Braves",
             "position": "P",
-            "value": "192"
+            "value": "194"
           }
         ],
         "whip": [
@@ -1505,7 +1505,7 @@
             "player": "Alec Burleson",
             "team": "St. Louis Cardinals",
             "position": "1B",
-            "value": "1179"
+            "value": "1181"
           },
           {
             "rank": 2,
@@ -1519,14 +1519,14 @@
             "player": "J.T. Realmuto",
             "team": "Philadelphia Phillies",
             "position": "C",
-            "value": "1167"
+            "value": "1173"
           },
           {
             "rank": 4,
             "player": "William Contreras",
             "team": "Milwaukee Brewers",
             "position": "C",
-            "value": "1160"
+            "value": "1161"
           },
           {
             "rank": 5,
@@ -1553,17 +1553,17 @@
           },
           {
             "rank": 3,
+            "player": "Brice Turang",
+            "team": "Milwaukee Brewers",
+            "position": "2B",
+            "value": "357"
+          },
+          {
+            "rank": 4,
             "player": "Geraldo Perdomo",
             "team": "Arizona Diamondbacks",
             "position": "SS",
             "value": "356"
-          },
-          {
-            "rank": 4,
-            "player": "Brice Turang",
-            "team": "Milwaukee Brewers",
-            "position": "2B",
-            "value": "355"
           },
           {
             "rank": 5,
