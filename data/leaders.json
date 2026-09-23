@@ -1,6 +1,6 @@
 {
   "season": 2026,
-  "lastUpdated": "2026-09-23T16:53:34.949624+00:00",
+  "lastUpdated": "2026-09-23T20:19:17.896536+00:00",
   "leagues": {
     "AL": {
       "offense": {
@@ -35,10 +35,10 @@
           },
           {
             "rank": 5,
-            "player": "Riley Greene",
-            "team": "Detroit Tigers",
-            "position": "LF",
-            "value": ".284"
+            "player": "Jac Caglianone",
+            "team": "Kansas City Royals",
+            "position": "RF",
+            "value": ".283"
           }
         ],
         "hits": [
@@ -75,30 +75,30 @@
             "player": "Kevin McGonigle",
             "team": "Detroit Tigers",
             "position": "SS",
-            "value": "162"
+            "value": "165"
           }
         ],
         "homeRuns": [
           {
             "rank": 1,
+            "player": "Pete Alonso",
+            "team": "Baltimore Orioles",
+            "position": "1B",
+            "value": "41"
+          },
+          {
+            "rank": 2,
             "player": "Yordan Alvarez",
             "team": "Houston Astros",
             "position": "DH",
             "value": "41"
           },
           {
-            "rank": 2,
+            "rank": 3,
             "player": "Junior Caminero",
             "team": "Tampa Bay Rays",
             "position": "3B",
             "value": "41"
-          },
-          {
-            "rank": 3,
-            "player": "Pete Alonso",
-            "team": "Baltimore Orioles",
-            "position": "1B",
-            "value": "40"
           },
           {
             "rank": 4,
@@ -121,7 +121,7 @@
             "player": "Pete Alonso",
             "team": "Baltimore Orioles",
             "position": "1B",
-            "value": "108"
+            "value": "110"
           },
           {
             "rank": 2,
@@ -260,7 +260,7 @@
             "player": "Pete Alonso",
             "team": "Baltimore Orioles",
             "position": "1B",
-            "value": ".510"
+            "value": ".514"
           }
         ],
         "ops": [
@@ -297,7 +297,7 @@
             "player": "Pete Alonso",
             "team": "Baltimore Orioles",
             "position": "1B",
-            "value": ".869"
+            "value": ".874"
           }
         ],
         "stolenBases": [
@@ -354,23 +354,23 @@
           },
           {
             "rank": 3,
+            "player": "Ernie Clement",
+            "team": "Toronto Blue Jays",
+            "position": "2B",
+            "value": "33"
+          },
+          {
+            "rank": 4,
             "player": "Carter Jensen",
             "team": "Kansas City Royals",
             "position": "C",
             "value": "33"
           },
           {
-            "rank": 4,
+            "rank": 5,
             "player": "Yordan Alvarez",
             "team": "Houston Astros",
             "position": "DH",
-            "value": "32"
-          },
-          {
-            "rank": 5,
-            "player": "Ernie Clement",
-            "team": "Toronto Blue Jays",
-            "position": "2B",
             "value": "32"
           }
         ],
@@ -681,7 +681,7 @@
             "player": "Spencer Torkelson",
             "team": "Detroit Tigers",
             "position": "1B",
-            "value": "1148"
+            "value": "1159"
           },
           {
             "rank": 2,
@@ -695,7 +695,7 @@
             "player": "Pete Alonso",
             "team": "Baltimore Orioles",
             "position": "1B",
-            "value": "1025"
+            "value": "1031"
           },
           {
             "rank": 4,
@@ -725,7 +725,7 @@
             "player": "Gunnar Henderson",
             "team": "Baltimore Orioles",
             "position": "SS",
-            "value": "361"
+            "value": "363"
           },
           {
             "rank": 3,
@@ -792,7 +792,7 @@
             "player": "Spencer Torkelson",
             "team": "Detroit Tigers",
             "position": "1B",
-            "value": "112"
+            "value": "113"
           },
           {
             "rank": 2,
@@ -813,7 +813,7 @@
             "player": "Pete Alonso",
             "team": "Baltimore Orioles",
             "position": "1B",
-            "value": "92"
+            "value": "93"
           },
           {
             "rank": 5,
@@ -966,7 +966,7 @@
             "player": "CJ Abrams",
             "team": "Washington Nationals",
             "position": "SS",
-            "value": "102"
+            "value": "103"
           },
           {
             "rank": 5,
@@ -1033,7 +1033,7 @@
             "player": "James Wood",
             "team": "Washington Nationals",
             "position": "RF",
-            "value": ".388"
+            "value": ".385"
           },
           {
             "rank": 4,
@@ -1104,24 +1104,24 @@
           },
           {
             "rank": 3,
-            "player": "James Wood",
-            "team": "Washington Nationals",
-            "position": "RF",
-            "value": ".897"
-          },
-          {
-            "rank": 4,
             "player": "Jake Bauers",
             "team": "Milwaukee Brewers",
             "position": "1B",
             "value": ".891"
           },
           {
-            "rank": 5,
+            "rank": 4,
             "player": "Elly De La Cruz",
             "team": "Cincinnati Reds",
             "position": "SS",
             "value": ".891"
+          },
+          {
+            "rank": 5,
+            "player": "James Wood",
+            "team": "Washington Nationals",
+            "position": "RF",
+            "value": ".890"
           }
         ],
         "stolenBases": [
