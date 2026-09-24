@@ -1,6 +1,6 @@
 {
   "season": 2026,
-  "lastUpdated": "2026-09-24T15:02:12.832382+00:00",
+  "lastUpdated": "2026-09-24T19:07:05.249218+00:00",
   "leagues": {
     "AL": {
       "offense": {
@@ -35,9 +35,9 @@
           },
           {
             "rank": 5,
-            "player": "Ceddanne Rafaela",
-            "team": "Boston Red Sox",
-            "position": "CF",
+            "player": "Bobby Witt Jr.",
+            "team": "Kansas City Royals",
+            "position": "SS",
             "value": ".284"
           }
         ],
@@ -172,7 +172,7 @@
             "player": "Miguel Vargas",
             "team": "Chicago White Sox",
             "position": "3B",
-            "value": "102"
+            "value": "103"
           },
           {
             "rank": 4,
@@ -709,7 +709,7 @@
             "player": "Jake Burger",
             "team": "Texas Rangers",
             "position": "1B",
-            "value": "992"
+            "value": "993"
           }
         ],
         "assists": [
@@ -871,7 +871,7 @@
             "player": "Otto Lopez",
             "team": "Miami Marlins",
             "position": "SS",
-            "value": "187"
+            "value": "188"
           },
           {
             "rank": 2,
@@ -896,9 +896,9 @@
           },
           {
             "rank": 5,
-            "player": "Michael Harris II",
-            "team": "Atlanta Braves",
-            "position": "CF",
+            "player": "Alec Burleson",
+            "team": "St. Louis Cardinals",
+            "position": "1B",
             "value": "167"
           }
         ],
@@ -945,7 +945,7 @@
             "player": "Alec Burleson",
             "team": "St. Louis Cardinals",
             "position": "1B",
-            "value": "112"
+            "value": "113"
           },
           {
             "rank": 2,
@@ -1093,7 +1093,7 @@
             "player": "Pete Crow-Armstrong",
             "team": "Chicago Cubs",
             "position": "CF",
-            "value": ".950"
+            "value": ".951"
           },
           {
             "rank": 2,
@@ -1505,14 +1505,14 @@
             "player": "Alec Burleson",
             "team": "St. Louis Cardinals",
             "position": "1B",
-            "value": "1188"
+            "value": "1191"
           },
           {
             "rank": 2,
             "player": "Michael Busch",
             "team": "Chicago Cubs",
             "position": "1B",
-            "value": "1183"
+            "value": "1188"
           },
           {
             "rank": 3,
@@ -1553,17 +1553,17 @@
           },
           {
             "rank": 3,
+            "player": "JJ Wetherholt",
+            "team": "St. Louis Cardinals",
+            "position": "2B",
+            "value": "361"
+          },
+          {
+            "rank": 4,
             "player": "Brice Turang",
             "team": "Milwaukee Brewers",
             "position": "2B",
             "value": "359"
-          },
-          {
-            "rank": 4,
-            "player": "JJ Wetherholt",
-            "team": "St. Louis Cardinals",
-            "position": "2B",
-            "value": "358"
           },
           {
             "rank": 5,
@@ -1630,7 +1630,7 @@
             "player": "Michael Busch",
             "team": "Chicago Cubs",
             "position": "1B",
-            "value": "108"
+            "value": "109"
           },
           {
             "rank": 4,
