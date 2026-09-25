@@ -1,7 +1,7 @@
 {
   "league": "MLB",
   "timezone": "America/New_York",
-  "lastUpdated": "2026-09-25T13:22:20.403001+00:00",
+  "lastUpdated": "2026-09-25T18:18:26.758235+00:00",
   "games": [
     {
       "gamePk": 824234,
@@ -9536,9 +9536,9 @@
       "date": "2026-09-25",
       "gameDate": "2026-09-25T17:05:00Z",
       "localGameTime": "2026-09-25T13:05:00-04:00",
-      "status": "Scheduled",
-      "abstractGameState": "Preview",
-      "codedGameState": "S",
+      "status": "In Progress",
+      "abstractGameState": "Live",
+      "codedGameState": "I",
       "awayTeam": {
         "id": 112,
         "name": "Chicago Cubs",
@@ -9549,8 +9549,8 @@
         "name": "Boston Red Sox",
         "abbreviation": "BOS"
       },
-      "awayScore": null,
-      "homeScore": null,
+      "awayScore": 3,
+      "homeScore": 1,
       "venue": "Fenway Park",
       "awayPitcher": "Clay Holmes",
       "homePitcher": "Alec Gamboa"
@@ -9558,8 +9558,8 @@
     {
       "gamePk": 824706,
       "date": "2026-09-25",
-      "gameDate": "2026-09-25T22:05:00Z",
-      "localGameTime": "2026-09-25T18:05:00-04:00",
+      "gameDate": "2026-09-25T21:35:00Z",
+      "localGameTime": "2026-09-25T17:35:00-04:00",
       "status": "Scheduled",
       "abstractGameState": "Preview",
       "codedGameState": "S",
@@ -9584,9 +9584,9 @@
       "date": "2026-09-25",
       "gameDate": "2026-09-25T20:05:00Z",
       "localGameTime": "2026-09-25T16:05:00-04:00",
-      "status": "Scheduled",
+      "status": "Pre-Game",
       "abstractGameState": "Preview",
-      "codedGameState": "S",
+      "codedGameState": "P",
       "awayTeam": {
         "id": 110,
         "name": "Baltimore Orioles",
@@ -9597,11 +9597,11 @@
         "name": "New York Yankees",
         "abbreviation": "NYY"
       },
-      "awayScore": null,
-      "homeScore": null,
+      "awayScore": 0,
+      "homeScore": 0,
       "venue": "Yankee Stadium",
-      "awayPitcher": "Brandon Young",
-      "homePitcher": null
+      "awayPitcher": "Trevor Rogers",
+      "homePitcher": "Brendan Beck"
     },
     {
       "gamePk": 823489,
@@ -9624,8 +9624,8 @@
       "awayScore": null,
       "homeScore": null,
       "venue": "Yankee Stadium",
-      "awayPitcher": "Trevor Rogers",
-      "homePitcher": "Brendan Beck"
+      "awayPitcher": "Brandon Young",
+      "homePitcher": null
     },
     {
       "gamePk": 824220,
@@ -10609,7 +10609,7 @@
       "homeScore": null,
       "venue": "Yankee Stadium",
       "awayPitcher": "Shane Baz",
-      "homePitcher": null
+      "homePitcher": "Elmer Rodr\u00edguez"
     },
     {
       "gamePk": 849851,
