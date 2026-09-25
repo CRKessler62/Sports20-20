@@ -1,6 +1,6 @@
 {
   "season": 2026,
-  "lastUpdated": "2026-09-25T13:43:31.587985+00:00",
+  "lastUpdated": "2026-09-25T18:33:23.198614+00:00",
   "leagues": {
     "AL": {
       "offense": {
@@ -892,7 +892,7 @@
             "player": "Pete Crow-Armstrong",
             "team": "Chicago Cubs",
             "position": "CF",
-            "value": "173"
+            "value": "174"
           },
           {
             "rank": 5,
@@ -1056,7 +1056,7 @@
             "player": "Pete Crow-Armstrong",
             "team": "Chicago Cubs",
             "position": "CF",
-            "value": ".575"
+            "value": ".574"
           },
           {
             "rank": 2,
@@ -1093,7 +1093,7 @@
             "player": "Pete Crow-Armstrong",
             "team": "Chicago Cubs",
             "position": "CF",
-            "value": ".948"
+            "value": ".947"
           },
           {
             "rank": 2,
@@ -1505,7 +1505,7 @@
             "player": "Michael Busch",
             "team": "Chicago Cubs",
             "position": "1B",
-            "value": "1195"
+            "value": "1199"
           },
           {
             "rank": 2,
@@ -1630,7 +1630,7 @@
             "player": "Michael Busch",
             "team": "Chicago Cubs",
             "position": "1B",
-            "value": "110"
+            "value": "111"
           },
           {
             "rank": 4,
