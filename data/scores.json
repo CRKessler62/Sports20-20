@@ -1,6 +1,6 @@
 {
   "league": "MLB",
-  "lastUpdated": "2026-09-25T04:53:06.640237+00:00",
+  "lastUpdated": "2026-09-25T10:01:13.296908+00:00",
   "games": [
     {
       "gamePk": 824703,
@@ -43,7 +43,7 @@
       "inningScores": []
     },
     {
-      "gamePk": 823489,
+      "gamePk": 823491,
       "awayTeam": "Baltimore Orioles",
       "homeTeam": "New York Yankees",
       "awayScore": 0,
@@ -63,7 +63,7 @@
       "inningScores": []
     },
     {
-      "gamePk": 823491,
+      "gamePk": 823489,
       "awayTeam": "Baltimore Orioles",
       "homeTeam": "New York Yankees",
       "awayScore": 0,
