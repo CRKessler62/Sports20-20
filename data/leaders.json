@@ -1,6 +1,6 @@
 {
   "season": 2026,
-  "lastUpdated": "2026-09-24T22:21:27.645418+00:00",
+  "lastUpdated": "2026-09-25T01:27:37.537051+00:00",
   "leagues": {
     "AL": {
       "offense": {
@@ -24,21 +24,21 @@
             "player": "Yandy D\u00edaz",
             "team": "Tampa Bay Rays",
             "position": "DH",
-            "value": ".291"
+            "value": ".293"
           },
           {
             "rank": 4,
             "player": "Chase DeLauter",
             "team": "Cleveland Guardians",
             "position": "RF",
-            "value": ".290"
+            "value": ".287"
           },
           {
             "rank": 5,
-            "player": "Ceddanne Rafaela",
-            "team": "Boston Red Sox",
-            "position": "CF",
-            "value": ".284"
+            "player": "Jac Caglianone",
+            "team": "Kansas City Royals",
+            "position": "RF",
+            "value": ".283"
           }
         ],
         "hits": [
@@ -47,20 +47,20 @@
             "player": "Yandy D\u00edaz",
             "team": "Tampa Bay Rays",
             "position": "DH",
-            "value": "175"
+            "value": "177"
           },
           {
             "rank": 2,
-            "player": "Yordan Alvarez",
-            "team": "Houston Astros",
-            "position": "DH",
-            "value": "174"
-          },
-          {
-            "rank": 3,
             "player": "Chandler Simpson",
             "team": "Tampa Bay Rays",
             "position": "LF",
+            "value": "175"
+          },
+          {
+            "rank": 3,
+            "player": "Yordan Alvarez",
+            "team": "Houston Astros",
+            "position": "DH",
             "value": "174"
           },
           {
@@ -68,7 +68,7 @@
             "player": "Junior Caminero",
             "team": "Tampa Bay Rays",
             "position": "3B",
-            "value": "165"
+            "value": "167"
           },
           {
             "rank": 5,
@@ -135,7 +135,7 @@
             "player": "Junior Caminero",
             "team": "Tampa Bay Rays",
             "position": "3B",
-            "value": "97"
+            "value": "99"
           },
           {
             "rank": 4,
@@ -162,17 +162,17 @@
           },
           {
             "rank": 2,
-            "player": "Miguel Vargas",
-            "team": "Chicago White Sox",
-            "position": "3B",
+            "player": "Ben Rice",
+            "team": "New York Yankees",
+            "position": "DH",
             "value": "104"
           },
           {
             "rank": 3,
-            "player": "Ben Rice",
-            "team": "New York Yankees",
-            "position": "DH",
-            "value": "103"
+            "player": "Miguel Vargas",
+            "team": "Chicago White Sox",
+            "position": "3B",
+            "value": "104"
           },
           {
             "rank": 4,
@@ -223,7 +223,7 @@
             "player": "Steven Kwan",
             "team": "Cleveland Guardians",
             "position": "LF",
-            "value": ".379"
+            "value": ".378"
           }
         ],
         "slg": [
@@ -239,7 +239,7 @@
             "player": "Ben Rice",
             "team": "New York Yankees",
             "position": "DH",
-            "value": ".537"
+            "value": ".535"
           },
           {
             "rank": 3,
@@ -283,7 +283,7 @@
             "player": "Ben Rice",
             "team": "New York Yankees",
             "position": "DH",
-            "value": ".899"
+            "value": ".897"
           },
           {
             "rank": 4,
@@ -419,7 +419,7 @@
             "player": "Cam Schlittler",
             "team": "New York Yankees",
             "position": "P",
-            "value": "1.94"
+            "value": "1.95"
           },
           {
             "rank": 2,
@@ -507,7 +507,7 @@
             "player": "Cam Schlittler",
             "team": "New York Yankees",
             "position": "P",
-            "value": "234"
+            "value": "239"
           },
           {
             "rank": 4,
@@ -527,17 +527,17 @@
         "whip": [
           {
             "rank": 1,
-            "player": "Cam Schlittler",
-            "team": "New York Yankees",
+            "player": "Drew Rasmussen",
+            "team": "Tampa Bay Rays",
             "position": "P",
             "value": "0.91"
           },
           {
             "rank": 2,
-            "player": "Drew Rasmussen",
-            "team": "Tampa Bay Rays",
+            "player": "Cam Schlittler",
+            "team": "New York Yankees",
             "position": "P",
-            "value": "0.91"
+            "value": "0.92"
           },
           {
             "rank": 3,
@@ -564,15 +564,15 @@
         "saves": [
           {
             "rank": 1,
-            "player": "Bryan Baker",
-            "team": "Tampa Bay Rays",
+            "player": "Cade Smith",
+            "team": "Cleveland Guardians",
             "position": "P",
-            "value": "40"
+            "value": "41"
           },
           {
             "rank": 2,
-            "player": "Cade Smith",
-            "team": "Cleveland Guardians",
+            "player": "Bryan Baker",
+            "team": "Tampa Bay Rays",
             "position": "P",
             "value": "40"
           },
@@ -611,7 +611,7 @@
             "player": "Cam Schlittler",
             "team": "New York Yankees",
             "position": "P",
-            "value": "190.2"
+            "value": "193.2"
           },
           {
             "rank": 3,
@@ -834,7 +834,7 @@
             "player": "Luis Arraez",
             "team": "Philadelphia Phillies",
             "position": "2B",
-            "value": ".312"
+            "value": ".310"
           },
           {
             "rank": 2,
@@ -896,10 +896,10 @@
           },
           {
             "rank": 5,
-            "player": "Alec Burleson",
-            "team": "St. Louis Cardinals",
-            "position": "1B",
-            "value": "167"
+            "player": "Michael Harris II",
+            "team": "Atlanta Braves",
+            "position": "CF",
+            "value": "169"
           }
         ],
         "homeRuns": [
@@ -1019,7 +1019,7 @@
             "player": "Jake Bauers",
             "team": "Milwaukee Brewers",
             "position": "1B",
-            "value": ".392"
+            "value": ".393"
           },
           {
             "rank": 2,
@@ -1047,7 +1047,7 @@
             "player": "Bryce Harper",
             "team": "Philadelphia Phillies",
             "position": "1B",
-            "value": ".382"
+            "value": ".381"
           }
         ],
         "slg": [
@@ -1074,17 +1074,17 @@
           },
           {
             "rank": 4,
+            "player": "Elly De La Cruz",
+            "team": "Cincinnati Reds",
+            "position": "SS",
+            "value": ".521"
+          },
+          {
+            "rank": 5,
             "player": "Shohei Ohtani",
             "team": "Los Angeles Dodgers",
             "position": "TWP",
             "value": ".520"
-          },
-          {
-            "rank": 5,
-            "player": "Elly De La Cruz",
-            "team": "Cincinnati Reds",
-            "position": "SS",
-            "value": ".517"
           }
         ],
         "ops": [
@@ -1114,14 +1114,14 @@
             "player": "Elly De La Cruz",
             "team": "Cincinnati Reds",
             "position": "SS",
-            "value": ".884"
+            "value": ".888"
           },
           {
             "rank": 5,
             "player": "Jake Bauers",
             "team": "Milwaukee Brewers",
             "position": "1B",
-            "value": ".881"
+            "value": ".884"
           }
         ],
         "stolenBases": [
@@ -1192,9 +1192,9 @@
           },
           {
             "rank": 5,
-            "player": "Matt Olson",
+            "player": "Michael Harris II",
             "team": "Atlanta Braves",
-            "position": "1B",
+            "position": "CF",
             "value": "34"
           }
         ],
@@ -1284,22 +1284,22 @@
           },
           {
             "rank": 2,
+            "player": "Eduardo Rodriguez",
+            "team": "Arizona Diamondbacks",
+            "position": "P",
+            "value": "16"
+          },
+          {
+            "rank": 3,
             "player": "Chase Burns",
             "team": "Cincinnati Reds",
             "position": "P",
             "value": "15"
           },
           {
-            "rank": 3,
+            "rank": 4,
             "player": "Jacob Misiorowski",
             "team": "Milwaukee Brewers",
-            "position": "P",
-            "value": "15"
-          },
-          {
-            "rank": 4,
-            "player": "Eduardo Rodriguez",
-            "team": "Arizona Diamondbacks",
             "position": "P",
             "value": "15"
           },
@@ -1519,21 +1519,21 @@
             "player": "J.T. Realmuto",
             "team": "Philadelphia Phillies",
             "position": "C",
-            "value": "1181"
+            "value": "1190"
           },
           {
             "rank": 4,
+            "player": "Matt Olson",
+            "team": "Atlanta Braves",
+            "position": "1B",
+            "value": "1169"
+          },
+          {
+            "rank": 5,
             "player": "William Contreras",
             "team": "Milwaukee Brewers",
             "position": "C",
             "value": "1167"
-          },
-          {
-            "rank": 5,
-            "player": "Matt Olson",
-            "team": "Atlanta Braves",
-            "position": "1B",
-            "value": "1157"
           }
         ],
         "assists": [
@@ -1542,14 +1542,14 @@
             "player": "Luis Arraez",
             "team": "Philadelphia Phillies",
             "position": "2B",
-            "value": "393"
+            "value": "394"
           },
           {
             "rank": 2,
             "player": "Ozzie Albies",
             "team": "Atlanta Braves",
             "position": "2B",
-            "value": "382"
+            "value": "384"
           },
           {
             "rank": 3,
@@ -1563,7 +1563,7 @@
             "player": "Brice Turang",
             "team": "Milwaukee Brewers",
             "position": "2B",
-            "value": "359"
+            "value": "360"
           },
           {
             "rank": 5,
