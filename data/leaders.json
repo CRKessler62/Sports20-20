@@ -1,6 +1,6 @@
 {
   "season": 2026,
-  "lastUpdated": "2026-09-25T01:27:37.537051+00:00",
+  "lastUpdated": "2026-09-25T07:44:15.971223+00:00",
   "leagues": {
     "AL": {
       "offense": {
@@ -10,21 +10,21 @@
             "player": "Yordan Alvarez",
             "team": "Houston Astros",
             "position": "DH",
-            "value": ".316"
+            "value": ".315"
           },
           {
             "rank": 2,
             "player": "Chandler Simpson",
             "team": "Tampa Bay Rays",
             "position": "LF",
-            "value": ".309"
+            "value": ".308"
           },
           {
             "rank": 3,
             "player": "Yandy D\u00edaz",
             "team": "Tampa Bay Rays",
             "position": "DH",
-            "value": ".293"
+            "value": ".292"
           },
           {
             "rank": 4,
@@ -51,17 +51,17 @@
           },
           {
             "rank": 2,
-            "player": "Chandler Simpson",
-            "team": "Tampa Bay Rays",
-            "position": "LF",
+            "player": "Yordan Alvarez",
+            "team": "Houston Astros",
+            "position": "DH",
             "value": "175"
           },
           {
             "rank": 3,
-            "player": "Yordan Alvarez",
-            "team": "Houston Astros",
-            "position": "DH",
-            "value": "174"
+            "player": "Chandler Simpson",
+            "team": "Tampa Bay Rays",
+            "position": "LF",
+            "value": "175"
           },
           {
             "rank": 4,
@@ -232,7 +232,7 @@
             "player": "Yordan Alvarez",
             "team": "Houston Astros",
             "position": "DH",
-            "value": ".603"
+            "value": ".600"
           },
           {
             "rank": 2,
@@ -246,7 +246,7 @@
             "player": "Junior Caminero",
             "team": "Tampa Bay Rays",
             "position": "3B",
-            "value": ".523"
+            "value": ".522"
           },
           {
             "rank": 4,
@@ -269,7 +269,7 @@
             "player": "Yordan Alvarez",
             "team": "Houston Astros",
             "position": "DH",
-            "value": "1.035"
+            "value": "1.032"
           },
           {
             "rank": 2,
@@ -290,7 +290,7 @@
             "player": "Junior Caminero",
             "team": "Tampa Bay Rays",
             "position": "3B",
-            "value": ".883"
+            "value": ".882"
           },
           {
             "rank": 5,
@@ -648,16 +648,16 @@
           },
           {
             "rank": 2,
-            "player": "Christian Walker",
+            "player": "Christian V\u00e1zquez",
             "team": "Houston Astros",
-            "position": "1B",
+            "position": "C",
             "value": ".997"
           },
           {
             "rank": 3,
-            "player": "Christian V\u00e1zquez",
+            "player": "Christian Walker",
             "team": "Houston Astros",
-            "position": "C",
+            "position": "1B",
             "value": ".997"
           },
           {
@@ -702,7 +702,7 @@
             "player": "Josh Naylor",
             "team": "Seattle Mariners",
             "position": "1B",
-            "value": "1028"
+            "value": "1035"
           },
           {
             "rank": 5,
@@ -718,7 +718,7 @@
             "player": "Cole Young",
             "team": "Seattle Mariners",
             "position": "2B",
-            "value": "388"
+            "value": "391"
           },
           {
             "rank": 2,
@@ -729,17 +729,17 @@
           },
           {
             "rank": 3,
+            "player": "Zach Neto",
+            "team": "Los Angeles Angels",
+            "position": "SS",
+            "value": "330"
+          },
+          {
+            "rank": 4,
             "player": "Chase Meidroth",
             "team": "Chicago White Sox",
             "position": "2B",
             "value": "329"
-          },
-          {
-            "rank": 4,
-            "player": "Zach Neto",
-            "team": "Los Angeles Angels",
-            "position": "SS",
-            "value": "326"
           },
           {
             "rank": 5,
@@ -799,14 +799,14 @@
             "player": "Christian Walker",
             "team": "Houston Astros",
             "position": "1B",
-            "value": "104"
+            "value": "106"
           },
           {
             "rank": 3,
             "player": "Josh Naylor",
             "team": "Seattle Mariners",
             "position": "1B",
-            "value": "101"
+            "value": "102"
           },
           {
             "rank": 4,
@@ -885,7 +885,7 @@
             "player": "Fernando Tatis Jr.",
             "team": "San Diego Padres",
             "position": "RF",
-            "value": "177"
+            "value": "179"
           },
           {
             "rank": 4,
@@ -899,7 +899,7 @@
             "player": "Michael Harris II",
             "team": "Atlanta Braves",
             "position": "CF",
-            "value": "169"
+            "value": "170"
           }
         ],
         "homeRuns": [
@@ -1084,7 +1084,7 @@
             "player": "Shohei Ohtani",
             "team": "Los Angeles Dodgers",
             "position": "TWP",
-            "value": ".520"
+            "value": ".521"
           }
         ],
         "ops": [
@@ -1100,7 +1100,7 @@
             "player": "Shohei Ohtani",
             "team": "Los Angeles Dodgers",
             "position": "TWP",
-            "value": ".901"
+            "value": ".902"
           },
           {
             "rank": 3,
@@ -1388,17 +1388,17 @@
         "saves": [
           {
             "rank": 1,
-            "player": "Riley O'Brien",
-            "team": "St. Louis Cardinals",
+            "player": "Mason Miller",
+            "team": "San Diego Padres",
             "position": "P",
             "value": "38"
           },
           {
             "rank": 2,
-            "player": "Mason Miller",
-            "team": "San Diego Padres",
+            "player": "Riley O'Brien",
+            "team": "St. Louis Cardinals",
             "position": "P",
-            "value": "37"
+            "value": "38"
           },
           {
             "rank": 3,
