@@ -1,7 +1,7 @@
 {
   "league": "MLB",
   "timezone": "America/New_York",
-  "lastUpdated": "2026-09-25T01:13:34.388536+00:00",
+  "lastUpdated": "2026-09-25T07:17:47.355360+00:00",
   "games": [
     {
       "gamePk": 824234,
@@ -9392,9 +9392,9 @@
       "date": "2026-09-24",
       "gameDate": "2026-09-24T22:45:00Z",
       "localGameTime": "2026-09-24T18:45:00-04:00",
-      "status": "In Progress",
-      "abstractGameState": "Live",
-      "codedGameState": "I",
+      "status": "Final",
+      "abstractGameState": "Final",
+      "codedGameState": "F",
       "awayTeam": {
         "id": 114,
         "name": "Cleveland Guardians",
@@ -9416,9 +9416,9 @@
       "date": "2026-09-24",
       "gameDate": "2026-09-24T23:05:00Z",
       "localGameTime": "2026-09-24T19:05:00-04:00",
-      "status": "In Progress",
-      "abstractGameState": "Live",
-      "codedGameState": "I",
+      "status": "Final",
+      "abstractGameState": "Final",
+      "codedGameState": "F",
       "awayTeam": {
         "id": 139,
         "name": "Tampa Bay Rays",
@@ -9430,7 +9430,7 @@
         "abbreviation": "NYY"
       },
       "awayScore": 4,
-      "homeScore": 1,
+      "homeScore": 6,
       "venue": "Yankee Stadium",
       "awayPitcher": "Ian Seymour",
       "homePitcher": "Cam Schlittler"
@@ -9440,9 +9440,9 @@
       "date": "2026-09-24",
       "gameDate": "2026-09-24T23:15:00Z",
       "localGameTime": "2026-09-24T19:15:00-04:00",
-      "status": "In Progress",
-      "abstractGameState": "Live",
-      "codedGameState": "I",
+      "status": "Final",
+      "abstractGameState": "Final",
+      "codedGameState": "F",
       "awayTeam": {
         "id": 113,
         "name": "Cincinnati Reds",
@@ -9464,9 +9464,9 @@
       "date": "2026-09-24",
       "gameDate": "2026-09-25T01:40:00Z",
       "localGameTime": "2026-09-24T21:40:00-04:00",
-      "status": "Pre-Game",
-      "abstractGameState": "Preview",
-      "codedGameState": "P",
+      "status": "Final",
+      "abstractGameState": "Final",
+      "codedGameState": "F",
       "awayTeam": {
         "id": 117,
         "name": "Houston Astros",
@@ -9477,8 +9477,8 @@
         "name": "Athletics",
         "abbreviation": "ATH"
       },
-      "awayScore": 0,
-      "homeScore": 0,
+      "awayScore": 7,
+      "homeScore": 5,
       "venue": "Sutter Health Park",
       "awayPitcher": "Peter Lambert",
       "homePitcher": "Mason Barnett"
@@ -9488,9 +9488,9 @@
       "date": "2026-09-24",
       "gameDate": "2026-09-25T01:40:00Z",
       "localGameTime": "2026-09-24T21:40:00-04:00",
-      "status": "Pre-Game",
-      "abstractGameState": "Preview",
-      "codedGameState": "P",
+      "status": "Final",
+      "abstractGameState": "Final",
+      "codedGameState": "F",
       "awayTeam": {
         "id": 108,
         "name": "Los Angeles Angels",
@@ -9501,8 +9501,8 @@
         "name": "Seattle Mariners",
         "abbreviation": "SEA"
       },
-      "awayScore": 0,
-      "homeScore": 0,
+      "awayScore": 6,
+      "homeScore": 4,
       "venue": "T-Mobile Park",
       "awayPitcher": "Grayson Rodriguez",
       "homePitcher": "Bryan Woo"
@@ -9512,9 +9512,9 @@
       "date": "2026-09-24",
       "gameDate": "2026-09-25T02:10:00Z",
       "localGameTime": "2026-09-24T22:10:00-04:00",
-      "status": "Pre-Game",
-      "abstractGameState": "Preview",
-      "codedGameState": "P",
+      "status": "Final",
+      "abstractGameState": "Final",
+      "codedGameState": "F",
       "awayTeam": {
         "id": 135,
         "name": "San Diego Padres",
@@ -9525,8 +9525,8 @@
         "name": "Los Angeles Dodgers",
         "abbreviation": "LAD"
       },
-      "awayScore": 0,
-      "homeScore": 0,
+      "awayScore": 4,
+      "homeScore": 2,
       "venue": "UNIQLO Field at Dodger Stadium",
       "awayPitcher": "Nick Pivetta",
       "homePitcher": "Tyler Glasnow"
@@ -9553,7 +9553,7 @@
       "homeScore": null,
       "venue": "Fenway Park",
       "awayPitcher": "Clay Holmes",
-      "homePitcher": null
+      "homePitcher": "Alec Gamboa"
     },
     {
       "gamePk": 824706,
@@ -9577,10 +9577,10 @@
       "homeScore": null,
       "venue": "Fenway Park",
       "awayPitcher": "David Peterson",
-      "homePitcher": null
+      "homePitcher": "Brayan Bello"
     },
     {
-      "gamePk": 823489,
+      "gamePk": 823491,
       "date": "2026-09-25",
       "gameDate": "2026-09-25T20:05:00Z",
       "localGameTime": "2026-09-25T16:05:00-04:00",
@@ -9600,11 +9600,11 @@
       "awayScore": null,
       "homeScore": null,
       "venue": "Yankee Stadium",
-      "awayPitcher": "Trevor Rogers",
+      "awayPitcher": "Brandon Young",
       "homePitcher": null
     },
     {
-      "gamePk": 823491,
+      "gamePk": 823489,
       "date": "2026-09-25",
       "gameDate": "2026-09-25T20:10:00Z",
       "localGameTime": "2026-09-25T16:10:00-04:00",
@@ -9624,8 +9624,8 @@
       "awayScore": null,
       "homeScore": null,
       "venue": "Yankee Stadium",
-      "awayPitcher": "Brandon Young",
-      "homePitcher": null
+      "awayPitcher": "Trevor Rogers",
+      "homePitcher": "Brendan Beck"
     },
     {
       "gamePk": 824220,
@@ -9864,7 +9864,7 @@
       "awayScore": null,
       "homeScore": null,
       "venue": "Sutter Health Park",
-      "awayPitcher": null,
+      "awayPitcher": "Hunter Brown",
       "homePitcher": "Jacob Lopez"
     },
     {
@@ -10636,6 +10636,30 @@
       "homePitcher": null
     },
     {
+      "gamePk": 849845,
+      "date": "2026-09-29",
+      "gameDate": "2026-09-29T07:33:00Z",
+      "localGameTime": "2026-09-29T03:33:00-04:00",
+      "status": "Scheduled",
+      "abstractGameState": "Preview",
+      "codedGameState": "S",
+      "awayTeam": {
+        "id": 4947,
+        "name": "NL Wild Card #3",
+        "abbreviation": "NLWC3"
+      },
+      "homeTeam": {
+        "id": 144,
+        "name": "Atlanta Braves",
+        "abbreviation": "ATL"
+      },
+      "awayScore": null,
+      "homeScore": null,
+      "venue": "Truist Park",
+      "awayPitcher": null,
+      "homePitcher": null
+    },
+    {
       "gamePk": 849843,
       "date": "2026-09-29",
       "gameDate": "2026-09-29T07:33:00Z",
@@ -10674,36 +10698,12 @@
       },
       "homeTeam": {
         "id": 4614,
-        "name": "AL #3 Seed",
-        "abbreviation": "AL3"
+        "name": "AL West #1",
+        "abbreviation": "ALW1"
       },
       "awayScore": null,
       "homeScore": null,
       "venue": "AL Stadium",
-      "awayPitcher": null,
-      "homePitcher": null
-    },
-    {
-      "gamePk": 849845,
-      "date": "2026-09-29",
-      "gameDate": "2026-09-29T07:33:00Z",
-      "localGameTime": "2026-09-29T03:33:00-04:00",
-      "status": "Scheduled",
-      "abstractGameState": "Preview",
-      "codedGameState": "S",
-      "awayTeam": {
-        "id": 4947,
-        "name": "NL Wild Card #3",
-        "abbreviation": "NLWC3"
-      },
-      "homeTeam": {
-        "id": 4617,
-        "name": "NL #3 Seed",
-        "abbreviation": "NL3"
-      },
-      "awayScore": null,
-      "homeScore": null,
-      "venue": "NL Stadium",
       "awayPitcher": null,
       "homePitcher": null
     },
@@ -10728,6 +10728,30 @@
       "awayScore": null,
       "homeScore": null,
       "venue": "Yankee Stadium",
+      "awayPitcher": null,
+      "homePitcher": null
+    },
+    {
+      "gamePk": 849841,
+      "date": "2026-09-30",
+      "gameDate": "2026-09-30T07:33:00Z",
+      "localGameTime": "2026-09-30T03:33:00-04:00",
+      "status": "Scheduled",
+      "abstractGameState": "Preview",
+      "codedGameState": "S",
+      "awayTeam": {
+        "id": 4947,
+        "name": "NL Wild Card #3",
+        "abbreviation": "NLWC3"
+      },
+      "homeTeam": {
+        "id": 144,
+        "name": "Atlanta Braves",
+        "abbreviation": "ATL"
+      },
+      "awayScore": null,
+      "homeScore": null,
+      "venue": "Truist Park",
       "awayPitcher": null,
       "homePitcher": null
     },
@@ -10770,36 +10794,12 @@
       },
       "homeTeam": {
         "id": 4614,
-        "name": "AL #3 Seed",
-        "abbreviation": "AL3"
+        "name": "AL West #1",
+        "abbreviation": "ALW1"
       },
       "awayScore": null,
       "homeScore": null,
       "venue": "AL Stadium",
-      "awayPitcher": null,
-      "homePitcher": null
-    },
-    {
-      "gamePk": 849841,
-      "date": "2026-09-30",
-      "gameDate": "2026-09-30T07:33:00Z",
-      "localGameTime": "2026-09-30T03:33:00-04:00",
-      "status": "Scheduled",
-      "abstractGameState": "Preview",
-      "codedGameState": "S",
-      "awayTeam": {
-        "id": 4947,
-        "name": "NL Wild Card #3",
-        "abbreviation": "NLWC3"
-      },
-      "homeTeam": {
-        "id": 4617,
-        "name": "NL #3 Seed",
-        "abbreviation": "NL3"
-      },
-      "awayScore": null,
-      "homeScore": null,
-      "venue": "NL Stadium",
       "awayPitcher": null,
       "homePitcher": null
     },
@@ -10824,6 +10824,30 @@
       "awayScore": null,
       "homeScore": null,
       "venue": "Yankee Stadium",
+      "awayPitcher": null,
+      "homePitcher": null
+    },
+    {
+      "gamePk": 849844,
+      "date": "2026-10-01",
+      "gameDate": "2026-10-01T07:33:00Z",
+      "localGameTime": "2026-10-01T03:33:00-04:00",
+      "status": "Scheduled",
+      "abstractGameState": "Preview",
+      "codedGameState": "S",
+      "awayTeam": {
+        "id": 4947,
+        "name": "NL Wild Card #3",
+        "abbreviation": "NLWC3"
+      },
+      "homeTeam": {
+        "id": 144,
+        "name": "Atlanta Braves",
+        "abbreviation": "ATL"
+      },
+      "awayScore": null,
+      "homeScore": null,
+      "venue": "Truist Park",
       "awayPitcher": null,
       "homePitcher": null
     },
@@ -10866,36 +10890,12 @@
       },
       "homeTeam": {
         "id": 4614,
-        "name": "AL #3 Seed",
-        "abbreviation": "AL3"
+        "name": "AL West #1",
+        "abbreviation": "ALW1"
       },
       "awayScore": null,
       "homeScore": null,
       "venue": "AL Stadium",
-      "awayPitcher": null,
-      "homePitcher": null
-    },
-    {
-      "gamePk": 849844,
-      "date": "2026-10-01",
-      "gameDate": "2026-10-01T07:33:00Z",
-      "localGameTime": "2026-10-01T03:33:00-04:00",
-      "status": "Scheduled",
-      "abstractGameState": "Preview",
-      "codedGameState": "S",
-      "awayTeam": {
-        "id": 4947,
-        "name": "NL Wild Card #3",
-        "abbreviation": "NLWC3"
-      },
-      "homeTeam": {
-        "id": 4617,
-        "name": "NL #3 Seed",
-        "abbreviation": "NL3"
-      },
-      "awayScore": null,
-      "homeScore": null,
-      "venue": "NL Stadium",
       "awayPitcher": null,
       "homePitcher": null
     },
@@ -10938,8 +10938,8 @@
       },
       "homeTeam": {
         "id": 4613,
-        "name": "AL #2 Seed",
-        "abbreviation": "AL2"
+        "name": "AL Central #1",
+        "abbreviation": "ALC1"
       },
       "awayScore": null,
       "homeScore": null,
@@ -10948,34 +10948,10 @@
       "homePitcher": null
     },
     {
-      "gamePk": 849828,
-      "date": "2026-10-03",
-      "gameDate": "2026-10-03T07:33:00Z",
-      "localGameTime": "2026-10-03T03:33:00-04:00",
-      "status": "Scheduled",
-      "abstractGameState": "Preview",
-      "codedGameState": "S",
-      "awayTeam": {
-        "id": 5532,
-        "name": "NL 3/6 Winner",
-        "abbreviation": "NL3/6"
-      },
-      "homeTeam": {
-        "id": 4616,
-        "name": "NL #2 Seed",
-        "abbreviation": "NL2"
-      },
-      "awayScore": null,
-      "homeScore": null,
-      "venue": "NL Stadium",
-      "awayPitcher": null,
-      "homePitcher": null
-    },
-    {
       "gamePk": 849830,
       "date": "2026-10-03",
-      "gameDate": "2026-10-03T07:33:00Z",
-      "localGameTime": "2026-10-03T03:33:00-04:00",
+      "gameDate": "2026-10-03T08:33:00Z",
+      "localGameTime": "2026-10-03T04:33:00-04:00",
       "status": "Scheduled",
       "abstractGameState": "Preview",
       "codedGameState": "S",
@@ -10985,21 +10961,21 @@
         "abbreviation": "NL4/5"
       },
       "homeTeam": {
-        "id": 4615,
-        "name": "NL #1 Seed",
-        "abbreviation": "NL1"
+        "id": 158,
+        "name": "Milwaukee Brewers",
+        "abbreviation": "MIL"
       },
       "awayScore": null,
       "homeScore": null,
-      "venue": "NL Stadium",
+      "venue": "American Family Field",
       "awayPitcher": null,
       "homePitcher": null
     },
     {
-      "gamePk": 849823,
-      "date": "2026-10-04",
-      "gameDate": "2026-10-04T07:33:00Z",
-      "localGameTime": "2026-10-04T03:33:00-04:00",
+      "gamePk": 849828,
+      "date": "2026-10-03",
+      "gameDate": "2026-10-03T10:33:00Z",
+      "localGameTime": "2026-10-03T06:33:00-04:00",
       "status": "Scheduled",
       "abstractGameState": "Preview",
       "codedGameState": "S",
@@ -11009,21 +10985,21 @@
         "abbreviation": "NL3/6"
       },
       "homeTeam": {
-        "id": 4616,
-        "name": "NL #2 Seed",
-        "abbreviation": "NL2"
+        "id": 119,
+        "name": "Los Angeles Dodgers",
+        "abbreviation": "LAD"
       },
       "awayScore": null,
       "homeScore": null,
-      "venue": "NL Stadium",
+      "venue": "UNIQLO Field at Dodger Stadium",
       "awayPitcher": null,
       "homePitcher": null
     },
     {
       "gamePk": 849825,
       "date": "2026-10-04",
-      "gameDate": "2026-10-04T07:33:00Z",
-      "localGameTime": "2026-10-04T03:33:00-04:00",
+      "gameDate": "2026-10-04T08:33:00Z",
+      "localGameTime": "2026-10-04T04:33:00-04:00",
       "status": "Scheduled",
       "abstractGameState": "Preview",
       "codedGameState": "S",
@@ -11033,13 +11009,37 @@
         "abbreviation": "NL4/5"
       },
       "homeTeam": {
-        "id": 4615,
-        "name": "NL #1 Seed",
-        "abbreviation": "NL1"
+        "id": 158,
+        "name": "Milwaukee Brewers",
+        "abbreviation": "MIL"
       },
       "awayScore": null,
       "homeScore": null,
-      "venue": "NL Stadium",
+      "venue": "American Family Field",
+      "awayPitcher": null,
+      "homePitcher": null
+    },
+    {
+      "gamePk": 849823,
+      "date": "2026-10-04",
+      "gameDate": "2026-10-04T10:33:00Z",
+      "localGameTime": "2026-10-04T06:33:00-04:00",
+      "status": "Scheduled",
+      "abstractGameState": "Preview",
+      "codedGameState": "S",
+      "awayTeam": {
+        "id": 5532,
+        "name": "NL 3/6 Winner",
+        "abbreviation": "NL3/6"
+      },
+      "homeTeam": {
+        "id": 119,
+        "name": "Los Angeles Dodgers",
+        "abbreviation": "LAD"
+      },
+      "awayScore": null,
+      "homeScore": null,
+      "venue": "UNIQLO Field at Dodger Stadium",
       "awayPitcher": null,
       "homePitcher": null
     },
@@ -11082,8 +11082,8 @@
       },
       "homeTeam": {
         "id": 4613,
-        "name": "AL #2 Seed",
-        "abbreviation": "AL2"
+        "name": "AL Central #1",
+        "abbreviation": "ALC1"
       },
       "awayScore": null,
       "homeScore": null,
@@ -11100,9 +11100,9 @@
       "abstractGameState": "Preview",
       "codedGameState": "S",
       "awayTeam": {
-        "id": 4616,
-        "name": "NL #2 Seed",
-        "abbreviation": "NL2"
+        "id": 119,
+        "name": "Los Angeles Dodgers",
+        "abbreviation": "LAD"
       },
       "homeTeam": {
         "id": 5532,
@@ -11124,9 +11124,9 @@
       "abstractGameState": "Preview",
       "codedGameState": "S",
       "awayTeam": {
-        "id": 4615,
-        "name": "NL #1 Seed",
-        "abbreviation": "NL1"
+        "id": 158,
+        "name": "Milwaukee Brewers",
+        "abbreviation": "MIL"
       },
       "homeTeam": {
         "id": 5533,
@@ -11164,30 +11164,6 @@
       "homePitcher": null
     },
     {
-      "gamePk": 849833,
-      "date": "2026-10-07",
-      "gameDate": "2026-10-07T07:33:00Z",
-      "localGameTime": "2026-10-07T03:33:00-04:00",
-      "status": "Scheduled",
-      "abstractGameState": "Preview",
-      "codedGameState": "S",
-      "awayTeam": {
-        "id": 4613,
-        "name": "AL #2 Seed",
-        "abbreviation": "AL2"
-      },
-      "homeTeam": {
-        "id": 5528,
-        "name": "AL 3/6 Winner",
-        "abbreviation": "AL3/6"
-      },
-      "awayScore": null,
-      "homeScore": null,
-      "venue": "AL Stadium",
-      "awayPitcher": null,
-      "homePitcher": null
-    },
-    {
       "gamePk": 849822,
       "date": "2026-10-07",
       "gameDate": "2026-10-07T07:33:00Z",
@@ -11196,9 +11172,9 @@
       "abstractGameState": "Preview",
       "codedGameState": "S",
       "awayTeam": {
-        "id": 4616,
-        "name": "NL #2 Seed",
-        "abbreviation": "NL2"
+        "id": 119,
+        "name": "Los Angeles Dodgers",
+        "abbreviation": "LAD"
       },
       "homeTeam": {
         "id": 5532,
@@ -11220,9 +11196,9 @@
       "abstractGameState": "Preview",
       "codedGameState": "S",
       "awayTeam": {
-        "id": 4615,
-        "name": "NL #1 Seed",
-        "abbreviation": "NL1"
+        "id": 158,
+        "name": "Milwaukee Brewers",
+        "abbreviation": "MIL"
       },
       "homeTeam": {
         "id": 5533,
@@ -11232,6 +11208,30 @@
       "awayScore": null,
       "homeScore": null,
       "venue": "NL Stadium",
+      "awayPitcher": null,
+      "homePitcher": null
+    },
+    {
+      "gamePk": 849833,
+      "date": "2026-10-07",
+      "gameDate": "2026-10-07T07:33:00Z",
+      "localGameTime": "2026-10-07T03:33:00-04:00",
+      "status": "Scheduled",
+      "abstractGameState": "Preview",
+      "codedGameState": "S",
+      "awayTeam": {
+        "id": 4613,
+        "name": "AL Central #1",
+        "abbreviation": "ALC1"
+      },
+      "homeTeam": {
+        "id": 5528,
+        "name": "AL 3/6 Winner",
+        "abbreviation": "AL3/6"
+      },
+      "awayScore": null,
+      "homeScore": null,
+      "venue": "AL Stadium",
       "awayPitcher": null,
       "homePitcher": null
     },
@@ -11269,8 +11269,8 @@
       "codedGameState": "S",
       "awayTeam": {
         "id": 4613,
-        "name": "AL #2 Seed",
-        "abbreviation": "AL2"
+        "name": "AL Central #1",
+        "abbreviation": "ALC1"
       },
       "homeTeam": {
         "id": 5528,
@@ -11284,34 +11284,10 @@
       "homePitcher": null
     },
     {
-      "gamePk": 849821,
-      "date": "2026-10-09",
-      "gameDate": "2026-10-09T07:33:00Z",
-      "localGameTime": "2026-10-09T03:33:00-04:00",
-      "status": "Scheduled",
-      "abstractGameState": "Preview",
-      "codedGameState": "S",
-      "awayTeam": {
-        "id": 5532,
-        "name": "NL 3/6 Winner",
-        "abbreviation": "NL3/6"
-      },
-      "homeTeam": {
-        "id": 4616,
-        "name": "NL #2 Seed",
-        "abbreviation": "NL2"
-      },
-      "awayScore": null,
-      "homeScore": null,
-      "venue": "NL Stadium",
-      "awayPitcher": null,
-      "homePitcher": null
-    },
-    {
       "gamePk": 849824,
       "date": "2026-10-09",
-      "gameDate": "2026-10-09T07:33:00Z",
-      "localGameTime": "2026-10-09T03:33:00-04:00",
+      "gameDate": "2026-10-09T08:33:00Z",
+      "localGameTime": "2026-10-09T04:33:00-04:00",
       "status": "Scheduled",
       "abstractGameState": "Preview",
       "codedGameState": "S",
@@ -11321,13 +11297,37 @@
         "abbreviation": "NL4/5"
       },
       "homeTeam": {
-        "id": 4615,
-        "name": "NL #1 Seed",
-        "abbreviation": "NL1"
+        "id": 158,
+        "name": "Milwaukee Brewers",
+        "abbreviation": "MIL"
       },
       "awayScore": null,
       "homeScore": null,
-      "venue": "NL Stadium",
+      "venue": "American Family Field",
+      "awayPitcher": null,
+      "homePitcher": null
+    },
+    {
+      "gamePk": 849821,
+      "date": "2026-10-09",
+      "gameDate": "2026-10-09T10:33:00Z",
+      "localGameTime": "2026-10-09T06:33:00-04:00",
+      "status": "Scheduled",
+      "abstractGameState": "Preview",
+      "codedGameState": "S",
+      "awayTeam": {
+        "id": 5532,
+        "name": "NL 3/6 Winner",
+        "abbreviation": "NL3/6"
+      },
+      "homeTeam": {
+        "id": 119,
+        "name": "Los Angeles Dodgers",
+        "abbreviation": "LAD"
+      },
+      "awayScore": null,
+      "homeScore": null,
+      "venue": "UNIQLO Field at Dodger Stadium",
       "awayPitcher": null,
       "homePitcher": null
     },
@@ -11370,8 +11370,8 @@
       },
       "homeTeam": {
         "id": 4613,
-        "name": "AL #2 Seed",
-        "abbreviation": "AL2"
+        "name": "AL Central #1",
+        "abbreviation": "ALC1"
       },
       "awayScore": null,
       "homeScore": null,
