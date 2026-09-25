@@ -1,6 +1,6 @@
 {
   "season": 2026,
-  "lastUpdated": "2026-09-25T18:33:23.198614+00:00",
+  "lastUpdated": "2026-09-25T22:17:20.605787+00:00",
   "leagues": {
     "AL": {
       "offense": {
@@ -84,7 +84,7 @@
             "player": "Pete Alonso",
             "team": "Baltimore Orioles",
             "position": "1B",
-            "value": "41"
+            "value": "43"
           },
           {
             "rank": 2,
@@ -121,7 +121,7 @@
             "player": "Pete Alonso",
             "team": "Baltimore Orioles",
             "position": "1B",
-            "value": "110"
+            "value": "113"
           },
           {
             "rank": 2,
@@ -239,28 +239,28 @@
             "player": "Ben Rice",
             "team": "New York Yankees",
             "position": "DH",
-            "value": ".535"
+            "value": ".532"
           },
           {
             "rank": 3,
+            "player": "Pete Alonso",
+            "team": "Baltimore Orioles",
+            "position": "1B",
+            "value": ".523"
+          },
+          {
+            "rank": 4,
             "player": "Junior Caminero",
             "team": "Tampa Bay Rays",
             "position": "3B",
             "value": ".522"
           },
           {
-            "rank": 4,
+            "rank": 5,
             "player": "Willson Contreras",
             "team": "Boston Red Sox",
             "position": "1B",
             "value": ".518"
-          },
-          {
-            "rank": 5,
-            "player": "Pete Alonso",
-            "team": "Baltimore Orioles",
-            "position": "1B",
-            "value": ".512"
           }
         ],
         "ops": [
@@ -283,21 +283,21 @@
             "player": "Ben Rice",
             "team": "New York Yankees",
             "position": "DH",
-            "value": ".897"
+            "value": ".892"
           },
           {
             "rank": 4,
+            "player": "Pete Alonso",
+            "team": "Baltimore Orioles",
+            "position": "1B",
+            "value": ".884"
+          },
+          {
+            "rank": 5,
             "player": "Junior Caminero",
             "team": "Tampa Bay Rays",
             "position": "3B",
             "value": ".882"
-          },
-          {
-            "rank": 5,
-            "player": "Pete Alonso",
-            "team": "Baltimore Orioles",
-            "position": "1B",
-            "value": ".871"
           }
         ],
         "stolenBases": [
@@ -688,7 +688,7 @@
             "player": "Pete Alonso",
             "team": "Baltimore Orioles",
             "position": "1B",
-            "value": "1040"
+            "value": "1044"
           },
           {
             "rank": 3,
@@ -725,7 +725,7 @@
             "player": "Gunnar Henderson",
             "team": "Baltimore Orioles",
             "position": "SS",
-            "value": "365"
+            "value": "367"
           },
           {
             "rank": 3,
@@ -766,17 +766,17 @@
           },
           {
             "rank": 3,
-            "player": "Zach Neto",
-            "team": "Los Angeles Angels",
+            "player": "Gunnar Henderson",
+            "team": "Baltimore Orioles",
             "position": "SS",
             "value": "18"
           },
           {
             "rank": 4,
-            "player": "Gunnar Henderson",
-            "team": "Baltimore Orioles",
+            "player": "Zach Neto",
+            "team": "Los Angeles Angels",
             "position": "SS",
-            "value": "17"
+            "value": "18"
           },
           {
             "rank": 5,
@@ -1056,7 +1056,7 @@
             "player": "Pete Crow-Armstrong",
             "team": "Chicago Cubs",
             "position": "CF",
-            "value": ".574"
+            "value": ".571"
           },
           {
             "rank": 2,
@@ -1093,7 +1093,7 @@
             "player": "Pete Crow-Armstrong",
             "team": "Chicago Cubs",
             "position": "CF",
-            "value": ".947"
+            "value": ".944"
           },
           {
             "rank": 2,
@@ -1505,7 +1505,7 @@
             "player": "Michael Busch",
             "team": "Chicago Cubs",
             "position": "1B",
-            "value": "1199"
+            "value": "1206"
           },
           {
             "rank": 2,
