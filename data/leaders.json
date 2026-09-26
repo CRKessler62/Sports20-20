@@ -1,6 +1,6 @@
 {
   "season": 2026,
-  "lastUpdated": "2026-09-26T13:02:14.825275+00:00",
+  "lastUpdated": "2026-09-26T17:07:43.028611+00:00",
   "leagues": {
     "AL": {
       "offense": {
@@ -1023,16 +1023,16 @@
           },
           {
             "rank": 2,
-            "player": "TJ Rumfield",
-            "team": "Colorado Rockies",
-            "position": "1B",
-            "value": ".389"
-          },
-          {
-            "rank": 3,
             "player": "James Wood",
             "team": "Washington Nationals",
             "position": "RF",
+            "value": ".390"
+          },
+          {
+            "rank": 3,
+            "player": "TJ Rumfield",
+            "team": "Colorado Rockies",
+            "position": "1B",
             "value": ".389"
           },
           {
@@ -1097,16 +1097,16 @@
           },
           {
             "rank": 2,
-            "player": "Shohei Ohtani",
-            "team": "Los Angeles Dodgers",
-            "position": "TWP",
-            "value": ".895"
-          },
-          {
-            "rank": 3,
             "player": "James Wood",
             "team": "Washington Nationals",
             "position": "RF",
+            "value": ".897"
+          },
+          {
+            "rank": 3,
+            "player": "Shohei Ohtani",
+            "team": "Los Angeles Dodgers",
+            "position": "TWP",
             "value": ".895"
           },
           {
