@@ -1,6 +1,6 @@
 {
   "season": 2026,
-  "lastUpdated": "2026-09-26T17:07:43.028611+00:00",
+  "lastUpdated": "2026-09-26T19:49:14.524695+00:00",
   "leagues": {
     "AL": {
       "offense": {
@@ -75,7 +75,7 @@
             "player": "Kevin McGonigle",
             "team": "Detroit Tigers",
             "position": "SS",
-            "value": "165"
+            "value": "166"
           }
         ],
         "homeRuns": [
@@ -681,7 +681,7 @@
             "player": "Spencer Torkelson",
             "team": "Detroit Tigers",
             "position": "1B",
-            "value": "1167"
+            "value": "1174"
           },
           {
             "rank": 2,
@@ -1026,7 +1026,7 @@
             "player": "James Wood",
             "team": "Washington Nationals",
             "position": "RF",
-            "value": ".390"
+            "value": ".389"
           },
           {
             "rank": 3,
@@ -1077,7 +1077,7 @@
             "player": "Elly De La Cruz",
             "team": "Cincinnati Reds",
             "position": "SS",
-            "value": ".521"
+            "value": ".519"
           },
           {
             "rank": 5,
@@ -1097,16 +1097,16 @@
           },
           {
             "rank": 2,
-            "player": "James Wood",
-            "team": "Washington Nationals",
-            "position": "RF",
-            "value": ".897"
-          },
-          {
-            "rank": 3,
             "player": "Shohei Ohtani",
             "team": "Los Angeles Dodgers",
             "position": "TWP",
+            "value": ".895"
+          },
+          {
+            "rank": 3,
+            "player": "James Wood",
+            "team": "Washington Nationals",
+            "position": "RF",
             "value": ".895"
           },
           {
@@ -1114,7 +1114,7 @@
             "player": "Elly De La Cruz",
             "team": "Cincinnati Reds",
             "position": "SS",
-            "value": ".888"
+            "value": ".885"
           },
           {
             "rank": 5,
@@ -1567,10 +1567,10 @@
           },
           {
             "rank": 5,
-            "player": "Geraldo Perdomo",
-            "team": "Arizona Diamondbacks",
-            "position": "SS",
-            "value": "361"
+            "player": "Brandon Lowe",
+            "team": "Pittsburgh Pirates",
+            "position": "2B",
+            "value": "362"
           }
         ],
         "errors": [
