@@ -1,7 +1,7 @@
 {
   "league": "MLB",
   "timezone": "America/New_York",
-  "lastUpdated": "2026-09-26T12:45:29.563285+00:00",
+  "lastUpdated": "2026-09-26T16:55:26.210216+00:00",
   "games": [
     {
       "gamePk": 822694,
@@ -9584,9 +9584,9 @@
       "date": "2026-09-26",
       "gameDate": "2026-09-26T16:35:00Z",
       "localGameTime": "2026-09-26T12:35:00-04:00",
-      "status": "Scheduled",
-      "abstractGameState": "Preview",
-      "codedGameState": "S",
+      "status": "In Progress",
+      "abstractGameState": "Live",
+      "codedGameState": "I",
       "awayTeam": {
         "id": 121,
         "name": "New York Mets",
@@ -9597,8 +9597,8 @@
         "name": "Washington Nationals",
         "abbreviation": "WSH"
       },
-      "awayScore": null,
-      "homeScore": null,
+      "awayScore": 0,
+      "homeScore": 0,
       "venue": "Nationals Park",
       "awayPitcher": "Jonah Tong",
       "homePitcher": "Connelly Early"
@@ -9608,9 +9608,9 @@
       "date": "2026-09-26",
       "gameDate": "2026-09-26T17:10:00Z",
       "localGameTime": "2026-09-26T13:10:00-04:00",
-      "status": "Scheduled",
-      "abstractGameState": "Preview",
-      "codedGameState": "S",
+      "status": "Warmup",
+      "abstractGameState": "Live",
+      "codedGameState": "P",
       "awayTeam": {
         "id": 134,
         "name": "Pittsburgh Pirates",
@@ -9621,8 +9621,8 @@
         "name": "Detroit Tigers",
         "abbreviation": "DET"
       },
-      "awayScore": null,
-      "homeScore": null,
+      "awayScore": 0,
+      "homeScore": 0,
       "venue": "Comerica Park",
       "awayPitcher": "Kirby Yates",
       "homePitcher": "Justin Verlander"
@@ -9632,9 +9632,9 @@
       "date": "2026-09-26",
       "gameDate": "2026-09-26T19:07:00Z",
       "localGameTime": "2026-09-26T15:07:00-04:00",
-      "status": "Scheduled",
+      "status": "Pre-Game",
       "abstractGameState": "Preview",
-      "codedGameState": "S",
+      "codedGameState": "P",
       "awayTeam": {
         "id": 113,
         "name": "Cincinnati Reds",
@@ -9645,8 +9645,8 @@
         "name": "Toronto Blue Jays",
         "abbreviation": "TOR"
       },
-      "awayScore": null,
-      "homeScore": null,
+      "awayScore": 0,
+      "homeScore": 0,
       "venue": "Rogers Centre",
       "awayPitcher": "Rhett Lowder",
       "homePitcher": "Trey Yesavage"
@@ -9656,9 +9656,9 @@
       "date": "2026-09-26",
       "gameDate": "2026-09-26T20:05:00Z",
       "localGameTime": "2026-09-26T16:05:00-04:00",
-      "status": "Scheduled",
+      "status": "Pre-Game",
       "abstractGameState": "Preview",
-      "codedGameState": "S",
+      "codedGameState": "P",
       "awayTeam": {
         "id": 119,
         "name": "Los Angeles Dodgers",
@@ -9704,9 +9704,9 @@
       "date": "2026-09-26",
       "gameDate": "2026-09-26T20:10:00Z",
       "localGameTime": "2026-09-26T16:10:00-04:00",
-      "status": "Scheduled",
+      "status": "Pre-Game",
       "abstractGameState": "Preview",
-      "codedGameState": "S",
+      "codedGameState": "P",
       "awayTeam": {
         "id": 144,
         "name": "Atlanta Braves",
