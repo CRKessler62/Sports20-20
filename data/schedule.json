@@ -1,7 +1,7 @@
 {
   "league": "MLB",
   "timezone": "America/New_York",
-  "lastUpdated": "2026-09-27T01:09:19.204133+00:00",
+  "lastUpdated": "2026-09-27T07:45:32.930822+00:00",
   "games": [
     {
       "gamePk": 824638,
@@ -9512,9 +9512,9 @@
       "date": "2026-09-26",
       "gameDate": "2026-09-26T20:10:00Z",
       "localGameTime": "2026-09-26T16:10:00-04:00",
-      "status": "Game Over",
+      "status": "Final",
       "abstractGameState": "Final",
-      "codedGameState": "O",
+      "codedGameState": "F",
       "awayTeam": {
         "id": 140,
         "name": "Texas Rangers",
@@ -9560,9 +9560,9 @@
       "date": "2026-09-26",
       "gameDate": "2026-09-26T23:10:00Z",
       "localGameTime": "2026-09-26T19:10:00-04:00",
-      "status": "In Progress",
-      "abstractGameState": "Live",
-      "codedGameState": "I",
+      "status": "Final",
+      "abstractGameState": "Final",
+      "codedGameState": "F",
       "awayTeam": {
         "id": 114,
         "name": "Cleveland Guardians",
@@ -9573,8 +9573,8 @@
         "name": "Kansas City Royals",
         "abbreviation": "KC"
       },
-      "awayScore": 7,
-      "homeScore": 3,
+      "awayScore": 11,
+      "homeScore": 5,
       "venue": "Kauffman Stadium",
       "awayPitcher": "Tanner Bibee",
       "homePitcher": "Michael Wacha"
@@ -9584,9 +9584,9 @@
       "date": "2026-09-26",
       "gameDate": "2026-09-26T23:10:00Z",
       "localGameTime": "2026-09-26T19:10:00-04:00",
-      "status": "In Progress",
-      "abstractGameState": "Live",
-      "codedGameState": "I",
+      "status": "Final",
+      "abstractGameState": "Final",
+      "codedGameState": "F",
       "awayTeam": {
         "id": 115,
         "name": "Colorado Rockies",
@@ -9597,8 +9597,8 @@
         "name": "Chicago White Sox",
         "abbreviation": "CWS"
       },
-      "awayScore": 5,
-      "homeScore": 2,
+      "awayScore": 9,
+      "homeScore": 6,
       "venue": "Rate Field",
       "awayPitcher": "Jose Quintana",
       "homePitcher": "Davis Martin"
@@ -9608,9 +9608,9 @@
       "date": "2026-09-26",
       "gameDate": "2026-09-26T23:10:00Z",
       "localGameTime": "2026-09-26T19:10:00-04:00",
-      "status": "In Progress",
-      "abstractGameState": "Live",
-      "codedGameState": "I",
+      "status": "Final",
+      "abstractGameState": "Final",
+      "codedGameState": "F",
       "awayTeam": {
         "id": 138,
         "name": "St. Louis Cardinals",
@@ -9632,9 +9632,9 @@
       "date": "2026-09-26",
       "gameDate": "2026-09-26T23:15:00Z",
       "localGameTime": "2026-09-26T19:15:00-04:00",
-      "status": "In Progress",
-      "abstractGameState": "Live",
-      "codedGameState": "I",
+      "status": "Final",
+      "abstractGameState": "Final",
+      "codedGameState": "F",
       "awayTeam": {
         "id": 139,
         "name": "Tampa Bay Rays",
@@ -9645,8 +9645,8 @@
         "name": "Philadelphia Phillies",
         "abbreviation": "PHI"
       },
-      "awayScore": 3,
-      "homeScore": 0,
+      "awayScore": 12,
+      "homeScore": 1,
       "venue": "Citizens Bank Park",
       "awayPitcher": "Griffin Jax",
       "homePitcher": "Aaron Nola"
@@ -9656,9 +9656,9 @@
       "date": "2026-09-26",
       "gameDate": "2026-09-27T00:40:00Z",
       "localGameTime": "2026-09-26T20:40:00-04:00",
-      "status": "In Progress",
-      "abstractGameState": "Live",
-      "codedGameState": "I",
+      "status": "Final",
+      "abstractGameState": "Final",
+      "codedGameState": "F",
       "awayTeam": {
         "id": 109,
         "name": "Arizona Diamondbacks",
@@ -9669,8 +9669,8 @@
         "name": "San Diego Padres",
         "abbreviation": "SD"
       },
-      "awayScore": 0,
-      "homeScore": 1,
+      "awayScore": 7,
+      "homeScore": 10,
       "venue": "Petco Park",
       "awayPitcher": "Taylor Clarke",
       "homePitcher": "Walker Buehler"
@@ -9680,9 +9680,9 @@
       "date": "2026-09-26",
       "gameDate": "2026-09-27T01:40:00Z",
       "localGameTime": "2026-09-26T21:40:00-04:00",
-      "status": "Pre-Game",
-      "abstractGameState": "Preview",
-      "codedGameState": "P",
+      "status": "Final",
+      "abstractGameState": "Final",
+      "codedGameState": "F",
       "awayTeam": {
         "id": 117,
         "name": "Houston Astros",
@@ -9693,8 +9693,8 @@
         "name": "Athletics",
         "abbreviation": "ATH"
       },
-      "awayScore": 0,
-      "homeScore": 0,
+      "awayScore": 13,
+      "homeScore": 2,
       "venue": "Sutter Health Park",
       "awayPitcher": "Hayden Wesneski",
       "homePitcher": "Jack Perkins"
@@ -9704,9 +9704,9 @@
       "date": "2026-09-26",
       "gameDate": "2026-09-27T01:40:00Z",
       "localGameTime": "2026-09-26T21:40:00-04:00",
-      "status": "Pre-Game",
-      "abstractGameState": "Preview",
-      "codedGameState": "P",
+      "status": "Final",
+      "abstractGameState": "Final",
+      "codedGameState": "F",
       "awayTeam": {
         "id": 108,
         "name": "Los Angeles Angels",
@@ -9717,8 +9717,8 @@
         "name": "Seattle Mariners",
         "abbreviation": "SEA"
       },
-      "awayScore": 0,
-      "homeScore": 0,
+      "awayScore": 4,
+      "homeScore": 8,
       "venue": "T-Mobile Park",
       "awayPitcher": "Ryan Johnson",
       "homePitcher": "Kade Anderson"
@@ -9816,8 +9816,8 @@
       "awayScore": null,
       "homeScore": null,
       "venue": "Sutter Health Park",
-      "awayPitcher": null,
-      "homePitcher": null
+      "awayPitcher": "Peter Lambert",
+      "homePitcher": "Seth Johnson"
     },
     {
       "gamePk": 823164,
@@ -9841,7 +9841,7 @@
       "homeScore": null,
       "venue": "Oracle Park",
       "awayPitcher": null,
-      "homePitcher": null
+      "homePitcher": "Carson Seymour"
     },
     {
       "gamePk": 823408,
@@ -9912,7 +9912,7 @@
       "awayScore": null,
       "homeScore": null,
       "venue": "Kauffman Stadium",
-      "awayPitcher": null,
+      "awayPitcher": "Parker Messick",
       "homePitcher": "Daniel Lynch IV"
     },
     {
@@ -9961,7 +9961,7 @@
       "homeScore": null,
       "venue": "Petco Park",
       "awayPitcher": "Michael Soroka",
-      "homePitcher": null
+      "homePitcher": "Randy V\u00e1squez"
     },
     {
       "gamePk": 823084,
@@ -10008,7 +10008,7 @@
       "awayScore": null,
       "homeScore": null,
       "venue": "Target Field",
-      "awayPitcher": null,
+      "awayPitcher": "MacKenzie Gore",
       "homePitcher": "Dean Kremer"
     },
     {
@@ -10108,6 +10108,30 @@
       "homePitcher": null
     },
     {
+      "gamePk": 849849,
+      "date": "2026-09-29",
+      "gameDate": "2026-09-29T07:33:00Z",
+      "localGameTime": "2026-09-29T03:33:00-04:00",
+      "status": "Scheduled",
+      "abstractGameState": "Preview",
+      "codedGameState": "S",
+      "awayTeam": {
+        "id": 145,
+        "name": "Chicago White Sox",
+        "abbreviation": "CWS"
+      },
+      "homeTeam": {
+        "id": 4614,
+        "name": "HOU/TEX",
+        "abbreviation": "HOU/TEX"
+      },
+      "awayScore": null,
+      "homeScore": null,
+      "venue": "AL Stadium",
+      "awayPitcher": null,
+      "homePitcher": null
+    },
+    {
       "gamePk": 849845,
       "date": "2026-09-29",
       "gameDate": "2026-09-29T07:33:00Z",
@@ -10134,48 +10158,24 @@
     {
       "gamePk": 849843,
       "date": "2026-09-29",
-      "gameDate": "2026-09-29T07:33:00Z",
-      "localGameTime": "2026-09-29T03:33:00-04:00",
+      "gameDate": "2026-09-29T10:33:00Z",
+      "localGameTime": "2026-09-29T06:33:00-04:00",
       "status": "Scheduled",
       "abstractGameState": "Preview",
       "codedGameState": "S",
       "awayTeam": {
-        "id": 4945,
-        "name": "NL Wild Card #2",
-        "abbreviation": "NLWC2"
+        "id": 112,
+        "name": "Chicago Cubs",
+        "abbreviation": "CHC"
       },
       "homeTeam": {
-        "id": 4619,
-        "name": "NL Wild Card #1",
-        "abbreviation": "NLWC1"
+        "id": 135,
+        "name": "San Diego Padres",
+        "abbreviation": "SD"
       },
       "awayScore": null,
       "homeScore": null,
-      "venue": "NL Stadium",
-      "awayPitcher": null,
-      "homePitcher": null
-    },
-    {
-      "gamePk": 849849,
-      "date": "2026-09-29",
-      "gameDate": "2026-09-29T07:33:00Z",
-      "localGameTime": "2026-09-29T03:33:00-04:00",
-      "status": "Scheduled",
-      "abstractGameState": "Preview",
-      "codedGameState": "S",
-      "awayTeam": {
-        "id": 4946,
-        "name": "CWS/CLE",
-        "abbreviation": "CWS/CLE"
-      },
-      "homeTeam": {
-        "id": 4614,
-        "name": "HOU/TEX",
-        "abbreviation": "HOU/TEX"
-      },
-      "awayScore": null,
-      "homeScore": null,
-      "venue": "AL Stadium",
+      "venue": "Petco Park",
       "awayPitcher": null,
       "homePitcher": null
     },
@@ -10200,6 +10200,30 @@
       "awayScore": null,
       "homeScore": null,
       "venue": "Yankee Stadium",
+      "awayPitcher": null,
+      "homePitcher": null
+    },
+    {
+      "gamePk": 849846,
+      "date": "2026-09-30",
+      "gameDate": "2026-09-30T07:33:00Z",
+      "localGameTime": "2026-09-30T03:33:00-04:00",
+      "status": "Scheduled",
+      "abstractGameState": "Preview",
+      "codedGameState": "S",
+      "awayTeam": {
+        "id": 145,
+        "name": "Chicago White Sox",
+        "abbreviation": "CWS"
+      },
+      "homeTeam": {
+        "id": 4614,
+        "name": "HOU/TEX",
+        "abbreviation": "HOU/TEX"
+      },
+      "awayScore": null,
+      "homeScore": null,
+      "venue": "AL Stadium",
       "awayPitcher": null,
       "homePitcher": null
     },
@@ -10230,48 +10254,24 @@
     {
       "gamePk": 849842,
       "date": "2026-09-30",
-      "gameDate": "2026-09-30T07:33:00Z",
-      "localGameTime": "2026-09-30T03:33:00-04:00",
+      "gameDate": "2026-09-30T10:33:00Z",
+      "localGameTime": "2026-09-30T06:33:00-04:00",
       "status": "Scheduled",
       "abstractGameState": "Preview",
       "codedGameState": "S",
       "awayTeam": {
-        "id": 4945,
-        "name": "NL Wild Card #2",
-        "abbreviation": "NLWC2"
+        "id": 112,
+        "name": "Chicago Cubs",
+        "abbreviation": "CHC"
       },
       "homeTeam": {
-        "id": 4619,
-        "name": "NL Wild Card #1",
-        "abbreviation": "NLWC1"
+        "id": 135,
+        "name": "San Diego Padres",
+        "abbreviation": "SD"
       },
       "awayScore": null,
       "homeScore": null,
-      "venue": "NL Stadium",
-      "awayPitcher": null,
-      "homePitcher": null
-    },
-    {
-      "gamePk": 849846,
-      "date": "2026-09-30",
-      "gameDate": "2026-09-30T07:33:00Z",
-      "localGameTime": "2026-09-30T03:33:00-04:00",
-      "status": "Scheduled",
-      "abstractGameState": "Preview",
-      "codedGameState": "S",
-      "awayTeam": {
-        "id": 4946,
-        "name": "CWS/CLE",
-        "abbreviation": "CWS/CLE"
-      },
-      "homeTeam": {
-        "id": 4614,
-        "name": "HOU/TEX",
-        "abbreviation": "HOU/TEX"
-      },
-      "awayScore": null,
-      "homeScore": null,
-      "venue": "AL Stadium",
+      "venue": "Petco Park",
       "awayPitcher": null,
       "homePitcher": null
     },
@@ -10296,6 +10296,30 @@
       "awayScore": null,
       "homeScore": null,
       "venue": "Yankee Stadium",
+      "awayPitcher": null,
+      "homePitcher": null
+    },
+    {
+      "gamePk": 849850,
+      "date": "2026-10-01",
+      "gameDate": "2026-10-01T07:33:00Z",
+      "localGameTime": "2026-10-01T03:33:00-04:00",
+      "status": "Scheduled",
+      "abstractGameState": "Preview",
+      "codedGameState": "S",
+      "awayTeam": {
+        "id": 145,
+        "name": "Chicago White Sox",
+        "abbreviation": "CWS"
+      },
+      "homeTeam": {
+        "id": 4614,
+        "name": "HOU/TEX",
+        "abbreviation": "HOU/TEX"
+      },
+      "awayScore": null,
+      "homeScore": null,
+      "venue": "AL Stadium",
       "awayPitcher": null,
       "homePitcher": null
     },
@@ -10326,48 +10350,48 @@
     {
       "gamePk": 849840,
       "date": "2026-10-01",
-      "gameDate": "2026-10-01T07:33:00Z",
-      "localGameTime": "2026-10-01T03:33:00-04:00",
+      "gameDate": "2026-10-01T10:33:00Z",
+      "localGameTime": "2026-10-01T06:33:00-04:00",
       "status": "Scheduled",
       "abstractGameState": "Preview",
       "codedGameState": "S",
       "awayTeam": {
-        "id": 4945,
-        "name": "NL Wild Card #2",
-        "abbreviation": "NLWC2"
+        "id": 112,
+        "name": "Chicago Cubs",
+        "abbreviation": "CHC"
       },
       "homeTeam": {
-        "id": 4619,
-        "name": "NL Wild Card #1",
-        "abbreviation": "NLWC1"
+        "id": 135,
+        "name": "San Diego Padres",
+        "abbreviation": "SD"
       },
       "awayScore": null,
       "homeScore": null,
-      "venue": "NL Stadium",
+      "venue": "Petco Park",
       "awayPitcher": null,
       "homePitcher": null
     },
     {
-      "gamePk": 849850,
-      "date": "2026-10-01",
-      "gameDate": "2026-10-01T07:33:00Z",
-      "localGameTime": "2026-10-01T03:33:00-04:00",
+      "gamePk": 849829,
+      "date": "2026-10-03",
+      "gameDate": "2026-10-03T07:33:00Z",
+      "localGameTime": "2026-10-03T03:33:00-04:00",
       "status": "Scheduled",
       "abstractGameState": "Preview",
       "codedGameState": "S",
       "awayTeam": {
-        "id": 4946,
-        "name": "CWS/CLE",
-        "abbreviation": "CWS/CLE"
+        "id": 5528,
+        "name": "AL 3/6 Winner",
+        "abbreviation": "AL3/6"
       },
       "homeTeam": {
-        "id": 4614,
-        "name": "HOU/TEX",
-        "abbreviation": "HOU/TEX"
+        "id": 114,
+        "name": "Cleveland Guardians",
+        "abbreviation": "CLE"
       },
       "awayScore": null,
       "homeScore": null,
-      "venue": "AL Stadium",
+      "venue": "Progressive Field",
       "awayPitcher": null,
       "homePitcher": null
     },
@@ -10392,30 +10416,6 @@
       "awayScore": null,
       "homeScore": null,
       "venue": "Tropicana Field",
-      "awayPitcher": null,
-      "homePitcher": null
-    },
-    {
-      "gamePk": 849829,
-      "date": "2026-10-03",
-      "gameDate": "2026-10-03T07:33:00Z",
-      "localGameTime": "2026-10-03T03:33:00-04:00",
-      "status": "Scheduled",
-      "abstractGameState": "Preview",
-      "codedGameState": "S",
-      "awayTeam": {
-        "id": 5528,
-        "name": "AL 3/6 Winner",
-        "abbreviation": "AL3/6"
-      },
-      "homeTeam": {
-        "id": 4613,
-        "name": "CLE/CWS",
-        "abbreviation": "CLE/CWS"
-      },
-      "awayScore": null,
-      "homeScore": null,
-      "venue": "AL Stadium",
       "awayPitcher": null,
       "homePitcher": null
     },
@@ -10516,6 +10516,30 @@
       "homePitcher": null
     },
     {
+      "gamePk": 849834,
+      "date": "2026-10-05",
+      "gameDate": "2026-10-05T07:33:00Z",
+      "localGameTime": "2026-10-05T03:33:00-04:00",
+      "status": "Scheduled",
+      "abstractGameState": "Preview",
+      "codedGameState": "S",
+      "awayTeam": {
+        "id": 5528,
+        "name": "AL 3/6 Winner",
+        "abbreviation": "AL3/6"
+      },
+      "homeTeam": {
+        "id": 114,
+        "name": "Cleveland Guardians",
+        "abbreviation": "CLE"
+      },
+      "awayScore": null,
+      "homeScore": null,
+      "venue": "Progressive Field",
+      "awayPitcher": null,
+      "homePitcher": null
+    },
+    {
       "gamePk": 849839,
       "date": "2026-10-05",
       "gameDate": "2026-10-05T07:33:00Z",
@@ -10536,30 +10560,6 @@
       "awayScore": null,
       "homeScore": null,
       "venue": "Tropicana Field",
-      "awayPitcher": null,
-      "homePitcher": null
-    },
-    {
-      "gamePk": 849834,
-      "date": "2026-10-05",
-      "gameDate": "2026-10-05T07:33:00Z",
-      "localGameTime": "2026-10-05T03:33:00-04:00",
-      "status": "Scheduled",
-      "abstractGameState": "Preview",
-      "codedGameState": "S",
-      "awayTeam": {
-        "id": 5528,
-        "name": "AL 3/6 Winner",
-        "abbreviation": "AL3/6"
-      },
-      "homeTeam": {
-        "id": 4613,
-        "name": "CLE/CWS",
-        "abbreviation": "CLE/CWS"
-      },
-      "awayScore": null,
-      "homeScore": null,
-      "venue": "AL Stadium",
       "awayPitcher": null,
       "homePitcher": null
     },
@@ -10608,6 +10608,30 @@
       "awayScore": null,
       "homeScore": null,
       "venue": "NL Stadium",
+      "awayPitcher": null,
+      "homePitcher": null
+    },
+    {
+      "gamePk": 849833,
+      "date": "2026-10-07",
+      "gameDate": "2026-10-07T07:33:00Z",
+      "localGameTime": "2026-10-07T03:33:00-04:00",
+      "status": "Scheduled",
+      "abstractGameState": "Preview",
+      "codedGameState": "S",
+      "awayTeam": {
+        "id": 114,
+        "name": "Cleveland Guardians",
+        "abbreviation": "CLE"
+      },
+      "homeTeam": {
+        "id": 5528,
+        "name": "AL 3/6 Winner",
+        "abbreviation": "AL3/6"
+      },
+      "awayScore": null,
+      "homeScore": null,
+      "venue": "AL Stadium",
       "awayPitcher": null,
       "homePitcher": null
     },
@@ -10684,17 +10708,17 @@
       "homePitcher": null
     },
     {
-      "gamePk": 849833,
-      "date": "2026-10-07",
-      "gameDate": "2026-10-07T07:33:00Z",
-      "localGameTime": "2026-10-07T03:33:00-04:00",
+      "gamePk": 849832,
+      "date": "2026-10-08",
+      "gameDate": "2026-10-08T07:33:00Z",
+      "localGameTime": "2026-10-08T03:33:00-04:00",
       "status": "Scheduled",
       "abstractGameState": "Preview",
       "codedGameState": "S",
       "awayTeam": {
-        "id": 4613,
-        "name": "CLE/CWS",
-        "abbreviation": "CLE/CWS"
+        "id": 114,
+        "name": "Cleveland Guardians",
+        "abbreviation": "CLE"
       },
       "homeTeam": {
         "id": 5528,
@@ -10724,30 +10748,6 @@
         "id": 5529,
         "name": "AL 4/5 Winner",
         "abbreviation": "AL4/5"
-      },
-      "awayScore": null,
-      "homeScore": null,
-      "venue": "AL Stadium",
-      "awayPitcher": null,
-      "homePitcher": null
-    },
-    {
-      "gamePk": 849832,
-      "date": "2026-10-08",
-      "gameDate": "2026-10-08T07:33:00Z",
-      "localGameTime": "2026-10-08T03:33:00-04:00",
-      "status": "Scheduled",
-      "abstractGameState": "Preview",
-      "codedGameState": "S",
-      "awayTeam": {
-        "id": 4613,
-        "name": "CLE/CWS",
-        "abbreviation": "CLE/CWS"
-      },
-      "homeTeam": {
-        "id": 5528,
-        "name": "AL 3/6 Winner",
-        "abbreviation": "AL3/6"
       },
       "awayScore": null,
       "homeScore": null,
@@ -10804,6 +10804,30 @@
       "homePitcher": null
     },
     {
+      "gamePk": 849831,
+      "date": "2026-10-10",
+      "gameDate": "2026-10-10T07:33:00Z",
+      "localGameTime": "2026-10-10T03:33:00-04:00",
+      "status": "Scheduled",
+      "abstractGameState": "Preview",
+      "codedGameState": "S",
+      "awayTeam": {
+        "id": 5528,
+        "name": "AL 3/6 Winner",
+        "abbreviation": "AL3/6"
+      },
+      "homeTeam": {
+        "id": 114,
+        "name": "Cleveland Guardians",
+        "abbreviation": "CLE"
+      },
+      "awayScore": null,
+      "homeScore": null,
+      "venue": "Progressive Field",
+      "awayPitcher": null,
+      "homePitcher": null
+    },
+    {
       "gamePk": 849836,
       "date": "2026-10-10",
       "gameDate": "2026-10-10T07:33:00Z",
@@ -10824,30 +10848,6 @@
       "awayScore": null,
       "homeScore": null,
       "venue": "Tropicana Field",
-      "awayPitcher": null,
-      "homePitcher": null
-    },
-    {
-      "gamePk": 849831,
-      "date": "2026-10-10",
-      "gameDate": "2026-10-10T07:33:00Z",
-      "localGameTime": "2026-10-10T03:33:00-04:00",
-      "status": "Scheduled",
-      "abstractGameState": "Preview",
-      "codedGameState": "S",
-      "awayTeam": {
-        "id": 5528,
-        "name": "AL 3/6 Winner",
-        "abbreviation": "AL3/6"
-      },
-      "homeTeam": {
-        "id": 4613,
-        "name": "CLE/CWS",
-        "abbreviation": "CLE/CWS"
-      },
-      "awayScore": null,
-      "homeScore": null,
-      "venue": "AL Stadium",
       "awayPitcher": null,
       "homePitcher": null
     },
