@@ -1,7 +1,7 @@
 {
   "league": "MLB",
   "timezone": "America/New_York",
-  "lastUpdated": "2026-09-27T07:45:32.930822+00:00",
+  "lastUpdated": "2026-09-27T13:38:00.539139+00:00",
   "games": [
     {
       "gamePk": 824638,
@@ -9792,7 +9792,7 @@
       "awayScore": null,
       "homeScore": null,
       "venue": "Tropicana Field",
-      "awayPitcher": null,
+      "awayPitcher": "Shota Imanaga",
       "homePitcher": null
     },
     {
@@ -10141,8 +10141,8 @@
       "codedGameState": "S",
       "awayTeam": {
         "id": 4947,
-        "name": "NL Wild Card #3",
-        "abbreviation": "NLWC3"
+        "name": "PHI/ARI",
+        "abbreviation": "PHI/ARI"
       },
       "homeTeam": {
         "id": 144,
@@ -10237,8 +10237,8 @@
       "codedGameState": "S",
       "awayTeam": {
         "id": 4947,
-        "name": "NL Wild Card #3",
-        "abbreviation": "NLWC3"
+        "name": "PHI/ARI",
+        "abbreviation": "PHI/ARI"
       },
       "homeTeam": {
         "id": 144,
@@ -10333,8 +10333,8 @@
       "codedGameState": "S",
       "awayTeam": {
         "id": 4947,
-        "name": "NL Wild Card #3",
-        "abbreviation": "NLWC3"
+        "name": "PHI/ARI",
+        "abbreviation": "PHI/ARI"
       },
       "homeTeam": {
         "id": 144,
