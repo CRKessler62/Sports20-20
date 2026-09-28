@@ -1,7 +1,7 @@
 {
   "league": "MLB",
   "timezone": "America/New_York",
-  "lastUpdated": "2026-09-28T06:25:51.630878+00:00",
+  "lastUpdated": "2026-09-28T15:04:24.238658+00:00",
   "games": [
     {
       "gamePk": 823539,
@@ -9745,7 +9745,7 @@
       "homeScore": null,
       "venue": "Truist Park",
       "awayPitcher": null,
-      "homePitcher": null
+      "homePitcher": "Chris Sale"
     },
     {
       "gamePk": 849849,
