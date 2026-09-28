@@ -1,7 +1,7 @@
 {
   "league": "MLB",
   "timezone": "America/New_York",
-  "lastUpdated": "2026-09-28T15:04:24.238658+00:00",
+  "lastUpdated": "2026-09-28T21:39:50.318835+00:00",
   "games": [
     {
       "gamePk": 823539,
@@ -9744,7 +9744,7 @@
       "awayScore": null,
       "homeScore": null,
       "venue": "Truist Park",
-      "awayPitcher": null,
+      "awayPitcher": "Jes\u00fas Luzardo",
       "homePitcher": "Chris Sale"
     },
     {
@@ -9792,7 +9792,7 @@
       "awayScore": null,
       "homeScore": null,
       "venue": "Yankee Stadium",
-      "awayPitcher": null,
+      "awayPitcher": "Payton Tolle",
       "homePitcher": "Cam Schlittler"
     },
     {
@@ -9888,7 +9888,7 @@
       "awayScore": null,
       "homeScore": null,
       "venue": "Yankee Stadium",
-      "awayPitcher": null,
+      "awayPitcher": "Sonny Gray",
       "homePitcher": "Max Fried"
     },
     {
@@ -9984,7 +9984,7 @@
       "awayScore": null,
       "homeScore": null,
       "venue": "Yankee Stadium",
-      "awayPitcher": null,
+      "awayPitcher": "Ranger Suarez",
       "homePitcher": "Gerrit Cole"
     },
     {
