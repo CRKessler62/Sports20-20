@@ -1,19 +1,19 @@
 {
   "league": "MLB",
-  "lastUpdated": "2026-09-29T19:56:50.571936+00:00",
+  "lastUpdated": "2026-09-29T23:37:36.828957+00:00",
   "games": [
     {
       "gamePk": 849845,
       "awayTeam": "Philadelphia Phillies",
       "homeTeam": "Atlanta Braves",
-      "awayScore": 1,
-      "homeScore": 2,
-      "status": "In Progress",
+      "awayScore": 3,
+      "homeScore": 5,
+      "status": "Final",
       "gameDate": "2026-09-29T18:00:00Z",
-      "inning": 7,
-      "inningOrdinal": "7th",
+      "inning": 9,
+      "inningOrdinal": "9th",
       "inningState": "Top",
-      "outs": 0,
+      "outs": 3,
       "battingTeam": "Philadelphia Phillies",
       "runners": {
         "first": false,
@@ -53,6 +53,16 @@
         },
         {
           "inning": 7,
+          "awayRuns": 2,
+          "homeRuns": 0
+        },
+        {
+          "inning": 8,
+          "awayRuns": 0,
+          "homeRuns": 3
+        },
+        {
+          "inning": 9,
           "awayRuns": 0,
           "homeRuns": 0
         }
@@ -62,24 +72,54 @@
       "gamePk": 849849,
       "awayTeam": "Chicago White Sox",
       "homeTeam": "Houston Astros",
-      "awayScore": 0,
-      "homeScore": 0,
-      "status": "Pre-Game",
+      "awayScore": 6,
+      "homeScore": 2,
+      "status": "In Progress",
       "gameDate": "2026-09-29T21:00:00Z",
-      "inning": 1,
-      "inningOrdinal": "1st",
-      "inningState": "Top",
-      "outs": 0,
-      "battingTeam": "Chicago White Sox",
+      "inning": 7,
+      "inningOrdinal": "7th",
+      "inningState": "Bottom",
+      "outs": 2,
+      "battingTeam": "Houston Astros",
       "runners": {
         "first": false,
-        "second": false,
+        "second": true,
         "third": false
       },
       "inningScores": [
         {
           "inning": 1,
+          "awayRuns": 1,
+          "homeRuns": 0
+        },
+        {
+          "inning": 2,
+          "awayRuns": 2,
+          "homeRuns": 0
+        },
+        {
+          "inning": 3,
           "awayRuns": 0,
+          "homeRuns": 0
+        },
+        {
+          "inning": 4,
+          "awayRuns": 1,
+          "homeRuns": 0
+        },
+        {
+          "inning": 5,
+          "awayRuns": 1,
+          "homeRuns": 2
+        },
+        {
+          "inning": 6,
+          "awayRuns": 0,
+          "homeRuns": 0
+        },
+        {
+          "inning": 7,
+          "awayRuns": 1,
           "homeRuns": 0
         }
       ]
@@ -116,19 +156,25 @@
       "homeTeam": "San Diego Padres",
       "awayScore": 0,
       "homeScore": 0,
-      "status": "Scheduled",
+      "status": "Pre-Game",
       "gameDate": "2026-09-30T02:00:00Z",
-      "inning": null,
-      "inningOrdinal": null,
-      "inningState": null,
-      "outs": null,
-      "battingTeam": null,
+      "inning": 1,
+      "inningOrdinal": "1st",
+      "inningState": "Top",
+      "outs": 0,
+      "battingTeam": "Chicago Cubs",
       "runners": {
         "first": false,
         "second": false,
         "third": false
       },
-      "inningScores": []
+      "inningScores": [
+        {
+          "inning": 1,
+          "awayRuns": 0,
+          "homeRuns": 0
+        }
+      ]
     }
   ]
 }
