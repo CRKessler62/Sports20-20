@@ -1,7 +1,7 @@
 {
   "league": "MLB",
   "timezone": "America/New_York",
-  "lastUpdated": "2026-09-29T15:28:19.675046+00:00",
+  "lastUpdated": "2026-09-29T20:30:39.949685+00:00",
   "games": [
     {
       "gamePk": 822688,
@@ -9320,9 +9320,9 @@
       "date": "2026-09-29",
       "gameDate": "2026-09-29T18:00:00Z",
       "localGameTime": "2026-09-29T14:00:00-04:00",
-      "status": "Pre-Game",
-      "abstractGameState": "Preview",
-      "codedGameState": "P",
+      "status": "In Progress",
+      "abstractGameState": "Live",
+      "codedGameState": "I",
       "awayTeam": {
         "id": 143,
         "name": "Philadelphia Phillies",
@@ -9333,8 +9333,8 @@
         "name": "Atlanta Braves",
         "abbreviation": "ATL"
       },
-      "awayScore": 0,
-      "homeScore": 0,
+      "awayScore": 3,
+      "homeScore": 2,
       "venue": "Truist Park",
       "awayPitcher": "Jes\u00fas Luzardo",
       "homePitcher": "Chris Sale"
@@ -9344,9 +9344,9 @@
       "date": "2026-09-29",
       "gameDate": "2026-09-29T21:00:00Z",
       "localGameTime": "2026-09-29T17:00:00-04:00",
-      "status": "Scheduled",
+      "status": "Pre-Game",
       "abstractGameState": "Preview",
-      "codedGameState": "S",
+      "codedGameState": "P",
       "awayTeam": {
         "id": 145,
         "name": "Chicago White Sox",
@@ -9357,8 +9357,8 @@
         "name": "Houston Astros",
         "abbreviation": "HOU"
       },
-      "awayScore": null,
-      "homeScore": null,
+      "awayScore": 0,
+      "homeScore": 0,
       "venue": "Daikin Park",
       "awayPitcher": "Hagen Smith",
       "homePitcher": "AJ Blubaugh"
@@ -9368,9 +9368,9 @@
       "date": "2026-09-29",
       "gameDate": "2026-09-30T00:00:00Z",
       "localGameTime": "2026-09-29T20:00:00-04:00",
-      "status": "Scheduled",
+      "status": "Pre-Game",
       "abstractGameState": "Preview",
-      "codedGameState": "S",
+      "codedGameState": "P",
       "awayTeam": {
         "id": 111,
         "name": "Boston Red Sox",
@@ -9381,8 +9381,8 @@
         "name": "New York Yankees",
         "abbreviation": "NYY"
       },
-      "awayScore": null,
-      "homeScore": null,
+      "awayScore": 0,
+      "homeScore": 0,
       "venue": "Yankee Stadium",
       "awayPitcher": "Payton Tolle",
       "homePitcher": "Cam Schlittler"
@@ -9457,7 +9457,7 @@
       "homeScore": null,
       "venue": "Daikin Park",
       "awayPitcher": null,
-      "homePitcher": null
+      "homePitcher": "Hunter Brown"
     },
     {
       "gamePk": 849848,
@@ -9673,7 +9673,7 @@
       "homeScore": null,
       "venue": "American Family Field",
       "awayPitcher": null,
-      "homePitcher": null
+      "homePitcher": "Jacob Misiorowski"
     },
     {
       "gamePk": 849828,
@@ -9721,7 +9721,7 @@
       "homeScore": null,
       "venue": "American Family Field",
       "awayPitcher": null,
-      "homePitcher": null
+      "homePitcher": "Logan Henderson"
     },
     {
       "gamePk": 849823,
