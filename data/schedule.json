@@ -1,7 +1,7 @@
 {
   "league": "MLB",
   "timezone": "America/New_York",
-  "lastUpdated": "2026-10-01T08:30:24.344685+00:00",
+  "lastUpdated": "2026-10-01T16:06:47.181149+00:00",
   "games": [
     {
       "gamePk": 824472,
@@ -8904,8 +8904,8 @@
       "awayScore": null,
       "homeScore": null,
       "venue": "Truist Park",
-      "awayPitcher": null,
-      "homePitcher": null
+      "awayPitcher": "Aaron Nola",
+      "homePitcher": "Ray Kerr"
     },
     {
       "gamePk": 849829,
