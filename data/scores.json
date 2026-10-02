@@ -1,32 +1,5 @@
 {
   "league": "MLB",
-  "lastUpdated": "2026-10-01T22:15:01.432595+00:00",
-  "games": [
-    {
-      "gamePk": 849844,
-      "awayTeam": "Philadelphia Phillies",
-      "homeTeam": "Atlanta Braves",
-      "awayScore": 0,
-      "homeScore": 0,
-      "status": "Pre-Game",
-      "gameDate": "2026-10-02T00:00:00Z",
-      "inning": 1,
-      "inningOrdinal": "1st",
-      "inningState": "Top",
-      "outs": 0,
-      "battingTeam": "Philadelphia Phillies",
-      "runners": {
-        "first": false,
-        "second": false,
-        "third": false
-      },
-      "inningScores": [
-        {
-          "inning": 1,
-          "awayRuns": 0,
-          "homeRuns": 0
-        }
-      ]
-    }
-  ]
+  "lastUpdated": "2026-10-02T01:43:03.826269+00:00",
+  "games": []
 }
