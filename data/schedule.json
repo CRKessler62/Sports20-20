@@ -1,7 +1,7 @@
 {
   "league": "MLB",
   "timezone": "America/New_York",
-  "lastUpdated": "2026-10-02T15:30:07.513746+00:00",
+  "lastUpdated": "2026-10-02T20:27:17.838787+00:00",
   "games": [
     {
       "gamePk": 824470,
@@ -8568,7 +8568,7 @@
       "awayScore": null,
       "homeScore": null,
       "venue": "Progressive Field",
-      "awayPitcher": null,
+      "awayPitcher": "Hagen Smith",
       "homePitcher": "Parker Messick"
     },
     {
@@ -8593,7 +8593,7 @@
       "homeScore": null,
       "venue": "UNIQLO Field at Dodger Stadium",
       "awayPitcher": null,
-      "homePitcher": null
+      "homePitcher": "Tarik Skubal"
     },
     {
       "gamePk": 849835,
@@ -8616,7 +8616,7 @@
       "awayScore": null,
       "homeScore": null,
       "venue": "Tropicana Field",
-      "awayPitcher": null,
+      "awayPitcher": "Gerrit Cole",
       "homePitcher": "Drew Rasmussen"
     },
     {
