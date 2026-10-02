@@ -1,7 +1,7 @@
 {
   "league": "MLB",
   "timezone": "America/New_York",
-  "lastUpdated": "2026-10-02T01:22:48.211936+00:00",
+  "lastUpdated": "2026-10-02T08:05:52.424787+00:00",
   "games": [
     {
       "gamePk": 824470,
@@ -8528,9 +8528,9 @@
       "date": "2026-10-01",
       "gameDate": "2026-10-02T00:00:00Z",
       "localGameTime": "2026-10-01T20:00:00-04:00",
-      "status": "In Progress",
-      "abstractGameState": "Live",
-      "codedGameState": "I",
+      "status": "Final",
+      "abstractGameState": "Final",
+      "codedGameState": "F",
       "awayTeam": {
         "id": 143,
         "name": "Philadelphia Phillies",
@@ -8541,8 +8541,8 @@
         "name": "Atlanta Braves",
         "abbreviation": "ATL"
       },
-      "awayScore": 0,
-      "homeScore": 3,
+      "awayScore": 2,
+      "homeScore": 6,
       "venue": "Truist Park",
       "awayPitcher": "Aaron Nola",
       "homePitcher": "Ray Kerr"
@@ -8580,9 +8580,9 @@
       "abstractGameState": "Preview",
       "codedGameState": "S",
       "awayTeam": {
-        "id": 5532,
-        "name": "ATL/PHI",
-        "abbreviation": "ATL/PHI"
+        "id": 144,
+        "name": "Atlanta Braves",
+        "abbreviation": "ATL"
       },
       "homeTeam": {
         "id": 119,
@@ -8676,9 +8676,9 @@
       "abstractGameState": "Preview",
       "codedGameState": "S",
       "awayTeam": {
-        "id": 5532,
-        "name": "ATL/PHI",
-        "abbreviation": "ATL/PHI"
+        "id": 144,
+        "name": "Atlanta Braves",
+        "abbreviation": "ATL"
       },
       "homeTeam": {
         "id": 119,
@@ -8753,13 +8753,13 @@
         "abbreviation": "LAD"
       },
       "homeTeam": {
-        "id": 5532,
-        "name": "ATL/PHI",
-        "abbreviation": "ATL/PHI"
+        "id": 144,
+        "name": "Atlanta Braves",
+        "abbreviation": "ATL"
       },
       "awayScore": null,
       "homeScore": null,
-      "venue": "NL Stadium",
+      "venue": "Truist Park",
       "awayPitcher": null,
       "homePitcher": null
     },
@@ -8825,13 +8825,13 @@
         "abbreviation": "LAD"
       },
       "homeTeam": {
-        "id": 5532,
-        "name": "ATL/PHI",
-        "abbreviation": "ATL/PHI"
+        "id": 144,
+        "name": "Atlanta Braves",
+        "abbreviation": "ATL"
       },
       "awayScore": null,
       "homeScore": null,
-      "venue": "NL Stadium",
+      "venue": "Truist Park",
       "awayPitcher": null,
       "homePitcher": null
     },
@@ -8964,9 +8964,9 @@
       "abstractGameState": "Preview",
       "codedGameState": "S",
       "awayTeam": {
-        "id": 5532,
-        "name": "ATL/PHI",
-        "abbreviation": "ATL/PHI"
+        "id": 144,
+        "name": "Atlanta Braves",
+        "abbreviation": "ATL"
       },
       "homeTeam": {
         "id": 119,
