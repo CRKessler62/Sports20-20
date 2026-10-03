@@ -1,6 +1,6 @@
 {
   "league": "MLB",
-  "lastUpdated": "2026-10-03T19:58:18.769836+00:00",
+  "lastUpdated": "2026-10-03T22:49:11.741418+00:00",
   "games": [
     {
       "gamePk": 849829,
@@ -8,7 +8,7 @@
       "homeTeam": "Cleveland Guardians",
       "awayScore": 3,
       "homeScore": 0,
-      "status": "Game Over",
+      "status": "Final",
       "gameDate": "2026-10-03T17:00:00Z",
       "inning": 9,
       "inningOrdinal": "9th",
@@ -72,14 +72,14 @@
       "gamePk": 849828,
       "awayTeam": "Atlanta Braves",
       "homeTeam": "Los Angeles Dodgers",
-      "awayScore": 0,
-      "homeScore": 0,
-      "status": "Warmup",
+      "awayScore": 3,
+      "homeScore": 5,
+      "status": "In Progress",
       "gameDate": "2026-10-03T20:00:00Z",
-      "inning": 1,
-      "inningOrdinal": "1st",
+      "inning": 9,
+      "inningOrdinal": "9th",
       "inningState": "Top",
-      "outs": 0,
+      "outs": 2,
       "battingTeam": "Atlanta Braves",
       "runners": {
         "first": false,
@@ -91,6 +91,46 @@
           "inning": 1,
           "awayRuns": 0,
           "homeRuns": 0
+        },
+        {
+          "inning": 2,
+          "awayRuns": 0,
+          "homeRuns": 0
+        },
+        {
+          "inning": 3,
+          "awayRuns": 0,
+          "homeRuns": 0
+        },
+        {
+          "inning": 4,
+          "awayRuns": 0,
+          "homeRuns": 2
+        },
+        {
+          "inning": 5,
+          "awayRuns": 0,
+          "homeRuns": 0
+        },
+        {
+          "inning": 6,
+          "awayRuns": 1,
+          "homeRuns": 3
+        },
+        {
+          "inning": 7,
+          "awayRuns": 0,
+          "homeRuns": 0
+        },
+        {
+          "inning": 8,
+          "awayRuns": 0,
+          "homeRuns": 0
+        },
+        {
+          "inning": 9,
+          "awayRuns": 2,
+          "homeRuns": 0
         }
       ]
     },
@@ -100,15 +140,15 @@
       "homeTeam": "Tampa Bay Rays",
       "awayScore": 0,
       "homeScore": 0,
-      "status": "Pre-Game",
+      "status": "In Progress",
       "gameDate": "2026-10-03T22:30:00Z",
       "inning": 1,
       "inningOrdinal": "1st",
-      "inningState": "Top",
+      "inningState": "Bottom",
       "outs": 0,
-      "battingTeam": "New York Yankees",
+      "battingTeam": "Tampa Bay Rays",
       "runners": {
-        "first": false,
+        "first": true,
         "second": false,
         "third": false
       },
@@ -126,13 +166,13 @@
       "homeTeam": "Milwaukee Brewers",
       "awayScore": 0,
       "homeScore": 0,
-      "status": "Scheduled",
+      "status": "Pre-Game",
       "gameDate": "2026-10-04T00:30:00Z",
-      "inning": null,
-      "inningOrdinal": null,
-      "inningState": null,
-      "outs": null,
-      "battingTeam": null,
+      "inning": 1,
+      "inningOrdinal": "1st",
+      "inningState": "Top",
+      "outs": 0,
+      "battingTeam": "San Diego Padres",
       "runners": {
         "first": false,
         "second": false,
