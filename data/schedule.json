@@ -1,7 +1,7 @@
 {
   "league": "MLB",
   "timezone": "America/New_York",
-  "lastUpdated": "2026-10-03T12:18:18.870595+00:00",
+  "lastUpdated": "2026-10-03T17:03:47.247014+00:00",
   "games": [
     {
       "gamePk": 823337,
@@ -8192,9 +8192,9 @@
       "date": "2026-10-03",
       "gameDate": "2026-10-03T17:00:00Z",
       "localGameTime": "2026-10-03T13:00:00-04:00",
-      "status": "Scheduled",
-      "abstractGameState": "Preview",
-      "codedGameState": "S",
+      "status": "Warmup",
+      "abstractGameState": "Live",
+      "codedGameState": "P",
       "awayTeam": {
         "id": 145,
         "name": "Chicago White Sox",
@@ -8205,8 +8205,8 @@
         "name": "Cleveland Guardians",
         "abbreviation": "CLE"
       },
-      "awayScore": null,
-      "homeScore": null,
+      "awayScore": 0,
+      "homeScore": 0,
       "venue": "Progressive Field",
       "awayPitcher": "Hagen Smith",
       "homePitcher": "Parker Messick"
@@ -8329,7 +8329,7 @@
       "homeScore": null,
       "venue": "UNIQLO Field at Dodger Stadium",
       "awayPitcher": null,
-      "homePitcher": null
+      "homePitcher": "Blake Snell"
     },
     {
       "gamePk": 849834,
