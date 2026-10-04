@@ -1,178 +1,40 @@
 {
   "league": "MLB",
-  "lastUpdated": "2026-10-03T22:49:11.741418+00:00",
+  "lastUpdated": "2026-10-04T02:13:49.008956+00:00",
   "games": [
     {
-      "gamePk": 849829,
-      "awayTeam": "Chicago White Sox",
-      "homeTeam": "Cleveland Guardians",
-      "awayScore": 3,
-      "homeScore": 0,
-      "status": "Final",
-      "gameDate": "2026-10-03T17:00:00Z",
-      "inning": 9,
-      "inningOrdinal": "9th",
-      "inningState": "Bottom",
-      "outs": 3,
-      "battingTeam": "Cleveland Guardians",
-      "runners": {
-        "first": false,
-        "second": false,
-        "third": false
-      },
-      "inningScores": [
-        {
-          "inning": 1,
-          "awayRuns": 0,
-          "homeRuns": 0
-        },
-        {
-          "inning": 2,
-          "awayRuns": 0,
-          "homeRuns": 0
-        },
-        {
-          "inning": 3,
-          "awayRuns": 0,
-          "homeRuns": 0
-        },
-        {
-          "inning": 4,
-          "awayRuns": 2,
-          "homeRuns": 0
-        },
-        {
-          "inning": 5,
-          "awayRuns": 0,
-          "homeRuns": 0
-        },
-        {
-          "inning": 6,
-          "awayRuns": 0,
-          "homeRuns": 0
-        },
-        {
-          "inning": 7,
-          "awayRuns": 1,
-          "homeRuns": 0
-        },
-        {
-          "inning": 8,
-          "awayRuns": 0,
-          "homeRuns": 0
-        },
-        {
-          "inning": 9,
-          "awayRuns": 0,
-          "homeRuns": 0
-        }
-      ]
-    },
-    {
-      "gamePk": 849828,
-      "awayTeam": "Atlanta Braves",
-      "homeTeam": "Los Angeles Dodgers",
-      "awayScore": 3,
-      "homeScore": 5,
-      "status": "In Progress",
-      "gameDate": "2026-10-03T20:00:00Z",
-      "inning": 9,
-      "inningOrdinal": "9th",
-      "inningState": "Top",
-      "outs": 2,
-      "battingTeam": "Atlanta Braves",
-      "runners": {
-        "first": false,
-        "second": false,
-        "third": false
-      },
-      "inningScores": [
-        {
-          "inning": 1,
-          "awayRuns": 0,
-          "homeRuns": 0
-        },
-        {
-          "inning": 2,
-          "awayRuns": 0,
-          "homeRuns": 0
-        },
-        {
-          "inning": 3,
-          "awayRuns": 0,
-          "homeRuns": 0
-        },
-        {
-          "inning": 4,
-          "awayRuns": 0,
-          "homeRuns": 2
-        },
-        {
-          "inning": 5,
-          "awayRuns": 0,
-          "homeRuns": 0
-        },
-        {
-          "inning": 6,
-          "awayRuns": 1,
-          "homeRuns": 3
-        },
-        {
-          "inning": 7,
-          "awayRuns": 0,
-          "homeRuns": 0
-        },
-        {
-          "inning": 8,
-          "awayRuns": 0,
-          "homeRuns": 0
-        },
-        {
-          "inning": 9,
-          "awayRuns": 2,
-          "homeRuns": 0
-        }
-      ]
-    },
-    {
-      "gamePk": 849835,
-      "awayTeam": "New York Yankees",
-      "homeTeam": "Tampa Bay Rays",
-      "awayScore": 0,
-      "homeScore": 0,
-      "status": "In Progress",
-      "gameDate": "2026-10-03T22:30:00Z",
-      "inning": 1,
-      "inningOrdinal": "1st",
-      "inningState": "Bottom",
-      "outs": 0,
-      "battingTeam": "Tampa Bay Rays",
-      "runners": {
-        "first": true,
-        "second": false,
-        "third": false
-      },
-      "inningScores": [
-        {
-          "inning": 1,
-          "awayRuns": 0,
-          "homeRuns": 0
-        }
-      ]
-    },
-    {
-      "gamePk": 849830,
+      "gamePk": 849825,
       "awayTeam": "San Diego Padres",
       "homeTeam": "Milwaukee Brewers",
       "awayScore": 0,
       "homeScore": 0,
-      "status": "Pre-Game",
-      "gameDate": "2026-10-04T00:30:00Z",
-      "inning": 1,
-      "inningOrdinal": "1st",
-      "inningState": "Top",
-      "outs": 0,
-      "battingTeam": "San Diego Padres",
+      "status": "Scheduled",
+      "gameDate": "2026-10-04T20:00:00Z",
+      "inning": null,
+      "inningOrdinal": null,
+      "inningState": null,
+      "outs": null,
+      "battingTeam": null,
+      "runners": {
+        "first": false,
+        "second": false,
+        "third": false
+      },
+      "inningScores": []
+    },
+    {
+      "gamePk": 849823,
+      "awayTeam": "Atlanta Braves",
+      "homeTeam": "Los Angeles Dodgers",
+      "awayScore": 0,
+      "homeScore": 0,
+      "status": "Scheduled",
+      "gameDate": "2026-10-05T00:00:00Z",
+      "inning": null,
+      "inningOrdinal": null,
+      "inningState": null,
+      "outs": null,
+      "battingTeam": null,
       "runners": {
         "first": false,
         "second": false,
