@@ -1,392 +1,8 @@
 {
   "league": "MLB",
   "timezone": "America/New_York",
-  "lastUpdated": "2026-10-04T22:52:08.187093+00:00",
+  "lastUpdated": "2026-10-05T01:43:15.607439+00:00",
   "games": [
-    {
-      "gamePk": 824424,
-      "date": "2026-09-04",
-      "gameDate": "2026-09-04T18:10:00Z",
-      "localGameTime": "2026-09-04T14:10:00-04:00",
-      "status": "Final",
-      "abstractGameState": "Final",
-      "codedGameState": "F",
-      "awayTeam": {
-        "id": 116,
-        "name": "Detroit Tigers",
-        "abbreviation": "DET"
-      },
-      "homeTeam": {
-        "id": 114,
-        "name": "Cleveland Guardians",
-        "abbreviation": "CLE"
-      },
-      "awayScore": 6,
-      "homeScore": 7,
-      "venue": "Progressive Field",
-      "awayPitcher": "Keider Montero",
-      "homePitcher": "Logan Allen"
-    },
-    {
-      "gamePk": 824387,
-      "date": "2026-09-04",
-      "gameDate": "2026-09-04T23:15:00Z",
-      "localGameTime": "2026-09-04T19:15:00-04:00",
-      "status": "Final",
-      "abstractGameState": "Final",
-      "codedGameState": "F",
-      "awayTeam": {
-        "id": 116,
-        "name": "Detroit Tigers",
-        "abbreviation": "DET"
-      },
-      "homeTeam": {
-        "id": 114,
-        "name": "Cleveland Guardians",
-        "abbreviation": "CLE"
-      },
-      "awayScore": 3,
-      "homeScore": 4,
-      "venue": "Progressive Field",
-      "awayPitcher": "Andrew Sears",
-      "homePitcher": "Foster Griffin"
-    },
-    {
-      "gamePk": 824471,
-      "date": "2026-09-04",
-      "gameDate": "2026-09-04T22:10:00Z",
-      "localGameTime": "2026-09-04T18:10:00-04:00",
-      "status": "Final",
-      "abstractGameState": "Final",
-      "codedGameState": "F",
-      "awayTeam": {
-        "id": 158,
-        "name": "Milwaukee Brewers",
-        "abbreviation": "MIL"
-      },
-      "homeTeam": {
-        "id": 113,
-        "name": "Cincinnati Reds",
-        "abbreviation": "CIN"
-      },
-      "awayScore": 10,
-      "homeScore": 7,
-      "venue": "Great American Ball Park",
-      "awayPitcher": "Shane Drohan",
-      "homePitcher": "Rhett Lowder"
-    },
-    {
-      "gamePk": 823418,
-      "date": "2026-09-04",
-      "gameDate": "2026-09-04T22:40:00Z",
-      "localGameTime": "2026-09-04T18:40:00-04:00",
-      "status": "Final",
-      "abstractGameState": "Final",
-      "codedGameState": "F",
-      "awayTeam": {
-        "id": 144,
-        "name": "Atlanta Braves",
-        "abbreviation": "ATL"
-      },
-      "homeTeam": {
-        "id": 143,
-        "name": "Philadelphia Phillies",
-        "abbreviation": "PHI"
-      },
-      "awayScore": 5,
-      "homeScore": 2,
-      "venue": "Citizens Bank Park",
-      "awayPitcher": "Chris Sale",
-      "homePitcher": "Cristopher S\u00e1nchez"
-    },
-    {
-      "gamePk": 823338,
-      "date": "2026-09-04",
-      "gameDate": "2026-09-04T22:45:00Z",
-      "localGameTime": "2026-09-04T18:45:00-04:00",
-      "status": "Final",
-      "abstractGameState": "Final",
-      "codedGameState": "F",
-      "awayTeam": {
-        "id": 108,
-        "name": "Los Angeles Angels",
-        "abbreviation": "LAA"
-      },
-      "homeTeam": {
-        "id": 134,
-        "name": "Pittsburgh Pirates",
-        "abbreviation": "PIT"
-      },
-      "awayScore": 0,
-      "homeScore": 1,
-      "venue": "PNC Park",
-      "awayPitcher": "Ryan Johnson",
-      "homePitcher": "Jared Jones"
-    },
-    {
-      "gamePk": 824797,
-      "date": "2026-09-04",
-      "gameDate": "2026-09-04T23:05:00Z",
-      "localGameTime": "2026-09-04T19:05:00-04:00",
-      "status": "Final",
-      "abstractGameState": "Final",
-      "codedGameState": "F",
-      "awayTeam": {
-        "id": 111,
-        "name": "Boston Red Sox",
-        "abbreviation": "BOS"
-      },
-      "homeTeam": {
-        "id": 110,
-        "name": "Baltimore Orioles",
-        "abbreviation": "BAL"
-      },
-      "awayScore": 1,
-      "homeScore": 0,
-      "venue": "Oriole Park at Camden Yards",
-      "awayPitcher": "Ranger Suarez",
-      "homePitcher": "Shane Baz"
-    },
-    {
-      "gamePk": 823579,
-      "date": "2026-09-04",
-      "gameDate": "2026-09-04T23:10:00Z",
-      "localGameTime": "2026-09-04T19:10:00-04:00",
-      "status": "Final",
-      "abstractGameState": "Final",
-      "codedGameState": "F",
-      "awayTeam": {
-        "id": 137,
-        "name": "San Francisco Giants",
-        "abbreviation": "SF"
-      },
-      "homeTeam": {
-        "id": 121,
-        "name": "New York Mets",
-        "abbreviation": "NYM"
-      },
-      "awayScore": 6,
-      "homeScore": 10,
-      "venue": "Citi Field",
-      "awayPitcher": "Matt Wilkinson",
-      "homePitcher": "Nolan McLean"
-    },
-    {
-      "gamePk": 823824,
-      "date": "2026-09-04",
-      "gameDate": "2026-09-04T23:10:00Z",
-      "localGameTime": "2026-09-04T19:10:00-04:00",
-      "status": "Final",
-      "abstractGameState": "Final",
-      "codedGameState": "F",
-      "awayTeam": {
-        "id": 112,
-        "name": "Chicago Cubs",
-        "abbreviation": "CHC"
-      },
-      "homeTeam": {
-        "id": 146,
-        "name": "Miami Marlins",
-        "abbreviation": "MIA"
-      },
-      "awayScore": 6,
-      "homeScore": 1,
-      "venue": "loanDepot park",
-      "awayPitcher": "Shota Imanaga",
-      "homePitcher": "Janson Junk"
-    },
-    {
-      "gamePk": 824554,
-      "date": "2026-09-04",
-      "gameDate": "2026-09-04T23:40:00Z",
-      "localGameTime": "2026-09-04T19:40:00-04:00",
-      "status": "Final",
-      "abstractGameState": "Final",
-      "codedGameState": "F",
-      "awayTeam": {
-        "id": 142,
-        "name": "Minnesota Twins",
-        "abbreviation": "MIN"
-      },
-      "homeTeam": {
-        "id": 145,
-        "name": "Chicago White Sox",
-        "abbreviation": "CWS"
-      },
-      "awayScore": 1,
-      "homeScore": 4,
-      "venue": "Rate Field",
-      "awayPitcher": "Zebby Matthews",
-      "homePitcher": "Erick Fedde"
-    },
-    {
-      "gamePk": 822852,
-      "date": "2026-09-04",
-      "gameDate": "2026-09-05T00:05:00Z",
-      "localGameTime": "2026-09-04T20:05:00-04:00",
-      "status": "Final",
-      "abstractGameState": "Final",
-      "codedGameState": "F",
-      "awayTeam": {
-        "id": 139,
-        "name": "Tampa Bay Rays",
-        "abbreviation": "TB"
-      },
-      "homeTeam": {
-        "id": 140,
-        "name": "Texas Rangers",
-        "abbreviation": "TEX"
-      },
-      "awayScore": 7,
-      "homeScore": 6,
-      "venue": "Globe Life Field",
-      "awayPitcher": "Nick Martinez",
-      "homePitcher": "Trevor Williams"
-    },
-    {
-      "gamePk": 824146,
-      "date": "2026-09-04",
-      "gameDate": "2026-09-05T00:10:00Z",
-      "localGameTime": "2026-09-04T20:10:00-04:00",
-      "status": "Final",
-      "abstractGameState": "Final",
-      "codedGameState": "F",
-      "awayTeam": {
-        "id": 109,
-        "name": "Arizona Diamondbacks",
-        "abbreviation": "AZ"
-      },
-      "homeTeam": {
-        "id": 117,
-        "name": "Houston Astros",
-        "abbreviation": "HOU"
-      },
-      "awayScore": 1,
-      "homeScore": 3,
-      "venue": "Daikin Park",
-      "awayPitcher": "Merrill Kelly",
-      "homePitcher": "Cristian Javier"
-    },
-    {
-      "gamePk": 824067,
-      "date": "2026-09-04",
-      "gameDate": "2026-09-05T00:10:00Z",
-      "localGameTime": "2026-09-04T20:10:00-04:00",
-      "status": "Final",
-      "abstractGameState": "Final",
-      "codedGameState": "F",
-      "awayTeam": {
-        "id": 141,
-        "name": "Toronto Blue Jays",
-        "abbreviation": "TOR"
-      },
-      "homeTeam": {
-        "id": 118,
-        "name": "Kansas City Royals",
-        "abbreviation": "KC"
-      },
-      "awayScore": 9,
-      "homeScore": 2,
-      "venue": "Kauffman Stadium",
-      "awayPitcher": "Jameson Taillon",
-      "homePitcher": "Daniel Lynch IV"
-    },
-    {
-      "gamePk": 824311,
-      "date": "2026-09-04",
-      "gameDate": "2026-09-05T00:40:00Z",
-      "localGameTime": "2026-09-04T20:40:00-04:00",
-      "status": "Final",
-      "abstractGameState": "Final",
-      "codedGameState": "F",
-      "awayTeam": {
-        "id": 138,
-        "name": "St. Louis Cardinals",
-        "abbreviation": "STL"
-      },
-      "homeTeam": {
-        "id": 115,
-        "name": "Colorado Rockies",
-        "abbreviation": "COL"
-      },
-      "awayScore": 7,
-      "homeScore": 6,
-      "venue": "Coors Field",
-      "awayPitcher": "Andre Pallante",
-      "homePitcher": "Ryan Feltner"
-    },
-    {
-      "gamePk": 823256,
-      "date": "2026-09-04",
-      "gameDate": "2026-09-05T01:40:00Z",
-      "localGameTime": "2026-09-04T21:40:00-04:00",
-      "status": "Final",
-      "abstractGameState": "Final",
-      "codedGameState": "F",
-      "awayTeam": {
-        "id": 147,
-        "name": "New York Yankees",
-        "abbreviation": "NYY"
-      },
-      "homeTeam": {
-        "id": 135,
-        "name": "San Diego Padres",
-        "abbreviation": "SD"
-      },
-      "awayScore": 2,
-      "homeScore": 3,
-      "venue": "Petco Park",
-      "awayPitcher": "Max Fried",
-      "homePitcher": "Walker Buehler"
-    },
-    {
-      "gamePk": 823905,
-      "date": "2026-09-04",
-      "gameDate": "2026-09-05T02:10:00Z",
-      "localGameTime": "2026-09-04T22:10:00-04:00",
-      "status": "Final",
-      "abstractGameState": "Final",
-      "codedGameState": "F",
-      "awayTeam": {
-        "id": 120,
-        "name": "Washington Nationals",
-        "abbreviation": "WSH"
-      },
-      "homeTeam": {
-        "id": 119,
-        "name": "Los Angeles Dodgers",
-        "abbreviation": "LAD"
-      },
-      "awayScore": 3,
-      "homeScore": 5,
-      "venue": "UNIQLO Field at Dodger Stadium",
-      "awayPitcher": "Jackson Kent",
-      "homePitcher": "Blake Snell"
-    },
-    {
-      "gamePk": 823093,
-      "date": "2026-09-04",
-      "gameDate": "2026-09-05T02:10:00Z",
-      "localGameTime": "2026-09-04T22:10:00-04:00",
-      "status": "Final",
-      "abstractGameState": "Final",
-      "codedGameState": "F",
-      "awayTeam": {
-        "id": 133,
-        "name": "Athletics",
-        "abbreviation": "ATH"
-      },
-      "homeTeam": {
-        "id": 136,
-        "name": "Seattle Mariners",
-        "abbreviation": "SEA"
-      },
-      "awayScore": 7,
-      "homeScore": 6,
-      "venue": "T-Mobile Park",
-      "awayPitcher": "Kade Morris",
-      "homePitcher": "Logan Gilbert"
-    },
     {
       "gamePk": 823577,
       "date": "2026-09-05",
@@ -8072,9 +7688,9 @@
       "date": "2026-10-04",
       "gameDate": "2026-10-04T20:00:00Z",
       "localGameTime": "2026-10-04T16:00:00-04:00",
-      "status": "In Progress",
-      "abstractGameState": "Live",
-      "codedGameState": "I",
+      "status": "Final",
+      "abstractGameState": "Final",
+      "codedGameState": "F",
       "awayTeam": {
         "id": 135,
         "name": "San Diego Padres",
@@ -8086,7 +7702,7 @@
         "abbreviation": "MIL"
       },
       "awayScore": 3,
-      "homeScore": 2,
+      "homeScore": 4,
       "venue": "American Family Field",
       "awayPitcher": "Michael King",
       "homePitcher": "Logan Henderson"
@@ -8096,9 +7712,9 @@
       "date": "2026-10-04",
       "gameDate": "2026-10-05T00:00:00Z",
       "localGameTime": "2026-10-04T20:00:00-04:00",
-      "status": "Pre-Game",
-      "abstractGameState": "Preview",
-      "codedGameState": "P",
+      "status": "In Progress",
+      "abstractGameState": "Live",
+      "codedGameState": "I",
       "awayTeam": {
         "id": 144,
         "name": "Atlanta Braves",
@@ -8109,8 +7725,8 @@
         "name": "Los Angeles Dodgers",
         "abbreviation": "LAD"
       },
-      "awayScore": 0,
-      "homeScore": 0,
+      "awayScore": 1,
+      "homeScore": 1,
       "venue": "UNIQLO Field at Dodger Stadium",
       "awayPitcher": "Ray Kerr",
       "homePitcher": "Blake Snell"
