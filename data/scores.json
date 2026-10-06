@@ -1,15 +1,15 @@
 {
   "league": "MLB",
-  "lastUpdated": "2026-10-05T12:46:22.377207+00:00",
+  "lastUpdated": "2026-10-06T01:36:09.091490+00:00",
   "games": [
     {
-      "gamePk": 849834,
-      "awayTeam": "Chicago White Sox",
-      "homeTeam": "Cleveland Guardians",
+      "gamePk": 849819,
+      "awayTeam": "Los Angeles Dodgers",
+      "homeTeam": "Atlanta Braves",
       "awayScore": 0,
       "homeScore": 0,
       "status": "Scheduled",
-      "gameDate": "2026-10-05T21:00:00Z",
+      "gameDate": "2026-10-06T22:00:00Z",
       "inning": null,
       "inningOrdinal": null,
       "inningState": null,
@@ -23,13 +23,13 @@
       "inningScores": []
     },
     {
-      "gamePk": 849839,
-      "awayTeam": "New York Yankees",
-      "homeTeam": "Tampa Bay Rays",
+      "gamePk": 849826,
+      "awayTeam": "Milwaukee Brewers",
+      "homeTeam": "San Diego Padres",
       "awayScore": 0,
       "homeScore": 0,
       "status": "Scheduled",
-      "gameDate": "2026-10-06T00:00:00Z",
+      "gameDate": "2026-10-07T01:30:00Z",
       "inning": null,
       "inningOrdinal": null,
       "inningState": null,
