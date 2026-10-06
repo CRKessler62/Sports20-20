@@ -1,20 +1,71 @@
 {
   "league": "MLB",
-  "lastUpdated": "2026-10-06T20:22:00.078644+00:00",
+  "lastUpdated": "2026-10-06T23:57:47.956288+00:00",
   "games": [
     {
       "gamePk": 849819,
       "awayTeam": "Los Angeles Dodgers",
       "homeTeam": "Atlanta Braves",
+      "awayScore": 3,
+      "homeScore": 1,
+      "status": "In Progress",
+      "gameDate": "2026-10-06T22:00:00Z",
+      "inning": 6,
+      "inningOrdinal": "6th",
+      "inningState": "Top",
+      "outs": 0,
+      "battingTeam": "Los Angeles Dodgers",
+      "runners": {
+        "first": true,
+        "second": false,
+        "third": false
+      },
+      "inningScores": [
+        {
+          "inning": 1,
+          "awayRuns": 0,
+          "homeRuns": 0
+        },
+        {
+          "inning": 2,
+          "awayRuns": 0,
+          "homeRuns": 0
+        },
+        {
+          "inning": 3,
+          "awayRuns": 0,
+          "homeRuns": 0
+        },
+        {
+          "inning": 4,
+          "awayRuns": 3,
+          "homeRuns": 0
+        },
+        {
+          "inning": 5,
+          "awayRuns": 0,
+          "homeRuns": 1
+        },
+        {
+          "inning": 6,
+          "awayRuns": 0,
+          "homeRuns": 0
+        }
+      ]
+    },
+    {
+      "gamePk": 849826,
+      "awayTeam": "Milwaukee Brewers",
+      "homeTeam": "San Diego Padres",
       "awayScore": 0,
       "homeScore": 0,
       "status": "Pre-Game",
-      "gameDate": "2026-10-06T22:00:00Z",
+      "gameDate": "2026-10-07T01:30:00Z",
       "inning": 1,
       "inningOrdinal": "1st",
       "inningState": "Top",
       "outs": 0,
-      "battingTeam": "Los Angeles Dodgers",
+      "battingTeam": "Milwaukee Brewers",
       "runners": {
         "first": false,
         "second": false,
@@ -27,26 +78,6 @@
           "homeRuns": 0
         }
       ]
-    },
-    {
-      "gamePk": 849826,
-      "awayTeam": "Milwaukee Brewers",
-      "homeTeam": "San Diego Padres",
-      "awayScore": 0,
-      "homeScore": 0,
-      "status": "Scheduled",
-      "gameDate": "2026-10-07T01:30:00Z",
-      "inning": null,
-      "inningOrdinal": null,
-      "inningState": null,
-      "outs": null,
-      "battingTeam": null,
-      "runners": {
-        "first": false,
-        "second": false,
-        "third": false
-      },
-      "inningScores": []
     }
   ]
 }
