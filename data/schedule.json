@@ -1,7 +1,7 @@
 {
   "league": "MLB",
   "timezone": "America/New_York",
-  "lastUpdated": "2026-10-07T06:57:28.782635+00:00",
+  "lastUpdated": "2026-10-07T14:23:47.540563+00:00",
   "games": [
     {
       "gamePk": 823415,
@@ -7201,7 +7201,7 @@
       "homeScore": null,
       "venue": "Petco Park",
       "awayPitcher": null,
-      "homePitcher": null
+      "homePitcher": "Walker Buehler"
     },
     {
       "gamePk": 849832,
