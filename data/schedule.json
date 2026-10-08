@@ -1,7 +1,7 @@
 {
   "league": "MLB",
   "timezone": "America/New_York",
-  "lastUpdated": "2026-10-08T15:20:16.993190+00:00",
+  "lastUpdated": "2026-10-08T21:07:14.217042+00:00",
   "games": [
     {
       "gamePk": 824792,
@@ -6944,9 +6944,9 @@
       "date": "2026-10-08",
       "gameDate": "2026-10-09T00:00:00Z",
       "localGameTime": "2026-10-08T20:00:00-04:00",
-      "status": "Scheduled",
+      "status": "Pre-Game",
       "abstractGameState": "Preview",
-      "codedGameState": "S",
+      "codedGameState": "P",
       "awayTeam": {
         "id": 114,
         "name": "Cleveland Guardians",
@@ -6957,8 +6957,8 @@
         "name": "Chicago White Sox",
         "abbreviation": "CWS"
       },
-      "awayScore": null,
-      "homeScore": null,
+      "awayScore": 0,
+      "homeScore": 0,
       "venue": "Rate Field",
       "awayPitcher": "Parker Messick",
       "homePitcher": "Hagen Smith"
@@ -7332,14 +7332,14 @@
       "abstractGameState": "Preview",
       "codedGameState": "S",
       "awayTeam": {
-        "id": 2711,
-        "name": "Lower Seed League Champion",
-        "abbreviation": "Low"
+        "id": 21,
+        "name": "AL Champion",
+        "abbreviation": "AL"
       },
       "homeTeam": {
-        "id": 2710,
-        "name": "Higher Seed League Champion",
-        "abbreviation": "High"
+        "id": 31,
+        "name": "NL Champion",
+        "abbreviation": "NL"
       },
       "awayScore": null,
       "homeScore": null,
@@ -7356,14 +7356,14 @@
       "abstractGameState": "Preview",
       "codedGameState": "S",
       "awayTeam": {
-        "id": 2711,
-        "name": "Lower Seed League Champion",
-        "abbreviation": "Low"
+        "id": 21,
+        "name": "AL Champion",
+        "abbreviation": "AL"
       },
       "homeTeam": {
-        "id": 2710,
-        "name": "Higher Seed League Champion",
-        "abbreviation": "High"
+        "id": 31,
+        "name": "NL Champion",
+        "abbreviation": "NL"
       },
       "awayScore": null,
       "homeScore": null,
@@ -7380,14 +7380,14 @@
       "abstractGameState": "Preview",
       "codedGameState": "S",
       "awayTeam": {
-        "id": 2710,
-        "name": "Higher Seed League Champion",
-        "abbreviation": "High"
+        "id": 31,
+        "name": "NL Champion",
+        "abbreviation": "NL"
       },
       "homeTeam": {
-        "id": 2711,
-        "name": "Lower Seed League Champion",
-        "abbreviation": "Low"
+        "id": 21,
+        "name": "AL Champion",
+        "abbreviation": "AL"
       },
       "awayScore": null,
       "homeScore": null,
@@ -7404,14 +7404,14 @@
       "abstractGameState": "Preview",
       "codedGameState": "S",
       "awayTeam": {
-        "id": 2710,
-        "name": "Higher Seed League Champion",
-        "abbreviation": "High"
+        "id": 31,
+        "name": "NL Champion",
+        "abbreviation": "NL"
       },
       "homeTeam": {
-        "id": 2711,
-        "name": "Lower Seed League Champion",
-        "abbreviation": "Low"
+        "id": 21,
+        "name": "AL Champion",
+        "abbreviation": "AL"
       },
       "awayScore": null,
       "homeScore": null,
@@ -7428,14 +7428,14 @@
       "abstractGameState": "Preview",
       "codedGameState": "S",
       "awayTeam": {
-        "id": 2710,
-        "name": "Higher Seed League Champion",
-        "abbreviation": "High"
+        "id": 31,
+        "name": "NL Champion",
+        "abbreviation": "NL"
       },
       "homeTeam": {
-        "id": 2711,
-        "name": "Lower Seed League Champion",
-        "abbreviation": "Low"
+        "id": 21,
+        "name": "AL Champion",
+        "abbreviation": "AL"
       },
       "awayScore": null,
       "homeScore": null,
@@ -7452,14 +7452,14 @@
       "abstractGameState": "Preview",
       "codedGameState": "S",
       "awayTeam": {
-        "id": 2711,
-        "name": "Lower Seed League Champion",
-        "abbreviation": "Low"
+        "id": 21,
+        "name": "AL Champion",
+        "abbreviation": "AL"
       },
       "homeTeam": {
-        "id": 2710,
-        "name": "Higher Seed League Champion",
-        "abbreviation": "High"
+        "id": 31,
+        "name": "NL Champion",
+        "abbreviation": "NL"
       },
       "awayScore": null,
       "homeScore": null,
@@ -7476,14 +7476,14 @@
       "abstractGameState": "Preview",
       "codedGameState": "S",
       "awayTeam": {
-        "id": 2711,
-        "name": "Lower Seed League Champion",
-        "abbreviation": "Low"
+        "id": 21,
+        "name": "AL Champion",
+        "abbreviation": "AL"
       },
       "homeTeam": {
-        "id": 2710,
-        "name": "Higher Seed League Champion",
-        "abbreviation": "High"
+        "id": 31,
+        "name": "NL Champion",
+        "abbreviation": "NL"
       },
       "awayScore": null,
       "homeScore": null,
