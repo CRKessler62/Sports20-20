@@ -1,7 +1,7 @@
 {
   "league": "MLB",
   "timezone": "America/New_York",
-  "lastUpdated": "2026-10-08T00:47:13.997540+00:00",
+  "lastUpdated": "2026-10-08T07:05:12.337699+00:00",
   "games": [
     {
       "gamePk": 824792,
@@ -6872,9 +6872,9 @@
       "date": "2026-10-07",
       "gameDate": "2026-10-07T22:00:00Z",
       "localGameTime": "2026-10-07T18:00:00-04:00",
-      "status": "In Progress",
-      "abstractGameState": "Live",
-      "codedGameState": "I",
+      "status": "Final",
+      "abstractGameState": "Final",
+      "codedGameState": "F",
       "awayTeam": {
         "id": 119,
         "name": "Los Angeles Dodgers",
@@ -6885,7 +6885,7 @@
         "name": "Atlanta Braves",
         "abbreviation": "ATL"
       },
-      "awayScore": 3,
+      "awayScore": 4,
       "homeScore": 1,
       "venue": "Truist Park",
       "awayPitcher": "Tyler Glasnow",
@@ -6896,9 +6896,9 @@
       "date": "2026-10-07",
       "gameDate": "2026-10-08T00:00:00Z",
       "localGameTime": "2026-10-07T20:00:00-04:00",
-      "status": "In Progress",
-      "abstractGameState": "Live",
-      "codedGameState": "I",
+      "status": "Final",
+      "abstractGameState": "Final",
+      "codedGameState": "F",
       "awayTeam": {
         "id": 139,
         "name": "Tampa Bay Rays",
@@ -6909,8 +6909,8 @@
         "name": "New York Yankees",
         "abbreviation": "NYY"
       },
-      "awayScore": 0,
-      "homeScore": 0,
+      "awayScore": 4,
+      "homeScore": 3,
       "venue": "Yankee Stadium",
       "awayPitcher": "Nick Martinez",
       "homePitcher": "Max Fried"
@@ -6920,9 +6920,9 @@
       "date": "2026-10-07",
       "gameDate": "2026-10-08T02:00:00Z",
       "localGameTime": "2026-10-07T22:00:00-04:00",
-      "status": "Pre-Game",
-      "abstractGameState": "Preview",
-      "codedGameState": "P",
+      "status": "Final",
+      "abstractGameState": "Final",
+      "codedGameState": "F",
       "awayTeam": {
         "id": 158,
         "name": "Milwaukee Brewers",
@@ -6933,8 +6933,8 @@
         "name": "San Diego Padres",
         "abbreviation": "SD"
       },
-      "awayScore": 0,
-      "homeScore": 0,
+      "awayScore": 3,
+      "homeScore": 1,
       "venue": "Petco Park",
       "awayPitcher": "Robert Gasser",
       "homePitcher": "Walker Buehler"
@@ -6942,8 +6942,8 @@
     {
       "gamePk": 849832,
       "date": "2026-10-08",
-      "gameDate": "2026-10-08T21:00:00Z",
-      "localGameTime": "2026-10-08T17:00:00-04:00",
+      "gameDate": "2026-10-09T00:00:00Z",
+      "localGameTime": "2026-10-08T20:00:00-04:00",
       "status": "Scheduled",
       "abstractGameState": "Preview",
       "codedGameState": "S",
@@ -6961,85 +6961,13 @@
       "homeScore": null,
       "venue": "Rate Field",
       "awayPitcher": "Parker Messick",
-      "homePitcher": null
-    },
-    {
-      "gamePk": 849837,
-      "date": "2026-10-08",
-      "gameDate": "2026-10-09T00:00:00Z",
-      "localGameTime": "2026-10-08T20:00:00-04:00",
-      "status": "Scheduled",
-      "abstractGameState": "Preview",
-      "codedGameState": "S",
-      "awayTeam": {
-        "id": 139,
-        "name": "Tampa Bay Rays",
-        "abbreviation": "TB"
-      },
-      "homeTeam": {
-        "id": 147,
-        "name": "New York Yankees",
-        "abbreviation": "NYY"
-      },
-      "awayScore": null,
-      "homeScore": null,
-      "venue": "Yankee Stadium",
-      "awayPitcher": "Drew Rasmussen",
-      "homePitcher": "Carlos Rod\u00f3n"
-    },
-    {
-      "gamePk": 849824,
-      "date": "2026-10-09",
-      "gameDate": "2026-10-09T20:30:00Z",
-      "localGameTime": "2026-10-09T16:30:00-04:00",
-      "status": "Scheduled",
-      "abstractGameState": "Preview",
-      "codedGameState": "S",
-      "awayTeam": {
-        "id": 135,
-        "name": "San Diego Padres",
-        "abbreviation": "SD"
-      },
-      "homeTeam": {
-        "id": 158,
-        "name": "Milwaukee Brewers",
-        "abbreviation": "MIL"
-      },
-      "awayScore": null,
-      "homeScore": null,
-      "venue": "American Family Field",
-      "awayPitcher": null,
-      "homePitcher": "Jacob Misiorowski"
-    },
-    {
-      "gamePk": 849821,
-      "date": "2026-10-09",
-      "gameDate": "2026-10-10T00:00:00Z",
-      "localGameTime": "2026-10-09T20:00:00-04:00",
-      "status": "Scheduled",
-      "abstractGameState": "Preview",
-      "codedGameState": "S",
-      "awayTeam": {
-        "id": 144,
-        "name": "Atlanta Braves",
-        "abbreviation": "ATL"
-      },
-      "homeTeam": {
-        "id": 119,
-        "name": "Los Angeles Dodgers",
-        "abbreviation": "LAD"
-      },
-      "awayScore": null,
-      "homeScore": null,
-      "venue": "UNIQLO Field at Dodger Stadium",
-      "awayPitcher": null,
-      "homePitcher": null
+      "homePitcher": "Hagen Smith"
     },
     {
       "gamePk": 849831,
       "date": "2026-10-10",
-      "gameDate": "2026-10-10T21:00:00Z",
-      "localGameTime": "2026-10-10T17:00:00-04:00",
+      "gameDate": "2026-10-11T00:00:00Z",
+      "localGameTime": "2026-10-10T20:00:00-04:00",
       "status": "Scheduled",
       "abstractGameState": "Preview",
       "codedGameState": "S",
@@ -7060,30 +6988,6 @@
       "homePitcher": null
     },
     {
-      "gamePk": 849836,
-      "date": "2026-10-10",
-      "gameDate": "2026-10-11T00:00:00Z",
-      "localGameTime": "2026-10-10T20:00:00-04:00",
-      "status": "Scheduled",
-      "abstractGameState": "Preview",
-      "codedGameState": "S",
-      "awayTeam": {
-        "id": 147,
-        "name": "New York Yankees",
-        "abbreviation": "NYY"
-      },
-      "homeTeam": {
-        "id": 139,
-        "name": "Tampa Bay Rays",
-        "abbreviation": "TB"
-      },
-      "awayScore": null,
-      "homeScore": null,
-      "venue": "Tropicana Field",
-      "awayPitcher": null,
-      "homePitcher": null
-    },
-    {
       "gamePk": 849809,
       "date": "2026-10-11",
       "gameDate": "2026-10-11T07:33:00Z",
@@ -7092,18 +6996,42 @@
       "abstractGameState": "Preview",
       "codedGameState": "S",
       "awayTeam": {
-        "id": 5525,
-        "name": "NL Lower Seed",
-        "abbreviation": "NL Low"
+        "id": 119,
+        "name": "Los Angeles Dodgers",
+        "abbreviation": "LAD"
       },
       "homeTeam": {
-        "id": 5517,
-        "name": "NL Higher Seed",
-        "abbreviation": "NL High"
+        "id": 158,
+        "name": "Milwaukee Brewers",
+        "abbreviation": "MIL"
       },
       "awayScore": null,
       "homeScore": null,
-      "venue": "NL Stadium",
+      "venue": "American Family Field",
+      "awayPitcher": null,
+      "homePitcher": null
+    },
+    {
+      "gamePk": 849812,
+      "date": "2026-10-12",
+      "gameDate": "2026-10-12T07:33:00Z",
+      "localGameTime": "2026-10-12T03:33:00-04:00",
+      "status": "Scheduled",
+      "abstractGameState": "Preview",
+      "codedGameState": "S",
+      "awayTeam": {
+        "id": 119,
+        "name": "Los Angeles Dodgers",
+        "abbreviation": "LAD"
+      },
+      "homeTeam": {
+        "id": 158,
+        "name": "Milwaukee Brewers",
+        "abbreviation": "MIL"
+      },
+      "awayScore": null,
+      "homeScore": null,
+      "venue": "American Family Field",
       "awayPitcher": null,
       "homePitcher": null
     },
@@ -7117,41 +7045,17 @@
       "codedGameState": "S",
       "awayTeam": {
         "id": 5521,
-        "name": "AL Lower Seed",
-        "abbreviation": "AL Low"
+        "name": "CLE/CWS",
+        "abbreviation": "CLE/CWS"
       },
       "homeTeam": {
-        "id": 5513,
-        "name": "AL Higher Seed",
-        "abbreviation": "AL High"
+        "id": 139,
+        "name": "Tampa Bay Rays",
+        "abbreviation": "TB"
       },
       "awayScore": null,
       "homeScore": null,
-      "venue": "AL Stadium",
-      "awayPitcher": null,
-      "homePitcher": null
-    },
-    {
-      "gamePk": 849812,
-      "date": "2026-10-12",
-      "gameDate": "2026-10-12T07:33:00Z",
-      "localGameTime": "2026-10-12T03:33:00-04:00",
-      "status": "Scheduled",
-      "abstractGameState": "Preview",
-      "codedGameState": "S",
-      "awayTeam": {
-        "id": 5525,
-        "name": "NL Lower Seed",
-        "abbreviation": "NL Low"
-      },
-      "homeTeam": {
-        "id": 5517,
-        "name": "NL Higher Seed",
-        "abbreviation": "NL High"
-      },
-      "awayScore": null,
-      "homeScore": null,
-      "venue": "NL Stadium",
+      "venue": "Tropicana Field",
       "awayPitcher": null,
       "homePitcher": null
     },
@@ -7165,17 +7069,17 @@
       "codedGameState": "S",
       "awayTeam": {
         "id": 5521,
-        "name": "AL Lower Seed",
-        "abbreviation": "AL Low"
+        "name": "CLE/CWS",
+        "abbreviation": "CLE/CWS"
       },
       "homeTeam": {
-        "id": 5513,
-        "name": "AL Higher Seed",
-        "abbreviation": "AL High"
+        "id": 139,
+        "name": "Tampa Bay Rays",
+        "abbreviation": "TB"
       },
       "awayScore": null,
       "homeScore": null,
-      "venue": "AL Stadium",
+      "venue": "Tropicana Field",
       "awayPitcher": null,
       "homePitcher": null
     },
@@ -7188,42 +7092,18 @@
       "abstractGameState": "Preview",
       "codedGameState": "S",
       "awayTeam": {
-        "id": 5517,
-        "name": "NL Higher Seed",
-        "abbreviation": "NL High"
+        "id": 158,
+        "name": "Milwaukee Brewers",
+        "abbreviation": "MIL"
       },
       "homeTeam": {
-        "id": 5525,
-        "name": "NL Lower Seed",
-        "abbreviation": "NL Low"
+        "id": 119,
+        "name": "Los Angeles Dodgers",
+        "abbreviation": "LAD"
       },
       "awayScore": null,
       "homeScore": null,
-      "venue": "NL Stadium",
-      "awayPitcher": null,
-      "homePitcher": null
-    },
-    {
-      "gamePk": 849818,
-      "date": "2026-10-15",
-      "gameDate": "2026-10-15T07:33:00Z",
-      "localGameTime": "2026-10-15T03:33:00-04:00",
-      "status": "Scheduled",
-      "abstractGameState": "Preview",
-      "codedGameState": "S",
-      "awayTeam": {
-        "id": 5513,
-        "name": "AL Higher Seed",
-        "abbreviation": "AL High"
-      },
-      "homeTeam": {
-        "id": 5521,
-        "name": "AL Lower Seed",
-        "abbreviation": "AL Low"
-      },
-      "awayScore": null,
-      "homeScore": null,
-      "venue": "AL Stadium",
+      "venue": "UNIQLO Field at Dodger Stadium",
       "awayPitcher": null,
       "homePitcher": null
     },
@@ -7236,38 +7116,38 @@
       "abstractGameState": "Preview",
       "codedGameState": "S",
       "awayTeam": {
-        "id": 5517,
-        "name": "NL Higher Seed",
-        "abbreviation": "NL High"
+        "id": 158,
+        "name": "Milwaukee Brewers",
+        "abbreviation": "MIL"
       },
       "homeTeam": {
-        "id": 5525,
-        "name": "NL Lower Seed",
-        "abbreviation": "NL Low"
+        "id": 119,
+        "name": "Los Angeles Dodgers",
+        "abbreviation": "LAD"
       },
       "awayScore": null,
       "homeScore": null,
-      "venue": "NL Stadium",
+      "venue": "UNIQLO Field at Dodger Stadium",
       "awayPitcher": null,
       "homePitcher": null
     },
     {
-      "gamePk": 849817,
-      "date": "2026-10-16",
-      "gameDate": "2026-10-16T07:33:00Z",
-      "localGameTime": "2026-10-16T03:33:00-04:00",
+      "gamePk": 849818,
+      "date": "2026-10-15",
+      "gameDate": "2026-10-15T07:33:00Z",
+      "localGameTime": "2026-10-15T03:33:00-04:00",
       "status": "Scheduled",
       "abstractGameState": "Preview",
       "codedGameState": "S",
       "awayTeam": {
-        "id": 5513,
-        "name": "AL Higher Seed",
-        "abbreviation": "AL High"
+        "id": 139,
+        "name": "Tampa Bay Rays",
+        "abbreviation": "TB"
       },
       "homeTeam": {
         "id": 5521,
-        "name": "AL Lower Seed",
-        "abbreviation": "AL Low"
+        "name": "CLE/CWS",
+        "abbreviation": "CLE/CWS"
       },
       "awayScore": null,
       "homeScore": null,
@@ -7284,18 +7164,42 @@
       "abstractGameState": "Preview",
       "codedGameState": "S",
       "awayTeam": {
-        "id": 5517,
-        "name": "NL Higher Seed",
-        "abbreviation": "NL High"
+        "id": 158,
+        "name": "Milwaukee Brewers",
+        "abbreviation": "MIL"
       },
       "homeTeam": {
-        "id": 5525,
-        "name": "NL Lower Seed",
-        "abbreviation": "NL Low"
+        "id": 119,
+        "name": "Los Angeles Dodgers",
+        "abbreviation": "LAD"
       },
       "awayScore": null,
       "homeScore": null,
-      "venue": "NL Stadium",
+      "venue": "UNIQLO Field at Dodger Stadium",
+      "awayPitcher": null,
+      "homePitcher": null
+    },
+    {
+      "gamePk": 849817,
+      "date": "2026-10-16",
+      "gameDate": "2026-10-16T07:33:00Z",
+      "localGameTime": "2026-10-16T03:33:00-04:00",
+      "status": "Scheduled",
+      "abstractGameState": "Preview",
+      "codedGameState": "S",
+      "awayTeam": {
+        "id": 139,
+        "name": "Tampa Bay Rays",
+        "abbreviation": "TB"
+      },
+      "homeTeam": {
+        "id": 5521,
+        "name": "CLE/CWS",
+        "abbreviation": "CLE/CWS"
+      },
+      "awayScore": null,
+      "homeScore": null,
+      "venue": "AL Stadium",
       "awayPitcher": null,
       "homePitcher": null
     },
@@ -7308,14 +7212,14 @@
       "abstractGameState": "Preview",
       "codedGameState": "S",
       "awayTeam": {
-        "id": 5513,
-        "name": "AL Higher Seed",
-        "abbreviation": "AL High"
+        "id": 139,
+        "name": "Tampa Bay Rays",
+        "abbreviation": "TB"
       },
       "homeTeam": {
         "id": 5521,
-        "name": "AL Lower Seed",
-        "abbreviation": "AL Low"
+        "name": "CLE/CWS",
+        "abbreviation": "CLE/CWS"
       },
       "awayScore": null,
       "homeScore": null,
@@ -7332,18 +7236,42 @@
       "abstractGameState": "Preview",
       "codedGameState": "S",
       "awayTeam": {
-        "id": 5525,
-        "name": "NL Lower Seed",
-        "abbreviation": "NL Low"
+        "id": 119,
+        "name": "Los Angeles Dodgers",
+        "abbreviation": "LAD"
       },
       "homeTeam": {
-        "id": 5517,
-        "name": "NL Higher Seed",
-        "abbreviation": "NL High"
+        "id": 158,
+        "name": "Milwaukee Brewers",
+        "abbreviation": "MIL"
       },
       "awayScore": null,
       "homeScore": null,
-      "venue": "NL Stadium",
+      "venue": "American Family Field",
+      "awayPitcher": null,
+      "homePitcher": null
+    },
+    {
+      "gamePk": 849807,
+      "date": "2026-10-19",
+      "gameDate": "2026-10-19T07:33:00Z",
+      "localGameTime": "2026-10-19T03:33:00-04:00",
+      "status": "Scheduled",
+      "abstractGameState": "Preview",
+      "codedGameState": "S",
+      "awayTeam": {
+        "id": 119,
+        "name": "Los Angeles Dodgers",
+        "abbreviation": "LAD"
+      },
+      "homeTeam": {
+        "id": 158,
+        "name": "Milwaukee Brewers",
+        "abbreviation": "MIL"
+      },
+      "awayScore": null,
+      "homeScore": null,
+      "venue": "American Family Field",
       "awayPitcher": null,
       "homePitcher": null
     },
@@ -7357,41 +7285,17 @@
       "codedGameState": "S",
       "awayTeam": {
         "id": 5521,
-        "name": "AL Lower Seed",
-        "abbreviation": "AL Low"
+        "name": "CLE/CWS",
+        "abbreviation": "CLE/CWS"
       },
       "homeTeam": {
-        "id": 5513,
-        "name": "AL Higher Seed",
-        "abbreviation": "AL High"
+        "id": 139,
+        "name": "Tampa Bay Rays",
+        "abbreviation": "TB"
       },
       "awayScore": null,
       "homeScore": null,
-      "venue": "AL Stadium",
-      "awayPitcher": null,
-      "homePitcher": null
-    },
-    {
-      "gamePk": 849807,
-      "date": "2026-10-19",
-      "gameDate": "2026-10-19T07:33:00Z",
-      "localGameTime": "2026-10-19T03:33:00-04:00",
-      "status": "Scheduled",
-      "abstractGameState": "Preview",
-      "codedGameState": "S",
-      "awayTeam": {
-        "id": 5525,
-        "name": "NL Lower Seed",
-        "abbreviation": "NL Low"
-      },
-      "homeTeam": {
-        "id": 5517,
-        "name": "NL Higher Seed",
-        "abbreviation": "NL High"
-      },
-      "awayScore": null,
-      "homeScore": null,
-      "venue": "NL Stadium",
+      "venue": "Tropicana Field",
       "awayPitcher": null,
       "homePitcher": null
     },
@@ -7405,17 +7309,17 @@
       "codedGameState": "S",
       "awayTeam": {
         "id": 5521,
-        "name": "AL Lower Seed",
-        "abbreviation": "AL Low"
+        "name": "CLE/CWS",
+        "abbreviation": "CLE/CWS"
       },
       "homeTeam": {
-        "id": 5513,
-        "name": "AL Higher Seed",
-        "abbreviation": "AL High"
+        "id": 139,
+        "name": "Tampa Bay Rays",
+        "abbreviation": "TB"
       },
       "awayScore": null,
       "homeScore": null,
-      "venue": "AL Stadium",
+      "venue": "Tropicana Field",
       "awayPitcher": null,
       "homePitcher": null
     },
