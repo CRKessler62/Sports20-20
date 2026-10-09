@@ -1,7 +1,7 @@
 {
   "league": "MLB",
   "timezone": "America/New_York",
-  "lastUpdated": "2026-10-09T15:54:23.634620+00:00",
+  "lastUpdated": "2026-10-09T20:38:29.461060+00:00",
   "games": [
     {
       "gamePk": 824226,
@@ -6624,8 +6624,8 @@
       "awayScore": null,
       "homeScore": null,
       "venue": "Progressive Field",
-      "awayPitcher": null,
-      "homePitcher": null
+      "awayPitcher": "Sean Burke",
+      "homePitcher": "Gavin Williams"
     },
     {
       "gamePk": 849809,
