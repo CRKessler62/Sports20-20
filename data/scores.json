@@ -1,5 +1,26 @@
 {
   "league": "MLB",
-  "lastUpdated": "2026-10-09T21:07:56.270713+00:00",
-  "games": []
+  "lastUpdated": "2026-10-10T00:51:08.391132+00:00",
+  "games": [
+    {
+      "gamePk": 849831,
+      "awayTeam": "Chicago White Sox",
+      "homeTeam": "Cleveland Guardians",
+      "awayScore": 0,
+      "homeScore": 0,
+      "status": "Scheduled",
+      "gameDate": "2026-10-11T00:00:00Z",
+      "inning": null,
+      "inningOrdinal": null,
+      "inningState": null,
+      "outs": null,
+      "battingTeam": null,
+      "runners": {
+        "first": false,
+        "second": false,
+        "third": false
+      },
+      "inningScores": []
+    }
+  ]
 }
