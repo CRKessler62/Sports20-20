@@ -1,7 +1,7 @@
 {
   "league": "MLB",
   "timezone": "America/New_York",
-  "lastUpdated": "2026-10-11T15:24:35.464324+00:00",
+  "lastUpdated": "2026-10-11T20:00:01.990155+00:00",
   "games": [
     {
       "gamePk": 824631,
@@ -6193,7 +6193,7 @@
       "homeScore": null,
       "venue": "American Family Field",
       "awayPitcher": "Yoshinobu Yamamoto",
-      "homePitcher": null
+      "homePitcher": "Logan Henderson"
     },
     {
       "gamePk": 849820,
@@ -6217,7 +6217,7 @@
       "homeScore": null,
       "venue": "Tropicana Field",
       "awayPitcher": null,
-      "homePitcher": null
+      "homePitcher": "Drew Rasmussen"
     },
     {
       "gamePk": 849813,
