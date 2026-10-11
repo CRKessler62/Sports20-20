@@ -1,128 +1,8 @@
 {
   "league": "MLB",
   "timezone": "America/New_York",
-  "lastUpdated": "2026-10-10T22:17:29.588376+00:00",
+  "lastUpdated": "2026-10-11T01:37:54.933061+00:00",
   "games": [
-    {
-      "gamePk": 824872,
-      "date": "2026-09-10",
-      "gameDate": "2026-09-10T16:15:00Z",
-      "localGameTime": "2026-09-10T12:15:00-04:00",
-      "status": "Final",
-      "abstractGameState": "Final",
-      "codedGameState": "F",
-      "awayTeam": {
-        "id": 139,
-        "name": "Tampa Bay Rays",
-        "abbreviation": "TB"
-      },
-      "homeTeam": {
-        "id": 144,
-        "name": "Atlanta Braves",
-        "abbreviation": "ATL"
-      },
-      "awayScore": 1,
-      "homeScore": 3,
-      "venue": "Truist Park",
-      "awayPitcher": "Nick Martinez",
-      "homePitcher": "Mart\u00edn P\u00e9rez"
-    },
-    {
-      "gamePk": 823413,
-      "date": "2026-09-10",
-      "gameDate": "2026-09-10T17:05:00Z",
-      "localGameTime": "2026-09-10T13:05:00-04:00",
-      "status": "Final",
-      "abstractGameState": "Final",
-      "codedGameState": "F",
-      "awayTeam": {
-        "id": 117,
-        "name": "Houston Astros",
-        "abbreviation": "HOU"
-      },
-      "homeTeam": {
-        "id": 143,
-        "name": "Philadelphia Phillies",
-        "abbreviation": "PHI"
-      },
-      "awayScore": 2,
-      "homeScore": 1,
-      "venue": "Citizens Bank Park",
-      "awayPitcher": "Cristian Javier",
-      "homePitcher": "Zack Wheeler"
-    },
-    {
-      "gamePk": 823088,
-      "date": "2026-09-10",
-      "gameDate": "2026-09-10T20:10:00Z",
-      "localGameTime": "2026-09-10T16:10:00-04:00",
-      "status": "Final",
-      "abstractGameState": "Final",
-      "codedGameState": "F",
-      "awayTeam": {
-        "id": 140,
-        "name": "Texas Rangers",
-        "abbreviation": "TEX"
-      },
-      "homeTeam": {
-        "id": 136,
-        "name": "Seattle Mariners",
-        "abbreviation": "SEA"
-      },
-      "awayScore": 3,
-      "homeScore": 4,
-      "venue": "T-Mobile Park",
-      "awayPitcher": "Jacob deGrom",
-      "homePitcher": "Logan Gilbert"
-    },
-    {
-      "gamePk": 823499,
-      "date": "2026-09-10",
-      "gameDate": "2026-09-10T23:05:00Z",
-      "localGameTime": "2026-09-10T19:05:00-04:00",
-      "status": "Final",
-      "abstractGameState": "Final",
-      "codedGameState": "F",
-      "awayTeam": {
-        "id": 115,
-        "name": "Colorado Rockies",
-        "abbreviation": "COL"
-      },
-      "homeTeam": {
-        "id": 147,
-        "name": "New York Yankees",
-        "abbreviation": "NYY"
-      },
-      "awayScore": 3,
-      "homeScore": 10,
-      "venue": "Yankee Stadium",
-      "awayPitcher": "Ryan Feltner",
-      "homePitcher": "Max Fried"
-    },
-    {
-      "gamePk": 824550,
-      "date": "2026-09-10",
-      "gameDate": "2026-09-10T23:40:00Z",
-      "localGameTime": "2026-09-10T19:40:00-04:00",
-      "status": "Final",
-      "abstractGameState": "Final",
-      "codedGameState": "F",
-      "awayTeam": {
-        "id": 134,
-        "name": "Pittsburgh Pirates",
-        "abbreviation": "PIT"
-      },
-      "homeTeam": {
-        "id": 145,
-        "name": "Chicago White Sox",
-        "abbreviation": "CWS"
-      },
-      "awayScore": 2,
-      "homeScore": 0,
-      "venue": "Rate Field",
-      "awayPitcher": "Jared Jones",
-      "homePitcher": "Hagen Smith"
-    },
     {
       "gamePk": 824631,
       "date": "2026-09-11",
@@ -6248,9 +6128,9 @@
       "date": "2026-10-10",
       "gameDate": "2026-10-11T00:00:00Z",
       "localGameTime": "2026-10-10T20:00:00-04:00",
-      "status": "Pre-Game",
-      "abstractGameState": "Preview",
-      "codedGameState": "P",
+      "status": "In Progress",
+      "abstractGameState": "Live",
+      "codedGameState": "I",
       "awayTeam": {
         "id": 145,
         "name": "Chicago White Sox",
@@ -6262,7 +6142,7 @@
         "abbreviation": "CLE"
       },
       "awayScore": 0,
-      "homeScore": 0,
+      "homeScore": 2,
       "venue": "Progressive Field",
       "awayPitcher": "Sean Burke",
       "homePitcher": "Gavin Williams"
