@@ -1,7 +1,7 @@
 {
   "league": "MLB",
   "timezone": "America/New_York",
-  "lastUpdated": "2026-10-11T01:37:54.933061+00:00",
+  "lastUpdated": "2026-10-11T08:26:46.676048+00:00",
   "games": [
     {
       "gamePk": 824631,
@@ -6128,9 +6128,9 @@
       "date": "2026-10-10",
       "gameDate": "2026-10-11T00:00:00Z",
       "localGameTime": "2026-10-10T20:00:00-04:00",
-      "status": "In Progress",
-      "abstractGameState": "Live",
-      "codedGameState": "I",
+      "status": "Final",
+      "abstractGameState": "Final",
+      "codedGameState": "F",
       "awayTeam": {
         "id": 145,
         "name": "Chicago White Sox",
@@ -6204,9 +6204,9 @@
       "abstractGameState": "Preview",
       "codedGameState": "S",
       "awayTeam": {
-        "id": 5521,
-        "name": "CLE/CWS",
-        "abbreviation": "CLE/CWS"
+        "id": 114,
+        "name": "Cleveland Guardians",
+        "abbreviation": "CLE"
       },
       "homeTeam": {
         "id": 139,
@@ -6228,9 +6228,9 @@
       "abstractGameState": "Preview",
       "codedGameState": "S",
       "awayTeam": {
-        "id": 5521,
-        "name": "CLE/CWS",
-        "abbreviation": "CLE/CWS"
+        "id": 114,
+        "name": "Cleveland Guardians",
+        "abbreviation": "CLE"
       },
       "homeTeam": {
         "id": 139,
@@ -6281,13 +6281,13 @@
         "abbreviation": "TB"
       },
       "homeTeam": {
-        "id": 5521,
-        "name": "CLE/CWS",
-        "abbreviation": "CLE/CWS"
+        "id": 114,
+        "name": "Cleveland Guardians",
+        "abbreviation": "CLE"
       },
       "awayScore": null,
       "homeScore": null,
-      "venue": "AL Stadium",
+      "venue": "Progressive Field",
       "awayPitcher": null,
       "homePitcher": null
     },
@@ -6329,13 +6329,13 @@
         "abbreviation": "TB"
       },
       "homeTeam": {
-        "id": 5521,
-        "name": "CLE/CWS",
-        "abbreviation": "CLE/CWS"
+        "id": 114,
+        "name": "Cleveland Guardians",
+        "abbreviation": "CLE"
       },
       "awayScore": null,
       "homeScore": null,
-      "venue": "AL Stadium",
+      "venue": "Progressive Field",
       "awayPitcher": null,
       "homePitcher": null
     },
@@ -6377,13 +6377,13 @@
         "abbreviation": "TB"
       },
       "homeTeam": {
-        "id": 5521,
-        "name": "CLE/CWS",
-        "abbreviation": "CLE/CWS"
+        "id": 114,
+        "name": "Cleveland Guardians",
+        "abbreviation": "CLE"
       },
       "awayScore": null,
       "homeScore": null,
-      "venue": "AL Stadium",
+      "venue": "Progressive Field",
       "awayPitcher": null,
       "homePitcher": null
     },
@@ -6420,9 +6420,9 @@
       "abstractGameState": "Preview",
       "codedGameState": "S",
       "awayTeam": {
-        "id": 5521,
-        "name": "CLE/CWS",
-        "abbreviation": "CLE/CWS"
+        "id": 114,
+        "name": "Cleveland Guardians",
+        "abbreviation": "CLE"
       },
       "homeTeam": {
         "id": 139,
@@ -6468,9 +6468,9 @@
       "abstractGameState": "Preview",
       "codedGameState": "S",
       "awayTeam": {
-        "id": 5521,
-        "name": "CLE/CWS",
-        "abbreviation": "CLE/CWS"
+        "id": 114,
+        "name": "Cleveland Guardians",
+        "abbreviation": "CLE"
       },
       "homeTeam": {
         "id": 139,
