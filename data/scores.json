@@ -1,32 +1,46 @@
 {
   "league": "MLB",
-  "lastUpdated": "2026-10-11T23:59:36.210102+00:00",
+  "lastUpdated": "2026-10-12T05:46:41.572005+00:00",
   "games": [
     {
-      "gamePk": 849809,
+      "gamePk": 849812,
       "awayTeam": "Los Angeles Dodgers",
       "homeTeam": "Milwaukee Brewers",
       "awayScore": 0,
       "homeScore": 0,
-      "status": "Warmup",
-      "gameDate": "2026-10-12T00:00:00Z",
-      "inning": 1,
-      "inningOrdinal": "1st",
-      "inningState": "Top",
-      "outs": 0,
-      "battingTeam": "Los Angeles Dodgers",
+      "status": "Scheduled",
+      "gameDate": "2026-10-12T21:00:00Z",
+      "inning": null,
+      "inningOrdinal": null,
+      "inningState": null,
+      "outs": null,
+      "battingTeam": null,
       "runners": {
         "first": false,
         "second": false,
         "third": false
       },
-      "inningScores": [
-        {
-          "inning": 1,
-          "awayRuns": 0,
-          "homeRuns": 0
-        }
-      ]
+      "inningScores": []
+    },
+    {
+      "gamePk": 849820,
+      "awayTeam": "Cleveland Guardians",
+      "homeTeam": "Tampa Bay Rays",
+      "awayScore": 0,
+      "homeScore": 0,
+      "status": "Scheduled",
+      "gameDate": "2026-10-13T00:00:00Z",
+      "inning": null,
+      "inningOrdinal": null,
+      "inningState": null,
+      "outs": null,
+      "battingTeam": null,
+      "runners": {
+        "first": false,
+        "second": false,
+        "third": false
+      },
+      "inningScores": []
     }
   ]
 }
