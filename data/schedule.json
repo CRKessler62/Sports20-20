@@ -1,7 +1,7 @@
 {
   "league": "MLB",
   "timezone": "America/New_York",
-  "lastUpdated": "2026-10-14T14:59:38.617312+00:00",
+  "lastUpdated": "2026-10-14T19:17:03.868939+00:00",
   "games": [
     {
       "gamePk": 824465,
@@ -5190,8 +5190,8 @@
     {
       "gamePk": 849818,
       "date": "2026-10-15",
-      "gameDate": "2026-10-15T22:00:00Z",
-      "localGameTime": "2026-10-15T18:00:00-04:00",
+      "gameDate": "2026-10-15T17:00:00Z",
+      "localGameTime": "2026-10-15T13:00:00-04:00",
       "status": "Scheduled",
       "abstractGameState": "Preview",
       "codedGameState": "S",
@@ -5214,8 +5214,8 @@
     {
       "gamePk": 849810,
       "date": "2026-10-15",
-      "gameDate": "2026-10-16T01:00:00Z",
-      "localGameTime": "2026-10-15T21:00:00-04:00",
+      "gameDate": "2026-10-16T00:00:00Z",
+      "localGameTime": "2026-10-15T20:00:00-04:00",
       "status": "Scheduled",
       "abstractGameState": "Preview",
       "codedGameState": "S",
@@ -5233,7 +5233,7 @@
       "homeScore": null,
       "venue": "UNIQLO Field at Dodger Stadium",
       "awayPitcher": null,
-      "homePitcher": null
+      "homePitcher": "Tyler Glasnow"
     },
     {
       "gamePk": 849817,
