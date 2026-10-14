@@ -1,7 +1,7 @@
 {
   "league": "MLB",
   "timezone": "America/New_York",
-  "lastUpdated": "2026-10-14T19:17:03.868939+00:00",
+  "lastUpdated": "2026-10-14T23:02:29.785271+00:00",
   "games": [
     {
       "gamePk": 824465,
@@ -5168,9 +5168,9 @@
       "date": "2026-10-14",
       "gameDate": "2026-10-15T00:00:00Z",
       "localGameTime": "2026-10-14T20:00:00-04:00",
-      "status": "Scheduled",
+      "status": "Pre-Game",
       "abstractGameState": "Preview",
-      "codedGameState": "S",
+      "codedGameState": "P",
       "awayTeam": {
         "id": 158,
         "name": "Milwaukee Brewers",
@@ -5181,8 +5181,8 @@
         "name": "Los Angeles Dodgers",
         "abbreviation": "LAD"
       },
-      "awayScore": null,
-      "homeScore": null,
+      "awayScore": 0,
+      "homeScore": 0,
       "venue": "UNIQLO Field at Dodger Stadium",
       "awayPitcher": "Robert Gasser",
       "homePitcher": "Blake Snell"
@@ -5209,7 +5209,7 @@
       "homeScore": null,
       "venue": "Progressive Field",
       "awayPitcher": "Griffin Jax",
-      "homePitcher": null
+      "homePitcher": "Gavin Williams"
     },
     {
       "gamePk": 849810,
