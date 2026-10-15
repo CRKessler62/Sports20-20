@@ -1,19 +1,19 @@
 {
   "league": "MLB",
-  "lastUpdated": "2026-10-15T16:49:54.650638+00:00",
+  "lastUpdated": "2026-10-15T20:07:33.421648+00:00",
   "games": [
     {
       "gamePk": 849818,
       "awayTeam": "Tampa Bay Rays",
       "homeTeam": "Cleveland Guardians",
-      "awayScore": 0,
-      "homeScore": 0,
-      "status": "Warmup",
+      "awayScore": 2,
+      "homeScore": 3,
+      "status": "Final",
       "gameDate": "2026-10-15T17:00:00Z",
-      "inning": 1,
-      "inningOrdinal": "1st",
+      "inning": 9,
+      "inningOrdinal": "9th",
       "inningState": "Top",
-      "outs": 0,
+      "outs": 3,
       "battingTeam": "Tampa Bay Rays",
       "runners": {
         "first": false,
@@ -23,6 +23,46 @@
       "inningScores": [
         {
           "inning": 1,
+          "awayRuns": 0,
+          "homeRuns": 0
+        },
+        {
+          "inning": 2,
+          "awayRuns": 0,
+          "homeRuns": 1
+        },
+        {
+          "inning": 3,
+          "awayRuns": 0,
+          "homeRuns": 0
+        },
+        {
+          "inning": 4,
+          "awayRuns": 2,
+          "homeRuns": 0
+        },
+        {
+          "inning": 5,
+          "awayRuns": 0,
+          "homeRuns": 2
+        },
+        {
+          "inning": 6,
+          "awayRuns": 0,
+          "homeRuns": 0
+        },
+        {
+          "inning": 7,
+          "awayRuns": 0,
+          "homeRuns": 0
+        },
+        {
+          "inning": 8,
+          "awayRuns": 0,
+          "homeRuns": 0
+        },
+        {
+          "inning": 9,
           "awayRuns": 0,
           "homeRuns": 0
         }
