@@ -1,7 +1,7 @@
 {
   "league": "MLB",
   "timezone": "America/New_York",
-  "lastUpdated": "2026-10-16T01:02:29.409579+00:00",
+  "lastUpdated": "2026-10-16T06:50:03.901957+00:00",
   "games": [
     {
       "gamePk": 824382,
@@ -4616,9 +4616,9 @@
       "date": "2026-10-15",
       "gameDate": "2026-10-16T00:00:00Z",
       "localGameTime": "2026-10-15T20:00:00-04:00",
-      "status": "In Progress",
-      "abstractGameState": "Live",
-      "codedGameState": "I",
+      "status": "Final",
+      "abstractGameState": "Final",
+      "codedGameState": "F",
       "awayTeam": {
         "id": 158,
         "name": "Milwaukee Brewers",
@@ -4629,7 +4629,7 @@
         "name": "Los Angeles Dodgers",
         "abbreviation": "LAD"
       },
-      "awayScore": 0,
+      "awayScore": 6,
       "homeScore": 4,
       "venue": "UNIQLO Field at Dodger Stadium",
       "awayPitcher": "Shane Drohan",
@@ -4638,8 +4638,8 @@
     {
       "gamePk": 849817,
       "date": "2026-10-16",
-      "gameDate": "2026-10-16T22:00:00Z",
-      "localGameTime": "2026-10-16T18:00:00-04:00",
+      "gameDate": "2026-10-17T00:00:00Z",
+      "localGameTime": "2026-10-16T20:00:00-04:00",
       "status": "Scheduled",
       "abstractGameState": "Preview",
       "codedGameState": "S",
@@ -4657,30 +4657,6 @@
       "homeScore": null,
       "venue": "Progressive Field",
       "awayPitcher": "Nick Martinez",
-      "homePitcher": null
-    },
-    {
-      "gamePk": 849808,
-      "date": "2026-10-16",
-      "gameDate": "2026-10-17T01:00:00Z",
-      "localGameTime": "2026-10-16T21:00:00-04:00",
-      "status": "Scheduled",
-      "abstractGameState": "Preview",
-      "codedGameState": "S",
-      "awayTeam": {
-        "id": 158,
-        "name": "Milwaukee Brewers",
-        "abbreviation": "MIL"
-      },
-      "homeTeam": {
-        "id": 119,
-        "name": "Los Angeles Dodgers",
-        "abbreviation": "LAD"
-      },
-      "awayScore": null,
-      "homeScore": null,
-      "venue": "UNIQLO Field at Dodger Stadium",
-      "awayPitcher": null,
       "homePitcher": null
     },
     {
@@ -4708,34 +4684,10 @@
       "homePitcher": null
     },
     {
-      "gamePk": 849806,
-      "date": "2026-10-18",
-      "gameDate": "2026-10-19T00:00:00Z",
-      "localGameTime": "2026-10-18T20:00:00-04:00",
-      "status": "Scheduled",
-      "abstractGameState": "Preview",
-      "codedGameState": "S",
-      "awayTeam": {
-        "id": 119,
-        "name": "Los Angeles Dodgers",
-        "abbreviation": "LAD"
-      },
-      "homeTeam": {
-        "id": 158,
-        "name": "Milwaukee Brewers",
-        "abbreviation": "MIL"
-      },
-      "awayScore": null,
-      "homeScore": null,
-      "venue": "American Family Field",
-      "awayPitcher": null,
-      "homePitcher": null
-    },
-    {
       "gamePk": 849815,
       "date": "2026-10-19",
-      "gameDate": "2026-10-19T21:00:00Z",
-      "localGameTime": "2026-10-19T17:00:00-04:00",
+      "gameDate": "2026-10-20T00:00:00Z",
+      "localGameTime": "2026-10-19T20:00:00-04:00",
       "status": "Scheduled",
       "abstractGameState": "Preview",
       "codedGameState": "S",
@@ -4752,30 +4704,6 @@
       "awayScore": null,
       "homeScore": null,
       "venue": "Tropicana Field",
-      "awayPitcher": null,
-      "homePitcher": null
-    },
-    {
-      "gamePk": 849807,
-      "date": "2026-10-19",
-      "gameDate": "2026-10-20T00:00:00Z",
-      "localGameTime": "2026-10-19T20:00:00-04:00",
-      "status": "Scheduled",
-      "abstractGameState": "Preview",
-      "codedGameState": "S",
-      "awayTeam": {
-        "id": 119,
-        "name": "Los Angeles Dodgers",
-        "abbreviation": "LAD"
-      },
-      "homeTeam": {
-        "id": 158,
-        "name": "Milwaukee Brewers",
-        "abbreviation": "MIL"
-      },
-      "awayScore": null,
-      "homeScore": null,
-      "venue": "American Family Field",
       "awayPitcher": null,
       "homePitcher": null
     },
@@ -4806,8 +4734,8 @@
     {
       "gamePk": 849805,
       "date": "2026-10-23",
-      "gameDate": "2026-10-23T07:33:00Z",
-      "localGameTime": "2026-10-23T03:33:00-04:00",
+      "gameDate": "2026-10-23T08:33:00Z",
+      "localGameTime": "2026-10-23T04:33:00-04:00",
       "status": "Scheduled",
       "abstractGameState": "Preview",
       "codedGameState": "S",
@@ -4817,21 +4745,21 @@
         "abbreviation": "AL"
       },
       "homeTeam": {
-        "id": 31,
-        "name": "NL Champion",
-        "abbreviation": "NL"
+        "id": 158,
+        "name": "Milwaukee Brewers",
+        "abbreviation": "MIL"
       },
       "awayScore": null,
       "homeScore": null,
-      "venue": "TBD",
+      "venue": "American Family Field",
       "awayPitcher": null,
       "homePitcher": null
     },
     {
       "gamePk": 849802,
       "date": "2026-10-24",
-      "gameDate": "2026-10-24T07:33:00Z",
-      "localGameTime": "2026-10-24T03:33:00-04:00",
+      "gameDate": "2026-10-24T08:33:00Z",
+      "localGameTime": "2026-10-24T04:33:00-04:00",
       "status": "Scheduled",
       "abstractGameState": "Preview",
       "codedGameState": "S",
@@ -4841,13 +4769,13 @@
         "abbreviation": "AL"
       },
       "homeTeam": {
-        "id": 31,
-        "name": "NL Champion",
-        "abbreviation": "NL"
+        "id": 158,
+        "name": "Milwaukee Brewers",
+        "abbreviation": "MIL"
       },
       "awayScore": null,
       "homeScore": null,
-      "venue": "TBD",
+      "venue": "American Family Field",
       "awayPitcher": null,
       "homePitcher": null
     },
@@ -4860,9 +4788,9 @@
       "abstractGameState": "Preview",
       "codedGameState": "S",
       "awayTeam": {
-        "id": 31,
-        "name": "NL Champion",
-        "abbreviation": "NL"
+        "id": 158,
+        "name": "Milwaukee Brewers",
+        "abbreviation": "MIL"
       },
       "homeTeam": {
         "id": 21,
@@ -4884,9 +4812,9 @@
       "abstractGameState": "Preview",
       "codedGameState": "S",
       "awayTeam": {
-        "id": 31,
-        "name": "NL Champion",
-        "abbreviation": "NL"
+        "id": 158,
+        "name": "Milwaukee Brewers",
+        "abbreviation": "MIL"
       },
       "homeTeam": {
         "id": 21,
@@ -4908,9 +4836,9 @@
       "abstractGameState": "Preview",
       "codedGameState": "S",
       "awayTeam": {
-        "id": 31,
-        "name": "NL Champion",
-        "abbreviation": "NL"
+        "id": 158,
+        "name": "Milwaukee Brewers",
+        "abbreviation": "MIL"
       },
       "homeTeam": {
         "id": 21,
@@ -4926,8 +4854,8 @@
     {
       "gamePk": 849801,
       "date": "2026-10-30",
-      "gameDate": "2026-10-30T07:33:00Z",
-      "localGameTime": "2026-10-30T03:33:00-04:00",
+      "gameDate": "2026-10-30T08:33:00Z",
+      "localGameTime": "2026-10-30T04:33:00-04:00",
       "status": "Scheduled",
       "abstractGameState": "Preview",
       "codedGameState": "S",
@@ -4937,21 +4865,21 @@
         "abbreviation": "AL"
       },
       "homeTeam": {
-        "id": 31,
-        "name": "NL Champion",
-        "abbreviation": "NL"
+        "id": 158,
+        "name": "Milwaukee Brewers",
+        "abbreviation": "MIL"
       },
       "awayScore": null,
       "homeScore": null,
-      "venue": "TBD",
+      "venue": "American Family Field",
       "awayPitcher": null,
       "homePitcher": null
     },
     {
       "gamePk": 849800,
       "date": "2026-10-31",
-      "gameDate": "2026-10-31T07:33:00Z",
-      "localGameTime": "2026-10-31T03:33:00-04:00",
+      "gameDate": "2026-10-31T08:33:00Z",
+      "localGameTime": "2026-10-31T04:33:00-04:00",
       "status": "Scheduled",
       "abstractGameState": "Preview",
       "codedGameState": "S",
@@ -4961,13 +4889,13 @@
         "abbreviation": "AL"
       },
       "homeTeam": {
-        "id": 31,
-        "name": "NL Champion",
-        "abbreviation": "NL"
+        "id": 158,
+        "name": "Milwaukee Brewers",
+        "abbreviation": "MIL"
       },
       "awayScore": null,
       "homeScore": null,
-      "venue": "TBD",
+      "venue": "American Family Field",
       "awayPitcher": null,
       "homePitcher": null
     }
