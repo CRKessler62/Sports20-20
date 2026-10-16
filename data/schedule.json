@@ -1,7 +1,7 @@
 {
   "league": "MLB",
   "timezone": "America/New_York",
-  "lastUpdated": "2026-10-16T20:38:54.035028+00:00",
+  "lastUpdated": "2026-10-16T23:18:00.918668+00:00",
   "games": [
     {
       "gamePk": 824382,
@@ -4653,8 +4653,8 @@
         "name": "Cleveland Guardians",
         "abbreviation": "CLE"
       },
-      "awayScore": null,
-      "homeScore": null,
+      "awayScore": 0,
+      "homeScore": 0,
       "venue": "Progressive Field",
       "awayPitcher": "Nick Martinez",
       "homePitcher": "Shawn Armstrong"
@@ -4734,8 +4734,8 @@
     {
       "gamePk": 849805,
       "date": "2026-10-23",
-      "gameDate": "2026-10-23T08:33:00Z",
-      "localGameTime": "2026-10-23T04:33:00-04:00",
+      "gameDate": "2026-10-24T00:00:00Z",
+      "localGameTime": "2026-10-23T20:00:00-04:00",
       "status": "Scheduled",
       "abstractGameState": "Preview",
       "codedGameState": "S",
@@ -4758,8 +4758,8 @@
     {
       "gamePk": 849802,
       "date": "2026-10-24",
-      "gameDate": "2026-10-24T08:33:00Z",
-      "localGameTime": "2026-10-24T04:33:00-04:00",
+      "gameDate": "2026-10-25T00:00:00Z",
+      "localGameTime": "2026-10-24T20:00:00-04:00",
       "status": "Scheduled",
       "abstractGameState": "Preview",
       "codedGameState": "S",
@@ -4782,8 +4782,8 @@
     {
       "gamePk": 849804,
       "date": "2026-10-26",
-      "gameDate": "2026-10-26T07:33:00Z",
-      "localGameTime": "2026-10-26T03:33:00-04:00",
+      "gameDate": "2026-10-27T00:00:00Z",
+      "localGameTime": "2026-10-26T20:00:00-04:00",
       "status": "Scheduled",
       "abstractGameState": "Preview",
       "codedGameState": "S",
@@ -4806,8 +4806,8 @@
     {
       "gamePk": 849803,
       "date": "2026-10-27",
-      "gameDate": "2026-10-27T07:33:00Z",
-      "localGameTime": "2026-10-27T03:33:00-04:00",
+      "gameDate": "2026-10-28T00:00:00Z",
+      "localGameTime": "2026-10-27T20:00:00-04:00",
       "status": "Scheduled",
       "abstractGameState": "Preview",
       "codedGameState": "S",
@@ -4830,8 +4830,8 @@
     {
       "gamePk": 849799,
       "date": "2026-10-28",
-      "gameDate": "2026-10-28T07:33:00Z",
-      "localGameTime": "2026-10-28T03:33:00-04:00",
+      "gameDate": "2026-10-29T00:00:00Z",
+      "localGameTime": "2026-10-28T20:00:00-04:00",
       "status": "Scheduled",
       "abstractGameState": "Preview",
       "codedGameState": "S",
@@ -4854,8 +4854,8 @@
     {
       "gamePk": 849801,
       "date": "2026-10-30",
-      "gameDate": "2026-10-30T08:33:00Z",
-      "localGameTime": "2026-10-30T04:33:00-04:00",
+      "gameDate": "2026-10-31T00:00:00Z",
+      "localGameTime": "2026-10-30T20:00:00-04:00",
       "status": "Scheduled",
       "abstractGameState": "Preview",
       "codedGameState": "S",
@@ -4878,8 +4878,8 @@
     {
       "gamePk": 849800,
       "date": "2026-10-31",
-      "gameDate": "2026-10-31T08:33:00Z",
-      "localGameTime": "2026-10-31T04:33:00-04:00",
+      "gameDate": "2026-11-01T00:00:00Z",
+      "localGameTime": "2026-10-31T20:00:00-04:00",
       "status": "Scheduled",
       "abstractGameState": "Preview",
       "codedGameState": "S",
