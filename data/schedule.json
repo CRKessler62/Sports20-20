@@ -1,7 +1,7 @@
 {
   "league": "MLB",
   "timezone": "America/New_York",
-  "lastUpdated": "2026-10-16T17:12:31.262408+00:00",
+  "lastUpdated": "2026-10-16T20:38:54.035028+00:00",
   "games": [
     {
       "gamePk": 824382,
@@ -4640,9 +4640,9 @@
       "date": "2026-10-16",
       "gameDate": "2026-10-17T00:00:00Z",
       "localGameTime": "2026-10-16T20:00:00-04:00",
-      "status": "Scheduled",
+      "status": "Pre-Game",
       "abstractGameState": "Preview",
-      "codedGameState": "S",
+      "codedGameState": "P",
       "awayTeam": {
         "id": 139,
         "name": "Tampa Bay Rays",
