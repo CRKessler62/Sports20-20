@@ -1,7 +1,7 @@
 {
   "league": "MLB",
   "timezone": "America/New_York",
-  "lastUpdated": "2026-10-16T12:09:14.673894+00:00",
+  "lastUpdated": "2026-10-16T17:12:31.262408+00:00",
   "games": [
     {
       "gamePk": 824382,
@@ -4657,7 +4657,7 @@
       "homeScore": null,
       "venue": "Progressive Field",
       "awayPitcher": "Nick Martinez",
-      "homePitcher": null
+      "homePitcher": "Shawn Armstrong"
     },
     {
       "gamePk": 849816,
@@ -4741,8 +4741,8 @@
       "codedGameState": "S",
       "awayTeam": {
         "id": 21,
-        "name": "AL Champion",
-        "abbreviation": "AL"
+        "name": "TB/CLE",
+        "abbreviation": "TB/CLE"
       },
       "homeTeam": {
         "id": 158,
@@ -4765,8 +4765,8 @@
       "codedGameState": "S",
       "awayTeam": {
         "id": 21,
-        "name": "AL Champion",
-        "abbreviation": "AL"
+        "name": "TB/CLE",
+        "abbreviation": "TB/CLE"
       },
       "homeTeam": {
         "id": 158,
@@ -4794,8 +4794,8 @@
       },
       "homeTeam": {
         "id": 21,
-        "name": "AL Champion",
-        "abbreviation": "AL"
+        "name": "TB/CLE",
+        "abbreviation": "TB/CLE"
       },
       "awayScore": null,
       "homeScore": null,
@@ -4818,8 +4818,8 @@
       },
       "homeTeam": {
         "id": 21,
-        "name": "AL Champion",
-        "abbreviation": "AL"
+        "name": "TB/CLE",
+        "abbreviation": "TB/CLE"
       },
       "awayScore": null,
       "homeScore": null,
@@ -4842,8 +4842,8 @@
       },
       "homeTeam": {
         "id": 21,
-        "name": "AL Champion",
-        "abbreviation": "AL"
+        "name": "TB/CLE",
+        "abbreviation": "TB/CLE"
       },
       "awayScore": null,
       "homeScore": null,
@@ -4861,8 +4861,8 @@
       "codedGameState": "S",
       "awayTeam": {
         "id": 21,
-        "name": "AL Champion",
-        "abbreviation": "AL"
+        "name": "TB/CLE",
+        "abbreviation": "TB/CLE"
       },
       "homeTeam": {
         "id": 158,
@@ -4885,8 +4885,8 @@
       "codedGameState": "S",
       "awayTeam": {
         "id": 21,
-        "name": "AL Champion",
-        "abbreviation": "AL"
+        "name": "TB/CLE",
+        "abbreviation": "TB/CLE"
       },
       "homeTeam": {
         "id": 158,
