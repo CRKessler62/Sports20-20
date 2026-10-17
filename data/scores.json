@@ -1,6 +1,6 @@
 {
   "league": "MLB",
-  "lastUpdated": "2026-10-17T08:51:12.843042+00:00",
+  "lastUpdated": "2026-10-17T12:39:03.368745+00:00",
   "games": [
     {
       "gamePk": 849816,
@@ -9,7 +9,7 @@
       "awayScore": 0,
       "homeScore": 0,
       "status": "Scheduled",
-      "gameDate": "2026-10-18T00:00:00Z",
+      "gameDate": "2026-10-18T00:08:00Z",
       "inning": null,
       "inningOrdinal": null,
       "inningState": null,
