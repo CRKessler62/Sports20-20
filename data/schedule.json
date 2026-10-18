@@ -1,7 +1,7 @@
 {
   "league": "MLB",
   "timezone": "America/New_York",
-  "lastUpdated": "2026-10-18T00:41:44.360143+00:00",
+  "lastUpdated": "2026-10-18T05:30:37.547746+00:00",
   "games": [
     {
       "gamePk": 824463,
@@ -4088,9 +4088,9 @@
       "date": "2026-10-17",
       "gameDate": "2026-10-18T00:08:00Z",
       "localGameTime": "2026-10-17T20:08:00-04:00",
-      "status": "In Progress",
-      "abstractGameState": "Live",
-      "codedGameState": "I",
+      "status": "Final",
+      "abstractGameState": "Final",
+      "codedGameState": "F",
       "awayTeam": {
         "id": 139,
         "name": "Tampa Bay Rays",
@@ -4101,8 +4101,8 @@
         "name": "Cleveland Guardians",
         "abbreviation": "CLE"
       },
-      "awayScore": 0,
-      "homeScore": 1,
+      "awayScore": 7,
+      "homeScore": 3,
       "venue": "Progressive Field",
       "awayPitcher": "Nick Martinez",
       "homePitcher": "Shawn Armstrong"
@@ -4128,8 +4128,8 @@
       "awayScore": null,
       "homeScore": null,
       "venue": "Progressive Field",
-      "awayPitcher": null,
-      "homePitcher": null
+      "awayPitcher": "Drew Rasmussen",
+      "homePitcher": "Parker Messick"
     },
     {
       "gamePk": 849815,
