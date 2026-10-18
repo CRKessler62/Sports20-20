@@ -1,19 +1,19 @@
 {
   "league": "MLB",
-  "lastUpdated": "2026-10-18T19:10:44.232938+00:00",
+  "lastUpdated": "2026-10-18T21:31:34.837181+00:00",
   "games": [
     {
       "gamePk": 849817,
       "awayTeam": "Tampa Bay Rays",
       "homeTeam": "Cleveland Guardians",
-      "awayScore": 0,
+      "awayScore": 1,
       "homeScore": 0,
-      "status": "Pre-Game",
+      "status": "In Progress",
       "gameDate": "2026-10-18T21:08:00Z",
       "inning": 1,
       "inningOrdinal": "1st",
-      "inningState": "Top",
-      "outs": 0,
+      "inningState": "End",
+      "outs": 3,
       "battingTeam": "Tampa Bay Rays",
       "runners": {
         "first": false,
@@ -23,7 +23,7 @@
       "inningScores": [
         {
           "inning": 1,
-          "awayRuns": 0,
+          "awayRuns": 1,
           "homeRuns": 0
         }
       ]
