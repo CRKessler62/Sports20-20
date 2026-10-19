@@ -1,6 +1,6 @@
 {
   "league": "MLB",
-  "lastUpdated": "2026-10-19T20:11:03.223164+00:00",
+  "lastUpdated": "2026-10-19T23:44:57.702493+00:00",
   "games": [
     {
       "gamePk": 849815,
@@ -10,11 +10,11 @@
       "homeScore": 0,
       "status": "Pre-Game",
       "gameDate": "2026-10-20T00:08:00Z",
-      "inning": null,
-      "inningOrdinal": null,
-      "inningState": null,
-      "outs": null,
-      "battingTeam": null,
+      "inning": 1,
+      "inningOrdinal": "1st",
+      "inningState": "Top",
+      "outs": 0,
+      "battingTeam": "Cleveland Guardians",
       "runners": {
         "first": false,
         "second": false,
