@@ -1,7 +1,7 @@
 {
   "league": "MLB",
   "timezone": "America/New_York",
-  "lastUpdated": "2026-10-19T12:30:49.194364+00:00",
+  "lastUpdated": "2026-10-19T19:07:12.806343+00:00",
   "games": [
     {
       "gamePk": 824545,
@@ -3792,7 +3792,7 @@
       "awayScore": null,
       "homeScore": null,
       "venue": "Tropicana Field",
-      "awayPitcher": null,
+      "awayPitcher": "Shawn Armstrong",
       "homePitcher": "Freddy Peralta"
     },
     {
