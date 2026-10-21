@@ -1,7 +1,7 @@
 {
   "league": "MLB",
   "timezone": "America/New_York",
-  "lastUpdated": "2026-10-21T13:33:50.179105+00:00",
+  "lastUpdated": "2026-10-21T18:28:23.183106+00:00",
   "games": [
     {
       "gamePk": 824787,
@@ -3097,7 +3097,7 @@
       "homeScore": null,
       "venue": "American Family Field",
       "awayPitcher": null,
-      "homePitcher": null
+      "homePitcher": "Jacob Misiorowski"
     },
     {
       "gamePk": 849802,
