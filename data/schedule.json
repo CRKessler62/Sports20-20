@@ -1,7 +1,7 @@
 {
   "league": "MLB",
   "timezone": "America/New_York",
-  "lastUpdated": "2026-10-22T18:23:49.403781+00:00",
+  "lastUpdated": "2026-10-22T22:11:26.360781+00:00",
   "games": [
     {
       "gamePk": 823543,
@@ -3024,7 +3024,7 @@
       "awayScore": null,
       "homeScore": null,
       "venue": "American Family Field",
-      "awayPitcher": null,
+      "awayPitcher": "Nick Martinez",
       "homePitcher": "Jacob Misiorowski"
     },
     {
@@ -3048,7 +3048,7 @@
       "awayScore": null,
       "homeScore": null,
       "venue": "American Family Field",
-      "awayPitcher": null,
+      "awayPitcher": "Drew Rasmussen",
       "homePitcher": null
     },
     {
