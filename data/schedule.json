@@ -1,80 +1,8 @@
 {
   "league": "MLB",
   "timezone": "America/New_York",
-  "lastUpdated": "2026-10-21T22:11:32.796748+00:00",
+  "lastUpdated": "2026-10-22T01:20:12.269308+00:00",
   "games": [
-    {
-      "gamePk": 824787,
-      "date": "2026-09-21",
-      "gameDate": "2026-09-21T22:35:00Z",
-      "localGameTime": "2026-09-21T18:35:00-04:00",
-      "status": "Final",
-      "abstractGameState": "Final",
-      "codedGameState": "F",
-      "awayTeam": {
-        "id": 141,
-        "name": "Toronto Blue Jays",
-        "abbreviation": "TOR"
-      },
-      "homeTeam": {
-        "id": 110,
-        "name": "Baltimore Orioles",
-        "abbreviation": "BAL"
-      },
-      "awayScore": 3,
-      "homeScore": 4,
-      "venue": "Oriole Park at Camden Yards",
-      "awayPitcher": "Trey Yesavage",
-      "homePitcher": "Shane Baz"
-    },
-    {
-      "gamePk": 824221,
-      "date": "2026-09-21",
-      "gameDate": "2026-09-21T22:40:00Z",
-      "localGameTime": "2026-09-21T18:40:00-04:00",
-      "status": "Final",
-      "abstractGameState": "Final",
-      "codedGameState": "F",
-      "awayTeam": {
-        "id": 120,
-        "name": "Washington Nationals",
-        "abbreviation": "WSH"
-      },
-      "homeTeam": {
-        "id": 116,
-        "name": "Detroit Tigers",
-        "abbreviation": "DET"
-      },
-      "awayScore": 2,
-      "homeScore": 9,
-      "venue": "Comerica Park",
-      "awayPitcher": "DJ Herz",
-      "homePitcher": "River Ryan"
-    },
-    {
-      "gamePk": 823169,
-      "date": "2026-09-21",
-      "gameDate": "2026-09-22T01:45:00Z",
-      "localGameTime": "2026-09-21T21:45:00-04:00",
-      "status": "Final",
-      "abstractGameState": "Final",
-      "codedGameState": "F",
-      "awayTeam": {
-        "id": 142,
-        "name": "Minnesota Twins",
-        "abbreviation": "MIN"
-      },
-      "homeTeam": {
-        "id": 137,
-        "name": "San Francisco Giants",
-        "abbreviation": "SF"
-      },
-      "awayScore": 2,
-      "homeScore": 5,
-      "venue": "Oracle Park",
-      "awayPitcher": "Zebby Matthews",
-      "homePitcher": "Blade Tidwell"
-    },
     {
       "gamePk": 823543,
       "date": "2026-09-22",
