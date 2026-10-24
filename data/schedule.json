@@ -1,7 +1,7 @@
 {
   "league": "MLB",
   "timezone": "America/New_York",
-  "lastUpdated": "2026-10-24T14:19:35.287028+00:00",
+  "lastUpdated": "2026-10-24T17:56:42.811996+00:00",
   "games": [
     {
       "gamePk": 823326,
@@ -2304,8 +2304,8 @@
       "awayScore": null,
       "homeScore": null,
       "venue": "Tropicana Field",
-      "awayPitcher": null,
-      "homePitcher": null
+      "awayPitcher": "Robert Gasser",
+      "homePitcher": "Freddy Peralta"
     },
     {
       "gamePk": 849803,
