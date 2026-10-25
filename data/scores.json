@@ -1,32 +1,5 @@
 {
   "league": "MLB",
-  "lastUpdated": "2026-10-24T21:57:24.793399+00:00",
-  "games": [
-    {
-      "gamePk": 849802,
-      "awayTeam": "Tampa Bay Rays",
-      "homeTeam": "Milwaukee Brewers",
-      "awayScore": 0,
-      "homeScore": 0,
-      "status": "Pre-Game",
-      "gameDate": "2026-10-25T00:00:00Z",
-      "inning": 1,
-      "inningOrdinal": "1st",
-      "inningState": "Top",
-      "outs": 0,
-      "battingTeam": "Tampa Bay Rays",
-      "runners": {
-        "first": false,
-        "second": false,
-        "third": false
-      },
-      "inningScores": [
-        {
-          "inning": 1,
-          "awayRuns": 0,
-          "homeRuns": 0
-        }
-      ]
-    }
-  ]
+  "lastUpdated": "2026-10-25T00:12:54.609605+00:00",
+  "games": []
 }
