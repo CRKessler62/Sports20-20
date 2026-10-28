@@ -1,7 +1,7 @@
 {
   "league": "MLB",
   "timezone": "America/New_York",
-  "lastUpdated": "2026-10-28T04:41:00.432692+00:00",
+  "lastUpdated": "2026-10-28T11:05:05.275190+00:00",
   "games": [
     {
       "gamePk": 849845,
@@ -984,7 +984,7 @@
       "awayScore": null,
       "homeScore": null,
       "venue": "Tropicana Field",
-      "awayPitcher": null,
+      "awayPitcher": "Jacob Misiorowski",
       "homePitcher": null
     },
     {
