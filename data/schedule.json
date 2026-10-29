@@ -1,7 +1,7 @@
 {
   "league": "MLB",
   "timezone": "America/New_York",
-  "lastUpdated": "2026-10-29T02:17:53.587894+00:00",
+  "lastUpdated": "2026-10-29T09:34:12.183770+00:00",
   "games": [
     {
       "gamePk": 849845,
@@ -968,9 +968,9 @@
       "date": "2026-10-28",
       "gameDate": "2026-10-29T00:00:00Z",
       "localGameTime": "2026-10-28T20:00:00-04:00",
-      "status": "In Progress",
-      "abstractGameState": "Live",
-      "codedGameState": "I",
+      "status": "Final",
+      "abstractGameState": "Final",
+      "codedGameState": "F",
       "awayTeam": {
         "id": 158,
         "name": "Milwaukee Brewers",
@@ -982,58 +982,10 @@
         "abbreviation": "TB"
       },
       "awayScore": 4,
-      "homeScore": 0,
+      "homeScore": 1,
       "venue": "Tropicana Field",
       "awayPitcher": "Jacob Misiorowski",
       "homePitcher": "Drew Rasmussen"
-    },
-    {
-      "gamePk": 849801,
-      "date": "2026-10-30",
-      "gameDate": "2026-10-31T00:00:00Z",
-      "localGameTime": "2026-10-30T20:00:00-04:00",
-      "status": "Scheduled",
-      "abstractGameState": "Preview",
-      "codedGameState": "S",
-      "awayTeam": {
-        "id": 139,
-        "name": "Tampa Bay Rays",
-        "abbreviation": "TB"
-      },
-      "homeTeam": {
-        "id": 158,
-        "name": "Milwaukee Brewers",
-        "abbreviation": "MIL"
-      },
-      "awayScore": null,
-      "homeScore": null,
-      "venue": "American Family Field",
-      "awayPitcher": null,
-      "homePitcher": null
-    },
-    {
-      "gamePk": 849800,
-      "date": "2026-10-31",
-      "gameDate": "2026-11-01T00:00:00Z",
-      "localGameTime": "2026-10-31T20:00:00-04:00",
-      "status": "Scheduled",
-      "abstractGameState": "Preview",
-      "codedGameState": "S",
-      "awayTeam": {
-        "id": 139,
-        "name": "Tampa Bay Rays",
-        "abbreviation": "TB"
-      },
-      "homeTeam": {
-        "id": 158,
-        "name": "Milwaukee Brewers",
-        "abbreviation": "MIL"
-      },
-      "awayScore": null,
-      "homeScore": null,
-      "venue": "American Family Field",
-      "awayPitcher": null,
-      "homePitcher": null
     }
   ]
 }
