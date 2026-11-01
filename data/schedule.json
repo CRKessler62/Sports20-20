@@ -1,32 +1,8 @@
 {
   "league": "MLB",
   "timezone": "America/New_York",
-  "lastUpdated": "2026-10-31T22:18:08.037081+00:00",
+  "lastUpdated": "2026-11-01T01:57:35.543195+00:00",
   "games": [
-    {
-      "gamePk": 849844,
-      "date": "2026-10-01",
-      "gameDate": "2026-10-02T00:00:00Z",
-      "localGameTime": "2026-10-01T20:00:00-04:00",
-      "status": "Final",
-      "abstractGameState": "Final",
-      "codedGameState": "F",
-      "awayTeam": {
-        "id": 143,
-        "name": "Philadelphia Phillies",
-        "abbreviation": "PHI"
-      },
-      "homeTeam": {
-        "id": 144,
-        "name": "Atlanta Braves",
-        "abbreviation": "ATL"
-      },
-      "awayScore": 2,
-      "homeScore": 6,
-      "venue": "Truist Park",
-      "awayPitcher": "Aaron Nola",
-      "homePitcher": "Ray Kerr"
-    },
     {
       "gamePk": 849829,
       "date": "2026-10-03",
