@@ -1,56 +1,8 @@
 {
   "league": "MLB",
   "timezone": "America/New_York",
-  "lastUpdated": "2026-11-03T21:39:02.406611+00:00",
+  "lastUpdated": "2026-11-04T01:58:35.908984+00:00",
   "games": [
-    {
-      "gamePk": 849825,
-      "date": "2026-10-04",
-      "gameDate": "2026-10-04T20:00:00Z",
-      "localGameTime": "2026-10-04T16:00:00-04:00",
-      "status": "Final",
-      "abstractGameState": "Final",
-      "codedGameState": "F",
-      "awayTeam": {
-        "id": 135,
-        "name": "San Diego Padres",
-        "abbreviation": "SD"
-      },
-      "homeTeam": {
-        "id": 158,
-        "name": "Milwaukee Brewers",
-        "abbreviation": "MIL"
-      },
-      "awayScore": 3,
-      "homeScore": 4,
-      "venue": "American Family Field",
-      "awayPitcher": "Michael King",
-      "homePitcher": "Logan Henderson"
-    },
-    {
-      "gamePk": 849823,
-      "date": "2026-10-04",
-      "gameDate": "2026-10-05T00:00:00Z",
-      "localGameTime": "2026-10-04T20:00:00-04:00",
-      "status": "Final",
-      "abstractGameState": "Final",
-      "codedGameState": "F",
-      "awayTeam": {
-        "id": 144,
-        "name": "Atlanta Braves",
-        "abbreviation": "ATL"
-      },
-      "homeTeam": {
-        "id": 119,
-        "name": "Los Angeles Dodgers",
-        "abbreviation": "LAD"
-      },
-      "awayScore": 3,
-      "homeScore": 2,
-      "venue": "UNIQLO Field at Dodger Stadium",
-      "awayPitcher": "Ray Kerr",
-      "homePitcher": "Blake Snell"
-    },
     {
       "gamePk": 849834,
       "date": "2026-10-05",
