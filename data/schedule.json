@@ -1,56 +1,8 @@
 {
   "league": "MLB",
   "timezone": "America/New_York",
-  "lastUpdated": "2026-11-04T23:22:10.291257+00:00",
+  "lastUpdated": "2026-11-05T05:43:11.363530+00:00",
   "games": [
-    {
-      "gamePk": 849834,
-      "date": "2026-10-05",
-      "gameDate": "2026-10-05T21:00:00Z",
-      "localGameTime": "2026-10-05T17:00:00-04:00",
-      "status": "Final",
-      "abstractGameState": "Final",
-      "codedGameState": "F",
-      "awayTeam": {
-        "id": 145,
-        "name": "Chicago White Sox",
-        "abbreviation": "CWS"
-      },
-      "homeTeam": {
-        "id": 114,
-        "name": "Cleveland Guardians",
-        "abbreviation": "CLE"
-      },
-      "awayScore": 4,
-      "homeScore": 3,
-      "venue": "Progressive Field",
-      "awayPitcher": "Anthony Kay",
-      "homePitcher": "Gavin Williams"
-    },
-    {
-      "gamePk": 849839,
-      "date": "2026-10-05",
-      "gameDate": "2026-10-06T00:00:00Z",
-      "localGameTime": "2026-10-05T20:00:00-04:00",
-      "status": "Final",
-      "abstractGameState": "Final",
-      "codedGameState": "F",
-      "awayTeam": {
-        "id": 147,
-        "name": "New York Yankees",
-        "abbreviation": "NYY"
-      },
-      "homeTeam": {
-        "id": 139,
-        "name": "Tampa Bay Rays",
-        "abbreviation": "TB"
-      },
-      "awayScore": 2,
-      "homeScore": 5,
-      "venue": "Tropicana Field",
-      "awayPitcher": "Cam Schlittler",
-      "homePitcher": "Freddy Peralta"
-    },
     {
       "gamePk": 849819,
       "date": "2026-10-06",
