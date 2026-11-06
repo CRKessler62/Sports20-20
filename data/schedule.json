@@ -1,56 +1,8 @@
 {
   "league": "MLB",
   "timezone": "America/New_York",
-  "lastUpdated": "2026-11-05T21:21:39.244537+00:00",
+  "lastUpdated": "2026-11-06T02:02:07.745539+00:00",
   "games": [
-    {
-      "gamePk": 849819,
-      "date": "2026-10-06",
-      "gameDate": "2026-10-06T22:00:00Z",
-      "localGameTime": "2026-10-06T18:00:00-04:00",
-      "status": "Final",
-      "abstractGameState": "Final",
-      "codedGameState": "F",
-      "awayTeam": {
-        "id": 119,
-        "name": "Los Angeles Dodgers",
-        "abbreviation": "LAD"
-      },
-      "homeTeam": {
-        "id": 144,
-        "name": "Atlanta Braves",
-        "abbreviation": "ATL"
-      },
-      "awayScore": 3,
-      "homeScore": 1,
-      "venue": "Truist Park",
-      "awayPitcher": "Yoshinobu Yamamoto",
-      "homePitcher": "Chris Sale"
-    },
-    {
-      "gamePk": 849826,
-      "date": "2026-10-06",
-      "gameDate": "2026-10-07T01:30:00Z",
-      "localGameTime": "2026-10-06T21:30:00-04:00",
-      "status": "Final",
-      "abstractGameState": "Final",
-      "codedGameState": "F",
-      "awayTeam": {
-        "id": 158,
-        "name": "Milwaukee Brewers",
-        "abbreviation": "MIL"
-      },
-      "homeTeam": {
-        "id": 135,
-        "name": "San Diego Padres",
-        "abbreviation": "SD"
-      },
-      "awayScore": 3,
-      "homeScore": 4,
-      "venue": "Petco Park",
-      "awayPitcher": "Dustin May",
-      "homePitcher": "Nick Pivetta"
-    },
     {
       "gamePk": 849833,
       "date": "2026-10-07",
