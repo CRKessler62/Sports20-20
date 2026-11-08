@@ -1,32 +1,8 @@
 {
   "league": "MLB",
   "timezone": "America/New_York",
-  "lastUpdated": "2026-11-07T20:42:15.566618+00:00",
+  "lastUpdated": "2026-11-08T00:15:19.166254+00:00",
   "games": [
-    {
-      "gamePk": 849832,
-      "date": "2026-10-08",
-      "gameDate": "2026-10-09T00:00:00Z",
-      "localGameTime": "2026-10-08T20:00:00-04:00",
-      "status": "Final",
-      "abstractGameState": "Final",
-      "codedGameState": "F",
-      "awayTeam": {
-        "id": 114,
-        "name": "Cleveland Guardians",
-        "abbreviation": "CLE"
-      },
-      "homeTeam": {
-        "id": 145,
-        "name": "Chicago White Sox",
-        "abbreviation": "CWS"
-      },
-      "awayScore": 9,
-      "homeScore": 5,
-      "venue": "Rate Field",
-      "awayPitcher": "Parker Messick",
-      "homePitcher": "Hagen Smith"
-    },
     {
       "gamePk": 849831,
       "date": "2026-10-10",
