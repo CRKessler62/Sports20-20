@@ -1,32 +1,8 @@
 {
   "league": "MLB",
   "timezone": "America/New_York",
-  "lastUpdated": "2026-11-09T23:59:28.671177+00:00",
+  "lastUpdated": "2026-11-10T07:04:57.300207+00:00",
   "games": [
-    {
-      "gamePk": 849831,
-      "date": "2026-10-10",
-      "gameDate": "2026-10-11T00:00:00Z",
-      "localGameTime": "2026-10-10T20:00:00-04:00",
-      "status": "Final",
-      "abstractGameState": "Final",
-      "codedGameState": "F",
-      "awayTeam": {
-        "id": 145,
-        "name": "Chicago White Sox",
-        "abbreviation": "CWS"
-      },
-      "homeTeam": {
-        "id": 114,
-        "name": "Cleveland Guardians",
-        "abbreviation": "CLE"
-      },
-      "awayScore": 0,
-      "homeScore": 2,
-      "venue": "Progressive Field",
-      "awayPitcher": "Sean Burke",
-      "homePitcher": "Gavin Williams"
-    },
     {
       "gamePk": 849809,
       "date": "2026-10-11",
