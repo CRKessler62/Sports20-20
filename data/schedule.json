@@ -1,32 +1,8 @@
 {
   "league": "MLB",
   "timezone": "America/New_York",
-  "lastUpdated": "2026-11-10T22:10:48.167449+00:00",
+  "lastUpdated": "2026-11-11T02:35:22.144230+00:00",
   "games": [
-    {
-      "gamePk": 849809,
-      "date": "2026-10-11",
-      "gameDate": "2026-10-12T00:00:00Z",
-      "localGameTime": "2026-10-11T20:00:00-04:00",
-      "status": "Final",
-      "abstractGameState": "Final",
-      "codedGameState": "F",
-      "awayTeam": {
-        "id": 119,
-        "name": "Los Angeles Dodgers",
-        "abbreviation": "LAD"
-      },
-      "homeTeam": {
-        "id": 158,
-        "name": "Milwaukee Brewers",
-        "abbreviation": "MIL"
-      },
-      "awayScore": 1,
-      "homeScore": 2,
-      "venue": "American Family Field",
-      "awayPitcher": "Tarik Skubal",
-      "homePitcher": "Jacob Misiorowski"
-    },
     {
       "gamePk": 849812,
       "date": "2026-10-12",
