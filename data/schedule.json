@@ -1,56 +1,8 @@
 {
   "league": "MLB",
   "timezone": "America/New_York",
-  "lastUpdated": "2026-11-11T18:26:31.461641+00:00",
+  "lastUpdated": "2026-11-12T01:21:07.915745+00:00",
   "games": [
-    {
-      "gamePk": 849812,
-      "date": "2026-10-12",
-      "gameDate": "2026-10-12T21:00:00Z",
-      "localGameTime": "2026-10-12T17:00:00-04:00",
-      "status": "Final",
-      "abstractGameState": "Final",
-      "codedGameState": "F",
-      "awayTeam": {
-        "id": 119,
-        "name": "Los Angeles Dodgers",
-        "abbreviation": "LAD"
-      },
-      "homeTeam": {
-        "id": 158,
-        "name": "Milwaukee Brewers",
-        "abbreviation": "MIL"
-      },
-      "awayScore": 4,
-      "homeScore": 7,
-      "venue": "American Family Field",
-      "awayPitcher": "Yoshinobu Yamamoto",
-      "homePitcher": "Logan Henderson"
-    },
-    {
-      "gamePk": 849820,
-      "date": "2026-10-12",
-      "gameDate": "2026-10-13T00:00:00Z",
-      "localGameTime": "2026-10-12T20:00:00-04:00",
-      "status": "Final",
-      "abstractGameState": "Final",
-      "codedGameState": "F",
-      "awayTeam": {
-        "id": 114,
-        "name": "Cleveland Guardians",
-        "abbreviation": "CLE"
-      },
-      "homeTeam": {
-        "id": 139,
-        "name": "Tampa Bay Rays",
-        "abbreviation": "TB"
-      },
-      "awayScore": 7,
-      "homeScore": 3,
-      "venue": "Tropicana Field",
-      "awayPitcher": "Foster Griffin",
-      "homePitcher": "Drew Rasmussen"
-    },
     {
       "gamePk": 849813,
       "date": "2026-10-13",
