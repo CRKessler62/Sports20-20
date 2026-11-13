@@ -1,32 +1,8 @@
 {
   "league": "MLB",
   "timezone": "America/New_York",
-  "lastUpdated": "2026-11-12T23:28:41.785643+00:00",
+  "lastUpdated": "2026-11-13T05:40:11.309690+00:00",
   "games": [
-    {
-      "gamePk": 849813,
-      "date": "2026-10-13",
-      "gameDate": "2026-10-14T00:00:00Z",
-      "localGameTime": "2026-10-13T20:00:00-04:00",
-      "status": "Final",
-      "abstractGameState": "Final",
-      "codedGameState": "F",
-      "awayTeam": {
-        "id": 114,
-        "name": "Cleveland Guardians",
-        "abbreviation": "CLE"
-      },
-      "homeTeam": {
-        "id": 139,
-        "name": "Tampa Bay Rays",
-        "abbreviation": "TB"
-      },
-      "awayScore": 1,
-      "homeScore": 3,
-      "venue": "Tropicana Field",
-      "awayPitcher": "Parker Messick",
-      "homePitcher": "Freddy Peralta"
-    },
     {
       "gamePk": 849811,
       "date": "2026-10-14",
