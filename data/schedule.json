@@ -1,32 +1,8 @@
 {
   "league": "MLB",
   "timezone": "America/New_York",
-  "lastUpdated": "2026-11-13T21:15:00.922297+00:00",
+  "lastUpdated": "2026-11-14T02:01:14.387330+00:00",
   "games": [
-    {
-      "gamePk": 849811,
-      "date": "2026-10-14",
-      "gameDate": "2026-10-15T00:00:00Z",
-      "localGameTime": "2026-10-14T20:00:00-04:00",
-      "status": "Final",
-      "abstractGameState": "Final",
-      "codedGameState": "F",
-      "awayTeam": {
-        "id": 158,
-        "name": "Milwaukee Brewers",
-        "abbreviation": "MIL"
-      },
-      "homeTeam": {
-        "id": 119,
-        "name": "Los Angeles Dodgers",
-        "abbreviation": "LAD"
-      },
-      "awayScore": 6,
-      "homeScore": 2,
-      "venue": "UNIQLO Field at Dodger Stadium",
-      "awayPitcher": "Robert Gasser",
-      "homePitcher": "Blake Snell"
-    },
     {
       "gamePk": 849818,
       "date": "2026-10-15",
