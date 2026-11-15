@@ -1,56 +1,8 @@
 {
   "league": "MLB",
   "timezone": "America/New_York",
-  "lastUpdated": "2026-11-14T21:09:18.328405+00:00",
+  "lastUpdated": "2026-11-15T01:33:11.104021+00:00",
   "games": [
-    {
-      "gamePk": 849818,
-      "date": "2026-10-15",
-      "gameDate": "2026-10-15T17:00:00Z",
-      "localGameTime": "2026-10-15T13:00:00-04:00",
-      "status": "Final",
-      "abstractGameState": "Final",
-      "codedGameState": "F",
-      "awayTeam": {
-        "id": 139,
-        "name": "Tampa Bay Rays",
-        "abbreviation": "TB"
-      },
-      "homeTeam": {
-        "id": 114,
-        "name": "Cleveland Guardians",
-        "abbreviation": "CLE"
-      },
-      "awayScore": 2,
-      "homeScore": 3,
-      "venue": "Progressive Field",
-      "awayPitcher": "Griffin Jax",
-      "homePitcher": "Gavin Williams"
-    },
-    {
-      "gamePk": 849810,
-      "date": "2026-10-15",
-      "gameDate": "2026-10-16T00:00:00Z",
-      "localGameTime": "2026-10-15T20:00:00-04:00",
-      "status": "Final",
-      "abstractGameState": "Final",
-      "codedGameState": "F",
-      "awayTeam": {
-        "id": 158,
-        "name": "Milwaukee Brewers",
-        "abbreviation": "MIL"
-      },
-      "homeTeam": {
-        "id": 119,
-        "name": "Los Angeles Dodgers",
-        "abbreviation": "LAD"
-      },
-      "awayScore": 6,
-      "homeScore": 4,
-      "venue": "UNIQLO Field at Dodger Stadium",
-      "awayPitcher": "Shane Drohan",
-      "homePitcher": "Tyler Glasnow"
-    },
     {
       "gamePk": 849817,
       "date": "2026-10-16",
