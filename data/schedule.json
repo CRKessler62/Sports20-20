@@ -1,32 +1,8 @@
 {
   "league": "MLB",
   "timezone": "America/New_York",
-  "lastUpdated": "2026-11-23T20:57:18.778089+00:00",
+  "lastUpdated": "2026-11-24T05:13:37.167716+00:00",
   "games": [
-    {
-      "gamePk": 849802,
-      "date": "2026-10-24",
-      "gameDate": "2026-10-25T00:00:00Z",
-      "localGameTime": "2026-10-24T20:00:00-04:00",
-      "status": "Final",
-      "abstractGameState": "Final",
-      "codedGameState": "F",
-      "awayTeam": {
-        "id": 139,
-        "name": "Tampa Bay Rays",
-        "abbreviation": "TB"
-      },
-      "homeTeam": {
-        "id": 158,
-        "name": "Milwaukee Brewers",
-        "abbreviation": "MIL"
-      },
-      "awayScore": 4,
-      "homeScore": 5,
-      "venue": "American Family Field",
-      "awayPitcher": "Drew Rasmussen",
-      "homePitcher": "Logan Henderson"
-    },
     {
       "gamePk": 849804,
       "date": "2026-10-26",
