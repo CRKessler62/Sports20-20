@@ -1,32 +1,8 @@
 {
   "league": "MLB",
   "timezone": "America/New_York",
-  "lastUpdated": "2026-11-25T21:17:57.063666+00:00",
+  "lastUpdated": "2026-11-26T03:59:46.575532+00:00",
   "games": [
-    {
-      "gamePk": 849804,
-      "date": "2026-10-26",
-      "gameDate": "2026-10-27T00:00:00Z",
-      "localGameTime": "2026-10-26T20:00:00-04:00",
-      "status": "Final",
-      "abstractGameState": "Final",
-      "codedGameState": "F",
-      "awayTeam": {
-        "id": 158,
-        "name": "Milwaukee Brewers",
-        "abbreviation": "MIL"
-      },
-      "homeTeam": {
-        "id": 139,
-        "name": "Tampa Bay Rays",
-        "abbreviation": "TB"
-      },
-      "awayScore": 10,
-      "homeScore": 1,
-      "venue": "Tropicana Field",
-      "awayPitcher": "Robert Gasser",
-      "homePitcher": "Freddy Peralta"
-    },
     {
       "gamePk": 849803,
       "date": "2026-10-27",
